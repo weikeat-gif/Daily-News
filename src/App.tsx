@@ -42,6 +42,13 @@ const categoryLabels: Record<Category | 'all', string> = {
   world: 'World',
 }
 
+const categoryTone: Record<Category | 'all', string> = {
+  all: 'all',
+  malaysia: 'malaysia',
+  markets_investment: 'markets',
+  world: 'world',
+}
+
 const confidenceLabels: Record<Confidence | 'all', string> = {
   all: 'All confidence',
   verified: 'Verified',
@@ -190,9 +197,7 @@ function App() {
     <main className="app-shell">
       <section className="briefing-header" aria-labelledby="page-title">
         <div className="brand-row">
-          <span className="brand-mark" aria-hidden="true">
-            DN
-          </span>
+          <img className="brand-mark" src="/favicon.svg" alt="" aria-hidden="true" />
           <span className="brand-name">Daily News</span>
         </div>
 
@@ -243,7 +248,13 @@ function App() {
         <div className="filter-group" aria-label="Category filter">
           {categoryOrder.map((category) => (
             <button
-              className={activeCategory === category ? 'filter-button is-active' : 'filter-button'}
+              className={[
+                'filter-button',
+                `category-${categoryTone[category]}`,
+                activeCategory === category ? 'is-active' : '',
+              ]
+                .filter(Boolean)
+                .join(' ')}
               key={category}
               onClick={() => setActiveCategory(category)}
               type="button"
@@ -317,7 +328,9 @@ function StoryCard({ story, timezone }: { story: Story; timezone: string }) {
         <span className={`confidence-pill ${confidenceTone[story.confidence]}`}>
           {confidenceLabels[story.confidence]}
         </span>
-        <span>{categoryLabels[story.category]}</span>
+        <span className={`category-pill category-${categoryTone[story.category]}`}>
+          {categoryLabels[story.category]}
+        </span>
         <time dateTime={story.published_at}>{formatDateTime(story.published_at, timezone)}</time>
       </div>
 

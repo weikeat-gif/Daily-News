@@ -96,14 +96,10 @@ a {
 }
 
 .brand-mark {
-  display: inline-grid;
-  place-items: center;
   width: 42px;
-  aspect-ratio: 1;
-  border-radius: 8px;
-  background: var(--green);
-  color: #fff8ea;
-  font-size: 0.76rem;
+  height: 42px;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(23, 59, 51, 0.18);
 }
 
 .brand-name {
@@ -271,6 +267,18 @@ h1 {
   box-shadow: 0 6px 16px rgba(23, 59, 51, 0.18);
 }
 
+.filter-button.category-malaysia.is-active {
+  background: #1f6f51;
+}
+
+.filter-button.category-markets.is-active {
+  background: #a85f14;
+}
+
+.filter-button.category-world.is-active {
+  background: #315a97;
+}
+
 .summary-strip {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -339,7 +347,8 @@ h1 {
 }
 
 .confidence-pill,
-.topic-row span {
+.topic-row span,
+.category-pill {
   display: inline-flex;
   min-height: 28px;
   align-items: center;
@@ -362,6 +371,26 @@ h1 {
 
 .confidence-pill.watch {
   background: #f5dfbd;
+}
+
+.category-pill {
+  padding: 0 10px;
+  font-weight: 850;
+}
+
+.category-pill.category-malaysia {
+  background: rgba(31, 111, 81, 0.14);
+  color: #174b39;
+}
+
+.category-pill.category-markets {
+  background: rgba(210, 130, 26, 0.18);
+  color: #70400e;
+}
+
+.category-pill.category-world {
+  background: rgba(49, 90, 151, 0.14);
+  color: #274a7d;
 }
 
 .story-card h2 {
