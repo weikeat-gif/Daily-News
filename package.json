@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "fetch:social": "python scripts/fetch_social_news.py",
+    "fetch:social:merge": "python scripts/fetch_social_news.py --merge && npm run validate:news",
     "validate:news": "python scripts/validate_news.py"
   },
   "dependencies": {
