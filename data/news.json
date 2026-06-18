@@ -1,177 +1,538 @@
 {
-  "generated_at": "2026-06-18T14:08:00+08:00",
+  "generated_at": "2026-06-19T01:52:20+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-06-18-malaysia-q1-growth-bnm",
+      "id": "2026-06-19-bern-asean-sco-cross-border-energy",
       "category": "malaysia",
-      "headline": "Malaysia's first-quarter growth stays supported by domestic demand",
-      "summary": "Bank Negara Malaysia reported that the economy expanded 5.4% in the first quarter of 2026, with domestic demand remaining the main support. Household spending and investment activity are still central to the growth picture.",
-      "why_it_matters": "This is the baseline for reading Malaysia's policy, earnings, and ringgit outlook because it shows whether local demand is strong enough to absorb external trade risks.",
-      "published_at": "2026-05-22T12:00:00+08:00",
+      "headline": "Anwar urges ASEAN and SCO to pool resources on crime and energy security",
+      "summary": "BERNAMA's latest top story says Prime Minister Anwar Ibrahim called for ASEAN and the Shanghai Cooperation Organisation to work more closely on cross-border crime and energy security. The item is being treated as a regional policy signal from Malaysia's Russia-ASEAN summit engagements.",
+      "why_it_matters": "Security and energy cooperation are central to Malaysia's regional diplomacy and can affect trade, fuel security, and foreign investment sentiment.",
+      "published_at": "2026-06-19T01:16:00+08:00",
       "source_links": [
         {
-          "name": "Bank Negara Malaysia",
-          "url": "https://www.bnm.gov.my/-/gdp1q26pr",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": ["GDP", "domestic demand", "policy"],
-      "importance": 5,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-section-301-response",
-      "category": "malaysia",
-      "headline": "Malaysia responds to U.S. Section 301 forced-labour findings",
-      "summary": "MITI published Malaysia's position after USTR findings related to forced labour and proposed trade action. The issue keeps trade compliance and export-sector risk in focus.",
-      "why_it_matters": "Any escalation can matter for manufacturers, exporters, and investors watching Malaysia's access to the U.S. market.",
-      "published_at": "2026-06-04T15:49:00+08:00",
-      "source_links": [
-        {
-          "name": "MITI",
-          "url": "https://www.miti.gov.my/index.php/pages/view/10936",
-          "publisher_type": "official"
+          "name": "BERNAMA ASEAN",
+          "url": "https://asean.bernama.com/news.php?id=2570196",
+          "publisher_type": "news"
         },
         {
-          "name": "MITI PDF",
-          "url": "https://www.miti.gov.my/miti/resources/Media%20Release/PR_MALAYSIA%E2%80%99S_POSITION_ON_UNITED_STATES_SECTION_301_TRADE_INVESTIGATIONS_%281%29.pdf",
-          "publisher_type": "official"
+          "name": "X @bernamadotcom",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Instagram @bernamaofficial",
+          "url": "https://www.instagram.com/bernamaofficial/",
+          "publisher_type": "social"
         }
       ],
-      "topics": ["trade", "exports", "United States"],
+      "topics": [
+        "ASEAN",
+        "SCO",
+        "energy security",
+        "cross-border crime"
+      ],
+      "importance": 5,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-19-asean-russia-kazan-declaration",
+      "category": "world",
+      "headline": "ASEAN and Russia adopt Kazan Declaration for broader strategic partnership",
+      "summary": "ASEAN and Russia adopted the Kazan Declaration, setting out cooperation in security, energy, agriculture, digitalisation, AI and cultural links. BERNAMA reported the outcome after the ASEAN-Russia commemorative summit in Kazan.",
+      "why_it_matters": "The declaration gives Malaysia and ASEAN another channel for energy, trade and technology cooperation while geopolitical alignments remain fluid.",
+      "published_at": "2026-06-19T00:44:00+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA ASEAN",
+          "url": "https://asean.bernama.com/news.php?id=2570232",
+          "publisher_type": "news"
+        },
+        {
+          "name": "Facebook Bernama TV",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        },
+        {
+          "name": "X @bernamadotcom",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "ASEAN",
+        "Russia",
+        "energy",
+        "AI"
+      ],
       "importance": 4,
       "confidence": "cross_checked"
     },
     {
-      "id": "2026-06-18-malaysia-april-inflation",
-      "category": "malaysia",
-      "headline": "Malaysia's April inflation rises to 1.9%",
-      "summary": "The Department of Statistics Malaysia reported April consumer inflation at 1.9%, up from March's 1.7%. Inflation remains moderate but is moving higher across the latest releases.",
-      "why_it_matters": "Inflation trends affect household costs, Bank Negara Malaysia policy expectations, and local bond and currency sentiment.",
-      "published_at": "2026-05-25T12:00:00+08:00",
+      "id": "2026-06-19-ukraine-moscow-refinery-strike",
+      "category": "world",
+      "headline": "Ukraine brings war to Moscow with refinery blasts, CNA reports",
+      "summary": "CNA's latest world feed reported Ukraine-linked blasts around a Moscow oil refinery, keeping energy infrastructure and escalation risk in focus even as Middle East tensions show signs of easing.",
+      "why_it_matters": "Energy infrastructure attacks can affect oil supply expectations, sanctions risk and global market sentiment.",
+      "published_at": "2026-06-19T00:30:00+08:00",
       "source_links": [
         {
-          "name": "Department of Statistics Malaysia",
-          "url": "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-apr2026",
-          "publisher_type": "official"
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/ukraine-russia-moscow-oil-refinery-drone-strike-6193661",
+          "publisher_type": "news"
         },
         {
-          "name": "Department of Statistics Malaysia",
-          "url": "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-mar2026",
-          "publisher_type": "official"
+          "name": "Facebook Reuters",
+          "url": "https://www.facebook.com/Reuters",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Instagram @reuters",
+          "url": "https://www.instagram.com/reuters/",
+          "publisher_type": "social"
         }
       ],
-      "topics": ["inflation", "consumer prices", "BNM"],
+      "topics": [
+        "Ukraine",
+        "Russia",
+        "oil refinery",
+        "war"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-corporate-malaysia-top-glove-wct-swift",
+      "category": "markets_investment",
+      "headline": "Malaysia corporate board: Top Glove, WCT and Swift Energy among late market headlines",
+      "summary": "KLSE Screener's latest feed highlighted several Malaysian corporate items, including Top Glove capacity and pricing commentary, WCT's Abu Dhabi construction subcontract, and Swift Energy orders tied to oil and gas and data-centre equipment.",
+      "why_it_matters": "These company-level updates can move individual counters and show where sector demand is appearing, especially in healthcare, construction, oil and gas, and data centres.",
+      "published_at": "2026-06-18T23:51:00+08:00",
+      "source_links": [
+        {
+          "name": "KLSE Screener News",
+          "url": "https://www.klsescreener.com/v2/news/index/3",
+          "publisher_type": "financial"
+        },
+        {
+          "name": "X @theedgemalaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Instagram @theedgemalaysia",
+          "url": "https://www.instagram.com/theedgemalaysia/",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "Top Glove",
+        "WCT",
+        "Swift Energy",
+        "corporate earnings"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-malaysia-imd-competitiveness-ranking",
+      "category": "malaysia",
+      "headline": "Malaysia rises to 15th in IMD World Competitiveness Ranking",
+      "summary": "Malaysia climbed eight places to 15th in the 2026 IMD World Competitiveness Ranking, with local outlets highlighting the move as the country's best recent showing and a signal of stronger efficiency and competitiveness.",
+      "why_it_matters": "Competitiveness rankings influence investor perception, reform momentum and how Malaysia positions itself against regional peers for capital and talent.",
+      "published_at": "2026-06-18T22:10:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/",
+          "publisher_type": "news"
+        },
+        {
+          "name": "The Sun Malaysia",
+          "url": "https://thesun.my/",
+          "publisher_type": "news"
+        },
+        {
+          "name": "CNA competitiveness coverage",
+          "url": "https://www.channelnewsasia.com/singapore/top-imd-competitiveness-ranking-business-efficiency-6192786",
+          "publisher_type": "news"
+        },
+        {
+          "name": "Facebook The Star",
+          "url": "https://www.facebook.com/TheStarOnline",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "competitiveness",
+        "investment",
+        "Malaysia",
+        "IMD"
+      ],
       "importance": 4,
       "confidence": "cross_checked"
     },
     {
-      "id": "2026-06-18-malaysia-april-trade-china-us",
-      "category": "malaysia",
-      "headline": "Malaysia's April trade report highlights China growth and U.S. export strength",
-      "summary": "MITI's April trade release showed double-digit trade growth with China and continued export expansion to the U.S. The data points to resilient electronics and trade flows despite external uncertainty.",
-      "why_it_matters": "Trade momentum is a key signal for Malaysia's manufacturing cycle, listed exporters, and foreign-exchange sentiment.",
-      "published_at": "2026-05-20T12:00:00+08:00",
-      "source_links": [
-        {
-          "name": "MITI April Trade Performance",
-          "url": "https://www.miti.gov.my/miti/resources/Media%20Release/Press_Release_Trade_Performance_Apr_2026.pdf",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": ["trade", "China", "United States", "exports"],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-q1-approved-investments-mida",
-      "category": "malaysia",
-      "headline": "Malaysia attracts RM92.8 billion in approved investments for Q1",
-      "summary": "MIDA said Malaysia secured RM92.8 billion in approved investments in the first quarter of 2026 across services, manufacturing, and primary sectors. The projects are expected to create more than 50,000 jobs.",
-      "why_it_matters": "Investment approvals show where future capacity and jobs may land, with data centres, technology, and manufacturing still important to Malaysia's growth story.",
-      "published_at": "2026-06-08T09:00:00+08:00",
-      "source_links": [
-        {
-          "name": "MIDA",
-          "url": "https://www.mida.gov.my/media-release/malaysia-attracts-rm92-8-billion-in-q1-2026-approved-investments-expected-to-create-over-50000-new-jobs-domestic-investments-up-13/",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": ["investment", "jobs", "data centres"],
-      "importance": 5,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-renewable-energy-bess-mida",
-      "category": "malaysia",
-      "headline": "MIDA clean-energy partnership targets digital economy power demand",
-      "summary": "MIDA highlighted a strategic partnership around renewable energy and battery storage innovation as Malaysia prepares for rising power demand from AI and data-centre growth.",
-      "why_it_matters": "Power availability and clean-energy capacity are becoming core constraints for Malaysia's digital infrastructure and manufacturing ambitions.",
-      "published_at": "2026-05-29T10:00:00+08:00",
-      "source_links": [
-        {
-          "name": "MIDA",
-          "url": "https://www.mida.gov.my/media-release/enertec-asia-2026-partners-with-mida-to-power-malaysias-digital-economy-via-renewable-energy-and-battery-storage-innovation/",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": ["renewable energy", "battery storage", "data centres"],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-asia-shares-oil-iran",
+      "id": "2026-06-19-malaysia-local-currency-trade-payments",
       "category": "markets_investment",
-      "headline": "Asian shares rise as investors react to U.S.-Iran peace progress",
-      "summary": "AP reported that Asian markets climbed after an initial U.S.-Iran agreement eased geopolitical risk. Oil prices also moved lower as traders reassessed supply risks.",
-      "why_it_matters": "Lower geopolitical risk can support regional equities and reduce inflation pressure through energy prices, but the market reaction can change quickly if talks stall.",
-      "published_at": "2026-06-18T07:40:00+08:00",
+      "headline": "Malaysia to look seriously at wider local-currency trade settlement",
+      "summary": "Anwar said Malaysia will explore settling more foreign trade in local currencies to reduce exchange-rate volatility, citing growing use of bilateral arrangements with China and possible arrangements with India and Russia.",
+      "why_it_matters": "Local-currency settlement can affect dollar demand, ringgit volatility, trade finance and how investors read Malaysia's de-dollarisation strategy.",
+      "published_at": "2026-06-18T21:32:00+08:00",
       "source_links": [
         {
-          "name": "Associated Press",
-          "url": "https://apnews.com/article/dc678fb5647a136f75caf2d1fbaa2092",
-          "publisher_type": "wire"
-        }
-      ],
-      "topics": ["Asia equities", "oil", "geopolitics"],
-      "importance": 5,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-fed-rate-signal",
-      "category": "markets_investment",
-      "headline": "Federal Reserve holds rates while signalling possible tightening risk",
-      "summary": "The Guardian reported that the Federal Reserve kept rates steady but surprised markets by signalling a possible rate hike before year end. U.S. equities fell after the decision.",
-      "why_it_matters": "Fed policy is a global anchor for equity valuations, bond yields, the dollar, and emerging-market capital flows.",
-      "published_at": "2026-06-18T04:25:00+08:00",
-      "source_links": [
+          "name": "BERNAMA ASEAN",
+          "url": "https://asean.bernama.com/news.php?id=2570171",
+          "publisher_type": "news"
+        },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
+          "name": "X @BernamaBiz",
+          "url": "https://x.com/BernamaBiz",
+          "publisher_type": "social"
+        },
+        {
+          "name": "The Edge source page",
+          "url": "https://theedgemalaysia.com/source/bernama?page=1",
           "publisher_type": "news"
         }
       ],
-      "topics": ["Federal Reserve", "rates", "U.S. equities"],
+      "topics": [
+        "ringgit",
+        "trade",
+        "local currencies",
+        "Russia"
+      ],
+      "importance": 5,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-19-malaysia-russia-energy-supply",
+      "category": "markets_investment",
+      "headline": "Russia guarantees long-term petroleum, oil and gas supply to Malaysia, says Anwar",
+      "summary": "Malaysian outlets carried Anwar's statement that Russia has guaranteed long-term petroleum, oil and gas supplies to Malaysia. The issue is linked to Malaysia's energy security and summit-level Russia engagement.",
+      "why_it_matters": "Energy supply assurances can affect inflation risk, fuel policy, utilities and investor views on Malaysia's exposure to global oil disruptions.",
+      "published_at": "2026-06-18T21:19:00+08:00",
+      "source_links": [
+        {
+          "name": "Bursa Marketplace News",
+          "url": "https://my.bursamalaysia.com/market/market-updates/news/russia-guarantees-long-term-petroleum-oil-and-gas-supplies-to-malaysia-pm-anwar",
+          "publisher_type": "news"
+        },
+        {
+          "name": "The Malaysian Reserve",
+          "url": "https://themalaysianreserve.com/2026/06/18/anwar-russia-guarantees-long-term-petroleum-oil-and-gas-supplies-to-malaysia/",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X @BursaMalaysia",
+          "url": "https://x.com/BursaMalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "oil",
+        "gas",
+        "Russia",
+        "energy security"
+      ],
+      "importance": 5,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-19-us-iran-deal-details-cna",
+      "category": "world",
+      "headline": "US-Iran preliminary deal puts 60-day countdown on fragile truce",
+      "summary": "CNA outlined key details of a 14-point US-Iran memorandum, saying a 60-day process begins as both sides work toward a final deal to end the conflict and address nuclear and sanctions questions.",
+      "why_it_matters": "The deal is central to oil prices, shipping through Hormuz, risk appetite, and Asian importers including Malaysia.",
+      "published_at": "2026-06-18T20:00:00+08:00",
+      "source_links": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/us-iran-peace-deal-mou-trump-nuclear-60-days-14-points-6192701",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X @ChannelNewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "US-Iran",
+        "Hormuz",
+        "oil",
+        "geopolitics"
+      ],
+      "importance": 5,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-19-singapore-welcomes-us-iran-hormuz",
+      "category": "world",
+      "headline": "Singapore welcomes US-Iran agreement to reopen Strait of Hormuz",
+      "summary": "CNA reported Singapore welcomed the US-Iran agreement to end military operations in the Middle East and reopen the Strait of Hormuz, a crucial route for oil and gas shipping.",
+      "why_it_matters": "A safer Hormuz route matters for Asia's energy supply chain, shipping costs, inflation and market volatility.",
+      "published_at": "2026-06-18T19:30:00+08:00",
+      "source_links": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/singapore/singapore-us-iran-war-mou-hormuz-6193356",
+          "publisher_type": "news"
+        },
+        {
+          "name": "Instagram @channelnewsasia",
+          "url": "https://www.instagram.com/channelnewsasia/",
+          "publisher_type": "social"
+        },
+        {
+          "name": "X @Reuters",
+          "url": "https://x.com/Reuters",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "Singapore",
+        "Hormuz",
+        "Middle East",
+        "energy"
+      ],
+      "importance": 4,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-19-fbm-klci-june-18-close",
+      "category": "markets_investment",
+      "headline": "FBM KLCI edges higher as The Edge tracks Bursa and ringgit close",
+      "summary": "The Edge's public X update said the FBM KLCI edged up 0.08% to 1,711.39 on June 18, with the post summarising key Bursa Malaysia indices and the ringgit's performance for the day.",
+      "why_it_matters": "The closing index and ringgit snapshot are the quickest read on local risk appetite before the next trading session.",
+      "published_at": "2026-06-18T18:00:00+08:00",
+      "source_links": [
+        {
+          "name": "X @theedgemalaysia",
+          "url": "https://x.com/theedgemalaysia/status/2067545601571758108",
+          "publisher_type": "social"
+        },
+        {
+          "name": "The Edge Malaysia",
+          "url": "https://theedgemalaysia.com/",
+          "publisher_type": "news"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "FBM KLCI",
+        "Bursa",
+        "ringgit",
+        "market close"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-ringgit-eases-bern-latest",
+      "category": "markets_investment",
+      "headline": "Ringgit eases to 4.1145/1195 against the US dollar in latest BERNAMA ticker",
+      "summary": "BERNAMA's latest ticker showed the ringgit at 4.1145/1195 versus the US dollar at 6 pm, weaker than the previous close of 4.0665/0700. The move comes as markets digest trade settlement talk and global energy headlines.",
+      "why_it_matters": "Ringgit movement directly affects import costs, exporters, foreign funds and Malaysia-linked market sentiment.",
+      "published_at": "2026-06-18T18:00:00+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA",
+          "url": "https://www.bernama.com/en/",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X @BernamaBiz",
+          "url": "https://x.com/BernamaBiz",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Bursa Malaysia",
+          "url": "https://www.facebook.com/BursaMalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "ringgit",
+        "USD/MYR",
+        "forex",
+        "markets"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-oil-markets-iran-breakthrough",
+      "category": "world",
+      "headline": "Oil falls and global markets rally after Iran deal breakthrough",
+      "summary": "The Guardian reported oil prices fell to a three-month low while global equities rallied after signs of a US-Iran peace breakthrough and hopes for the Strait of Hormuz to reopen.",
+      "why_it_matters": "Oil swings feed directly into inflation, energy costs, airline and transport margins, and the ringgit-sensitive outlook for Malaysia.",
+      "published_at": "2026-06-18T16:00:00+08:00",
+      "source_links": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X @BloombergAsia",
+          "url": "https://x.com/BloombergAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Instagram @bloomberg",
+          "url": "https://www.instagram.com/bloomberg/",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "oil",
+        "markets",
+        "Iran",
+        "Hormuz"
+      ],
+      "importance": 5,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-18-malaysia-stpm-results-malay-mail",
+      "category": "malaysia",
+      "headline": "STPM 2025 sees record number of perfect 4.0 CGPA candidates",
+      "summary": "Malay Mail reported that 1,336 candidates achieved a perfect 4.00 CGPA in STPM 2025, up from 1,266 candidates previously, contributing to a higher national CGPA.",
+      "why_it_matters": "Education outcomes affect university intake, scholarship competition, and the long-term skills pipeline.",
+      "published_at": "2026-06-18T13:05:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "education",
+        "STPM",
+        "students"
+      ],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-top-glove-profit-star",
+      "category": "markets_investment",
+      "headline": "Top Glove's nine-month profit jumps 64%",
+      "summary": "The Star market page highlighted Top Glove's stronger nine-month profit, supported by better sales and margins as the glove sector continues to recover from the post-pandemic downturn.",
+      "why_it_matters": "Glove-sector earnings are a bellwether for Bursa healthcare names and for whether the industry recovery is broadening beyond cost cuts.",
+      "published_at": "2026-06-18T12:35:00+08:00",
+      "source_links": [
+        {
+          "name": "The Star Markets",
+          "url": "https://www.thestar.com.my/news/nation",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "Top Glove",
+        "earnings",
+        "healthcare"
+      ],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-world-us-iran-mou-ap-latest",
+      "category": "world",
+      "headline": "U.S.-Iran deal takes immediate effect, Pakistan premier says",
+      "summary": "AP's latest live coverage said a U.S.-Iran memorandum of understanding had taken immediate effect after both sides signed, according to Pakistan's prime minister.",
+      "why_it_matters": "The agreement is currently the central world story because it affects oil flows, sanctions, regional security, and global market sentiment.",
+      "published_at": "2026-06-18T12:10:00+08:00",
+      "source_links": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/a7ab28d9b34edfaa2061a67616f610bc",
+          "publisher_type": "wire"
+        }
+      ],
+      "topics": [
+        "Iran",
+        "United States",
+        "Strait of Hormuz"
+      ],
       "importance": 5,
       "confidence": "verified"
     },
     {
-      "id": "2026-06-18-markets-gold-fed-geopolitics",
-      "category": "markets_investment",
-      "headline": "Gold gains after Fed decision and geopolitical shifts",
-      "summary": "The Wall Street Journal reported that gold rose in early Asian trading after the Fed left rates unchanged. Demand from central banks and geopolitical uncertainty remain important support factors.",
-      "why_it_matters": "Gold often reflects the market's view of real yields, central-bank demand, and geopolitical stress, so it is useful for reading risk appetite.",
-      "published_at": "2026-06-18T09:00:00+08:00",
+      "id": "2026-06-18-malaysia-stadium-ceo-graft-the-star",
+      "category": "malaysia",
+      "headline": "Malaysia Stadium Corporation CEO claims trial to graft charges",
+      "summary": "The Star reported that Malaysia Stadium Corporation CEO Iliyas Jamil pleaded not guilty to seven graft charges linked to a tender for upgrades at the National Squash Centre in Bukit Jalil.",
+      "why_it_matters": "The case keeps public procurement, sports infrastructure governance, and anti-corruption enforcement in focus.",
+      "published_at": "2026-06-18T11:35:00+08:00",
       "source_links": [
         {
-          "name": "The Wall Street Journal",
-          "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-after-fed-leaves-rates-unchanged-aacdebef",
-          "publisher_type": "financial"
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/news/nation/2026/06/18/malaysia-stadium-corporation-ceo-claims-trial-to-graft-charges-over-squash-centre-tender",
+          "publisher_type": "news"
         }
       ],
-      "topics": ["gold", "commodities", "central banks"],
+      "topics": [
+        "governance",
+        "court",
+        "anti-corruption"
+      ],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-glove-recovery-star",
+      "category": "markets_investment",
+      "headline": "Research says glove firms are at strongest point since downturn",
+      "summary": "The Star reported that BIMB Research sees the Malaysian rubber glove industry entering the second half of 2026 from its strongest position since the post-pandemic downturn.",
+      "why_it_matters": "This helps investors judge whether glove stocks are entering a sustainable recovery or only a temporary earnings rebound.",
+      "published_at": "2026-06-18T11:35:00+08:00",
+      "source_links": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/business/business-news/2026/06/18/glove-firms-at-strongest-since-downturn",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "gloves",
+        "Bursa",
+        "healthcare"
+      ],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-world-iran-deal-reactions-guardian",
+      "category": "world",
+      "headline": "Iran deal draws anger, relief and disbelief around the world",
+      "summary": "The Guardian reported mixed reactions to the Trump-Iran agreement, with relief from some leaders and strong criticism from Israeli and U.S. political voices.",
+      "why_it_matters": "The reaction shows the deal may calm oil markets while still creating diplomatic and domestic political risks.",
+      "published_at": "2026-06-18T10:45:00+08:00",
+      "source_links": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jun/18/donald-trump-iran-deal-reactions-anger-relief-incredulity",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "Iran",
+        "diplomacy",
+        "geopolitics"
+      ],
       "importance": 4,
       "confidence": "verified"
     },
@@ -189,151 +550,33 @@
           "publisher_type": "official"
         }
       ],
-      "topics": ["Bursa Malaysia", "IPO", "ACE Market"],
+      "topics": [
+        "Bursa Malaysia",
+        "IPO",
+        "ACE Market"
+      ],
       "importance": 3,
       "confidence": "verified"
     },
     {
-      "id": "2026-06-18-markets-oil-below-80-ap",
-      "category": "markets_investment",
-      "headline": "Oil falls below $80 as markets price in lower Middle East risk",
-      "summary": "AP reported that oil moved below $80 per barrel as investors reacted to optimism around a U.S.-Iran deal and a potential easing of supply disruption fears.",
-      "why_it_matters": "Oil is a direct input into inflation, central-bank expectations, airline costs, and Malaysia's energy-linked market sentiment.",
-      "published_at": "2026-06-16T23:20:00+08:00",
+      "id": "2026-06-18-world-iran-oil-revenue-wsj",
+      "category": "world",
+      "headline": "Iran deal could turbocharge oil revenue",
+      "summary": "The Wall Street Journal reported that the U.S.-Iran deal may allow Iran to officially resume oil and fuel exports, potentially lifting revenues if sanctions relief holds.",
+      "why_it_matters": "A return of Iranian oil supply would matter for crude prices, OPEC strategy, inflation, and energy-linked equities.",
+      "published_at": "2026-06-18T09:40:00+08:00",
       "source_links": [
         {
-          "name": "Associated Press",
-          "url": "https://apnews.com/article/306b81adb98fe2814c7133f1458373e8",
-          "publisher_type": "wire"
-        }
-      ],
-      "topics": ["oil", "inflation", "energy"],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-global-weekly-trowe",
-      "category": "markets_investment",
-      "headline": "Global weekly market tone improves as oil and breadth help equities",
-      "summary": "T. Rowe Price said cautious optimism around a possible U.S.-Iran agreement, declining oil prices, and broader market participation helped major U.S. indexes finish a volatile week higher.",
-      "why_it_matters": "Broader market leadership matters because rallies led by more than a few mega-cap names are usually healthier for global portfolios.",
-      "published_at": "2026-06-13T08:30:00+08:00",
-      "source_links": [
-        {
-          "name": "T. Rowe Price",
-          "url": "https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html",
+          "name": "The Wall Street Journal",
+          "url": "https://www.wsj.com/world/middle-east/deal-gives-iran-chance-to-turbocharge-its-oil-revenue-5b481eb6",
           "publisher_type": "financial"
         }
       ],
-      "topics": ["equities", "oil", "portfolio"],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-world-us-iran-deal",
-      "category": "world",
-      "headline": "U.S.-Iran peace process becomes the main geopolitical market story",
-      "summary": "AP reported an initial signing of a U.S.-Iran deal designed to end the war and open a negotiation period around Iran's nuclear programme. The development is moving oil and global risk sentiment.",
-      "why_it_matters": "Middle East de-escalation can affect energy prices, inflation expectations, shipping risk, and equity sentiment worldwide.",
-      "published_at": "2026-06-18T07:40:00+08:00",
-      "source_links": [
-        {
-          "name": "Associated Press",
-          "url": "https://apnews.com/article/dc678fb5647a136f75caf2d1fbaa2092",
-          "publisher_type": "wire"
-        }
+      "topics": [
+        "Iran",
+        "oil",
+        "sanctions"
       ],
-      "topics": ["Middle East", "energy", "geopolitics"],
-      "importance": 5,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-world-fed-governance-shift",
-      "category": "world",
-      "headline": "New Fed communication review adds uncertainty to global policy signals",
-      "summary": "The Guardian reported that Fed Chair Kevin Warsh announced taskforces to reassess Fed operations and communication practices. Markets are watching whether this changes how policy guidance is delivered.",
-      "why_it_matters": "Fed communication shapes global expectations for rates, risk assets, and currencies, so changes in signalling can matter even when policy is unchanged.",
-      "published_at": "2026-06-18T04:25:00+08:00",
-      "source_links": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": ["central banks", "policy", "United States"],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-world-imf-war-shock",
-      "category": "world",
-      "headline": "IMF says the global economy has endured the war shock so far",
-      "summary": "The IMF said the world economy has held up better than feared despite the Middle East war shock, though commodity prices, inflation expectations, and financial conditions remain affected.",
-      "why_it_matters": "This gives a macro backdrop for markets: resilience is good, but inflation and energy-price channels are still the key risks.",
-      "published_at": "2026-06-15T22:00:00+08:00",
-      "source_links": [
-        {
-          "name": "IMF",
-          "url": "https://www.imf.org/en/blogs/articles/2026/06/15/global-economy-endures-war-shock-so-far",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": ["global economy", "war shock", "inflation"],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-world-eia-oil-demand-cut",
-      "category": "world",
-      "headline": "EIA cuts oil demand outlook as high prices and policy curb consumption",
-      "summary": "The U.S. Energy Information Administration said it now expects global oil demand to decrease over 2026, reversing earlier forecasts for growth as high prices and government initiatives weigh on consumption.",
-      "why_it_matters": "Oil-demand revisions can shift inflation expectations, producer revenue assumptions, and the global growth narrative.",
-      "published_at": "2026-06-11T00:00:00+08:00",
-      "source_links": [
-        {
-          "name": "U.S. EIA",
-          "url": "https://www.eia.gov/outlooks/steo/",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": ["oil demand", "energy", "inflation"],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-world-global-markets-weekly",
-      "category": "world",
-      "headline": "Global investors keep balancing oil, AI, inflation, and rate risk",
-      "summary": "T. Rowe Price's latest global markets update highlighted recent volatility around oil prices, inflation data, AI-related stocks, and broader market leadership. The mix keeps portfolio positioning sensitive to headlines.",
-      "why_it_matters": "These are the cross-currents affecting global risk assets and can spill into Malaysian equities, currencies, and commodities.",
-      "published_at": "2026-06-12T12:00:00+08:00",
-      "source_links": [
-        {
-          "name": "T. Rowe Price",
-          "url": "https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html",
-          "publisher_type": "financial"
-        }
-      ],
-      "topics": ["global markets", "oil", "AI", "inflation"],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-stadium-ceo-graft-the-star",
-      "category": "malaysia",
-      "headline": "Malaysia Stadium Corporation CEO claims trial to graft charges",
-      "summary": "The Star reported that Malaysia Stadium Corporation CEO Iliyas Jamil pleaded not guilty to seven graft charges linked to a tender for upgrades at the National Squash Centre in Bukit Jalil.",
-      "why_it_matters": "The case keeps public procurement, sports infrastructure governance, and anti-corruption enforcement in focus.",
-      "published_at": "2026-06-18T11:35:00+08:00",
-      "source_links": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/news/nation/2026/06/18/malaysia-stadium-corporation-ceo-claims-trial-to-graft-charges-over-squash-centre-tender",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": ["governance", "court", "anti-corruption"],
       "importance": 4,
       "confidence": "verified"
     },
@@ -356,26 +599,56 @@
           "publisher_type": "social"
         }
       ],
-      "topics": ["Russia", "energy", "trade"],
+      "topics": [
+        "Russia",
+        "energy",
+        "trade"
+      ],
       "importance": 4,
       "confidence": "cross_checked"
     },
     {
-      "id": "2026-06-18-malaysia-putin-ties-malay-mail",
-      "category": "malaysia",
-      "headline": "Putin says Russia and Malaysia are well placed to deepen ties",
-      "summary": "Malay Mail reported that Russian President Vladimir Putin said both countries have a strong foundation to expand cooperation ahead of the 60th anniversary of diplomatic relations.",
-      "why_it_matters": "The remarks add diplomatic context to Malaysia's energy, trade, tourism, education, and ASEAN-Russia engagement.",
-      "published_at": "2026-06-18T08:39:00+08:00",
+      "id": "2026-06-18-world-jpmorgan-oil-supply-marketwatch",
+      "category": "world",
+      "headline": "JPMorgan says markets are betting oil supply normalizes quickly",
+      "summary": "MarketWatch cited JPMorgan's trading desk view that markets are pricing in faster normalization of global oil supply after details of the U.S.-Iran memorandum emerged.",
+      "why_it_matters": "Oil-supply expectations flow directly into inflation forecasts, central-bank assumptions, and equity-sector leadership.",
+      "published_at": "2026-06-18T09:05:00+08:00",
       "source_links": [
         {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/18/putin-russia-malaysia-well-placed-to-deepen-ties-as-60th-anniversary-nears/224197",
-          "publisher_type": "news"
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-federal-reserve-meeting-interest-rate-decision-14-point-plan/card/the-market-is-still-betting-oil-supply-could-normalize-quickly-after-mou-leaked-says-jpmorgan-0D6iKX4fQJ0kxzy1VP0R",
+          "publisher_type": "financial"
         }
       ],
-      "topics": ["Russia", "diplomacy", "ASEAN"],
-      "importance": 3,
+      "topics": [
+        "JPMorgan",
+        "oil supply",
+        "markets"
+      ],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-gold-fed-geopolitics",
+      "category": "markets_investment",
+      "headline": "Gold gains after Fed decision and geopolitical shifts",
+      "summary": "The Wall Street Journal reported that gold rose in early Asian trading after the Fed left rates unchanged. Demand from central banks and geopolitical uncertainty remain important support factors.",
+      "why_it_matters": "Gold often reflects the market's view of real yields, central-bank demand, and geopolitical stress, so it is useful for reading risk appetite.",
+      "published_at": "2026-06-18T09:00:00+08:00",
+      "source_links": [
+        {
+          "name": "The Wall Street Journal",
+          "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-after-fed-leaves-rates-unchanged-aacdebef",
+          "publisher_type": "financial"
+        }
+      ],
+      "topics": [
+        "gold",
+        "commodities",
+        "central banks"
+      ],
+      "importance": 4,
       "confidence": "verified"
     },
     {
@@ -392,8 +665,144 @@
           "publisher_type": "news"
         }
       ],
-      "topics": ["Gaza", "Iran", "foreign policy"],
+      "topics": [
+        "Gaza",
+        "Iran",
+        "foreign policy"
+      ],
       "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-malaysia-putin-ties-malay-mail",
+      "category": "malaysia",
+      "headline": "Putin says Russia and Malaysia are well placed to deepen ties",
+      "summary": "Malay Mail reported that Russian President Vladimir Putin said both countries have a strong foundation to expand cooperation ahead of the 60th anniversary of diplomatic relations.",
+      "why_it_matters": "The remarks add diplomatic context to Malaysia's energy, trade, tourism, education, and ASEAN-Russia engagement.",
+      "published_at": "2026-06-18T08:39:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/18/putin-russia-malaysia-well-placed-to-deepen-ties-as-60th-anniversary-nears/224197",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "Russia",
+        "diplomacy",
+        "ASEAN"
+      ],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-edge-day-ahead-social",
+      "category": "markets_investment",
+      "headline": "The Edge flags key market events to watch on June 18",
+      "summary": "The Edge Malaysia's public Facebook video highlighted the day's watchlist for investors, including corporate events and market-moving developments.",
+      "why_it_matters": "A daily market watchlist helps identify which corporate names and events may drive local trading attention.",
+      "published_at": "2026-06-18T08:00:00+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia Facebook",
+          "url": "https://www.facebook.com/theedgemalaysia/videos/your-day-ahead-june-18-2026heres-a-heads-up-on-what-to-look-out-for-today/3177106589156361/",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "watchlist",
+        "Bursa",
+        "corporate news"
+      ],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-asia-shares-oil-iran",
+      "category": "markets_investment",
+      "headline": "Asian shares rise as investors react to U.S.-Iran peace progress",
+      "summary": "AP reported that Asian markets climbed after an initial U.S.-Iran agreement eased geopolitical risk. Oil prices also moved lower as traders reassessed supply risks.",
+      "why_it_matters": "Lower geopolitical risk can support regional equities and reduce inflation pressure through energy prices, but the market reaction can change quickly if talks stall.",
+      "published_at": "2026-06-18T07:40:00+08:00",
+      "source_links": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/dc678fb5647a136f75caf2d1fbaa2092",
+          "publisher_type": "wire"
+        }
+      ],
+      "topics": [
+        "Asia equities",
+        "oil",
+        "geopolitics"
+      ],
+      "importance": 5,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-world-us-iran-deal",
+      "category": "world",
+      "headline": "U.S.-Iran peace process becomes the main geopolitical market story",
+      "summary": "AP reported an initial signing of a U.S.-Iran deal designed to end the war and open a negotiation period around Iran's nuclear programme. The development is moving oil and global risk sentiment.",
+      "why_it_matters": "Middle East de-escalation can affect energy prices, inflation expectations, shipping risk, and equity sentiment worldwide.",
+      "published_at": "2026-06-18T07:40:00+08:00",
+      "source_links": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/dc678fb5647a136f75caf2d1fbaa2092",
+          "publisher_type": "wire"
+        }
+      ],
+      "topics": [
+        "Middle East",
+        "energy",
+        "geopolitics"
+      ],
+      "importance": 5,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-fed-rate-signal",
+      "category": "markets_investment",
+      "headline": "Federal Reserve holds rates while signalling possible tightening risk",
+      "summary": "The Guardian reported that the Federal Reserve kept rates steady but surprised markets by signalling a possible rate hike before year end. U.S. equities fell after the decision.",
+      "why_it_matters": "Fed policy is a global anchor for equity valuations, bond yields, the dollar, and emerging-market capital flows.",
+      "published_at": "2026-06-18T04:25:00+08:00",
+      "source_links": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "Federal Reserve",
+        "rates",
+        "U.S. equities"
+      ],
+      "importance": 5,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-world-fed-governance-shift",
+      "category": "world",
+      "headline": "New Fed communication review adds uncertainty to global policy signals",
+      "summary": "The Guardian reported that Fed Chair Kevin Warsh announced taskforces to reassess Fed operations and communication practices. Markets are watching whether this changes how policy guidance is delivered.",
+      "why_it_matters": "Fed communication shapes global expectations for rates, risk assets, and currencies, so changes in signalling can matter even when policy is unchanged.",
+      "published_at": "2026-06-18T04:25:00+08:00",
+      "source_links": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "central banks",
+        "policy",
+        "United States"
+      ],
+      "importance": 4,
       "confidence": "verified"
     },
     {
@@ -415,80 +824,34 @@
           "publisher_type": "social"
         }
       ],
-      "topics": ["fuel", "diesel", "inflation"],
+      "topics": [
+        "fuel",
+        "diesel",
+        "inflation"
+      ],
       "importance": 4,
       "confidence": "cross_checked"
     },
     {
-      "id": "2026-06-18-malaysia-stpm-results-malay-mail",
-      "category": "malaysia",
-      "headline": "STPM 2025 sees record number of perfect 4.0 CGPA candidates",
-      "summary": "Malay Mail reported that 1,336 candidates achieved a perfect 4.00 CGPA in STPM 2025, up from 1,266 candidates previously, contributing to a higher national CGPA.",
-      "why_it_matters": "Education outcomes affect university intake, scholarship competition, and the long-term skills pipeline.",
-      "published_at": "2026-06-18T13:05:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": ["education", "STPM", "students"],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-top-glove-profit-star",
+      "id": "2026-06-18-markets-oil-below-80-ap",
       "category": "markets_investment",
-      "headline": "Top Glove's nine-month profit jumps 64%",
-      "summary": "The Star market page highlighted Top Glove's stronger nine-month profit, supported by better sales and margins as the glove sector continues to recover from the post-pandemic downturn.",
-      "why_it_matters": "Glove-sector earnings are a bellwether for Bursa healthcare names and for whether the industry recovery is broadening beyond cost cuts.",
-      "published_at": "2026-06-18T12:35:00+08:00",
+      "headline": "Oil falls below $80 as markets price in lower Middle East risk",
+      "summary": "AP reported that oil moved below $80 per barrel as investors reacted to optimism around a U.S.-Iran deal and a potential easing of supply disruption fears.",
+      "why_it_matters": "Oil is a direct input into inflation, central-bank expectations, airline costs, and Malaysia's energy-linked market sentiment.",
+      "published_at": "2026-06-16T23:20:00+08:00",
       "source_links": [
         {
-          "name": "The Star Markets",
-          "url": "https://www.thestar.com.my/news/nation",
-          "publisher_type": "news"
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/306b81adb98fe2814c7133f1458373e8",
+          "publisher_type": "wire"
         }
       ],
-      "topics": ["Top Glove", "earnings", "healthcare"],
+      "topics": [
+        "oil",
+        "inflation",
+        "energy"
+      ],
       "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-glove-recovery-star",
-      "category": "markets_investment",
-      "headline": "Research says glove firms are at strongest point since downturn",
-      "summary": "The Star reported that BIMB Research sees the Malaysian rubber glove industry entering the second half of 2026 from its strongest position since the post-pandemic downturn.",
-      "why_it_matters": "This helps investors judge whether glove stocks are entering a sustainable recovery or only a temporary earnings rebound.",
-      "published_at": "2026-06-18T11:35:00+08:00",
-      "source_links": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/business/business-news/2026/06/18/glove-firms-at-strongest-since-downturn",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": ["gloves", "Bursa", "healthcare"],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-edge-day-ahead-social",
-      "category": "markets_investment",
-      "headline": "The Edge flags key market events to watch on June 18",
-      "summary": "The Edge Malaysia's public Facebook video highlighted the day's watchlist for investors, including corporate events and market-moving developments.",
-      "why_it_matters": "A daily market watchlist helps identify which corporate names and events may drive local trading attention.",
-      "published_at": "2026-06-18T08:00:00+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia Facebook",
-          "url": "https://www.facebook.com/theedgemalaysia/videos/your-day-ahead-june-18-2026heres-a-heads-up-on-what-to-look-out-for-today/3177106589156361/",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": ["watchlist", "Bursa", "corporate news"],
-      "importance": 3,
       "confidence": "verified"
     },
     {
@@ -505,8 +868,34 @@
           "publisher_type": "social"
         }
       ],
-      "topics": ["Vantris Energy", "PN17", "oil and gas"],
+      "topics": [
+        "Vantris Energy",
+        "PN17",
+        "oil and gas"
+      ],
       "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-world-imf-war-shock",
+      "category": "world",
+      "headline": "IMF says the global economy has endured the war shock so far",
+      "summary": "The IMF said the world economy has held up better than feared despite the Middle East war shock, though commodity prices, inflation expectations, and financial conditions remain affected.",
+      "why_it_matters": "This gives a macro backdrop for markets: resilience is good, but inflation and energy-price channels are still the key risks.",
+      "published_at": "2026-06-15T22:00:00+08:00",
+      "source_links": [
+        {
+          "name": "IMF",
+          "url": "https://www.imf.org/en/blogs/articles/2026/06/15/global-economy-endures-war-shock-so-far",
+          "publisher_type": "official"
+        }
+      ],
+      "topics": [
+        "global economy",
+        "war shock",
+        "inflation"
+      ],
+      "importance": 4,
       "confidence": "verified"
     },
     {
@@ -523,7 +912,56 @@
           "publisher_type": "social"
         }
       ],
-      "topics": ["FBM KLCI", "ringgit", "Bursa"],
+      "topics": [
+        "FBM KLCI",
+        "ringgit",
+        "Bursa"
+      ],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-global-weekly-trowe",
+      "category": "markets_investment",
+      "headline": "Global weekly market tone improves as oil and breadth help equities",
+      "summary": "T. Rowe Price said cautious optimism around a possible U.S.-Iran agreement, declining oil prices, and broader market participation helped major U.S. indexes finish a volatile week higher.",
+      "why_it_matters": "Broader market leadership matters because rallies led by more than a few mega-cap names are usually healthier for global portfolios.",
+      "published_at": "2026-06-13T08:30:00+08:00",
+      "source_links": [
+        {
+          "name": "T. Rowe Price",
+          "url": "https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html",
+          "publisher_type": "financial"
+        }
+      ],
+      "topics": [
+        "equities",
+        "oil",
+        "portfolio"
+      ],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-world-global-markets-weekly",
+      "category": "world",
+      "headline": "Global investors keep balancing oil, AI, inflation, and rate risk",
+      "summary": "T. Rowe Price's latest global markets update highlighted recent volatility around oil prices, inflation data, AI-related stocks, and broader market leadership. The mix keeps portfolio positioning sensitive to headlines.",
+      "why_it_matters": "These are the cross-currents affecting global risk assets and can spill into Malaysian equities, currencies, and commodities.",
+      "published_at": "2026-06-12T12:00:00+08:00",
+      "source_links": [
+        {
+          "name": "T. Rowe Price",
+          "url": "https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html",
+          "publisher_type": "financial"
+        }
+      ],
+      "topics": [
+        "global markets",
+        "oil",
+        "AI",
+        "inflation"
+      ],
       "importance": 3,
       "confidence": "verified"
     },
@@ -541,79 +979,176 @@
           "publisher_type": "social"
         }
       ],
-      "topics": ["LNG", "Gas Malaysia", "energy infrastructure"],
+      "topics": [
+        "LNG",
+        "Gas Malaysia",
+        "energy infrastructure"
+      ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-06-18-world-us-iran-mou-ap-latest",
+      "id": "2026-06-18-world-eia-oil-demand-cut",
       "category": "world",
-      "headline": "U.S.-Iran deal takes immediate effect, Pakistan premier says",
-      "summary": "AP's latest live coverage said a U.S.-Iran memorandum of understanding had taken immediate effect after both sides signed, according to Pakistan's prime minister.",
-      "why_it_matters": "The agreement is currently the central world story because it affects oil flows, sanctions, regional security, and global market sentiment.",
-      "published_at": "2026-06-18T12:10:00+08:00",
+      "headline": "EIA cuts oil demand outlook as high prices and policy curb consumption",
+      "summary": "The U.S. Energy Information Administration said it now expects global oil demand to decrease over 2026, reversing earlier forecasts for growth as high prices and government initiatives weigh on consumption.",
+      "why_it_matters": "Oil-demand revisions can shift inflation expectations, producer revenue assumptions, and the global growth narrative.",
+      "published_at": "2026-06-11T00:00:00+08:00",
       "source_links": [
         {
-          "name": "Associated Press",
-          "url": "https://apnews.com/article/a7ab28d9b34edfaa2061a67616f610bc",
-          "publisher_type": "wire"
+          "name": "U.S. EIA",
+          "url": "https://www.eia.gov/outlooks/steo/",
+          "publisher_type": "official"
         }
       ],
-      "topics": ["Iran", "United States", "Strait of Hormuz"],
+      "topics": [
+        "oil demand",
+        "energy",
+        "inflation"
+      ],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-malaysia-q1-approved-investments-mida",
+      "category": "malaysia",
+      "headline": "Malaysia attracts RM92.8 billion in approved investments for Q1",
+      "summary": "MIDA said Malaysia secured RM92.8 billion in approved investments in the first quarter of 2026 across services, manufacturing, and primary sectors. The projects are expected to create more than 50,000 jobs.",
+      "why_it_matters": "Investment approvals show where future capacity and jobs may land, with data centres, technology, and manufacturing still important to Malaysia's growth story.",
+      "published_at": "2026-06-08T09:00:00+08:00",
+      "source_links": [
+        {
+          "name": "MIDA",
+          "url": "https://www.mida.gov.my/media-release/malaysia-attracts-rm92-8-billion-in-q1-2026-approved-investments-expected-to-create-over-50000-new-jobs-domestic-investments-up-13/",
+          "publisher_type": "official"
+        }
+      ],
+      "topics": [
+        "investment",
+        "jobs",
+        "data centres"
+      ],
       "importance": 5,
       "confidence": "verified"
     },
     {
-      "id": "2026-06-18-world-iran-deal-reactions-guardian",
-      "category": "world",
-      "headline": "Iran deal draws anger, relief and disbelief around the world",
-      "summary": "The Guardian reported mixed reactions to the Trump-Iran agreement, with relief from some leaders and strong criticism from Israeli and U.S. political voices.",
-      "why_it_matters": "The reaction shows the deal may calm oil markets while still creating diplomatic and domestic political risks.",
-      "published_at": "2026-06-18T10:45:00+08:00",
+      "id": "2026-06-18-malaysia-section-301-response",
+      "category": "malaysia",
+      "headline": "Malaysia responds to U.S. Section 301 forced-labour findings",
+      "summary": "MITI published Malaysia's position after USTR findings related to forced labour and proposed trade action. The issue keeps trade compliance and export-sector risk in focus.",
+      "why_it_matters": "Any escalation can matter for manufacturers, exporters, and investors watching Malaysia's access to the U.S. market.",
+      "published_at": "2026-06-04T15:49:00+08:00",
       "source_links": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jun/18/donald-trump-iran-deal-reactions-anger-relief-incredulity",
-          "publisher_type": "news"
+          "name": "MITI",
+          "url": "https://www.miti.gov.my/index.php/pages/view/10936",
+          "publisher_type": "official"
+        },
+        {
+          "name": "MITI PDF",
+          "url": "https://www.miti.gov.my/miti/resources/Media%20Release/PR_MALAYSIA%E2%80%99S_POSITION_ON_UNITED_STATES_SECTION_301_TRADE_INVESTIGATIONS_%281%29.pdf",
+          "publisher_type": "official"
         }
       ],
-      "topics": ["Iran", "diplomacy", "geopolitics"],
+      "topics": [
+        "trade",
+        "exports",
+        "United States"
+      ],
+      "importance": 4,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-18-malaysia-renewable-energy-bess-mida",
+      "category": "malaysia",
+      "headline": "MIDA clean-energy partnership targets digital economy power demand",
+      "summary": "MIDA highlighted a strategic partnership around renewable energy and battery storage innovation as Malaysia prepares for rising power demand from AI and data-centre growth.",
+      "why_it_matters": "Power availability and clean-energy capacity are becoming core constraints for Malaysia's digital infrastructure and manufacturing ambitions.",
+      "published_at": "2026-05-29T10:00:00+08:00",
+      "source_links": [
+        {
+          "name": "MIDA",
+          "url": "https://www.mida.gov.my/media-release/enertec-asia-2026-partners-with-mida-to-power-malaysias-digital-economy-via-renewable-energy-and-battery-storage-innovation/",
+          "publisher_type": "official"
+        }
+      ],
+      "topics": [
+        "renewable energy",
+        "battery storage",
+        "data centres"
+      ],
       "importance": 4,
       "confidence": "verified"
     },
     {
-      "id": "2026-06-18-world-iran-oil-revenue-wsj",
-      "category": "world",
-      "headline": "Iran deal could turbocharge oil revenue",
-      "summary": "The Wall Street Journal reported that the U.S.-Iran deal may allow Iran to officially resume oil and fuel exports, potentially lifting revenues if sanctions relief holds.",
-      "why_it_matters": "A return of Iranian oil supply would matter for crude prices, OPEC strategy, inflation, and energy-linked equities.",
-      "published_at": "2026-06-18T09:40:00+08:00",
+      "id": "2026-06-18-malaysia-april-inflation",
+      "category": "malaysia",
+      "headline": "Malaysia's April inflation rises to 1.9%",
+      "summary": "The Department of Statistics Malaysia reported April consumer inflation at 1.9%, up from March's 1.7%. Inflation remains moderate but is moving higher across the latest releases.",
+      "why_it_matters": "Inflation trends affect household costs, Bank Negara Malaysia policy expectations, and local bond and currency sentiment.",
+      "published_at": "2026-05-25T12:00:00+08:00",
       "source_links": [
         {
-          "name": "The Wall Street Journal",
-          "url": "https://www.wsj.com/world/middle-east/deal-gives-iran-chance-to-turbocharge-its-oil-revenue-5b481eb6",
-          "publisher_type": "financial"
+          "name": "Department of Statistics Malaysia",
+          "url": "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-apr2026",
+          "publisher_type": "official"
+        },
+        {
+          "name": "Department of Statistics Malaysia",
+          "url": "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-mar2026",
+          "publisher_type": "official"
         }
       ],
-      "topics": ["Iran", "oil", "sanctions"],
+      "topics": [
+        "inflation",
+        "consumer prices",
+        "BNM"
+      ],
       "importance": 4,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-18-malaysia-q1-growth-bnm",
+      "category": "malaysia",
+      "headline": "Malaysia's first-quarter growth stays supported by domestic demand",
+      "summary": "Bank Negara Malaysia reported that the economy expanded 5.4% in the first quarter of 2026, with domestic demand remaining the main support. Household spending and investment activity are still central to the growth picture.",
+      "why_it_matters": "This is the baseline for reading Malaysia's policy, earnings, and ringgit outlook because it shows whether local demand is strong enough to absorb external trade risks.",
+      "published_at": "2026-05-22T12:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Bank Negara Malaysia",
+          "url": "https://www.bnm.gov.my/-/gdp1q26pr",
+          "publisher_type": "official"
+        }
+      ],
+      "topics": [
+        "GDP",
+        "domestic demand",
+        "policy"
+      ],
+      "importance": 5,
       "confidence": "verified"
     },
     {
-      "id": "2026-06-18-world-jpmorgan-oil-supply-marketwatch",
-      "category": "world",
-      "headline": "JPMorgan says markets are betting oil supply normalizes quickly",
-      "summary": "MarketWatch cited JPMorgan's trading desk view that markets are pricing in faster normalization of global oil supply after details of the U.S.-Iran memorandum emerged.",
-      "why_it_matters": "Oil-supply expectations flow directly into inflation forecasts, central-bank assumptions, and equity-sector leadership.",
-      "published_at": "2026-06-18T09:05:00+08:00",
+      "id": "2026-06-18-malaysia-april-trade-china-us",
+      "category": "malaysia",
+      "headline": "Malaysia's April trade report highlights China growth and U.S. export strength",
+      "summary": "MITI's April trade release showed double-digit trade growth with China and continued export expansion to the U.S. The data points to resilient electronics and trade flows despite external uncertainty.",
+      "why_it_matters": "Trade momentum is a key signal for Malaysia's manufacturing cycle, listed exporters, and foreign-exchange sentiment.",
+      "published_at": "2026-05-20T12:00:00+08:00",
       "source_links": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-federal-reserve-meeting-interest-rate-decision-14-point-plan/card/the-market-is-still-betting-oil-supply-could-normalize-quickly-after-mou-leaked-says-jpmorgan-0D6iKX4fQJ0kxzy1VP0R",
-          "publisher_type": "financial"
+          "name": "MITI April Trade Performance",
+          "url": "https://www.miti.gov.my/miti/resources/Media%20Release/Press_Release_Trade_Performance_Apr_2026.pdf",
+          "publisher_type": "official"
         }
       ],
-      "topics": ["JPMorgan", "oil supply", "markets"],
+      "topics": [
+        "trade",
+        "China",
+        "United States",
+        "exports"
+      ],
       "importance": 4,
       "confidence": "verified"
     }
