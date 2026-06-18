@@ -1,0 +1,84 @@
+{
+  "purpose": "Curated public social sources for no-paid-API refreshes. Use these links as searchable source targets when adding verified X, Facebook, or Instagram evidence to data/news.json.",
+  "rules": [
+    "Use public social posts only as source links or timely signals.",
+    "Prefer official, regulator, exchange, company, newsroom, or journalist accounts.",
+    "Cross-check market-moving, political, or sensitive social claims with at least one reputable website or official source when available.",
+    "Mark unconfirmed social-only items as reported_unconfirmed.",
+    "Do not add private, login-only, rumor, or anonymous social posts."
+  ],
+  "sources": [
+    {
+      "name": "BERNAMA",
+      "category_focus": ["malaysia", "world"],
+      "platforms": [
+        { "platform": "X", "url": "https://x.com/bernamadotcom" },
+        { "platform": "Facebook", "url": "https://www.facebook.com/BernamaTV" },
+        { "platform": "Instagram", "url": "https://www.instagram.com/bernamaofficial/" }
+      ]
+    },
+    {
+      "name": "The Edge Malaysia",
+      "category_focus": ["markets_investment", "malaysia"],
+      "platforms": [
+        { "platform": "X", "url": "https://x.com/theedgemalaysia" },
+        { "platform": "Facebook", "url": "https://www.facebook.com/theedgemalaysia" },
+        { "platform": "Instagram", "url": "https://www.instagram.com/theedgemalaysia/" }
+      ]
+    },
+    {
+      "name": "Bursa Malaysia",
+      "category_focus": ["markets_investment"],
+      "platforms": [
+        { "platform": "X", "url": "https://x.com/BursaMalaysia" },
+        { "platform": "Facebook", "url": "https://www.facebook.com/BursaMalaysia" },
+        { "platform": "Instagram", "url": "https://www.instagram.com/bursamalaysia/" }
+      ]
+    },
+    {
+      "name": "Bank Negara Malaysia",
+      "category_focus": ["markets_investment", "malaysia"],
+      "platforms": [
+        { "platform": "X", "url": "https://x.com/BNM_official" },
+        { "platform": "Facebook", "url": "https://www.facebook.com/bnm.official" },
+        { "platform": "Instagram", "url": "https://www.instagram.com/banknegaramalaysia/" }
+      ]
+    },
+    {
+      "name": "The Star",
+      "category_focus": ["malaysia", "world"],
+      "platforms": [
+        { "platform": "X", "url": "https://x.com/staronline" },
+        { "platform": "Facebook", "url": "https://www.facebook.com/TheStarOnline" },
+        { "platform": "Instagram", "url": "https://www.instagram.com/thestaronline/" }
+      ]
+    },
+    {
+      "name": "Reuters",
+      "category_focus": ["world", "markets_investment"],
+      "platforms": [
+        { "platform": "X", "url": "https://x.com/Reuters" },
+        { "platform": "Facebook", "url": "https://www.facebook.com/Reuters" },
+        { "platform": "Instagram", "url": "https://www.instagram.com/reuters/" }
+      ]
+    },
+    {
+      "name": "Bloomberg Asia",
+      "category_focus": ["markets_investment", "world"],
+      "platforms": [
+        { "platform": "X", "url": "https://x.com/BloombergAsia" },
+        { "platform": "Facebook", "url": "https://www.facebook.com/BloombergAsia" },
+        { "platform": "Instagram", "url": "https://www.instagram.com/bloomberg/" }
+      ]
+    },
+    {
+      "name": "Channel NewsAsia",
+      "category_focus": ["world", "malaysia"],
+      "platforms": [
+        { "platform": "X", "url": "https://x.com/ChannelNewsAsia" },
+        { "platform": "Facebook", "url": "https://www.facebook.com/ChannelNewsAsia" },
+        { "platform": "Instagram", "url": "https://www.instagram.com/channelnewsasia/" }
+      ]
+    }
+  ]
+}
