@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-06-18T12:31:36+08:00",
+  "timezone": "Asia/Kuala_Lumpur",
+  "refresh_interval_hours": 4,
+  "stories": [
+    {
+      "id": "2026-06-18-malaysia-q1-growth-bnm",
+      "category": "malaysia",
+      "headline": "Malaysia's first-quarter growth stays supported by domestic demand",
+      "summary": "Bank Negara Malaysia reported that the economy expanded 5.4% in the first quarter of 2026, with domestic demand remaining the main support. Household spending and investment activity are still central to the growth picture.",
+      "why_it_matters": "This is the baseline for reading Malaysia's policy, earnings, and ringgit outlook because it shows whether local demand is strong enough to absorb external trade risks.",
+      "published_at": "2026-05-22T12:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Bank Negara Malaysia",
+          "url": "https://www.bnm.gov.my/-/gdp1q26pr",
+          "publisher_type": "official"
+        }
+      ],
+      "topics": ["GDP", "domestic demand", "policy"],
+      "importance": 5,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-malaysia-section-301-response",
+      "category": "malaysia",
+      "headline": "Malaysia responds to U.S. Section 301 forced-labour findings",
+      "summary": "MITI published Malaysia's position after USTR findings related to forced labour and proposed trade action. The issue keeps trade compliance and export-sector risk in focus.",
+      "why_it_matters": "Any escalation can matter for manufacturers, exporters, and investors watching Malaysia's access to the U.S. market.",
+      "published_at": "2026-06-04T15:49:00+08:00",
+      "source_links": [
+        {
+          "name": "MITI",
+          "url": "https://www.miti.gov.my/index.php/pages/view/10936",
+          "publisher_type": "official"
+        },
+        {
+          "name": "MITI PDF",
+          "url": "https://www.miti.gov.my/miti/resources/Media%20Release/PR_MALAYSIA%E2%80%99S_POSITION_ON_UNITED_STATES_SECTION_301_TRADE_INVESTIGATIONS_%281%29.pdf",
+          "publisher_type": "official"
+        }
+      ],
+      "topics": ["trade", "exports", "United States"],
+      "importance": 4,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-18-malaysia-april-inflation",
+      "category": "malaysia",
+      "headline": "Malaysia's April inflation rises to 1.9%",
+      "summary": "The Department of Statistics Malaysia reported April consumer inflation at 1.9%, up from March's 1.7%. Inflation remains moderate but is moving higher across the latest releases.",
+      "why_it_matters": "Inflation trends affect household costs, Bank Negara Malaysia policy expectations, and local bond and currency sentiment.",
+      "published_at": "2026-05-25T12:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Department of Statistics Malaysia",
+          "url": "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-apr2026",
+          "publisher_type": "official"
+        },
+        {
+          "name": "Department of Statistics Malaysia",
+          "url": "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-mar2026",
+          "publisher_type": "official"
+        }
+      ],
+      "topics": ["inflation", "consumer prices", "BNM"],
+      "importance": 4,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-18-malaysia-april-trade-china-us",
+      "category": "malaysia",
+      "headline": "Malaysia's April trade report highlights China growth and U.S. export strength",
+      "summary": "MITI's April trade release showed double-digit trade growth with China and continued export expansion to the U.S. The data points to resilient electronics and trade flows despite external uncertainty.",
+      "why_it_matters": "Trade momentum is a key signal for Malaysia's manufacturing cycle, listed exporters, and foreign-exchange sentiment.",
+      "published_at": "2026-05-20T12:00:00+08:00",
+      "source_links": [
+        {
+          "name": "MITI April Trade Performance",
+          "url": "https://www.miti.gov.my/miti/resources/Media%20Release/Press_Release_Trade_Performance_Apr_2026.pdf",
+          "publisher_type": "official"
+        }
+      ],
+      "topics": ["trade", "China", "United States", "exports"],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-asia-shares-oil-iran",
+      "category": "markets_investment",
+      "headline": "Asian shares rise as investors react to U.S.-Iran peace progress",
+      "summary": "AP reported that Asian markets climbed after an initial U.S.-Iran agreement eased geopolitical risk. Oil prices also moved lower as traders reassessed supply risks.",
+      "why_it_matters": "Lower geopolitical risk can support regional equities and reduce inflation pressure through energy prices, but the market reaction can change quickly if talks stall.",
+      "published_at": "2026-06-18T08:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/dc678fb5647a136f75caf2d1fbaa2092",
+          "publisher_type": "wire"
+        }
+      ],
+      "topics": ["Asia equities", "oil", "geopolitics"],
+      "importance": 5,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-fed-rate-signal",
+      "category": "markets_investment",
+      "headline": "Federal Reserve holds rates while signalling possible tightening risk",
+      "summary": "The Guardian reported that the Federal Reserve kept rates steady but surprised markets by signalling a possible rate hike before year end. U.S. equities fell after the decision.",
+      "why_it_matters": "Fed policy is a global anchor for equity valuations, bond yields, the dollar, and emerging-market capital flows.",
+      "published_at": "2026-06-17T20:00:00+08:00",
+      "source_links": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": ["Federal Reserve", "rates", "U.S. equities"],
+      "importance": 5,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-gold-fed-geopolitics",
+      "category": "markets_investment",
+      "headline": "Gold gains after Fed decision and geopolitical shifts",
+      "summary": "The Wall Street Journal reported that gold rose in early Asian trading after the Fed left rates unchanged. Demand from central banks and geopolitical uncertainty remain important support factors.",
+      "why_it_matters": "Gold often reflects the market's view of real yields, central-bank demand, and geopolitical stress, so it is useful for reading risk appetite.",
+      "published_at": "2026-06-18T09:00:00+08:00",
+      "source_links": [
+        {
+          "name": "The Wall Street Journal",
+          "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-after-fed-leaves-rates-unchanged-aacdebef",
+          "publisher_type": "financial"
+        }
+      ],
+      "topics": ["gold", "commodities", "central banks"],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-bursa-listings-watch",
+      "category": "markets_investment",
+      "headline": "Bursa Malaysia listings calendar keeps ACE Market activity in view",
+      "summary": "Bursa Malaysia's listing page shows recent and upcoming ACE Market names, including Pentech Holdings and Elsa Berhad. New listings remain a useful signal for local risk appetite and capital-market activity.",
+      "why_it_matters": "IPO flow helps investors judge liquidity, small-cap sentiment, and which sectors are trying to raise growth capital.",
+      "published_at": "2026-06-18T08:30:00+08:00",
+      "source_links": [
+        {
+          "name": "Bursa Malaysia",
+          "url": "https://www.bursamalaysia.com/",
+          "publisher_type": "official"
+        }
+      ],
+      "topics": ["Bursa Malaysia", "IPO", "ACE Market"],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-world-us-iran-deal",
+      "category": "world",
+      "headline": "U.S.-Iran peace process becomes the main geopolitical market story",
+      "summary": "AP reported an initial signing of a U.S.-Iran deal designed to end the war and open a negotiation period around Iran's nuclear programme. The development is moving oil and global risk sentiment.",
+      "why_it_matters": "Middle East de-escalation can affect energy prices, inflation expectations, shipping risk, and equity sentiment worldwide.",
+      "published_at": "2026-06-18T08:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/dc678fb5647a136f75caf2d1fbaa2092",
+          "publisher_type": "wire"
+        }
+      ],
+      "topics": ["Middle East", "energy", "geopolitics"],
+      "importance": 5,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-world-fed-governance-shift",
+      "category": "world",
+      "headline": "New Fed communication review adds uncertainty to global policy signals",
+      "summary": "The Guardian reported that Fed Chair Kevin Warsh announced taskforces to reassess Fed operations and communication practices. Markets are watching whether this changes how policy guidance is delivered.",
+      "why_it_matters": "Fed communication shapes global expectations for rates, risk assets, and currencies, so changes in signalling can matter even when policy is unchanged.",
+      "published_at": "2026-06-17T20:00:00+08:00",
+      "source_links": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": ["central banks", "policy", "United States"],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-world-global-markets-weekly",
+      "category": "world",
+      "headline": "Global investors keep balancing oil, AI, inflation, and rate risk",
+      "summary": "T. Rowe Price's latest global markets update highlighted recent volatility around oil prices, inflation data, AI-related stocks, and broader market leadership. The mix keeps portfolio positioning sensitive to headlines.",
+      "why_it_matters": "These are the cross-currents affecting global risk assets and can spill into Malaysian equities, currencies, and commodities.",
+      "published_at": "2026-06-12T12:00:00+08:00",
+      "source_links": [
+        {
+          "name": "T. Rowe Price",
+          "url": "https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html",
+          "publisher_type": "financial"
+        }
+      ],
+      "topics": ["global markets", "oil", "AI", "inflation"],
+      "importance": 3,
+      "confidence": "verified"
+    }
+  ]
+}
