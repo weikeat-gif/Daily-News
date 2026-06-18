@@ -465,6 +465,15 @@ h1 {
   gap: 8px;
 }
 
+.source-label {
+  flex: 1 0 100%;
+  color: var(--muted);
+  font-size: 0.76rem;
+  font-weight: 850;
+  text-align: right;
+  text-transform: uppercase;
+}
+
 .source-row a,
 .empty-state button {
   display: inline-flex;
@@ -589,6 +598,10 @@ h1 {
 
   .source-row {
     justify-content: flex-start;
+  }
+
+  .source-label {
+    text-align: left;
   }
 }
 

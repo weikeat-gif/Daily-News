@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T13:41:29+08:00",
+  "generated_at": "2026-06-18T14:08:00+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
@@ -317,6 +317,304 @@
       ],
       "topics": ["global markets", "oil", "AI", "inflation"],
       "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-malaysia-stadium-ceo-graft-the-star",
+      "category": "malaysia",
+      "headline": "Malaysia Stadium Corporation CEO claims trial to graft charges",
+      "summary": "The Star reported that Malaysia Stadium Corporation CEO Iliyas Jamil pleaded not guilty to seven graft charges linked to a tender for upgrades at the National Squash Centre in Bukit Jalil.",
+      "why_it_matters": "The case keeps public procurement, sports infrastructure governance, and anti-corruption enforcement in focus.",
+      "published_at": "2026-06-18T11:35:00+08:00",
+      "source_links": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/news/nation/2026/06/18/malaysia-stadium-corporation-ceo-claims-trial-to-graft-charges-over-squash-centre-tender",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": ["governance", "court", "anti-corruption"],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-malaysia-russia-energy-trade-star",
+      "category": "malaysia",
+      "headline": "Malaysia and Russia explore energy and trade cooperation",
+      "summary": "The Star reported that Malaysia and Russia discussed cooperation in energy and trade, with the Prime Minister's Office identifying energy as an area for deeper strategic engagement.",
+      "why_it_matters": "Energy and trade ties can influence Malaysia's commodity, investment, and diplomatic positioning during a period of global supply uncertainty.",
+      "published_at": "2026-06-18T09:27:00+08:00",
+      "source_links": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/news/nation/2026/06/18/malaysia-russia-to-explore-strategic-cooperation-in-energy-and-trade-says-pmo",
+          "publisher_type": "news"
+        },
+        {
+          "name": "The Star Facebook",
+          "url": "https://www.facebook.com/TheStarOnline/posts/according-to-the-prime-ministers-office-pmo-both-leaders-discussed-various-aspec/1481430467352807/",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": ["Russia", "energy", "trade"],
+      "importance": 4,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-18-malaysia-putin-ties-malay-mail",
+      "category": "malaysia",
+      "headline": "Putin says Russia and Malaysia are well placed to deepen ties",
+      "summary": "Malay Mail reported that Russian President Vladimir Putin said both countries have a strong foundation to expand cooperation ahead of the 60th anniversary of diplomatic relations.",
+      "why_it_matters": "The remarks add diplomatic context to Malaysia's energy, trade, tourism, education, and ASEAN-Russia engagement.",
+      "published_at": "2026-06-18T08:39:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/18/putin-russia-malaysia-well-placed-to-deepen-ties-as-60th-anniversary-nears/224197",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": ["Russia", "diplomacy", "ASEAN"],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-malaysia-anwar-putin-gaza-iran",
+      "category": "malaysia",
+      "headline": "Anwar praises Russia's stance on Gaza and Iran",
+      "summary": "Malay Mail reported that Prime Minister Anwar Ibrahim thanked Vladimir Putin for Russia's position on Gaza and the geopolitical situation involving Iran during their meeting in Kazan.",
+      "why_it_matters": "Malaysia's foreign-policy messaging matters for diplomatic alignment, ASEAN engagement, and public reaction to Middle East developments.",
+      "published_at": "2026-06-18T08:46:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/amp/news/malaysia/2026/06/18/anwar-praises-putins-consistent-stance-on-gaza-and-iran/224202",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": ["Gaza", "Iran", "foreign policy"],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-malaysia-fuel-prices-diesel-star",
+      "category": "malaysia",
+      "headline": "Diesel price in Peninsular Malaysia falls 30 sen for June 18-24",
+      "summary": "The Star reported that the unsubsidised retail diesel price in Peninsular Malaysia will fall to RM4.37 per litre from June 18 to 24, while RON95 and RON97 remain unchanged.",
+      "why_it_matters": "Fuel prices feed directly into transport costs, household budgets, logistics margins, and inflation expectations.",
+      "published_at": "2026-06-17T18:45:00+08:00",
+      "source_links": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/news/nation/2026/06/17/fuel-prices-june-18-24-diesel-in-peninsula-down-30sen-ron95-ron97-unchanged",
+          "publisher_type": "news"
+        },
+        {
+          "name": "The Edge Malaysia X",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": ["fuel", "diesel", "inflation"],
+      "importance": 4,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-18-malaysia-stpm-results-malay-mail",
+      "category": "malaysia",
+      "headline": "STPM 2025 sees record number of perfect 4.0 CGPA candidates",
+      "summary": "Malay Mail reported that 1,336 candidates achieved a perfect 4.00 CGPA in STPM 2025, up from 1,266 candidates previously, contributing to a higher national CGPA.",
+      "why_it_matters": "Education outcomes affect university intake, scholarship competition, and the long-term skills pipeline.",
+      "published_at": "2026-06-18T13:05:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail",
+          "url": "https://www.malaymail.com/",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": ["education", "STPM", "students"],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-top-glove-profit-star",
+      "category": "markets_investment",
+      "headline": "Top Glove's nine-month profit jumps 64%",
+      "summary": "The Star market page highlighted Top Glove's stronger nine-month profit, supported by better sales and margins as the glove sector continues to recover from the post-pandemic downturn.",
+      "why_it_matters": "Glove-sector earnings are a bellwether for Bursa healthcare names and for whether the industry recovery is broadening beyond cost cuts.",
+      "published_at": "2026-06-18T12:35:00+08:00",
+      "source_links": [
+        {
+          "name": "The Star Markets",
+          "url": "https://www.thestar.com.my/news/nation",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": ["Top Glove", "earnings", "healthcare"],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-glove-recovery-star",
+      "category": "markets_investment",
+      "headline": "Research says glove firms are at strongest point since downturn",
+      "summary": "The Star reported that BIMB Research sees the Malaysian rubber glove industry entering the second half of 2026 from its strongest position since the post-pandemic downturn.",
+      "why_it_matters": "This helps investors judge whether glove stocks are entering a sustainable recovery or only a temporary earnings rebound.",
+      "published_at": "2026-06-18T11:35:00+08:00",
+      "source_links": [
+        {
+          "name": "The Star",
+          "url": "https://www.thestar.com.my/business/business-news/2026/06/18/glove-firms-at-strongest-since-downturn",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": ["gloves", "Bursa", "healthcare"],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-edge-day-ahead-social",
+      "category": "markets_investment",
+      "headline": "The Edge flags key market events to watch on June 18",
+      "summary": "The Edge Malaysia's public Facebook video highlighted the day's watchlist for investors, including corporate events and market-moving developments.",
+      "why_it_matters": "A daily market watchlist helps identify which corporate names and events may drive local trading attention.",
+      "published_at": "2026-06-18T08:00:00+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia Facebook",
+          "url": "https://www.facebook.com/theedgemalaysia/videos/your-day-ahead-june-18-2026heres-a-heads-up-on-what-to-look-out-for-today/3177106589156361/",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": ["watchlist", "Bursa", "corporate news"],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-vantris-pn17-edge-social",
+      "category": "markets_investment",
+      "headline": "Bursa approves Vantris Energy's PN17 upliftment",
+      "summary": "The Edge Malaysia's public Facebook video said Bursa approved Vantris Energy's PN17 upliftment, putting the oil and gas name back into focus for market watchers.",
+      "why_it_matters": "PN17 status changes can shift investor perception, liquidity, and risk appetite toward affected Bursa-listed companies.",
+      "published_at": "2026-06-16T17:30:00+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia Facebook",
+          "url": "https://www.facebook.com/theedgemalaysia/videos/e5-bursa-approves-vantris-energys-pn17-upliftmentthe-oil-and-gas-giant-formerly-/1332959794832673/",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": ["Vantris Energy", "PN17", "oil and gas"],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-klci-edge-x",
+      "category": "markets_investment",
+      "headline": "FBM KLCI performance stays on the local market watchlist",
+      "summary": "The Edge Malaysia posted a public X update summarising Bursa Malaysia indices and ringgit performance, including an FBM KLCI move earlier in the week.",
+      "why_it_matters": "Quick market snapshots from credible outlets help track local equity and currency momentum between longer market reports.",
+      "published_at": "2026-06-15T18:00:00+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia X",
+          "url": "https://x.com/theedgemalaysia/status/2066453554504872070",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": ["FBM KLCI", "ringgit", "Bursa"],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-markets-gas-malaysia-lng-instagram",
+      "category": "markets_investment",
+      "headline": "Gas Malaysia LNG terminal plan highlights energy-infrastructure demand",
+      "summary": "A public Instagram post reported that Gas Malaysia entered a joint development agreement with Tokyo Gas and VTTI to develop a new LNG regasification terminal in Yan, Kedah.",
+      "why_it_matters": "LNG infrastructure affects Malaysia's energy security, gas supply optionality, and investment themes around utilities and industrial demand.",
+      "published_at": "2026-06-11T18:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/p/DZT3dCbEnIw/",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": ["LNG", "Gas Malaysia", "energy infrastructure"],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-18-world-us-iran-mou-ap-latest",
+      "category": "world",
+      "headline": "U.S.-Iran deal takes immediate effect, Pakistan premier says",
+      "summary": "AP's latest live coverage said a U.S.-Iran memorandum of understanding had taken immediate effect after both sides signed, according to Pakistan's prime minister.",
+      "why_it_matters": "The agreement is currently the central world story because it affects oil flows, sanctions, regional security, and global market sentiment.",
+      "published_at": "2026-06-18T12:10:00+08:00",
+      "source_links": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/a7ab28d9b34edfaa2061a67616f610bc",
+          "publisher_type": "wire"
+        }
+      ],
+      "topics": ["Iran", "United States", "Strait of Hormuz"],
+      "importance": 5,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-world-iran-deal-reactions-guardian",
+      "category": "world",
+      "headline": "Iran deal draws anger, relief and disbelief around the world",
+      "summary": "The Guardian reported mixed reactions to the Trump-Iran agreement, with relief from some leaders and strong criticism from Israeli and U.S. political voices.",
+      "why_it_matters": "The reaction shows the deal may calm oil markets while still creating diplomatic and domestic political risks.",
+      "published_at": "2026-06-18T10:45:00+08:00",
+      "source_links": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jun/18/donald-trump-iran-deal-reactions-anger-relief-incredulity",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": ["Iran", "diplomacy", "geopolitics"],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-world-iran-oil-revenue-wsj",
+      "category": "world",
+      "headline": "Iran deal could turbocharge oil revenue",
+      "summary": "The Wall Street Journal reported that the U.S.-Iran deal may allow Iran to officially resume oil and fuel exports, potentially lifting revenues if sanctions relief holds.",
+      "why_it_matters": "A return of Iranian oil supply would matter for crude prices, OPEC strategy, inflation, and energy-linked equities.",
+      "published_at": "2026-06-18T09:40:00+08:00",
+      "source_links": [
+        {
+          "name": "The Wall Street Journal",
+          "url": "https://www.wsj.com/world/middle-east/deal-gives-iran-chance-to-turbocharge-its-oil-revenue-5b481eb6",
+          "publisher_type": "financial"
+        }
+      ],
+      "topics": ["Iran", "oil", "sanctions"],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-06-18-world-jpmorgan-oil-supply-marketwatch",
+      "category": "world",
+      "headline": "JPMorgan says markets are betting oil supply normalizes quickly",
+      "summary": "MarketWatch cited JPMorgan's trading desk view that markets are pricing in faster normalization of global oil supply after details of the U.S.-Iran memorandum emerged.",
+      "why_it_matters": "Oil-supply expectations flow directly into inflation forecasts, central-bank assumptions, and equity-sector leadership.",
+      "published_at": "2026-06-18T09:05:00+08:00",
+      "source_links": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-federal-reserve-meeting-interest-rate-decision-14-point-plan/card/the-market-is-still-betting-oil-supply-could-normalize-quickly-after-mou-leaked-says-jpmorgan-0D6iKX4fQJ0kxzy1VP0R",
+          "publisher_type": "financial"
+        }
+      ],
+      "topics": ["JPMorgan", "oil supply", "markets"],
+      "importance": 4,
       "confidence": "verified"
     }
   ]

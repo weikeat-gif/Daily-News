@@ -107,6 +107,11 @@ function getImportanceLabel(score: number) {
   return 'Developing'
 }
 
+function storyTimestamp(story: Story) {
+  const timestamp = new Date(story.published_at).getTime()
+  return Number.isNaN(timestamp) ? 0 : timestamp
+}
+
 function normalizeImportance(score: number) {
   if (!Number.isFinite(score)) return 0
   const scaledScore = score <= 5 ? score * 20 : score
@@ -187,7 +192,11 @@ function App() {
           .toLowerCase()
         return haystack.includes(normalizedQuery)
       })
-      .sort((a, b) => normalizeImportance(b.importance) - normalizeImportance(a.importance))
+      .sort((a, b) => {
+        const byReleaseTime = storyTimestamp(b) - storyTimestamp(a)
+        if (byReleaseTime !== 0) return byReleaseTime
+        return normalizeImportance(b.importance) - normalizeImportance(a.importance)
+      })
   }, [activeCategory, activeConfidence, normalizedQuery, stories])
 
   const data = loadState.status === 'loaded' ? loadState.data : null
@@ -206,8 +215,8 @@ function App() {
             <p className="section-kicker">Morning briefing</p>
             <h1 id="page-title">A calmer read on the stories moving today.</h1>
             <p className="lede">
-              Scan the most important Malaysia, markets, and world updates with clear context,
-              confidence labels, and direct source access.
+              Scan the newest Malaysia, markets, and world updates with clear summaries,
+              confidence labels, and direct links when you want the full story.
             </p>
           </div>
 
@@ -287,7 +296,7 @@ function App() {
           <section className="summary-strip" aria-label="Briefing summary">
             <Metric label="Stories" value={stories.length.toString()} />
             <Metric label="Showing" value={filteredStories.length.toString()} />
-            <Metric label="Top signal" value={topStory ? getImportanceLabel(topStory.importance) : 'None'} />
+            <Metric label="Sorted by" value={topStory ? 'Latest first' : 'None'} />
           </section>
 
           {filteredStories.length > 0 ? (
@@ -357,6 +366,7 @@ function StoryCard({ story, timezone }: { story: Story; timezone: string }) {
         </div>
 
         <div className="source-row" aria-label="Sources">
+          <span className="source-label">Read full story</span>
           {story.source_links.map((source) => (
             <a
               href={source.url}
