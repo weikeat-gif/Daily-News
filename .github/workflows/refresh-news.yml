@@ -1,0 +1,40 @@
+name: Refresh Daily News
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Refresh public feeds
+        run: python scripts/refresh_public_feeds.py
+
+      - name: Validate news data
+        run: npm run validate:news
+
+      - name: Build site
+        run: npm run build
+
+      - name: Commit refreshed data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Refresh public news feed
+          file_pattern: data/news.json public/data/news.json

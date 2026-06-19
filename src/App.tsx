@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import { ExternalLink, RotateCcw, Search } from 'lucide-react'
 
 type Category = 'malaysia' | 'markets_investment' | 'world'
@@ -69,6 +69,7 @@ const confidenceOrder: Array<Confidence | 'all'> = [
   'cross_checked',
   'reported_unconfirmed',
 ]
+const AUTO_REFRESH_MS = 5 * 60 * 1000
 
 function isNewsPayload(value: unknown): value is NewsPayload {
   if (!value || typeof value !== 'object') return false
@@ -120,43 +121,64 @@ function normalizeImportance(score: number) {
 
 function App() {
   const [loadState, setLoadState] = useState<LoadState>({ status: 'loading' })
+  const [lastCheckedAt, setLastCheckedAt] = useState<string | null>(null)
+  const [isRefreshing, setIsRefreshing] = useState(false)
+  const [refreshError, setRefreshError] = useState<string | null>(null)
   const [activeCategory, setActiveCategory] = useState<Category | 'all'>('all')
   const [activeConfidence, setActiveConfidence] = useState<Confidence | 'all'>('all')
   const [query, setQuery] = useState('')
 
-  useEffect(() => {
-    const controller = new AbortController()
-
-    async function loadNews() {
-      try {
-        const response = await fetch('/data/news.json', {
-          cache: 'no-store',
-          signal: controller.signal,
-        })
-
-        if (!response.ok) {
-          throw new Error(`News feed returned ${response.status}`)
-        }
-
-        const json = (await response.json()) as unknown
-        if (!isNewsPayload(json)) {
-          throw new Error('News feed shape does not match the shared contract')
-        }
-
-        setLoadState({ status: 'loaded', data: json })
-      } catch (error) {
-        if (controller.signal.aborted) return
-        setLoadState({
-          status: 'error',
-          message: error instanceof Error ? error.message : 'Unable to load the briefing',
-        })
-      }
+  const loadNews = useCallback(async (background = false) => {
+    if (background) {
+      setIsRefreshing(true)
+    } else {
+      setLoadState({ status: 'loading' })
     }
 
-    loadNews()
+    try {
+      const response = await fetch(`/data/news.json?refresh=${Date.now()}`, {
+        cache: 'no-store',
+      })
 
-    return () => controller.abort()
+      if (!response.ok) {
+        throw new Error(`News feed returned ${response.status}`)
+      }
+
+      const json = (await response.json()) as unknown
+      if (!isNewsPayload(json)) {
+        throw new Error('News feed shape does not match the shared contract')
+      }
+
+      setLoadState({ status: 'loaded', data: json })
+      setLastCheckedAt(new Date().toISOString())
+      setRefreshError(null)
+    } catch (error) {
+      const message = error instanceof Error ? error.message : 'Unable to load the briefing'
+      if (background) {
+        setRefreshError(message)
+      } else {
+        setLoadState({ status: 'error', message })
+      }
+    } finally {
+      setIsRefreshing(false)
+    }
   }, [])
+
+  useEffect(() => {
+    loadNews()
+    const intervalId = window.setInterval(() => loadNews(true), AUTO_REFRESH_MS)
+
+    function handleFocus() {
+      loadNews(true)
+    }
+
+    window.addEventListener('focus', handleFocus)
+
+    return () => {
+      window.clearInterval(intervalId)
+      window.removeEventListener('focus', handleFocus)
+    }
+  }, [loadNews])
 
   useEffect(() => {
     function handlePointerMove(event: PointerEvent) {
@@ -225,8 +247,20 @@ function App() {
               <>
                 <span>Generated</span>
                 <strong>{formatDateTime(data.generated_at, data.timezone)}</strong>
-                <span>Refresh rhythm</span>
-                <strong>Every {data.refresh_interval_hours} hours</strong>
+                <span>Last checked</span>
+                <strong>{lastCheckedAt ? formatDateTime(lastCheckedAt, data.timezone) : 'Checking'}</strong>
+                <span>Auto check</span>
+                <strong>{isRefreshing ? 'Checking now' : 'Every 5 minutes'}</strong>
+                {refreshError && (
+                  <>
+                    <span>Latest check</span>
+                    <strong>{refreshError}</strong>
+                  </>
+                )}
+                <button className="status-refresh" type="button" onClick={() => loadNews(true)}>
+                  <RotateCcw aria-hidden="true" size={16} strokeWidth={2.4} />
+                  Refresh
+                </button>
               </>
             ) : (
               <>

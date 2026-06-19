@@ -1,73 +1,1238 @@
 {
-  "generated_at": "2026-06-19T01:52:20+08:00",
+  "generated_at": "2026-06-19T17:23:21+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-06-19-bern-asean-sco-cross-border-energy",
-      "category": "malaysia",
-      "headline": "Anwar urges ASEAN and SCO to pool resources on crime and energy security",
-      "summary": "BERNAMA's latest top story says Prime Minister Anwar Ibrahim called for ASEAN and the Shanghai Cooperation Organisation to work more closely on cross-border crime and energy security. The item is being treated as a regional policy signal from Malaysia's Russia-ASEAN summit engagements.",
-      "why_it_matters": "Security and energy cooperation are central to Malaysia's regional diplomacy and can affect trade, fuel security, and foreign investment sentiment.",
-      "published_at": "2026-06-19T01:16:00+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA ASEAN",
-          "url": "https://asean.bernama.com/news.php?id=2570196",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X @bernamadotcom",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Instagram @bernamaofficial",
-          "url": "https://www.instagram.com/bernamaofficial/",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "ASEAN",
-        "SCO",
-        "energy security",
-        "cross-border crime"
-      ],
-      "importance": 5,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-19-asean-russia-kazan-declaration",
+      "id": "2026-06-19-scdf-opens-marine-hq-on-pulau-brani-with-real-time-surveillance-tech-ship-rescue-t",
       "category": "world",
-      "headline": "ASEAN and Russia adopt Kazan Declaration for broader strategic partnership",
-      "summary": "ASEAN and Russia adopted the Kazan Declaration, setting out cooperation in security, energy, agriculture, digitalisation, AI and cultural links. BERNAMA reported the outcome after the ASEAN-Russia commemorative summit in Kazan.",
-      "why_it_matters": "The declaration gives Malaysia and ASEAN another channel for energy, trade and technology cooperation while geopolitical alignments remain fluid.",
-      "published_at": "2026-06-19T00:44:00+08:00",
+      "headline": "SCDF opens marine HQ on Pulau Brani with real-time surveillance tech, ship rescue training facilities",
+      "summary": "The four-storey facility on Pulau Brani also houses a dedicated ground control station where officers can remotely operate drones and support ongoing trials of an unmanned surface vessel.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T17:15:05+08:00",
       "source_links": [
         {
-          "name": "BERNAMA ASEAN",
-          "url": "https://asean.bernama.com/news.php?id=2570232",
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/singapore/scdf-marine-division-maritime-response-6194701",
           "publisher_type": "news"
         },
         {
-          "name": "Facebook Bernama TV",
-          "url": "https://www.facebook.com/BernamaTV",
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
           "publisher_type": "social"
         },
         {
-          "name": "X @bernamadotcom",
-          "url": "https://x.com/bernamadotcom",
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
         }
       ],
       "topics": [
-        "ASEAN",
-        "Russia",
-        "energy",
-        "AI"
+        "latest update"
       ],
       "importance": 4,
       "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-19-new-mosque-to-rise-in-front-of-trx-as-bukit-bintang-seeks-permanent-worship-space",
+      "category": "malaysia",
+      "headline": "New mosque to rise in front of TRX as Bukit Bintang seeks permanent worship space",
+      "summary": "KUALA LUMPUR — A new mosque to be known as Masjid Warisan is being planned on a site in front of the Tun Razak Exc...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T17:08:51+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/new-mosque-to-rise-in-front-of-trx-as-bukit-bintang-seeks-permanent-worship-space/224449",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-is-the-whole-barrel-rotten-australian-lawmakers-grilling-kpmg-suggest-more-regulat",
+      "category": "markets_investment",
+      "headline": "‘Is the whole barrel rotten?’ Australian lawmakers, grilling KPMG, suggest more regulation of audit industry may be needed",
+      "summary": "Lawmakers question efficacy of partnership structureKPMG lambasted for treatment of whistleblowerFormer CEO says KPMG di...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-19T17:04:40+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/19/is-the-whole-barrel-rotten-australian-lawmakers-grilling-kpmg-suggest-more-regulation-of-audit-industry-may-be-needed/224446",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-teacher-among-four-arrested-on-suspicion-of-using-besut-house-as-drug-den",
+      "category": "malaysia",
+      "headline": "Teacher among four arrested on suspicion of using Besut house as drug den",
+      "summary": "KUALA LUMPUR, June 19 — Police have arrested four men, including a teacher, after raiding a house suspected of bei...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T16:43:33+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/teacher-among-four-arrested-on-suspicion-of-using-besut-house-as-drug-den/224437",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-low-water-levels-at-major-dams-trigger-cloud-seeding-and-fire-warning-in-sarawak",
+      "category": "malaysia",
+      "headline": "Low water levels at major dams trigger cloud seeding and fire warning in Sarawak",
+      "summary": "KUCHING, June 19 — The water level at Batang Ai Dam is currently at ‘Event and Drought Emergency Level 1&rsq...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T16:26:27+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/low-water-levels-at-major-dams-trigger-cloud-seeding-and-fire-warning-in-sarawak/224442",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-uzbekistan-eyes-july-accession-to-tac-sees-malaysia-as-key-gateway-bernama",
+      "category": "malaysia",
+      "headline": "Uzbekistan Eyes July Accession To TAC, Sees Malaysia As Key Gateway - Bernama",
+      "summary": "Uzbekistan Eyes July Accession To TAC, Sees Malaysia As Key Gateway Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T16:16:41+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lTnpLYkZHMW1POVdqTWUyd051SHdRNnBnQnY2OEZrUkU0QVZMWUhPcF9tQS11bWpxY2VicVpaOFdFMjhzN0VhMDR1UGFZamsxZ19raW9MUDY?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-19-cambodian-court-upholds-political-ban-on-opposition-politician",
+      "category": "world",
+      "headline": "Cambodian court upholds political ban on Opposition politician",
+      "summary": "PHNOM PENH, June 19 — Cambodia’s top court suspended today a prison sentence handed to opposition politician...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T16:16:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/19/cambodian-court-upholds-political-ban-on-opposition-politician/224438",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-high-court-sets-aside-subpoena-for-anwar-to-testify-in-rm30m-civil-suit-against-bu",
+      "category": "malaysia",
+      "headline": "High Court sets aside subpoena for Anwar to testify in RM30m civil suit against businessman and wife",
+      "summary": "KUALA LUMPUR, June 19 — The High Court here has set aside a subpoena requiring Prime Minister Datuk Seri Anwar Ibr...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T16:09:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/high-court-sets-aside-subpoena-for-anwar-to-testify-in-rm30m-civil-suit-against-businessman-and-wife/224436",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-chief-justice-public-trust-is-judiciary-s-most-valuable-asset-must-be-earned",
+      "category": "malaysia",
+      "headline": "Chief Justice: Public trust is judiciary’s most valuable asset, must be earned",
+      "summary": "KUALA LUMPUR, June 19 — Public trust remains the judiciary’s most valuable asset and must be earned through...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T15:40:36+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/chief-justice-public-trust-is-judiciarys-most-valuable-asset-must-be-earned/224434",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-court-sentences-grandfather-to-33-years-jail-14-strokes-for-raping-and-sexually-as",
+      "category": "malaysia",
+      "headline": "Court sentences grandfather to 33 years jail, 14 strokes for raping and sexually assaulting his granddaughters",
+      "summary": "KUALA LUMPUR, June 19 — A 67-year-old man was sentenced to 33 years’ jail and 14 strokes of the cane by the...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T15:36:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/court-sentences-grandfather-to-33-years-jail-14-strokes-for-raping-and-sexually-assaulting-his-granddaughters/224432",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-immigration-dg-actual-number-of-refugees-in-malaysia-higher-than-unhcr-s-200-000-f",
+      "category": "malaysia",
+      "headline": "Immigration DG: Actual number of refugees in Malaysia higher than UNHCR’s 200,000 figure",
+      "summary": "KUALA LUMPUR, June 19 — The Immigration Department today said the actual number of refugees in Malaysia is believe...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T14:59:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/immigration-dg-actual-number-of-refugees-in-malaysia-higher-than-unhcrs-200000-figure/224425",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-malaysia-s-inflation-up-2pc-in-may-as-information-food-and-housing-groups-record-g",
+      "category": "malaysia",
+      "headline": "Malaysia’s inflation up 2pc in May as information, food and housing groups record gains, says DOSM",
+      "summary": "KUALA LUMPUR, June 19 — Malaysia’s inflation increased 2.0 per cent in May 2026 with the index points rising...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T14:53:04+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/19/malaysias-inflation-up-2pc-in-may-as-information-food-and-housing-groups-record-gains-says-dosm/224429",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-selangor-hawkers-to-get-six-month-rent-discount-from-july-under-state-relief-packa",
+      "category": "malaysia",
+      "headline": "Selangor hawkers to get six-month rent discount from July under state relief package",
+      "summary": "SHAH ALAM, June 19 — The Selangor government will provide a 30 per cent rental reduction for hawkers and traders o...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T14:44:08+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/selangor-hawkers-to-get-six-month-rent-discount-from-july-under-state-relief-package/224426",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-pakatan-top-leaders-will-decide-puteri-wangsa-seat-dispute-says-pkr-sec-gen",
+      "category": "malaysia",
+      "headline": "Pakatan top leaders will decide Puteri Wangsa seat dispute, says PKR sec-gen",
+      "summary": "JOHOR BAHRU, June 19 — PKR and Parti Amanah Negara (Amanah) leadership will hold talks soon to resolve a dispute o...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T14:27:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/pakatan-top-leaders-will-decide-puteri-wangsa-seat-dispute-says-pkr-sec-gen/224424",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-as-pigeon-munching-croc-settles-near-kuching-floating-mosque-sarawak-minister-urge",
+      "category": "malaysia",
+      "headline": "As pigeon-munching croc settles near Kuching floating mosque, Sarawak minister urges forestry agency to act",
+      "summary": "KUCHING, June 19 — Dato Sri Abdul Karim Rahman Hamzah has called on the Sarawak Forestry Corporation (SFC) to take...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T14:17:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/as-pigeon-munching-croc-settles-near-kuching-floating-mosque-sarawak-minister-urges-forestry-agency-to-act/224420",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-beijing-calls-uk-jailing-of-chinese-britons-for-spying-a-political-farce",
+      "category": "world",
+      "headline": "Beijing calls UK jailing of Chinese‑Britons for spying ‘a political farce’",
+      "summary": "BEIJING, June 19 — China called Britain’s jailing of two dual Chinese-British nationals for spying on behalf...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T13:55:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/19/beijing-calls-uk-jailing-of-chinesebritons-for-spying-a-political-farce/224417",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-pkr-puts-rafizi-nik-nazmi-exit-under-legal-review-wong-chen-faces-disciplinary-pro",
+      "category": "malaysia",
+      "headline": "PKR puts Rafizi, Nik Nazmi exit under legal review, Wong Chen faces disciplinary process",
+      "summary": "JOHOR BAHRU, June 19 — PKR will refer any legal considerations involving former Pandan MP Datuk Seri Rafizi Ramli...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T13:54:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/pkr-puts-rafizi-nik-nazmi-exit-under-legal-review-wong-chen-faces-disciplinary-process/224416",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-thai-court-jails-man-for-18-months-over-royal-facebook-comment-rights-group-says",
+      "category": "world",
+      "headline": "Thai court jails man for 18 months over royal Facebook comment, rights group says",
+      "summary": "BANGKOK, June 19 — A Thai court sentenced a man to 18 months in prison for royal defamation over a comment posted...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T13:44:53+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/19/thai-court-jails-man-for-18-months-over-royal-facebook-comment-rights-group-says/224415",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-selangor-expands-rm100m-financing-scheme-to-help-contractors-weather-supply-crunch",
+      "category": "malaysia",
+      "headline": "Selangor expands RM100m financing scheme to help contractors weather supply crunch",
+      "summary": "SHAH ALAM, June 19 — The Selangor state government plans to expand its Selangor Advance (SA500) programme to suppo...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T13:39:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/selangor-expands-rm100m-financing-scheme-to-help-contractors-weather-supply-crunch/224414",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-us-probes-germany-over-pharma-pricing-policies-in-move-that-could-lead-to-new-tari",
+      "category": "world",
+      "headline": "US probes Germany over pharma pricing policies in move that could lead to new tariffs",
+      "summary": "WASHINGTON, June 19 — The United States yesterday started an investigation into Germany over its pharmaceutical pr...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T13:39:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/19/us-probes-germany-over-pharma-pricing-policies-in-move-that-could-lead-to-new-tariffs/224413",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-sultan-ibrahim-in-role-as-police-honorary-commissioner-receives-security-briefing-",
+      "category": "malaysia",
+      "headline": "Sultan Ibrahim, in role as police honorary commissioner, receives security briefing from top cop",
+      "summary": "KUALA LUMPUR, June 19 — His Majesty Sultan Ibrahim, King of Malaysia, today granted an audience to Inspector-Gener...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T13:25:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/sultan-ibrahim-in-role-as-police-honorary-commissioner-receives-security-briefing-from-top-cop/224409",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-switzerland-says-us-iran-talks-called-off-today-after-vance-cancels-trip",
+      "category": "world",
+      "headline": "Switzerland says US-Iran talks called off today after Vance cancels trip",
+      "summary": "GENEVA, June 19 — Talks that had ‌been planned for today between the United ‌States and Iran at the Burg...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T13:23:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/19/switzerland-says-us-iran-talks-called-off-today-after-vance-cancels-trip/224411",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-pkr-sec-gen-confirms-party-candidates-list-99pc-ready-for-johor-negeri-sembilan-po",
+      "category": "malaysia",
+      "headline": "PKR sec-gen confirms party candidates’ list ‘99pc’ ready for Johor, Negeri Sembilan polls",
+      "summary": "JOHOR BAHRU, June 19 — PKR’s list of candidates for the upcoming Johor and Negeri Sembilan state elections i...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T13:19:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/pkr-sec-gen-confirms-party-candidates-list-99pc-ready-for-johor-negeri-sembilan-polls/224412",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-dosm-malaysia-s-may-trade-jumps-29-8pc-to-rm327-6b-jan-may-total-hits-record-rm1-5",
+      "category": "malaysia",
+      "headline": "DOSM: Malaysia’s May trade jumps 29.8pc to RM327.6b; Jan-May total hits record RM1.5t",
+      "summary": "KUALA LUMPUR, June 19 — Malaysia’s total trade in May 2026 rose by 29.8 per cent year-on-year to RM327.6 bil...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T13:09:25+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/19/dosm-malaysias-may-trade-jumps-298pc-to-rm3276b-jan-may-total-hits-record-rm15t/224405",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-sabah-first-ewon-says-upko-s-grs-entry-is-about-standing-as-strong-as-sarawak",
+      "category": "malaysia",
+      "headline": "Sabah first: Ewon says Upko's GRS entry is about standing as strong as Sarawak",
+      "summary": "KOTA BELUD, June 19 — United Progressive Kinabalu Organisation (Upko) President Datuk Ewon Benedick said the party...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T12:55:25+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/sabah-first-ewon-says-upkos-grs-entry-is-about-standing-as-strong-as-sarawak/224402",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-transport-minister-says-jpj-has-bigger-road-safety-concerns-than-car-sunshades",
+      "category": "malaysia",
+      "headline": "Transport minister says JPJ has bigger road safety concerns than car sunshades",
+      "summary": "KUALA LUMPUR, June 19 — Transport Minister Anthony Loke today clarified that the Road Transport Department (JPJ) i...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T12:54:42+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/transport-minister-says-jpj-has-bigger-road-safety-concerns-than-car-sunshades/224400",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-hadi-keeps-mum-on-perikatan-turmoil-says-ahmad-samsuri-s-statement-is-enough",
+      "category": "malaysia",
+      "headline": "Hadi keeps mum on Perikatan turmoil, says Ahmad Samsuri’s statement is ‘enough’",
+      "summary": "KUALA LUMPUR, June 19 — PAS president Tan Sri Abdul Hadi Awang has declined to comment on current developments in...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T12:40:39+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/hadi-keeps-mum-on-perikatan-turmoil-says-ahmad-samsuris-statement-is-enough/224393",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-us-tells-asml-it-is-concerned-one-of-its-chipmaking-tools-may-be-in-china-bloomber",
+      "category": "world",
+      "headline": "US tells ASML it is concerned one of its chipmaking tools may be in China, Bloomberg News reports",
+      "summary": "WASHINGTON, June 19 — US Commerce Secretary Howard Lutnick has ‌told ASML that Washington is concerned that o...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T12:31:35+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/19/us-tells-asml-it-is-concerned-one-of-its-chipmaking-tools-may-be-in-china-bloomberg-news-reports/224390",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-anwar-in-ashgabat-for-two-day-official-trip-to-boost-malaysia-turkmenistan-ties",
+      "category": "malaysia",
+      "headline": "Anwar in Ashgabat for two-day official trip to boost Malaysia-Turkmenistan ties",
+      "summary": "ASHGABAT (Turkmenistan), June 19 — After completing a two-day working visit to Kazan, Republic of Tatarstan, Prime...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T12:31:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/anwar-in-ashgabat-for-two-day-official-trip-to-boost-malaysia-turkmenistan-ties/224377",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-police-probe-suspected-robbery-after-teen-girl-found-injured-in-tumpat",
+      "category": "malaysia",
+      "headline": "Police probe suspected robbery after teen girl found injured in Tumpat",
+      "summary": "KOTA BHARU, June 19 — A 15-year-old girl sustained serious injuries in a suspected robbery at Kampung Mesira, Pale...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T12:25:18+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/police-probe-suspected-robbery-after-teen-girl-found-injured-in-tumpat/224384",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-reported-missing-from-johor-at-15-woman-now-21-found-with-child-in-langkawi",
+      "category": "malaysia",
+      "headline": "Reported missing from Johor at 15, woman now 21 found with child in Langkawi",
+      "summary": "ALOR SETAR, June 19 — A woman who had been reported missing since 2019 after leaving her family home in Johor Bahr...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T12:18:54+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/reported-missing-from-johor-at-15-woman-now-21-found-with-child-in-langkawi/224383",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-mara-to-place-former-soldiers-as-full-time-wardens-at-all-mrsm-institutions-from-n",
+      "category": "malaysia",
+      "headline": "Mara to place former soldiers as full-time wardens at all MRSM institutions from next January",
+      "summary": "KUALA LUMPUR, June 19 — Majlis Amanah Rakyat (Mara) will place full-time wardens from among former soldiers at all...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T12:17:43+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/mara-to-place-former-soldiers-as-full-time-wardens-at-all-mrsm-institutions-from-next-january/224380",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-anwar-praises-putin-xi-for-condemning-gaza-iran-attacks",
+      "category": "malaysia",
+      "headline": "Anwar praises Putin, Xi for condemning Gaza, Iran attacks",
+      "summary": "KUALA LUMPUR, June 19 — Malaysian Prime Minister Datuk Seri Anwar Ibrahim has commended Russian President Vladimir...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T12:07:39+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/anwar-praises-putin-xi-for-condemning-gaza-iran-attacks/224382",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "anwar",
+        "iran"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-anwar-pushes-trade-ai-and-energy-ties-between-asean-and-russia",
+      "category": "world",
+      "headline": "Anwar pushes trade, AI and energy ties between Asean and Russia",
+      "summary": "KAZAN, June 19 — Prime Minister Datuk Seri Anwar Ibrahim has urged Asean and Russia to strengthen cooperation in v...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T12:02:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/anwar-pushes-trade-ai-and-energy-ties-between-asean-and-russia/224381",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "anwar",
+        "russia",
+        "war",
+        "trade"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-ktmb-announces-extra-ets-trains-for-johor-voters-ticket-sales-start-today",
+      "category": "malaysia",
+      "headline": "KTMB announces extra ETS trains for Johor voters, ticket sales start today",
+      "summary": "JOHOR BAHRU, June 19 — Keretapi Tanah Melayu Berhad (KTMB) has announced additional ETS train services to cater to...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T11:47:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/ktmb-announces-extra-ets-trains-for-johor-voters-ticket-sales-start-today/224374",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-malaysia-to-seriously-explore-using-local-currencies-in-bilateral-trade-says-anwar",
+      "category": "malaysia",
+      "headline": "Malaysia to ‘seriously’ explore using local currencies in bilateral trade, says Anwar",
+      "summary": "KUALA LUMPUR, June 19 — Malaysia will “seriously” explore using local currencies with trading partners...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T11:28:22+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/malaysia-to-seriously-explore-using-local-currencies-in-bilateral-trade-says-anwar/224371",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "anwar",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-no-excuse-for-poor-maintenance-hannah-yeoh-says-after-complaints-over-putrajaya-fa",
+      "category": "malaysia",
+      "headline": "‘No excuse’ for poor maintenance, Hannah Yeoh says after complaints over Putrajaya facilities",
+      "summary": "KUALA LUMPUR, June 19 — Federal Territories Minister Hannah Yeoh today said there should be “no excuse&rdquo...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T11:09:51+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/no-excuse-for-poor-maintenance-hannah-yeoh-says-after-complaints-over-putrajaya-facilities/224370",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-us-cancels-vance-trip-for-iran-peace-talks-amid-confusion-over-geneva-ceremony-and",
+      "category": "world",
+      "headline": "US cancels Vance trip for Iran peace talks amid confusion over Geneva ceremony and fragile truce",
+      "summary": "US Vice President Vance no longer travelling to GenevaVance warns Israel after strikes in LebanonKhamenei signals peace...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T11:03:36+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/19/us-cancels-vance-trip-for-iran-peace-talks-amid-confusion-over-geneva-ceremony-and-fragile-truce/224365",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-dbkl-says-sentul-hawkers-not-being-evicted-will-return-to-site-after-rm1-6m-upgrad",
+      "category": "malaysia",
+      "headline": "DBKL says Sentul hawkers not being evicted, will return to site after RM1.6m upgrade completes in October",
+      "summary": "KUALA LUMPUR, June 19 — Kuala Lumpur City Hall (DBKL) today sought to reassure traders and residents that the demo...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T11:02:19+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/dbkl-says-sentul-hawkers-not-being-evicted-will-return-to-site-after-rm16m-upgrade-completes-in-october/224361",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-meta-lobbies-us-congress-for-child-harm-lawsuit-immunity-in-kids-online-safety-act",
+      "category": "world",
+      "headline": "Meta lobbies US Congress for child‑harm lawsuit immunity in Kids Online Safety Act talks, critics warn of sweeping shield",
+      "summary": "Bill aims to make online platforms use care in features that could harm childrenMeta-supported provision would grant imm...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T10:46:40+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/19/meta-lobbies-us-congress-for-childharm-lawsuit-immunity-in-kids-online-safety-act-talks-critics-warn-of-sweeping-shield/224363",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-bursa-malaysia-slips-at-open-as-profit-taking-hits-heavyweights-after-fed-signals-",
+      "category": "malaysia",
+      "headline": "Bursa Malaysia slips at open as profit‑taking hits heavyweights after Fed signals caution",
+      "summary": "KUALA LUMPUR, June 19 — Bursa Malaysia opened lower today as mild profit-taking in key index-linked counters weigh...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T10:34:22+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/19/bursa-malaysia-slips-at-open-as-profittaking-hits-heavyweights-after-fed-signals-caution/224360",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-why-muslim-marriages-break-down-in-malaysia-here-s-what-sis-forum-s-10-year-data-s",
+      "category": "malaysia",
+      "headline": "Why Muslim marriages break down in Malaysia: Here’s what SIS Forum’s 10-year data shows",
+      "summary": "ARA DAMANSARA, June 18 — The top three reasons why Muslim couples’ marriages broke down in Malaysia over the...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T10:30:47+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/why-muslim-marriages-break-down-in-malaysia-heres-what-sis-forums-10-year-data-shows/224354",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-ringgit-rebounds-at-open-after-what-analysts-call-an-excessive-decline",
+      "category": "malaysia",
+      "headline": "Ringgit rebounds at open after what analysts call an ‘excessive’ decline",
+      "summary": "KUALA LUMPUR, June 19 — The ringgit opened higher against the US dollar today, recovering from yesterday’s s...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T10:27:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/19/ringgit-rebounds-at-open-after-what-analysts-call-an-excessive-decline/224358",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-king-of-the-north-burnham-wins-makerfield-seat-clearing-path-to-challenge-uk-pm-st",
+      "category": "world",
+      "headline": "‘King of the North’ Burnham wins Makerfield seat, clearing path to challenge UK PM Starmer; first stop, a pint",
+      "summary": "WIGAN (England), June 19 — Labour mayor Andy Burnham cleared a path to ousting British Prime Minister Keir Starmer...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T10:19:10+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/19/king-of-the-north-burnham-wins-makerfield-seat-clearing-path-to-challenge-uk-pm-starmer-first-stop-a-pint/224356",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-traffic-flows-through-hormuz-as-us-iran-deal-takes-effect-but-doubts-linger-as-kha",
+      "category": "markets_investment",
+      "headline": "Traffic flows through Hormuz as US–Iran deal takes effect, but doubts linger as Khamenei warns talks will not be easy",
+      "summary": "Oil hits lowest level since March 2Vance warns Israel after strikes in Lebanon Khamenei signals upcoming talks will...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-19T10:13:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/19/traffic-flows-through-hormuz-as-usiran-deal-takes-effect-but-doubts-linger-as-khamenei-warns-talks-will-not-be-easy/224352",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-russia-guarantees-long-term-petroleum-oil-and-gas-supplies-to-malaysia-says-pm-the",
+      "category": "markets_investment",
+      "headline": "Russia guarantees long-term petroleum, oil and gas supplies to Malaysia, says PM - The Edge Malaysia",
+      "summary": "Russia guarantees long-term petroleum, oil and gas supplies to Malaysia, says PM The Edge Malaysia",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-19T10:00:55+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIb1NvUm16NkV3Mmo1bVpDWkZKOWZVcUJrQTJUTGp5eFYyUFAyY0NsZHRHZmZsbFpWNzRsRnd5NW9kamwtMjQyX0lIOVExbTVp?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "oil",
+        "gas",
+        "russia"
+      ],
+      "importance": 4,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-19-cabinet-approves-national-tahfiz-council-zahid-to-chair-new-body",
+      "category": "malaysia",
+      "headline": "Cabinet approves National Tahfiz Council, Zahid to chair new body",
+      "summary": "KUANTAN, June 19 — The federal government has approved the establishment of the National Tahfiz Council, marking a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T09:57:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/cabinet-approves-national-tahfiz-council-zahid-to-chair-new-body/224351",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-republicans-blast-trump-s-iran-deal-as-details-emerge-calling-it-worst-foreign-pol",
+      "category": "markets_investment",
+      "headline": "Republicans blast Trump’s Iran deal as details emerge, calling it ‘worst foreign policy blunder’ as president lashes out at ‘these",
+      "summary": "Deal called ‘worst foreign policy blunder’Trump calls critics “Fools,” cites higher stock prices...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-19T09:54:20+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/19/republicans-blast-trumps-iran-deal-as-details-emerge-calling-it-worst-foreign-policy-blunder-as-president-lashes-out-at-these-fools/224347",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-tengku-zafrul-eyes-selangor-seat-in-ge16-points-to-pandan-vacancy-and-ampang-groun",
+      "category": "malaysia",
+      "headline": "Tengku Zafrul eyes Selangor seat in GE16, points to Pandan vacancy and Ampang groundwork",
+      "summary": "KUALA LUMPUR, June 19 — Senior Political Adviser to the Prime Minister, Tengku Datuk Seri Zafrul Tengku Abdul Aziz...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T09:48:52+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/tengku-zafrul-eyes-selangor-seat-in-ge16-points-to-pandan-vacancy-and-ampang-groundwork/224349",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-treat-us-unfairly-and-developing-nations-will-deal-elsewhere-anwar-tells-europe",
+      "category": "malaysia",
+      "headline": "Treat us unfairly and developing nations will deal elsewhere, Anwar tells Europe",
+      "summary": "KUALA LUMPUR, June 19 — Prime Minister Datuk Seri Anwar Ibrahim has warned that developing countries may seek alte...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T09:39:55+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/treat-us-unfairly-and-developing-nations-will-deal-elsewhere-anwar-tells-europe/224343",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "kuala lumpur",
+        "anwar",
+        "europe",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-police-arrest-58-in-malaysia-wide-world-cup-betting-crackdown",
+      "category": "malaysia",
+      "headline": "Police arrest 58 in Malaysia-wide World Cup betting crackdown",
+      "summary": "KUALA LUMPUR, June 19 — The Royal Malaysia Police (PDRM) have arrested 58 individuals suspected of involvement in...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T09:24:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/police-arrest-58-in-malaysia-wide-world-cup-betting-crackdown/224342",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-police-corporal-charged-with-possessing-meth-in-kota-bharu-court-lock-up-claims-tr",
+      "category": "malaysia",
+      "headline": "Police corporal charged with possessing meth in Kota Bharu court lock-up, claims trial",
+      "summary": "KOTA BHARU, June 19 — A police corporal pleaded not guilty at the Magistrate’s Court here yesterday to posse...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T09:18:27+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/police-corporal-charged-with-possessing-meth-in-kota-bharu-court-lock-up-claims-trial/224341",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-pm-anwar-russia-to-guarantee-long-term-petrol-oil-and-gas-supplies-to-malaysia",
+      "category": "malaysia",
+      "headline": "PM Anwar: Russia to guarantee long-term petrol, oil and gas supplies to Malaysia",
+      "summary": "KAZAN, June 19 — Russia has agreed to guarantee long-term supplies of petrol, oil and gas to Malaysia, said Prime...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T09:13:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/pm-anwar-russia-to-guarantee-long-term-petrol-oil-and-gas-supplies-to-malaysia/224340",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "anwar",
+        "oil",
+        "gas"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-can-t-tread-too-slowly-anwar-says-malaysia-must-be-bold-in-pursuing-economic-ties-",
+      "category": "malaysia",
+      "headline": "‘Can’t tread too slowly’: Anwar says Malaysia must be bold in pursuing economic ties with Russia, other countries",
+      "summary": "KAZAN, June 19 — Malaysia needs to be more bold and aggressive in strengthening economic relations with Russia and...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T09:08:29+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/cant-tread-too-slowly-anwar-says-malaysia-must-be-bold-in-pursuing-economic-ties-with-russia-other-countries/224338",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "anwar",
+        "russia",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-dap-names-newcomer-chu-poh-yee-as-first-johor-polls-candidate-rest-to-be-named-by-",
+      "category": "malaysia",
+      "headline": "DAP names newcomer Chu Poh Yee as first Johor polls candidate, rest to be named by Monday",
+      "summary": "KLUANG, June 19 — Newcomer Chu Poh Yee was announced yesterday as DAP’s first candidate under Pakatan Harapa...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T08:48:03+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/dap-names-newcomer-chu-poh-yee-as-first-johor-polls-candidate-rest-to-be-named-by-monday/224335",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-bandar-utama-to-johan-setia-a-guide-to-the-new-lrt3-shah-alam-line",
+      "category": "malaysia",
+      "headline": "Bandar Utama to Johan Setia: A guide to the new LRT3 Shah Alam Line",
+      "summary": "KUALA LUMPUR, June 19 — The long-awaited LRT3 Shah Alam Line is in its final phase of testing and commissioning, w...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-19T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/bandar-utama-to-johan-setia-a-guide-to-the-new-lrt3-shah-alam-line/224134",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-why-europe-is-getting-nervous-about-palantir-the-data-firm-named-after-the-lord-of",
+      "category": "world",
+      "headline": "Why Europe is getting nervous about Palantir, the data firm named after ‘The Lord of the Rings’ seeing-stones",
+      "summary": "WASHINGTON, June 19 — France’s move Tuesday to drop Palantir from its intelligence services is the late...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/19/why-europe-is-getting-nervous-about-palantir-the-data-firm-named-after-the-lord-of-the-rings-seeing-stones/224326",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-picasso-goes-for-us-35m-at-art-basel-as-global-art-market-rebounds-with-strong-dem",
+      "category": "markets_investment",
+      "headline": "Picasso goes for US$35m at Art Basel as global art market rebounds with strong demand for top-tier works",
+      "summary": "BASEL (Switzerland), June 19 — Art Basel made a splashy debut this week despite global turbulence, with an eight-f...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-19T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/19/picasso-goes-for-us35m-at-art-basel-as-global-art-market-rebounds-with-strong-demand-for-top-tier-works/224291",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-19-every-year-the-heat-is-increasing-rising-temperatures-reshape-daily-life-in-india",
+      "category": "world",
+      "headline": "‘Every year the heat is increasing’: Rising temperatures reshape daily life in India",
+      "summary": "JAISALMER, June 19 — On India’s hot plains, scorching summers have become increasingly harder to endure, req...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-19T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/19/every-year-the-heat-is-increasing-rising-temperatures-reshape-daily-life-in-india/224290",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
     },
     {
       "id": "2026-06-19-ukraine-moscow-refinery-strike",
@@ -101,1056 +1266,6 @@
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-19-corporate-malaysia-top-glove-wct-swift",
-      "category": "markets_investment",
-      "headline": "Malaysia corporate board: Top Glove, WCT and Swift Energy among late market headlines",
-      "summary": "KLSE Screener's latest feed highlighted several Malaysian corporate items, including Top Glove capacity and pricing commentary, WCT's Abu Dhabi construction subcontract, and Swift Energy orders tied to oil and gas and data-centre equipment.",
-      "why_it_matters": "These company-level updates can move individual counters and show where sector demand is appearing, especially in healthcare, construction, oil and gas, and data centres.",
-      "published_at": "2026-06-18T23:51:00+08:00",
-      "source_links": [
-        {
-          "name": "KLSE Screener News",
-          "url": "https://www.klsescreener.com/v2/news/index/3",
-          "publisher_type": "financial"
-        },
-        {
-          "name": "X @theedgemalaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Instagram @theedgemalaysia",
-          "url": "https://www.instagram.com/theedgemalaysia/",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "Top Glove",
-        "WCT",
-        "Swift Energy",
-        "corporate earnings"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-19-malaysia-imd-competitiveness-ranking",
-      "category": "malaysia",
-      "headline": "Malaysia rises to 15th in IMD World Competitiveness Ranking",
-      "summary": "Malaysia climbed eight places to 15th in the 2026 IMD World Competitiveness Ranking, with local outlets highlighting the move as the country's best recent showing and a signal of stronger efficiency and competitiveness.",
-      "why_it_matters": "Competitiveness rankings influence investor perception, reform momentum and how Malaysia positions itself against regional peers for capital and talent.",
-      "published_at": "2026-06-18T22:10:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/",
-          "publisher_type": "news"
-        },
-        {
-          "name": "The Sun Malaysia",
-          "url": "https://thesun.my/",
-          "publisher_type": "news"
-        },
-        {
-          "name": "CNA competitiveness coverage",
-          "url": "https://www.channelnewsasia.com/singapore/top-imd-competitiveness-ranking-business-efficiency-6192786",
-          "publisher_type": "news"
-        },
-        {
-          "name": "Facebook The Star",
-          "url": "https://www.facebook.com/TheStarOnline",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "competitiveness",
-        "investment",
-        "Malaysia",
-        "IMD"
-      ],
-      "importance": 4,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-19-malaysia-local-currency-trade-payments",
-      "category": "markets_investment",
-      "headline": "Malaysia to look seriously at wider local-currency trade settlement",
-      "summary": "Anwar said Malaysia will explore settling more foreign trade in local currencies to reduce exchange-rate volatility, citing growing use of bilateral arrangements with China and possible arrangements with India and Russia.",
-      "why_it_matters": "Local-currency settlement can affect dollar demand, ringgit volatility, trade finance and how investors read Malaysia's de-dollarisation strategy.",
-      "published_at": "2026-06-18T21:32:00+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA ASEAN",
-          "url": "https://asean.bernama.com/news.php?id=2570171",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X @BernamaBiz",
-          "url": "https://x.com/BernamaBiz",
-          "publisher_type": "social"
-        },
-        {
-          "name": "The Edge source page",
-          "url": "https://theedgemalaysia.com/source/bernama?page=1",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "ringgit",
-        "trade",
-        "local currencies",
-        "Russia"
-      ],
-      "importance": 5,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-19-malaysia-russia-energy-supply",
-      "category": "markets_investment",
-      "headline": "Russia guarantees long-term petroleum, oil and gas supply to Malaysia, says Anwar",
-      "summary": "Malaysian outlets carried Anwar's statement that Russia has guaranteed long-term petroleum, oil and gas supplies to Malaysia. The issue is linked to Malaysia's energy security and summit-level Russia engagement.",
-      "why_it_matters": "Energy supply assurances can affect inflation risk, fuel policy, utilities and investor views on Malaysia's exposure to global oil disruptions.",
-      "published_at": "2026-06-18T21:19:00+08:00",
-      "source_links": [
-        {
-          "name": "Bursa Marketplace News",
-          "url": "https://my.bursamalaysia.com/market/market-updates/news/russia-guarantees-long-term-petroleum-oil-and-gas-supplies-to-malaysia-pm-anwar",
-          "publisher_type": "news"
-        },
-        {
-          "name": "The Malaysian Reserve",
-          "url": "https://themalaysianreserve.com/2026/06/18/anwar-russia-guarantees-long-term-petroleum-oil-and-gas-supplies-to-malaysia/",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X @BursaMalaysia",
-          "url": "https://x.com/BursaMalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "oil",
-        "gas",
-        "Russia",
-        "energy security"
-      ],
-      "importance": 5,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-19-us-iran-deal-details-cna",
-      "category": "world",
-      "headline": "US-Iran preliminary deal puts 60-day countdown on fragile truce",
-      "summary": "CNA outlined key details of a 14-point US-Iran memorandum, saying a 60-day process begins as both sides work toward a final deal to end the conflict and address nuclear and sanctions questions.",
-      "why_it_matters": "The deal is central to oil prices, shipping through Hormuz, risk appetite, and Asian importers including Malaysia.",
-      "published_at": "2026-06-18T20:00:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/us-iran-peace-deal-mou-trump-nuclear-60-days-14-points-6192701",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X @ChannelNewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "US-Iran",
-        "Hormuz",
-        "oil",
-        "geopolitics"
-      ],
-      "importance": 5,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-19-singapore-welcomes-us-iran-hormuz",
-      "category": "world",
-      "headline": "Singapore welcomes US-Iran agreement to reopen Strait of Hormuz",
-      "summary": "CNA reported Singapore welcomed the US-Iran agreement to end military operations in the Middle East and reopen the Strait of Hormuz, a crucial route for oil and gas shipping.",
-      "why_it_matters": "A safer Hormuz route matters for Asia's energy supply chain, shipping costs, inflation and market volatility.",
-      "published_at": "2026-06-18T19:30:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/singapore/singapore-us-iran-war-mou-hormuz-6193356",
-          "publisher_type": "news"
-        },
-        {
-          "name": "Instagram @channelnewsasia",
-          "url": "https://www.instagram.com/channelnewsasia/",
-          "publisher_type": "social"
-        },
-        {
-          "name": "X @Reuters",
-          "url": "https://x.com/Reuters",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "Singapore",
-        "Hormuz",
-        "Middle East",
-        "energy"
-      ],
-      "importance": 4,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-19-fbm-klci-june-18-close",
-      "category": "markets_investment",
-      "headline": "FBM KLCI edges higher as The Edge tracks Bursa and ringgit close",
-      "summary": "The Edge's public X update said the FBM KLCI edged up 0.08% to 1,711.39 on June 18, with the post summarising key Bursa Malaysia indices and the ringgit's performance for the day.",
-      "why_it_matters": "The closing index and ringgit snapshot are the quickest read on local risk appetite before the next trading session.",
-      "published_at": "2026-06-18T18:00:00+08:00",
-      "source_links": [
-        {
-          "name": "X @theedgemalaysia",
-          "url": "https://x.com/theedgemalaysia/status/2067545601571758108",
-          "publisher_type": "social"
-        },
-        {
-          "name": "The Edge Malaysia",
-          "url": "https://theedgemalaysia.com/",
-          "publisher_type": "news"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "FBM KLCI",
-        "Bursa",
-        "ringgit",
-        "market close"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-19-ringgit-eases-bern-latest",
-      "category": "markets_investment",
-      "headline": "Ringgit eases to 4.1145/1195 against the US dollar in latest BERNAMA ticker",
-      "summary": "BERNAMA's latest ticker showed the ringgit at 4.1145/1195 versus the US dollar at 6 pm, weaker than the previous close of 4.0665/0700. The move comes as markets digest trade settlement talk and global energy headlines.",
-      "why_it_matters": "Ringgit movement directly affects import costs, exporters, foreign funds and Malaysia-linked market sentiment.",
-      "published_at": "2026-06-18T18:00:00+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA",
-          "url": "https://www.bernama.com/en/",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X @BernamaBiz",
-          "url": "https://x.com/BernamaBiz",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Bursa Malaysia",
-          "url": "https://www.facebook.com/BursaMalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "ringgit",
-        "USD/MYR",
-        "forex",
-        "markets"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-19-oil-markets-iran-breakthrough",
-      "category": "world",
-      "headline": "Oil falls and global markets rally after Iran deal breakthrough",
-      "summary": "The Guardian reported oil prices fell to a three-month low while global equities rallied after signs of a US-Iran peace breakthrough and hopes for the Strait of Hormuz to reopen.",
-      "why_it_matters": "Oil swings feed directly into inflation, energy costs, airline and transport margins, and the ringgit-sensitive outlook for Malaysia.",
-      "published_at": "2026-06-18T16:00:00+08:00",
-      "source_links": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X @BloombergAsia",
-          "url": "https://x.com/BloombergAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Instagram @bloomberg",
-          "url": "https://www.instagram.com/bloomberg/",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "oil",
-        "markets",
-        "Iran",
-        "Hormuz"
-      ],
-      "importance": 5,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-18-malaysia-stpm-results-malay-mail",
-      "category": "malaysia",
-      "headline": "STPM 2025 sees record number of perfect 4.0 CGPA candidates",
-      "summary": "Malay Mail reported that 1,336 candidates achieved a perfect 4.00 CGPA in STPM 2025, up from 1,266 candidates previously, contributing to a higher national CGPA.",
-      "why_it_matters": "Education outcomes affect university intake, scholarship competition, and the long-term skills pipeline.",
-      "published_at": "2026-06-18T13:05:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "education",
-        "STPM",
-        "students"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-top-glove-profit-star",
-      "category": "markets_investment",
-      "headline": "Top Glove's nine-month profit jumps 64%",
-      "summary": "The Star market page highlighted Top Glove's stronger nine-month profit, supported by better sales and margins as the glove sector continues to recover from the post-pandemic downturn.",
-      "why_it_matters": "Glove-sector earnings are a bellwether for Bursa healthcare names and for whether the industry recovery is broadening beyond cost cuts.",
-      "published_at": "2026-06-18T12:35:00+08:00",
-      "source_links": [
-        {
-          "name": "The Star Markets",
-          "url": "https://www.thestar.com.my/news/nation",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "Top Glove",
-        "earnings",
-        "healthcare"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-world-us-iran-mou-ap-latest",
-      "category": "world",
-      "headline": "U.S.-Iran deal takes immediate effect, Pakistan premier says",
-      "summary": "AP's latest live coverage said a U.S.-Iran memorandum of understanding had taken immediate effect after both sides signed, according to Pakistan's prime minister.",
-      "why_it_matters": "The agreement is currently the central world story because it affects oil flows, sanctions, regional security, and global market sentiment.",
-      "published_at": "2026-06-18T12:10:00+08:00",
-      "source_links": [
-        {
-          "name": "Associated Press",
-          "url": "https://apnews.com/article/a7ab28d9b34edfaa2061a67616f610bc",
-          "publisher_type": "wire"
-        }
-      ],
-      "topics": [
-        "Iran",
-        "United States",
-        "Strait of Hormuz"
-      ],
-      "importance": 5,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-stadium-ceo-graft-the-star",
-      "category": "malaysia",
-      "headline": "Malaysia Stadium Corporation CEO claims trial to graft charges",
-      "summary": "The Star reported that Malaysia Stadium Corporation CEO Iliyas Jamil pleaded not guilty to seven graft charges linked to a tender for upgrades at the National Squash Centre in Bukit Jalil.",
-      "why_it_matters": "The case keeps public procurement, sports infrastructure governance, and anti-corruption enforcement in focus.",
-      "published_at": "2026-06-18T11:35:00+08:00",
-      "source_links": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/news/nation/2026/06/18/malaysia-stadium-corporation-ceo-claims-trial-to-graft-charges-over-squash-centre-tender",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "governance",
-        "court",
-        "anti-corruption"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-glove-recovery-star",
-      "category": "markets_investment",
-      "headline": "Research says glove firms are at strongest point since downturn",
-      "summary": "The Star reported that BIMB Research sees the Malaysian rubber glove industry entering the second half of 2026 from its strongest position since the post-pandemic downturn.",
-      "why_it_matters": "This helps investors judge whether glove stocks are entering a sustainable recovery or only a temporary earnings rebound.",
-      "published_at": "2026-06-18T11:35:00+08:00",
-      "source_links": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/business/business-news/2026/06/18/glove-firms-at-strongest-since-downturn",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "gloves",
-        "Bursa",
-        "healthcare"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-world-iran-deal-reactions-guardian",
-      "category": "world",
-      "headline": "Iran deal draws anger, relief and disbelief around the world",
-      "summary": "The Guardian reported mixed reactions to the Trump-Iran agreement, with relief from some leaders and strong criticism from Israeli and U.S. political voices.",
-      "why_it_matters": "The reaction shows the deal may calm oil markets while still creating diplomatic and domestic political risks.",
-      "published_at": "2026-06-18T10:45:00+08:00",
-      "source_links": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jun/18/donald-trump-iran-deal-reactions-anger-relief-incredulity",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "Iran",
-        "diplomacy",
-        "geopolitics"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-bursa-listings-watch",
-      "category": "markets_investment",
-      "headline": "Bursa Malaysia listings calendar keeps ACE Market activity in view",
-      "summary": "Bursa Malaysia's listing page shows recent and upcoming ACE Market names, including Pentech Holdings and Elsa Berhad. New listings remain a useful signal for local risk appetite and capital-market activity.",
-      "why_it_matters": "IPO flow helps investors judge liquidity, small-cap sentiment, and which sectors are trying to raise growth capital.",
-      "published_at": "2026-06-18T10:15:00+08:00",
-      "source_links": [
-        {
-          "name": "Bursa Malaysia",
-          "url": "https://www.bursamalaysia.com/",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": [
-        "Bursa Malaysia",
-        "IPO",
-        "ACE Market"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-world-iran-oil-revenue-wsj",
-      "category": "world",
-      "headline": "Iran deal could turbocharge oil revenue",
-      "summary": "The Wall Street Journal reported that the U.S.-Iran deal may allow Iran to officially resume oil and fuel exports, potentially lifting revenues if sanctions relief holds.",
-      "why_it_matters": "A return of Iranian oil supply would matter for crude prices, OPEC strategy, inflation, and energy-linked equities.",
-      "published_at": "2026-06-18T09:40:00+08:00",
-      "source_links": [
-        {
-          "name": "The Wall Street Journal",
-          "url": "https://www.wsj.com/world/middle-east/deal-gives-iran-chance-to-turbocharge-its-oil-revenue-5b481eb6",
-          "publisher_type": "financial"
-        }
-      ],
-      "topics": [
-        "Iran",
-        "oil",
-        "sanctions"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-russia-energy-trade-star",
-      "category": "malaysia",
-      "headline": "Malaysia and Russia explore energy and trade cooperation",
-      "summary": "The Star reported that Malaysia and Russia discussed cooperation in energy and trade, with the Prime Minister's Office identifying energy as an area for deeper strategic engagement.",
-      "why_it_matters": "Energy and trade ties can influence Malaysia's commodity, investment, and diplomatic positioning during a period of global supply uncertainty.",
-      "published_at": "2026-06-18T09:27:00+08:00",
-      "source_links": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/news/nation/2026/06/18/malaysia-russia-to-explore-strategic-cooperation-in-energy-and-trade-says-pmo",
-          "publisher_type": "news"
-        },
-        {
-          "name": "The Star Facebook",
-          "url": "https://www.facebook.com/TheStarOnline/posts/according-to-the-prime-ministers-office-pmo-both-leaders-discussed-various-aspec/1481430467352807/",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "Russia",
-        "energy",
-        "trade"
-      ],
-      "importance": 4,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-18-world-jpmorgan-oil-supply-marketwatch",
-      "category": "world",
-      "headline": "JPMorgan says markets are betting oil supply normalizes quickly",
-      "summary": "MarketWatch cited JPMorgan's trading desk view that markets are pricing in faster normalization of global oil supply after details of the U.S.-Iran memorandum emerged.",
-      "why_it_matters": "Oil-supply expectations flow directly into inflation forecasts, central-bank assumptions, and equity-sector leadership.",
-      "published_at": "2026-06-18T09:05:00+08:00",
-      "source_links": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-federal-reserve-meeting-interest-rate-decision-14-point-plan/card/the-market-is-still-betting-oil-supply-could-normalize-quickly-after-mou-leaked-says-jpmorgan-0D6iKX4fQJ0kxzy1VP0R",
-          "publisher_type": "financial"
-        }
-      ],
-      "topics": [
-        "JPMorgan",
-        "oil supply",
-        "markets"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-gold-fed-geopolitics",
-      "category": "markets_investment",
-      "headline": "Gold gains after Fed decision and geopolitical shifts",
-      "summary": "The Wall Street Journal reported that gold rose in early Asian trading after the Fed left rates unchanged. Demand from central banks and geopolitical uncertainty remain important support factors.",
-      "why_it_matters": "Gold often reflects the market's view of real yields, central-bank demand, and geopolitical stress, so it is useful for reading risk appetite.",
-      "published_at": "2026-06-18T09:00:00+08:00",
-      "source_links": [
-        {
-          "name": "The Wall Street Journal",
-          "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-after-fed-leaves-rates-unchanged-aacdebef",
-          "publisher_type": "financial"
-        }
-      ],
-      "topics": [
-        "gold",
-        "commodities",
-        "central banks"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-anwar-putin-gaza-iran",
-      "category": "malaysia",
-      "headline": "Anwar praises Russia's stance on Gaza and Iran",
-      "summary": "Malay Mail reported that Prime Minister Anwar Ibrahim thanked Vladimir Putin for Russia's position on Gaza and the geopolitical situation involving Iran during their meeting in Kazan.",
-      "why_it_matters": "Malaysia's foreign-policy messaging matters for diplomatic alignment, ASEAN engagement, and public reaction to Middle East developments.",
-      "published_at": "2026-06-18T08:46:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/amp/news/malaysia/2026/06/18/anwar-praises-putins-consistent-stance-on-gaza-and-iran/224202",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "Gaza",
-        "Iran",
-        "foreign policy"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-putin-ties-malay-mail",
-      "category": "malaysia",
-      "headline": "Putin says Russia and Malaysia are well placed to deepen ties",
-      "summary": "Malay Mail reported that Russian President Vladimir Putin said both countries have a strong foundation to expand cooperation ahead of the 60th anniversary of diplomatic relations.",
-      "why_it_matters": "The remarks add diplomatic context to Malaysia's energy, trade, tourism, education, and ASEAN-Russia engagement.",
-      "published_at": "2026-06-18T08:39:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/18/putin-russia-malaysia-well-placed-to-deepen-ties-as-60th-anniversary-nears/224197",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "Russia",
-        "diplomacy",
-        "ASEAN"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-edge-day-ahead-social",
-      "category": "markets_investment",
-      "headline": "The Edge flags key market events to watch on June 18",
-      "summary": "The Edge Malaysia's public Facebook video highlighted the day's watchlist for investors, including corporate events and market-moving developments.",
-      "why_it_matters": "A daily market watchlist helps identify which corporate names and events may drive local trading attention.",
-      "published_at": "2026-06-18T08:00:00+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia Facebook",
-          "url": "https://www.facebook.com/theedgemalaysia/videos/your-day-ahead-june-18-2026heres-a-heads-up-on-what-to-look-out-for-today/3177106589156361/",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "watchlist",
-        "Bursa",
-        "corporate news"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-asia-shares-oil-iran",
-      "category": "markets_investment",
-      "headline": "Asian shares rise as investors react to U.S.-Iran peace progress",
-      "summary": "AP reported that Asian markets climbed after an initial U.S.-Iran agreement eased geopolitical risk. Oil prices also moved lower as traders reassessed supply risks.",
-      "why_it_matters": "Lower geopolitical risk can support regional equities and reduce inflation pressure through energy prices, but the market reaction can change quickly if talks stall.",
-      "published_at": "2026-06-18T07:40:00+08:00",
-      "source_links": [
-        {
-          "name": "Associated Press",
-          "url": "https://apnews.com/article/dc678fb5647a136f75caf2d1fbaa2092",
-          "publisher_type": "wire"
-        }
-      ],
-      "topics": [
-        "Asia equities",
-        "oil",
-        "geopolitics"
-      ],
-      "importance": 5,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-world-us-iran-deal",
-      "category": "world",
-      "headline": "U.S.-Iran peace process becomes the main geopolitical market story",
-      "summary": "AP reported an initial signing of a U.S.-Iran deal designed to end the war and open a negotiation period around Iran's nuclear programme. The development is moving oil and global risk sentiment.",
-      "why_it_matters": "Middle East de-escalation can affect energy prices, inflation expectations, shipping risk, and equity sentiment worldwide.",
-      "published_at": "2026-06-18T07:40:00+08:00",
-      "source_links": [
-        {
-          "name": "Associated Press",
-          "url": "https://apnews.com/article/dc678fb5647a136f75caf2d1fbaa2092",
-          "publisher_type": "wire"
-        }
-      ],
-      "topics": [
-        "Middle East",
-        "energy",
-        "geopolitics"
-      ],
-      "importance": 5,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-fed-rate-signal",
-      "category": "markets_investment",
-      "headline": "Federal Reserve holds rates while signalling possible tightening risk",
-      "summary": "The Guardian reported that the Federal Reserve kept rates steady but surprised markets by signalling a possible rate hike before year end. U.S. equities fell after the decision.",
-      "why_it_matters": "Fed policy is a global anchor for equity valuations, bond yields, the dollar, and emerging-market capital flows.",
-      "published_at": "2026-06-18T04:25:00+08:00",
-      "source_links": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "Federal Reserve",
-        "rates",
-        "U.S. equities"
-      ],
-      "importance": 5,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-world-fed-governance-shift",
-      "category": "world",
-      "headline": "New Fed communication review adds uncertainty to global policy signals",
-      "summary": "The Guardian reported that Fed Chair Kevin Warsh announced taskforces to reassess Fed operations and communication practices. Markets are watching whether this changes how policy guidance is delivered.",
-      "why_it_matters": "Fed communication shapes global expectations for rates, risk assets, and currencies, so changes in signalling can matter even when policy is unchanged.",
-      "published_at": "2026-06-18T04:25:00+08:00",
-      "source_links": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "central banks",
-        "policy",
-        "United States"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-fuel-prices-diesel-star",
-      "category": "malaysia",
-      "headline": "Diesel price in Peninsular Malaysia falls 30 sen for June 18-24",
-      "summary": "The Star reported that the unsubsidised retail diesel price in Peninsular Malaysia will fall to RM4.37 per litre from June 18 to 24, while RON95 and RON97 remain unchanged.",
-      "why_it_matters": "Fuel prices feed directly into transport costs, household budgets, logistics margins, and inflation expectations.",
-      "published_at": "2026-06-17T18:45:00+08:00",
-      "source_links": [
-        {
-          "name": "The Star",
-          "url": "https://www.thestar.com.my/news/nation/2026/06/17/fuel-prices-june-18-24-diesel-in-peninsula-down-30sen-ron95-ron97-unchanged",
-          "publisher_type": "news"
-        },
-        {
-          "name": "The Edge Malaysia X",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "fuel",
-        "diesel",
-        "inflation"
-      ],
-      "importance": 4,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-18-markets-oil-below-80-ap",
-      "category": "markets_investment",
-      "headline": "Oil falls below $80 as markets price in lower Middle East risk",
-      "summary": "AP reported that oil moved below $80 per barrel as investors reacted to optimism around a U.S.-Iran deal and a potential easing of supply disruption fears.",
-      "why_it_matters": "Oil is a direct input into inflation, central-bank expectations, airline costs, and Malaysia's energy-linked market sentiment.",
-      "published_at": "2026-06-16T23:20:00+08:00",
-      "source_links": [
-        {
-          "name": "Associated Press",
-          "url": "https://apnews.com/article/306b81adb98fe2814c7133f1458373e8",
-          "publisher_type": "wire"
-        }
-      ],
-      "topics": [
-        "oil",
-        "inflation",
-        "energy"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-vantris-pn17-edge-social",
-      "category": "markets_investment",
-      "headline": "Bursa approves Vantris Energy's PN17 upliftment",
-      "summary": "The Edge Malaysia's public Facebook video said Bursa approved Vantris Energy's PN17 upliftment, putting the oil and gas name back into focus for market watchers.",
-      "why_it_matters": "PN17 status changes can shift investor perception, liquidity, and risk appetite toward affected Bursa-listed companies.",
-      "published_at": "2026-06-16T17:30:00+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia Facebook",
-          "url": "https://www.facebook.com/theedgemalaysia/videos/e5-bursa-approves-vantris-energys-pn17-upliftmentthe-oil-and-gas-giant-formerly-/1332959794832673/",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "Vantris Energy",
-        "PN17",
-        "oil and gas"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-world-imf-war-shock",
-      "category": "world",
-      "headline": "IMF says the global economy has endured the war shock so far",
-      "summary": "The IMF said the world economy has held up better than feared despite the Middle East war shock, though commodity prices, inflation expectations, and financial conditions remain affected.",
-      "why_it_matters": "This gives a macro backdrop for markets: resilience is good, but inflation and energy-price channels are still the key risks.",
-      "published_at": "2026-06-15T22:00:00+08:00",
-      "source_links": [
-        {
-          "name": "IMF",
-          "url": "https://www.imf.org/en/blogs/articles/2026/06/15/global-economy-endures-war-shock-so-far",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": [
-        "global economy",
-        "war shock",
-        "inflation"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-klci-edge-x",
-      "category": "markets_investment",
-      "headline": "FBM KLCI performance stays on the local market watchlist",
-      "summary": "The Edge Malaysia posted a public X update summarising Bursa Malaysia indices and ringgit performance, including an FBM KLCI move earlier in the week.",
-      "why_it_matters": "Quick market snapshots from credible outlets help track local equity and currency momentum between longer market reports.",
-      "published_at": "2026-06-15T18:00:00+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia X",
-          "url": "https://x.com/theedgemalaysia/status/2066453554504872070",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "FBM KLCI",
-        "ringgit",
-        "Bursa"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-global-weekly-trowe",
-      "category": "markets_investment",
-      "headline": "Global weekly market tone improves as oil and breadth help equities",
-      "summary": "T. Rowe Price said cautious optimism around a possible U.S.-Iran agreement, declining oil prices, and broader market participation helped major U.S. indexes finish a volatile week higher.",
-      "why_it_matters": "Broader market leadership matters because rallies led by more than a few mega-cap names are usually healthier for global portfolios.",
-      "published_at": "2026-06-13T08:30:00+08:00",
-      "source_links": [
-        {
-          "name": "T. Rowe Price",
-          "url": "https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html",
-          "publisher_type": "financial"
-        }
-      ],
-      "topics": [
-        "equities",
-        "oil",
-        "portfolio"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-world-global-markets-weekly",
-      "category": "world",
-      "headline": "Global investors keep balancing oil, AI, inflation, and rate risk",
-      "summary": "T. Rowe Price's latest global markets update highlighted recent volatility around oil prices, inflation data, AI-related stocks, and broader market leadership. The mix keeps portfolio positioning sensitive to headlines.",
-      "why_it_matters": "These are the cross-currents affecting global risk assets and can spill into Malaysian equities, currencies, and commodities.",
-      "published_at": "2026-06-12T12:00:00+08:00",
-      "source_links": [
-        {
-          "name": "T. Rowe Price",
-          "url": "https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html",
-          "publisher_type": "financial"
-        }
-      ],
-      "topics": [
-        "global markets",
-        "oil",
-        "AI",
-        "inflation"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-markets-gas-malaysia-lng-instagram",
-      "category": "markets_investment",
-      "headline": "Gas Malaysia LNG terminal plan highlights energy-infrastructure demand",
-      "summary": "A public Instagram post reported that Gas Malaysia entered a joint development agreement with Tokyo Gas and VTTI to develop a new LNG regasification terminal in Yan, Kedah.",
-      "why_it_matters": "LNG infrastructure affects Malaysia's energy security, gas supply optionality, and investment themes around utilities and industrial demand.",
-      "published_at": "2026-06-11T18:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Instagram",
-          "url": "https://www.instagram.com/p/DZT3dCbEnIw/",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "LNG",
-        "Gas Malaysia",
-        "energy infrastructure"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-18-world-eia-oil-demand-cut",
-      "category": "world",
-      "headline": "EIA cuts oil demand outlook as high prices and policy curb consumption",
-      "summary": "The U.S. Energy Information Administration said it now expects global oil demand to decrease over 2026, reversing earlier forecasts for growth as high prices and government initiatives weigh on consumption.",
-      "why_it_matters": "Oil-demand revisions can shift inflation expectations, producer revenue assumptions, and the global growth narrative.",
-      "published_at": "2026-06-11T00:00:00+08:00",
-      "source_links": [
-        {
-          "name": "U.S. EIA",
-          "url": "https://www.eia.gov/outlooks/steo/",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": [
-        "oil demand",
-        "energy",
-        "inflation"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-q1-approved-investments-mida",
-      "category": "malaysia",
-      "headline": "Malaysia attracts RM92.8 billion in approved investments for Q1",
-      "summary": "MIDA said Malaysia secured RM92.8 billion in approved investments in the first quarter of 2026 across services, manufacturing, and primary sectors. The projects are expected to create more than 50,000 jobs.",
-      "why_it_matters": "Investment approvals show where future capacity and jobs may land, with data centres, technology, and manufacturing still important to Malaysia's growth story.",
-      "published_at": "2026-06-08T09:00:00+08:00",
-      "source_links": [
-        {
-          "name": "MIDA",
-          "url": "https://www.mida.gov.my/media-release/malaysia-attracts-rm92-8-billion-in-q1-2026-approved-investments-expected-to-create-over-50000-new-jobs-domestic-investments-up-13/",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": [
-        "investment",
-        "jobs",
-        "data centres"
-      ],
-      "importance": 5,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-section-301-response",
-      "category": "malaysia",
-      "headline": "Malaysia responds to U.S. Section 301 forced-labour findings",
-      "summary": "MITI published Malaysia's position after USTR findings related to forced labour and proposed trade action. The issue keeps trade compliance and export-sector risk in focus.",
-      "why_it_matters": "Any escalation can matter for manufacturers, exporters, and investors watching Malaysia's access to the U.S. market.",
-      "published_at": "2026-06-04T15:49:00+08:00",
-      "source_links": [
-        {
-          "name": "MITI",
-          "url": "https://www.miti.gov.my/index.php/pages/view/10936",
-          "publisher_type": "official"
-        },
-        {
-          "name": "MITI PDF",
-          "url": "https://www.miti.gov.my/miti/resources/Media%20Release/PR_MALAYSIA%E2%80%99S_POSITION_ON_UNITED_STATES_SECTION_301_TRADE_INVESTIGATIONS_%281%29.pdf",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": [
-        "trade",
-        "exports",
-        "United States"
-      ],
-      "importance": 4,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-18-malaysia-renewable-energy-bess-mida",
-      "category": "malaysia",
-      "headline": "MIDA clean-energy partnership targets digital economy power demand",
-      "summary": "MIDA highlighted a strategic partnership around renewable energy and battery storage innovation as Malaysia prepares for rising power demand from AI and data-centre growth.",
-      "why_it_matters": "Power availability and clean-energy capacity are becoming core constraints for Malaysia's digital infrastructure and manufacturing ambitions.",
-      "published_at": "2026-05-29T10:00:00+08:00",
-      "source_links": [
-        {
-          "name": "MIDA",
-          "url": "https://www.mida.gov.my/media-release/enertec-asia-2026-partners-with-mida-to-power-malaysias-digital-economy-via-renewable-energy-and-battery-storage-innovation/",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": [
-        "renewable energy",
-        "battery storage",
-        "data centres"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-april-inflation",
-      "category": "malaysia",
-      "headline": "Malaysia's April inflation rises to 1.9%",
-      "summary": "The Department of Statistics Malaysia reported April consumer inflation at 1.9%, up from March's 1.7%. Inflation remains moderate but is moving higher across the latest releases.",
-      "why_it_matters": "Inflation trends affect household costs, Bank Negara Malaysia policy expectations, and local bond and currency sentiment.",
-      "published_at": "2026-05-25T12:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Department of Statistics Malaysia",
-          "url": "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-apr2026",
-          "publisher_type": "official"
-        },
-        {
-          "name": "Department of Statistics Malaysia",
-          "url": "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-mar2026",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": [
-        "inflation",
-        "consumer prices",
-        "BNM"
-      ],
-      "importance": 4,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-18-malaysia-q1-growth-bnm",
-      "category": "malaysia",
-      "headline": "Malaysia's first-quarter growth stays supported by domestic demand",
-      "summary": "Bank Negara Malaysia reported that the economy expanded 5.4% in the first quarter of 2026, with domestic demand remaining the main support. Household spending and investment activity are still central to the growth picture.",
-      "why_it_matters": "This is the baseline for reading Malaysia's policy, earnings, and ringgit outlook because it shows whether local demand is strong enough to absorb external trade risks.",
-      "published_at": "2026-05-22T12:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Bank Negara Malaysia",
-          "url": "https://www.bnm.gov.my/-/gdp1q26pr",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": [
-        "GDP",
-        "domestic demand",
-        "policy"
-      ],
-      "importance": 5,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-18-malaysia-april-trade-china-us",
-      "category": "malaysia",
-      "headline": "Malaysia's April trade report highlights China growth and U.S. export strength",
-      "summary": "MITI's April trade release showed double-digit trade growth with China and continued export expansion to the U.S. The data points to resilient electronics and trade flows despite external uncertainty.",
-      "why_it_matters": "Trade momentum is a key signal for Malaysia's manufacturing cycle, listed exporters, and foreign-exchange sentiment.",
-      "published_at": "2026-05-20T12:00:00+08:00",
-      "source_links": [
-        {
-          "name": "MITI April Trade Performance",
-          "url": "https://www.miti.gov.my/miti/resources/Media%20Release/Press_Release_Trade_Performance_Apr_2026.pdf",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": [
-        "trade",
-        "China",
-        "United States",
-        "exports"
-      ],
-      "importance": 4,
-      "confidence": "verified"
     }
   ]
 }
