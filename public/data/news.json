@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-06-21T05:16:57+08:00",
+  "generated_at": "2026-06-21T07:06:56+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-06-21-lebanon-central-bank-condemns-israeli-strike-on-branch-in-south",
-      "category": "markets_investment",
-      "headline": "Lebanon central bank condemns Israeli strike on branch in south",
-      "summary": "The central bank called on the United States and allies \"to guarantee the protection of civilians and Lebanese official institutions\".",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-21T05:05:17+08:00",
+      "id": "2026-06-21-portugal-s-unofficial-exorcism-fever-worries-church",
+      "category": "world",
+      "headline": "Portugal’s unofficial exorcism fever worries Church",
+      "summary": "FÀTIMA (Portugal), June 21 — A woman closes her eyes as a young man dressed as a priest places both hands o...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/21/portugals-unofficial-exorcism-fever-worries-church/224531",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-can-creatine-really-help-with-menopause-what-women-should-know",
+      "category": "world",
+      "headline": "Can creatine really help with menopause? What women should know",
+      "summary": "Influencers are promoting the supplement, long popular among athletes, for help with midlife muscle loss and memory.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T06:55:37+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/lebanon-central-bank-condemns-israeli-strike-branch-in-south-6197711",
+          "url": "https://www.channelnewsasia.com/women/creatine-menopause-symptoms-6179541",
           "publisher_type": "news"
         },
         {
@@ -1229,26 +1249,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-19-storm-tears-through-ipoh-damages-over-200-homes-in-anjung-bercham-video",
-      "category": "malaysia",
-      "headline": "Storm tears through Ipoh, damages over 200 homes in Anjung Bercham (VIDEO)",
-      "summary": "IPOH, June 19 — A violent afternoon storm ripped through Anjung Bercham here, damaging more than 200 homes across...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-19T20:24:13+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/19/storm-tears-through-ipoh-damages-over-200-homes-in-anjung-bercham-video/224470",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
