@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-20T23:49:45+08:00",
+  "generated_at": "2026-06-21T01:25:22+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-06-20-sabalenka-knocked-out-of-berlin-semi-final-by-pegula",
+      "id": "2026-06-21-nine-people-remain-in-critical-condition-after-fatal-uk-train-crash",
       "category": "world",
-      "headline": "Sabalenka knocked out of Berlin semi-final by Pegula",
-      "summary": "Sabalenka knocked out of Berlin semi-final by Pegula",
+      "headline": "Nine people remain in critical condition after fatal UK train crash",
+      "summary": "A passenger on one of the trains, Paul Cavin, told the BBC: \"We had stopped, and suddenly we were hit from behind pretty bad.\"",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-20T23:41:14+08:00",
+      "published_at": "2026-06-21T01:13:48+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/sabalenka-knocked-out-berlin-semi-final-pegula-6197436",
+          "url": "https://www.channelnewsasia.com/world/nine-people-remain-in-critical-condition-after-fatal-uk-train-crash-6197236",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-20-malaysia-down-scotland-to-finish-fifth-at-fih-nations-cup-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia Down Scotland To Finish Fifth At FIH Nations Cup - Bernama",
+      "summary": "Malaysia Down Scotland To Finish Fifth At FIH Nations Cup Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-20T23:53:56+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OZTlKWkpicWFXNm9vVTl1YlU4N0dGR3M0ZllIWHhBY0VGSUJNNTZuV1ZJZUdaTFpBZ2QzNW1sNHhZSFVLTGN1WmZMbnl1VHN3TDh6SjJuWGdwWXVNNDA2SzBGVQ?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "cross_checked"
     },
     {
@@ -52,36 +82,6 @@
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-20-timor-leste-seeks-malaysia-s-help-to-establish-official-google-presence-bernama",
-      "category": "malaysia",
-      "headline": "Timor-Leste Seeks Malaysia's Help To Establish Official Google Presence - Bernama",
-      "summary": "Timor-Leste Seeks Malaysia's Help To Establish Official Google Presence Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-20T20:36:13+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0SXlReWNncURYcUxSby1lbXJSeTl6VnpXcEpDUlp6UmRWbE9raTR3Xy1kazU5aF8xZ19RVGdVZGMxSkxZa1JGUTBkTVlYblo2bEVUb2dIQ01VYXdESWJ4dkdn?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "cross_checked"
     },
     {
       "id": "2026-06-20-malaysia-and-thailand-in-talks-to-resolve-shrimp-import-suspension-says-mat-sabu",
@@ -165,6 +165,36 @@
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-20-chip-tech-firm-mks-opens-penang-factory-with-over-rm400-mil-investment-the-edge-ma",
+      "category": "malaysia",
+      "headline": "Chip tech firm MKS opens Penang factory with over RM400 mil investment - The Edge Malaysia",
+      "summary": "Chip tech firm MKS opens Penang factory with over RM400 mil investment The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-20T18:48:59+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mUFp5V2tJWVFUaEwzblU4Zkpad2J5emlPRzEtTGxFeURSTDA5QVNpOW1lNldpQnc1WENKeGxFSlA1dzNNMWhfNzNBTXhOUmRi?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "cross_checked"
     },
     {
       "id": "2026-06-20-one-dead-after-freight-trains-collide-in-munich",
@@ -1037,36 +1067,6 @@
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-20-another-misstep-by-felda-group-the-edge-malaysia",
-      "category": "malaysia",
-      "headline": "Another misstep by Felda Group - The Edge Malaysia",
-      "summary": "Another misstep by Felda Group The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-20T09:08:37+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kcl9wVk1MWUF1VDBTRzAtbFRNcVJvX2tRMk1uWVA4eHc3QkZCSEtuVUVDVWJsVzYtRW94Ml9UZlYxM0J3R01kVHY0U3lHMFRX?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "cross_checked"
     },
     {
       "id": "2026-06-20-seremban-school-death-no-evidence-of-bullying-detected-says-education-dg",
