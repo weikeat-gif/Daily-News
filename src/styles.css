@@ -426,7 +426,7 @@ h1 {
   position: relative;
   grid-column: span 6;
   display: flex;
-  min-height: 420px;
+  min-height: 380px;
   flex-direction: column;
   gap: 18px;
   padding: clamp(18px, 2.2vw, 26px);
@@ -436,6 +436,7 @@ h1 {
     linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(247, 251, 249, 0.94)),
     var(--paper);
   box-shadow: 0 16px 42px rgba(35, 55, 51, 0.08);
+  cursor: pointer;
   transition:
     border-color 160ms ease,
     transform 160ms ease,
@@ -459,15 +460,17 @@ h1 {
   background: linear-gradient(90deg, #26302f, #d4893e, #c83f33);
 }
 
-.story-card:first-child {
-  grid-column: span 12;
-  min-height: 360px;
-}
-
 .story-card:hover {
   border-color: rgba(47, 98, 88, 0.3);
   transform: translateY(-2px);
   box-shadow: 0 22px 48px rgba(35, 55, 51, 0.12);
+}
+
+.story-card:focus-visible {
+  border-color: rgba(200, 63, 51, 0.48);
+  box-shadow:
+    0 0 0 3px rgba(200, 63, 51, 0.18),
+    0 22px 48px rgba(35, 55, 51, 0.12);
 }
 
 .story-meta {
@@ -529,9 +532,29 @@ h1 {
 
 .story-card h2 {
   margin-bottom: 0;
-  font-size: clamp(1.45rem, 2.9vw, 2.45rem);
+  font-size: clamp(1.32rem, 2.2vw, 2.05rem);
   line-height: 1.08;
   letter-spacing: 0;
+}
+
+.story-card h2,
+.story-card .story-summary,
+.story-card .matter-panel p {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+}
+
+.story-card h2 {
+  -webkit-line-clamp: 4;
+}
+
+.story-card .story-summary {
+  -webkit-line-clamp: 4;
+}
+
+.story-card .matter-panel p {
+  -webkit-line-clamp: 3;
 }
 
 .summary-panel,
@@ -652,6 +675,118 @@ h1 {
   transform: translateY(-1px);
 }
 
+.details-cue {
+  justify-self: end;
+  align-self: end;
+  color: #9d2e27;
+  font-size: 0.88rem;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.detail-page {
+  position: relative;
+  display: grid;
+  gap: 22px;
+  min-height: calc(100vh - 90px);
+  padding: clamp(20px, 4vw, 44px);
+  overflow: hidden;
+  border: 1px solid rgba(31, 45, 42, 0.12);
+  border-radius: 8px;
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.98), rgba(255, 243, 238, 0.82)),
+    var(--paper);
+  box-shadow: 0 20px 58px rgba(35, 55, 51, 0.1);
+}
+
+.detail-page::before {
+  position: absolute;
+  inset: 0 0 auto;
+  height: 7px;
+  background: #26302f;
+  content: "";
+}
+
+.detail-page.heat-warm::before {
+  background: linear-gradient(90deg, #26302f, #d4893e);
+}
+
+.detail-page.heat-hot::before {
+  background: linear-gradient(90deg, #26302f, #d4893e, #c83f33);
+}
+
+.back-button {
+  display: inline-flex;
+  min-height: 40px;
+  width: fit-content;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 0 14px;
+  border: 1px solid rgba(47, 98, 88, 0.22);
+  border-radius: 8px;
+  background: #fbfefc;
+  color: var(--green);
+  font-weight: 850;
+  transition:
+    background 160ms ease,
+    color 160ms ease,
+    transform 160ms ease;
+}
+
+.back-button:hover {
+  background: linear-gradient(90deg, #26302f, #c83f33);
+  color: #f7fbf9;
+  transform: translateY(-1px);
+}
+
+.detail-page h1 {
+  max-width: 960px;
+  margin-bottom: 4px;
+  font-size: clamp(2rem, 4.4vw, 4.2rem);
+  line-height: 1.02;
+}
+
+.detail-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(250px, 340px);
+  gap: clamp(18px, 3vw, 34px);
+  align-items: start;
+}
+
+.detail-main,
+.detail-side {
+  display: grid;
+  gap: 18px;
+}
+
+.detail-main .story-summary,
+.detail-main .matter-panel p {
+  max-width: 760px;
+  font-size: clamp(1.03rem, 1.7vw, 1.18rem);
+}
+
+.detail-side {
+  position: sticky;
+  top: 20px;
+  padding: 18px;
+  border: 1px solid rgba(31, 45, 42, 0.12);
+  border-radius: 8px;
+  background: rgba(250, 253, 251, 0.76);
+}
+
+.detail-sources {
+  justify-content: flex-start;
+}
+
+.detail-sources .source-label {
+  text-align: left;
+}
+
+.detail-sources a {
+  max-width: none;
+}
+
 .status-panel,
 .empty-state {
   display: grid;
@@ -727,6 +862,7 @@ h1 {
   .ai-search-panel,
   .ai-search-form,
   .controls-band,
+  .detail-grid,
   .story-footer {
     grid-template-columns: 1fr;
   }
@@ -735,9 +871,10 @@ h1 {
     position: static;
   }
 
-  .story-card,
-  .story-card:first-child {
-    grid-column: span 12;
+  .story-card {
+    gap: 14px;
+    min-height: 500px;
+    padding: 18px;
   }
 
   .source-row {
@@ -746,6 +883,14 @@ h1 {
 
   .source-label {
     text-align: left;
+  }
+
+  .detail-side {
+    position: static;
+  }
+
+  .details-cue {
+    justify-self: start;
   }
 
   .search-results-head {
@@ -788,6 +933,7 @@ h1 {
   }
 
   .story-card {
+    grid-column: span 12;
     min-height: 0;
   }
 

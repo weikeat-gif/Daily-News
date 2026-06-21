@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
-import { ExternalLink, RotateCcw, Search } from 'lucide-react'
+import { ArrowLeft, ExternalLink, RotateCcw, Search } from 'lucide-react'
 
 type Category = 'malaysia' | 'markets_investment' | 'world'
 type Confidence = 'verified' | 'cross_checked' | 'reported_unconfirmed'
@@ -148,6 +148,7 @@ function App() {
   const [query, setQuery] = useState('')
   const [liveQuery, setLiveQuery] = useState('')
   const [searchState, setSearchState] = useState<SearchState>({ status: 'idle' })
+  const [selectedStory, setSelectedStory] = useState<{ story: Story; timezone: string } | null>(null)
 
   const loadNews = useCallback(async (background = false) => {
     if (background) {
@@ -290,6 +291,28 @@ function App() {
   const data = loadState.status === 'loaded' ? loadState.data : null
   const topStory = filteredStories[0]
 
+  function openStory(story: Story, timezone: string) {
+    setSelectedStory({ story, timezone })
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
+
+  function closeStory() {
+    setSelectedStory(null)
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
+
+  if (selectedStory) {
+    return (
+      <main className="app-shell">
+        <StoryDetail
+          onBack={closeStory}
+          story={selectedStory.story}
+          timezone={selectedStory.timezone}
+        />
+      </main>
+    )
+  }
+
   return (
     <main className="app-shell">
       <section className="briefing-header" aria-labelledby="page-title">
@@ -370,39 +393,6 @@ function App() {
         </form>
       </section>
 
-      {searchState.status !== 'idle' && (
-        <section className="search-results" aria-live="polite">
-          <div className="search-results-head">
-            <div>
-              <span>Online search</span>
-              <h2>
-                {searchState.status === 'loading'
-                  ? `Searching ${searchState.query}`
-                  : searchState.status === 'loaded'
-                    ? `Latest on ${searchState.query}`
-                    : `Search issue for ${searchState.query || 'topic'}`}
-              </h2>
-            </div>
-            {searchState.status === 'loaded' && (
-              <strong>{formatDateTime(searchState.generatedAt, 'Asia/Kuala_Lumpur')}</strong>
-            )}
-          </div>
-
-          {searchState.status === 'loading' && <span className="loading-bar" />}
-          {searchState.status === 'error' && <p className="search-error">{searchState.message}</p>}
-          {searchState.status === 'loaded' && searchState.stories.length > 0 && (
-            <div className="story-grid search-grid">
-              {searchState.stories.map((story) => (
-                <StoryCard key={story.id} story={story} timezone="Asia/Kuala_Lumpur" />
-              ))}
-            </div>
-          )}
-          {searchState.status === 'loaded' && searchState.stories.length === 0 && (
-            <p className="search-error">No recent public news results found.</p>
-          )}
-        </section>
-      )}
-
       <section className="controls-band" aria-label="Story controls">
         <label className="search-field">
           <span>Filter dashboard</span>
@@ -451,6 +441,44 @@ function App() {
         </label>
       </section>
 
+      {searchState.status !== 'idle' && (
+        <section className="search-results" aria-live="polite">
+          <div className="search-results-head">
+            <div>
+              <span>Online search</span>
+              <h2>
+                {searchState.status === 'loading'
+                  ? `Searching ${searchState.query}`
+                  : searchState.status === 'loaded'
+                    ? `Latest on ${searchState.query}`
+                    : `Search issue for ${searchState.query || 'topic'}`}
+              </h2>
+            </div>
+            {searchState.status === 'loaded' && (
+              <strong>{formatDateTime(searchState.generatedAt, 'Asia/Kuala_Lumpur')}</strong>
+            )}
+          </div>
+
+          {searchState.status === 'loading' && <span className="loading-bar" />}
+          {searchState.status === 'error' && <p className="search-error">{searchState.message}</p>}
+          {searchState.status === 'loaded' && searchState.stories.length > 0 && (
+            <div className="story-grid search-grid">
+              {searchState.stories.map((story) => (
+                <StoryCard
+                  key={story.id}
+                  onOpen={() => openStory(story, 'Asia/Kuala_Lumpur')}
+                  story={story}
+                  timezone="Asia/Kuala_Lumpur"
+                />
+              ))}
+            </div>
+          )}
+          {searchState.status === 'loaded' && searchState.stories.length === 0 && (
+            <p className="search-error">No recent public news results found.</p>
+          )}
+        </section>
+      )}
+
       {loadState.status === 'loading' && <LoadingState />}
       {loadState.status === 'error' && <ErrorState message={loadState.message} />}
 
@@ -465,7 +493,12 @@ function App() {
           {filteredStories.length > 0 ? (
             <section className="story-grid" aria-label="Filtered stories">
               {filteredStories.map((story) => (
-                <StoryCard key={story.id} story={story} timezone={loadState.data.timezone} />
+                <StoryCard
+                  key={story.id}
+                  onOpen={() => openStory(story, loadState.data.timezone)}
+                  story={story}
+                  timezone={loadState.data.timezone}
+                />
               ))}
             </section>
           ) : (
@@ -491,12 +524,31 @@ function App() {
   )
 }
 
-function StoryCard({ story, timezone }: { story: Story; timezone: string }) {
+function StoryCard({
+  onOpen,
+  story,
+  timezone,
+}: {
+  onOpen: () => void
+  story: Story
+  timezone: string
+}) {
   const importance = normalizeImportance(story.importance)
   const heatClass = importance >= 85 ? 'heat-hot' : importance >= 65 ? 'heat-warm' : 'heat-cool'
 
   return (
-    <article className={`story-card ${heatClass}`}>
+    <article
+      className={`story-card ${heatClass}`}
+      onClick={onOpen}
+      onKeyDown={(event) => {
+        if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault()
+          onOpen()
+        }
+      }}
+      role="button"
+      tabIndex={0}
+    >
       <div className="story-meta">
         <span className={`confidence-pill ${confidenceTone[story.confidence]}`}>
           {confidenceLabels[story.confidence]}
@@ -533,22 +585,88 @@ function StoryCard({ story, timezone }: { story: Story; timezone: string }) {
             <i style={{ width: `${importance}%` }} />
           </div>
         </div>
+        <span className="details-cue">Open details</span>
+      </div>
+    </article>
+  )
+}
 
-        <div className="source-row" aria-label="Sources">
-          <span className="source-label">Read full story</span>
-          {story.source_links.map((source) => (
-            <a
-              href={source.url}
-              key={`${story.id}-${source.url}`}
-              rel="noreferrer"
-              target="_blank"
-              title={`${source.name} via ${getSourceHost(source.url)}`}
-            >
-              {source.name}
-              <ExternalLink aria-hidden="true" size={15} strokeWidth={2.3} />
-            </a>
-          ))}
-        </div>
+function StoryDetail({
+  onBack,
+  story,
+  timezone,
+}: {
+  onBack: () => void
+  story: Story
+  timezone: string
+}) {
+  const importance = normalizeImportance(story.importance)
+  const heatClass = importance >= 85 ? 'heat-hot' : importance >= 65 ? 'heat-warm' : 'heat-cool'
+
+  return (
+    <article className={`detail-page ${heatClass}`}>
+      <button className="back-button" onClick={onBack} type="button">
+        <ArrowLeft aria-hidden="true" size={18} strokeWidth={2.4} />
+        Back to home
+      </button>
+
+      <div className="story-meta">
+        <span className={`confidence-pill ${confidenceTone[story.confidence]}`}>
+          {confidenceLabels[story.confidence]}
+        </span>
+        <span className={`category-pill category-${categoryTone[story.category]}`}>
+          {categoryLabels[story.category]}
+        </span>
+        <time dateTime={story.published_at}>
+          Published by source {formatDateTime(story.published_at, timezone)}
+        </time>
+      </div>
+
+      <h1>{story.headline}</h1>
+
+      <div className="detail-grid">
+        <section className="detail-main">
+          <div className="summary-panel">
+            <span>Summary</span>
+            <p className="story-summary">{story.summary}</p>
+          </div>
+
+          <div className="matter-panel">
+            <span>How it may affect us</span>
+            <p>{story.why_it_matters}</p>
+          </div>
+
+          <div className="topic-row" aria-label="Topics">
+            {story.topics.map((topic) => (
+              <span key={topic}>{topic}</span>
+            ))}
+          </div>
+        </section>
+
+        <aside className="detail-side">
+          <div className="importance-meter" aria-label={`Importance ${importance} out of 100`}>
+            <span>{getImportanceLabel(story.importance)}</span>
+            <div>
+              <i style={{ width: `${importance}%` }} />
+            </div>
+          </div>
+
+          <div className="source-row detail-sources" aria-label="Sources">
+            <span className="source-label">Article source</span>
+            {story.source_links.map((source) => (
+              <a
+                href={source.url}
+                key={`${story.id}-${source.url}`}
+                rel="noreferrer"
+                target="_blank"
+                title={`${source.name} via ${getSourceHost(source.url)}`}
+              >
+                {source.name}
+                <ExternalLink aria-hidden="true" size={15} strokeWidth={2.3} />
+              </a>
+            ))}
+          </div>
+        </aside>
       </div>
     </article>
   )
