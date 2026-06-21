@@ -441,9 +441,9 @@ h1 {
 
 .floating-filter-button,
 .floating-filter-reset,
-.floating-filter-head button {
+.floating-filter-search button {
   display: inline-flex;
-  min-height: 42px;
+  min-height: 38px;
   align-items: center;
   justify-content: center;
   gap: 8px;
@@ -462,7 +462,7 @@ h1 {
 }
 
 .floating-filter-button {
-  padding: 0 16px;
+  padding: 0 14px;
 }
 
 .floating-filter-button span {
@@ -479,16 +479,16 @@ h1 {
 
 .floating-filter-button:hover,
 .floating-filter-reset:hover,
-.floating-filter-head button:hover {
+.floating-filter-search button:hover {
   transform: translateY(-1px);
   box-shadow: 0 18px 36px var(--button-shadow);
 }
 
 .floating-filter-panel {
   display: grid;
-  width: min(360px, calc(100vw - 32px));
-  gap: 16px;
-  padding: 16px;
+  width: min(280px, calc(100vw - 24px));
+  gap: 10px;
+  padding: 10px;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--panel-bg);
@@ -497,41 +497,61 @@ h1 {
   pointer-events: auto;
 }
 
-.floating-filter-head {
-  display: flex;
+.floating-filter-search {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 36px;
+  gap: 8px;
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
 }
 
-.floating-filter-head strong,
-.floating-filter-section > span {
-  color: var(--muted);
-  font-size: 0.76rem;
-  font-weight: 900;
-  text-transform: uppercase;
+.floating-filter-search .search-input-wrap {
+  min-height: 38px;
+  padding: 0 10px;
 }
 
-.floating-filter-head button {
+.floating-filter-search button {
   min-width: 36px;
   min-height: 36px;
   padding: 0;
-}
-
-.floating-filter-section {
-  display: grid;
-  gap: 8px;
+  border-radius: 8px;
 }
 
 .floating-filter .filter-group {
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 5px;
+  padding: 4px;
+}
+
+.floating-filter .filter-button {
+  min-height: 32px;
+  font-size: 0.8rem;
+}
+
+.floating-filter-bottom {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px;
+  align-items: center;
+}
+
+.floating-filter-bottom select {
+  min-width: 0;
+  min-height: 36px;
+  padding: 0 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--button-bg);
+  color: var(--ink);
+  font-weight: 800;
 }
 
 .floating-filter-reset {
-  width: 100%;
+  min-height: 36px;
+  padding: 0 10px;
   border-radius: 8px;
   background: var(--button-bg);
   color: var(--button-text);
+  font-size: 0.82rem;
 }
 
 .ai-search-panel,
@@ -1527,7 +1547,7 @@ h1 {
   }
 
   .floating-filter-panel {
-    max-height: min(70vh, 560px);
+    max-height: min(62vh, 420px);
     overflow: auto;
   }
 
@@ -1609,8 +1629,8 @@ h1 {
   }
 
   .floating-filter-button {
-    min-height: 44px;
-    padding: 0 14px;
+    min-height: 42px;
+    padding: 0 12px;
   }
 
   .filter-button {

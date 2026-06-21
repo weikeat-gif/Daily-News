@@ -955,57 +955,50 @@ function FloatingFilters({
         type="button"
       >
         <SlidersHorizontal aria-hidden="true" size={18} strokeWidth={2.4} />
-        Filters
+        Filter
         {activeFilterCount > 0 && <span>{activeFilterCount}</span>}
       </button>
 
       {isOpen && (
         <div className="floating-filter-panel">
-          <div className="floating-filter-head">
-            <strong>Filters</strong>
+          <div className="floating-filter-search">
+            <label className="search-input-wrap">
+              <Search aria-hidden="true" size={17} strokeWidth={2.2} />
+              <input
+                aria-label="Search dashboard"
+                type="search"
+                value={query}
+                onChange={(event) => onQueryChange(event.target.value)}
+                placeholder="Search stories"
+              />
+            </label>
             <button aria-label="Close filters" onClick={onClose} type="button">
               <X aria-hidden="true" size={16} strokeWidth={2.5} />
             </button>
           </div>
 
-          <label className="search-field">
-            <span>Search dashboard</span>
-            <div className="search-input-wrap">
-              <Search aria-hidden="true" size={18} strokeWidth={2.2} />
-              <input
-                type="search"
-                value={query}
-                onChange={(event) => onQueryChange(event.target.value)}
-                placeholder="Headline, topic, source..."
-              />
-            </div>
-          </label>
-
-          <div className="floating-filter-section">
-            <span>Category</span>
-            <div className="filter-group" aria-label="Category filter">
-              {categoryOrder.map((category) => (
-                <button
-                  className={[
-                    'filter-button',
-                    `category-${categoryTone[category]}`,
-                    activeCategory === category ? 'is-active' : '',
-                  ]
-                    .filter(Boolean)
-                    .join(' ')}
-                  key={category}
-                  onClick={() => onCategoryChange(category)}
-                  type="button"
-                >
-                  {categoryLabels[category]}
-                </button>
-              ))}
-            </div>
+          <div className="filter-group" aria-label="Category filter">
+            {categoryOrder.map((category) => (
+              <button
+                className={[
+                  'filter-button',
+                  `category-${categoryTone[category]}`,
+                  activeCategory === category ? 'is-active' : '',
+                ]
+                  .filter(Boolean)
+                  .join(' ')}
+                key={category}
+                onClick={() => onCategoryChange(category)}
+                type="button"
+              >
+                {categoryLabels[category]}
+              </button>
+            ))}
           </div>
 
-          <label className="select-field">
-            <span>Confidence</span>
+          <div className="floating-filter-bottom">
             <select
+              aria-label="Confidence"
               value={activeConfidence}
               onChange={(event) => onConfidenceChange(event.target.value as Confidence | 'all')}
             >
@@ -1015,12 +1008,12 @@ function FloatingFilters({
                 </option>
               ))}
             </select>
-          </label>
 
-          <button className="floating-filter-reset" onClick={onReset} type="button">
-            <RotateCcw aria-hidden="true" size={16} strokeWidth={2.4} />
-            Reset filters
-          </button>
+            <button className="floating-filter-reset" onClick={onReset} type="button">
+              <RotateCcw aria-hidden="true" size={15} strokeWidth={2.4} />
+              Reset
+            </button>
+          </div>
         </div>
       )}
     </aside>
