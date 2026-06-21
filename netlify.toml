@@ -9,3 +9,8 @@
   from = "/api/news-search"
   to = "/.netlify/functions/news-search"
   status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

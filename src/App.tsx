@@ -1,8 +1,19 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
-import { ArrowLeft, ArrowRight, ExternalLink, RotateCcw, Search } from 'lucide-react'
+import {
+  ArrowLeft,
+  ArrowRight,
+  Bookmark,
+  ExternalLink,
+  Palette,
+  RotateCcw,
+  Search,
+  X,
+} from 'lucide-react'
 
 type Category = 'malaysia' | 'markets_investment' | 'world'
 type Confidence = 'verified' | 'cross_checked' | 'reported_unconfirmed'
+type ThemeMode = 'calm' | 'focus' | 'night'
+type SearchMode = 'all' | 'latest' | 'malaysia' | 'markets' | 'world' | 'social' | 'official' | 'high'
 
 type SourceLink = {
   name: string
@@ -75,6 +86,23 @@ const confidenceTone: Record<Confidence, string> = {
   reported_unconfirmed: 'watch',
 }
 
+const themeLabels: Record<ThemeMode, string> = {
+  calm: 'Calm',
+  focus: 'Focus',
+  night: 'Night',
+}
+
+const searchModeLabels: Record<SearchMode, string> = {
+  all: 'All',
+  latest: 'Latest',
+  malaysia: 'Malaysia',
+  markets: 'Markets',
+  world: 'World',
+  social: 'Social',
+  official: 'Official',
+  high: 'High heat',
+}
+
 const categoryOrder: Array<Category | 'all'> = ['all', 'malaysia', 'markets_investment', 'world']
 const confidenceOrder: Array<Confidence | 'all'> = [
   'all',
@@ -82,7 +110,12 @@ const confidenceOrder: Array<Confidence | 'all'> = [
   'cross_checked',
   'reported_unconfirmed',
 ]
+const themeOrder: ThemeMode[] = ['calm', 'focus', 'night']
+const searchModeOrder: SearchMode[] = ['all', 'latest', 'malaysia', 'markets', 'world', 'social', 'official', 'high']
 const AUTO_REFRESH_MS = 5 * 60 * 1000
+const WATCHLIST_STORAGE_KEY = 'daily-news-watchlist'
+const THEME_STORAGE_KEY = 'daily-news-theme'
+const DEFAULT_WATCHLIST = ['Tesla', 'Nvidia', 'Ringgit', 'Malaysia economy']
 
 function isNewsPayload(value: unknown): value is NewsPayload {
   if (!value || typeof value !== 'object') return false
@@ -117,6 +150,103 @@ function getSourceHost(url: string) {
     return new URL(url).hostname.replace(/^www\./, '')
   } catch {
     return 'source'
+  }
+}
+
+function getStoryPath(story: Story) {
+  return `/story/${encodeURIComponent(story.id)}`
+}
+
+function getRouteStoryId() {
+  const match = window.location.pathname.match(/^\/story\/([^/]+)$/)
+  return match ? decodeURIComponent(match[1]) : null
+}
+
+function getSourceKind(source: SourceLink) {
+  const host = getSourceHost(source.url).toLowerCase()
+  const type = source.publisher_type.toLowerCase()
+  const name = source.name.toLowerCase()
+
+  if (/(^|\.)x\.com$|twitter\.com|facebook\.com|instagram\.com|threads\.net/.test(host)) {
+    return 'Social'
+  }
+  if (
+    type.includes('government') ||
+    type.includes('official') ||
+    type.includes('regulator') ||
+    host.includes('.gov') ||
+    host.endsWith('gov.my') ||
+    host.includes('bnm.gov') ||
+    host.includes('sec.gov') ||
+    name.includes('official')
+  ) {
+    return 'Official'
+  }
+  if (
+    type.includes('exchange') ||
+    type.includes('market') ||
+    name.includes('bursa') ||
+    name.includes('bank negara') ||
+    host.includes('bursamalaysia') ||
+    host.includes('tradingeconomics')
+  ) {
+    return 'Market data'
+  }
+  if (type.includes('news') || type.includes('media') || type.includes('publisher')) {
+    return 'Newsroom'
+  }
+  return 'Public source'
+}
+
+function hasSourceKind(story: Story, kind: string) {
+  return story.source_links.some((source) => getSourceKind(source) === kind)
+}
+
+function topicScore(topic: string, stories: Story[]) {
+  return stories.reduce((score, story) => {
+    if (!story.topics.some((storyTopic) => storyTopic.toLowerCase() === topic.toLowerCase())) {
+      return score
+    }
+    return score + 1 + normalizeImportance(story.importance) / 100
+  }, 0)
+}
+
+function getTrendingTopics(stories: Story[]) {
+  const topics = Array.from(new Set(stories.flatMap((story) => story.topics)))
+  return topics
+    .map((topic) => ({
+      name: topic,
+      count: stories.filter((story) =>
+        story.topics.some((storyTopic) => storyTopic.toLowerCase() === topic.toLowerCase()),
+      ).length,
+      score: topicScore(topic, stories),
+    }))
+    .sort((a, b) => b.score - a.score || a.name.localeCompare(b.name))
+    .slice(0, 8)
+}
+
+function loadSavedWatchlist() {
+  try {
+    const storedValue = window.localStorage.getItem(WATCHLIST_STORAGE_KEY)
+    if (!storedValue) return DEFAULT_WATCHLIST
+    const parsed = JSON.parse(storedValue) as unknown
+    if (!Array.isArray(parsed)) return DEFAULT_WATCHLIST
+    const topics = parsed
+      .filter((topic): topic is string => typeof topic === 'string')
+      .map((topic) => topic.trim())
+      .filter(Boolean)
+    return topics.length > 0 ? topics.slice(0, 10) : DEFAULT_WATCHLIST
+  } catch {
+    return DEFAULT_WATCHLIST
+  }
+}
+
+function loadSavedTheme() {
+  try {
+    const storedValue = window.localStorage.getItem(THEME_STORAGE_KEY)
+    return themeOrder.includes(storedValue as ThemeMode) ? (storedValue as ThemeMode) : 'calm'
+  } catch {
+    return 'calm'
   }
 }
 
@@ -186,6 +316,9 @@ function App() {
   const [activeConfidence, setActiveConfidence] = useState<Confidence | 'all'>('all')
   const [query, setQuery] = useState('')
   const [liveQuery, setLiveQuery] = useState('')
+  const [activeSearchMode, setActiveSearchMode] = useState<SearchMode>('all')
+  const [theme, setTheme] = useState<ThemeMode>(() => loadSavedTheme())
+  const [watchlistTopics, setWatchlistTopics] = useState<string[]>(() => loadSavedWatchlist())
   const [searchState, setSearchState] = useState<SearchState>({ status: 'idle' })
   const [selectedStory, setSelectedStory] = useState<{ story: Story; timezone: string } | null>(null)
 
@@ -253,6 +386,15 @@ function App() {
     return () => window.removeEventListener('pointermove', handlePointerMove)
   }, [])
 
+  useEffect(() => {
+    document.documentElement.dataset.theme = theme
+    window.localStorage.setItem(THEME_STORAGE_KEY, theme)
+  }, [theme])
+
+  useEffect(() => {
+    window.localStorage.setItem(WATCHLIST_STORAGE_KEY, JSON.stringify(watchlistTopics))
+  }, [watchlistTopics])
+
   const runLiveSearch = useCallback(async (searchTerm: string) => {
     const trimmedTerm = searchTerm.trim()
     if (trimmedTerm.length < 2) {
@@ -300,6 +442,12 @@ function App() {
 
   const stories = loadState.status === 'loaded' ? loadState.data.stories : []
   const normalizedQuery = query.trim().toLowerCase()
+  const allSelectableStories = useMemo(() => {
+    const searchStories = searchState.status === 'loaded' ? searchState.stories : []
+    const storyMap = new Map<string, Story>()
+    ;[...stories, ...searchStories].forEach((story) => storyMap.set(story.id, story))
+    return Array.from(storyMap.values())
+  }, [searchState, stories])
 
   const filteredStories = useMemo(() => {
     return stories
@@ -327,17 +475,92 @@ function App() {
       })
   }, [activeCategory, activeConfidence, normalizedQuery, stories])
 
+  const filteredSearchStories = useMemo(() => {
+    if (searchState.status !== 'loaded') return []
+
+    return searchState.stories
+      .filter((story) => {
+        if (activeSearchMode === 'all' || activeSearchMode === 'latest') return true
+        if (activeSearchMode === 'malaysia') return story.category === 'malaysia'
+        if (activeSearchMode === 'markets') return story.category === 'markets_investment'
+        if (activeSearchMode === 'world') return story.category === 'world'
+        if (activeSearchMode === 'social') return hasSourceKind(story, 'Social')
+        if (activeSearchMode === 'official') return hasSourceKind(story, 'Official')
+        if (activeSearchMode === 'high') return normalizeImportance(story.importance) >= 80
+        return true
+      })
+      .sort((a, b) => storyTimestamp(b) - storyTimestamp(a))
+      .slice(0, activeSearchMode === 'latest' ? 10 : undefined)
+  }, [activeSearchMode, searchState])
+
+  const trendingTopics = useMemo(() => getTrendingTopics(stories), [stories])
+  const watchlistMatches = useMemo(() => {
+    return watchlistTopics.map((topic) => {
+      const normalizedTopic = topic.toLowerCase()
+      const count = stories.filter((story) =>
+        [story.headline, story.summary, story.why_it_matters, ...story.topics]
+          .join(' ')
+          .toLowerCase()
+          .includes(normalizedTopic),
+      ).length
+      return { topic, count }
+    })
+  }, [stories, watchlistTopics])
+
   const data = loadState.status === 'loaded' ? loadState.data : null
   const topStory = filteredStories[0]
 
+  useEffect(() => {
+    function syncRouteStory() {
+      const storyId = getRouteStoryId()
+      if (!storyId) {
+        setSelectedStory(null)
+        return
+      }
+
+      const matchedStory = allSelectableStories.find((story) => story.id === storyId)
+      if (matchedStory) {
+        setSelectedStory({ story: matchedStory, timezone: data?.timezone || 'Asia/Kuala_Lumpur' })
+      }
+    }
+
+    syncRouteStory()
+    window.addEventListener('popstate', syncRouteStory)
+    return () => window.removeEventListener('popstate', syncRouteStory)
+  }, [allSelectableStories, data?.timezone])
+
   function openStory(story: Story, timezone: string) {
     setSelectedStory({ story, timezone })
+    window.history.pushState(null, '', getStoryPath(story))
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
   function closeStory() {
     setSelectedStory(null)
+    window.history.pushState(null, '', '/')
     window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
+
+  function runTopicSearch(topic: string) {
+    setLiveQuery(topic)
+    runLiveSearch(topic)
+  }
+
+  function saveCurrentTopic() {
+    const topic = (liveQuery || query).trim()
+    if (topic.length < 2) return
+    setWatchlistTopics((currentTopics) => {
+      const withoutDuplicate = currentTopics.filter(
+        (currentTopic) => currentTopic.toLowerCase() !== topic.toLowerCase(),
+      )
+      return [topic, ...withoutDuplicate].slice(0, 10)
+    })
+  }
+
+  function removeWatchlistTopic(topic: string) {
+    setWatchlistTopics((currentTopics) =>
+      currentTopics.filter((currentTopic) => currentTopic.toLowerCase() !== topic.toLowerCase()),
+    )
   }
 
   if (selectedStory) {
@@ -355,9 +578,12 @@ function App() {
   return (
     <main className="app-shell">
       <section className="briefing-header" aria-labelledby="page-title">
-        <div className="brand-row">
-          <img className="brand-mark" src="/favicon.svg" alt="" aria-hidden="true" />
-          <span className="brand-name">Daily News</span>
+        <div className="header-top">
+          <div className="brand-row">
+            <img className="brand-mark" src="/favicon.svg" alt="" aria-hidden="true" />
+            <span className="brand-name">Daily News</span>
+          </div>
+          <ThemeSwitcher theme={theme} onThemeChange={setTheme} />
         </div>
 
         <div className="headline-grid">
@@ -480,6 +706,53 @@ function App() {
         </label>
       </section>
 
+      {loadState.status === 'loaded' && (
+        <section className="insights-band" aria-label="Watchlist and trending topics">
+          <div className="insight-panel">
+            <div className="panel-heading">
+              <span>Watchlist</span>
+              <button className="mini-action" onClick={saveCurrentTopic} type="button">
+                <Bookmark aria-hidden="true" size={15} strokeWidth={2.4} />
+                Save topic
+              </button>
+            </div>
+            <div className="topic-cloud">
+              {watchlistMatches.map(({ topic, count }) => (
+                <span className="watch-chip" key={topic}>
+                  <button onClick={() => runTopicSearch(topic)} type="button">
+                    {topic}
+                    <small>{count}</small>
+                  </button>
+                  <button
+                    aria-label={`Remove ${topic}`}
+                    className="chip-remove"
+                    onClick={() => removeWatchlistTopic(topic)}
+                    type="button"
+                  >
+                    <X aria-hidden="true" size={13} strokeWidth={2.5} />
+                  </button>
+                </span>
+              ))}
+            </div>
+          </div>
+
+          <div className="insight-panel">
+            <div className="panel-heading">
+              <span>Trending now</span>
+              <strong>{trendingTopics.length} signals</strong>
+            </div>
+            <div className="topic-cloud">
+              {trendingTopics.map((topic) => (
+                <button className="trend-chip" key={topic.name} onClick={() => runTopicSearch(topic.name)} type="button">
+                  {topic.name}
+                  <small>{topic.count}</small>
+                </button>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       {searchState.status !== 'idle' && (
         <section className="search-results" aria-live="polite">
           <div className="search-results-head">
@@ -498,11 +771,26 @@ function App() {
             )}
           </div>
 
+          {searchState.status === 'loaded' && (
+            <div className="search-mode-row" aria-label="Search result filters">
+              {searchModeOrder.map((mode) => (
+                <button
+                  className={activeSearchMode === mode ? 'is-active' : ''}
+                  key={mode}
+                  onClick={() => setActiveSearchMode(mode)}
+                  type="button"
+                >
+                  {searchModeLabels[mode]}
+                </button>
+              ))}
+            </div>
+          )}
+
           {searchState.status === 'loading' && <span className="loading-bar" />}
           {searchState.status === 'error' && <p className="search-error">{searchState.message}</p>}
-          {searchState.status === 'loaded' && searchState.stories.length > 0 && (
+          {searchState.status === 'loaded' && filteredSearchStories.length > 0 && (
             <div className="story-grid search-grid">
-              {searchState.stories.map((story) => (
+              {filteredSearchStories.map((story) => (
                 <StoryCard
                   key={story.id}
                   onOpen={() => openStory(story, 'Asia/Kuala_Lumpur')}
@@ -512,8 +800,8 @@ function App() {
               ))}
             </div>
           )}
-          {searchState.status === 'loaded' && searchState.stories.length === 0 && (
-            <p className="search-error">No recent public news results found.</p>
+          {searchState.status === 'loaded' && filteredSearchStories.length === 0 && (
+            <p className="search-error">No recent public news results found for this search filter.</p>
           )}
         </section>
       )}
@@ -588,6 +876,7 @@ function StoryCard({
           Published by source {formatDateTime(story.published_at, timezone)}
         </time>
       </div>
+      <SourceProof story={story} />
 
       <h2>{story.headline}</h2>
       <div className="summary-panel">
@@ -622,6 +911,45 @@ function StoryCard({
   )
 }
 
+function ThemeSwitcher({
+  onThemeChange,
+  theme,
+}: {
+  onThemeChange: (theme: ThemeMode) => void
+  theme: ThemeMode
+}) {
+  return (
+    <div className="theme-switcher" aria-label="Theme">
+      <Palette aria-hidden="true" size={17} strokeWidth={2.3} />
+      {themeOrder.map((themeMode) => (
+        <button
+          className={theme === themeMode ? 'is-active' : ''}
+          key={themeMode}
+          onClick={() => onThemeChange(themeMode)}
+          type="button"
+        >
+          {themeLabels[themeMode]}
+        </button>
+      ))}
+    </div>
+  )
+}
+
+function SourceProof({ story }: { story: Story }) {
+  const sourceKinds = Array.from(new Set(story.source_links.map((source) => getSourceKind(source))))
+
+  return (
+    <div className="source-proof" aria-label="Source proof">
+      {sourceKinds.map((kind) => (
+        <span className={`source-kind source-kind-${kind.toLowerCase().replace(/\s+/g, '-')}`} key={kind}>
+          {kind}
+        </span>
+      ))}
+      <span className="source-count">{story.source_links.length} source{story.source_links.length === 1 ? '' : 's'}</span>
+    </div>
+  )
+}
+
 function StoryDetail({
   onBack,
   story,
@@ -653,6 +981,7 @@ function StoryDetail({
           Published by source {formatDateTime(story.published_at, timezone)}
         </time>
       </div>
+      <SourceProof story={story} />
 
       <h1>{story.headline}</h1>
 
@@ -731,7 +1060,8 @@ function StoryDetail({
                 target="_blank"
                 title={`${source.name} via ${getSourceHost(source.url)}`}
               >
-                {source.name}
+                <span>{source.name}</span>
+                <small>{getSourceKind(source)}</small>
                 <ExternalLink aria-hidden="true" size={15} strokeWidth={2.3} />
               </a>
             ))}
