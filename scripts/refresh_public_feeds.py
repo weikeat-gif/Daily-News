@@ -146,6 +146,49 @@ def strip_html(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip()
 
 
+def truncate_text(value: str, max_length: int) -> str:
+    if len(value) <= max_length:
+        return value
+    clipped = value[: max_length - 3]
+    last_break = max(clipped.rfind(" "), clipped.rfind("."), clipped.rfind(","))
+    safe_clip = clipped[:last_break] if last_break > 120 else clipped
+    return f"{safe_clip.strip()}..."
+
+
+def important_summary(description: str, title: str, source_name: str) -> str:
+    base = description.strip() or f"{source_name} reports that {title}."
+    cleaned_base = clean_summary_text(base)
+    sentences = [sentence.strip() for sentence in re.split(r"(?<=[.!?])\s+", cleaned_base) if sentence.strip()]
+    ranked = sorted(sentences, key=sentence_score, reverse=True)
+    primary = ranked[0] if ranked else f"{source_name} reports that {title}."
+    secondary = next((sentence for sentence in ranked if sentence != primary and len(sentence) > 35), "")
+    summary = f"{primary} {secondary}".strip()
+    return truncate_text(f"Key points: {summary}", 280)
+
+
+def clean_summary_text(value: str) -> str:
+    value = re.sub(r"^[A-Z][A-Z\s.,-]{2,40}:\s+", "", value)
+    value = re.sub(r"^\([A-Z][A-Za-z\s.,-]{2,40}\)\s+", "", value)
+    value = re.sub(r"^\w+,\s+[A-Z][a-z]+\s+\d+\s+[-–—]\s+", "", value)
+    value = re.sub(r"\s+\|\s+[^|]{2,80}$", "", value)
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def sentence_score(sentence: str) -> int:
+    score = 0
+    lowered = sentence.lower()
+    if re.search(r"\d", sentence):
+        score += 2
+    if re.search(
+        r"\b(announced|approved|warned|reported|confirmed|launched|signed|rose|fell|killed|crash|probe|deal|rate|shares|profit|loss|tariff|ban)\b",
+        lowered,
+    ):
+        score += 3
+    if re.search(r"\b(malaysia|ringgit|bursa|market|investment|minister|police|court|bank|trade|war|oil)\b", lowered):
+        score += 1
+    return score
+
+
 def parse_date(value: str) -> datetime:
     if value:
         try:
@@ -235,6 +278,30 @@ def social_links_for(feed_name: str, mapping: dict[str, list[dict[str, str]]]) -
     return mapping.get(aliases.get(normalized, normalized), [])
 
 
+def confidence_for_story(feed: Feed, source_links: list[dict[str, str]]) -> str:
+    source_text = " ".join(
+        [feed.name, feed.publisher_type]
+        + [str(link.get("name", "")) for link in source_links]
+        + [str(link.get("url", "")) for link in source_links]
+    ).lower()
+    if any(
+        signal in source_text
+        for signal in (
+            ".gov",
+            "gov.my",
+            "bnm.gov",
+            "bursamalaysia",
+            "regulator",
+            "government",
+            "official",
+            "exchange",
+            "central bank",
+        )
+    ):
+        return "verified"
+    return "reported_unconfirmed"
+
+
 def item_to_story(item: ET.Element, feed: Feed, social_mapping: dict[str, list[dict[str, str]]]) -> dict[str, Any] | None:
     title = strip_html(text_of(item, "title"))
     link = canonical_link(text_of(item, "link"))
@@ -245,9 +312,7 @@ def item_to_story(item: ET.Element, feed: Feed, social_mapping: dict[str, list[d
 
     combined_text = f"{title} {description}"
     category = category_for(combined_text, feed.category_hint)
-    summary = description or title
-    if len(summary) > 280:
-        summary = summary[:277].rstrip() + "..."
+    summary = important_summary(description, title, feed.name)
 
     source_links = [
         {
@@ -268,7 +333,7 @@ def item_to_story(item: ET.Element, feed: Feed, social_mapping: dict[str, list[d
         "source_links": source_links,
         "topics": topics_for(combined_text),
         "importance": 4 if category in {"markets_investment", "world"} else 3,
-        "confidence": "reported_unconfirmed" if len(source_links) == 1 else "cross_checked",
+        "confidence": confidence_for_story(feed, source_links),
     }
 
 

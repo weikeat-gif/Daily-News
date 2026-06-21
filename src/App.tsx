@@ -74,10 +74,10 @@ const categoryTone: Record<Category | 'all', string> = {
 }
 
 const confidenceLabels: Record<Confidence | 'all', string> = {
-  all: 'All confidence',
-  verified: 'Verified',
-  cross_checked: 'Cross-checked',
-  reported_unconfirmed: 'Reported',
+  all: 'All verification',
+  verified: 'Primary source',
+  cross_checked: 'Multiple reports',
+  reported_unconfirmed: 'Single-source',
 }
 
 const confidenceTone: Record<Confidence, string> = {
@@ -382,12 +382,39 @@ function getCategoryBrief(category: Category) {
 
 function getConfidenceDescription(confidence: Confidence) {
   if (confidence === 'verified') {
-    return 'The item is treated as verified from a credible public source in the current feed.'
+    return 'The verification agent found an official, regulator, exchange, government, or similarly authoritative source.'
   }
   if (confidence === 'cross_checked') {
-    return 'The item has supporting coverage or source context, so it is stronger than a single isolated report.'
+    return 'The verification agent found supporting coverage or source context from more than one public source.'
   }
-  return 'The item is reported from public sources but should be read with extra caution until more confirmation appears.'
+  return 'The verification agent found one public report so far. Read it as reported, not fully confirmed.'
+}
+
+function getVerificationAgentNote(story: Story) {
+  const reportCount = getVerificationReportCount(story)
+  if (story.confidence === 'verified') {
+    return `Verification agent: official or authoritative source detected across ${reportCount} report${reportCount === 1 ? '' : 's'}.`
+  }
+  if (story.confidence === 'cross_checked') {
+    return `Verification agent: cross-checked with ${reportCount} public report${reportCount === 1 ? '' : 's'} before showing this as stronger than a single source.`
+  }
+  return 'Verification agent: only one public report found so far, so this stays marked as single-source until more confirmation appears.'
+}
+
+function getVerificationEvidence(story: Story) {
+  const sourceKinds = Array.from(new Set(story.source_links.map((source) => getSourceKind(source))))
+  const sourceHosts = Array.from(new Set(story.source_links.map((source) => getSourceHost(source.url)))).slice(0, 4)
+  return [
+    `${story.source_links.length} source link${story.source_links.length === 1 ? '' : 's'} found`,
+    `${getVerificationReportCount(story)} article report${getVerificationReportCount(story) === 1 ? '' : 's'} counted`,
+    sourceKinds.join(', '),
+    sourceHosts.join(', '),
+  ].filter(Boolean)
+}
+
+function getVerificationReportCount(story: Story) {
+  const reportSources = story.source_links.filter((source) => getSourceKind(source) !== 'Social')
+  return Math.max(1, new Set(reportSources.map((source) => source.name.toLowerCase())).size)
 }
 
 function getWatchNote(story: Story) {
@@ -978,9 +1005,7 @@ function StoryCard({
         <span className={`category-pill category-${categoryTone[story.category]}`}>
           {categoryLabels[story.category]}
         </span>
-        <time dateTime={story.published_at}>
-          Published by source {formatDateTime(story.published_at, timezone)}
-        </time>
+        <time dateTime={story.published_at}>Published {formatDateTime(story.published_at, timezone)}</time>
       </div>
       <SourceProof story={story} />
 
@@ -1140,13 +1165,16 @@ function SourceProof({ story }: { story: Story }) {
   const sourceKinds = Array.from(new Set(story.source_links.map((source) => getSourceKind(source))))
 
   return (
-    <div className="source-proof" aria-label="Source proof">
-      {sourceKinds.map((kind) => (
-        <span className={`source-kind source-kind-${kind.toLowerCase().replace(/\s+/g, '-')}`} key={kind}>
-          {kind}
-        </span>
-      ))}
-      <span className="source-count">{story.source_links.length} source{story.source_links.length === 1 ? '' : 's'}</span>
+    <div className="source-proof" aria-label="Source evidence">
+      <div className="source-proof-tags">
+        {sourceKinds.map((kind) => (
+          <span className={`source-kind source-kind-${kind.toLowerCase().replace(/\s+/g, '-')}`} key={kind}>
+            {kind}
+          </span>
+        ))}
+        <span className="source-count">{story.source_links.length} source link{story.source_links.length === 1 ? '' : 's'}</span>
+      </div>
+      <p>{getVerificationAgentNote(story)}</p>
     </div>
   )
 }
@@ -1178,9 +1206,7 @@ function StoryDetail({
         <span className={`category-pill category-${categoryTone[story.category]}`}>
           {categoryLabels[story.category]}
         </span>
-        <time dateTime={story.published_at}>
-          Published by source {formatDateTime(story.published_at, timezone)}
-        </time>
+        <time dateTime={story.published_at}>Published {formatDateTime(story.published_at, timezone)}</time>
       </div>
       <SourceProof story={story} />
 
@@ -1217,6 +1243,16 @@ function StoryDetail({
             <p>{getWatchNote(story)}</p>
           </div>
 
+          <div className="detail-section verification-section">
+            <span>Verification agent</span>
+            <p>{getVerificationAgentNote(story)}</p>
+            <ul className="detail-list verification-list">
+              {getVerificationEvidence(story).map((item) => (
+                <li key={item}>{item}</li>
+              ))}
+            </ul>
+          </div>
+
           <div className="topic-row" aria-label="Topics">
             {story.topics.map((topic) => (
               <span key={topic}>{topic}</span>
@@ -1246,7 +1282,7 @@ function StoryDetail({
               <dd>{getConfidenceDescription(story.confidence)}</dd>
             </div>
             <div>
-              <dt>Sources found</dt>
+              <dt>Source links found</dt>
               <dd>{story.source_links.map((source) => source.name).join(', ')}</dd>
             </div>
           </dl>
