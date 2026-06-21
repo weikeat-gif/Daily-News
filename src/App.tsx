@@ -566,9 +566,13 @@ function App() {
 
   function changeTheme(nextTheme: ThemeMode) {
     if (nextTheme === theme) return
+    document.documentElement.classList.add('theme-changing')
     setIsThemeChanging(true)
     setTheme(nextTheme)
-    window.setTimeout(() => setIsThemeChanging(false), 360)
+    window.setTimeout(() => {
+      setIsThemeChanging(false)
+      document.documentElement.classList.remove('theme-changing')
+    }, 520)
   }
 
   if (selectedStory) {

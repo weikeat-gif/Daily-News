@@ -124,6 +124,19 @@ body {
     var(--soft-bg);
 }
 
+:root.theme-changing body::after {
+  position: fixed;
+  z-index: 9999;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at var(--pointer-x) var(--pointer-y), rgba(139, 214, 194, 0.34), transparent 34%),
+    linear-gradient(135deg, rgba(200, 63, 51, 0.18), rgba(31, 90, 77, 0.18));
+  animation: theme-wash 520ms ease both;
+  content: "";
+  mix-blend-mode: soft-light;
+}
+
 button,
 input,
 select {
@@ -183,6 +196,22 @@ a,
     filter: saturate(1) brightness(1);
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+@keyframes theme-wash {
+  0% {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+
+  35% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    transform: scale(1.03);
   }
 }
 
@@ -742,6 +771,14 @@ h1 {
   background: rgba(200, 63, 51, 0.12);
   color: #9d2e27;
   font-size: 0.72rem;
+  font-weight: 900;
+}
+
+:root[data-theme="night"] .trend-chip small,
+:root[data-theme="night"] .watch-chip small {
+  background: #f0796f;
+  color: #101716;
+  box-shadow: 0 0 0 1px rgba(240, 121, 111, 0.38);
 }
 
 .metric {
@@ -903,6 +940,21 @@ h1 {
 
 .confidence-pill.watch {
   background: #f7dfc9;
+}
+
+:root[data-theme="night"] .confidence-pill.good {
+  background: #8bd6c2;
+  color: #101716;
+}
+
+:root[data-theme="night"] .confidence-pill.steady {
+  background: #e5ad60;
+  color: #101716;
+}
+
+:root[data-theme="night"] .confidence-pill.watch {
+  background: #f0796f;
+  color: #101716;
 }
 
 .category-pill {
