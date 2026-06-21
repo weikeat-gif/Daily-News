@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
-import { ArrowLeft, ExternalLink, RotateCcw, Search } from 'lucide-react'
+import { ArrowLeft, ArrowRight, ExternalLink, RotateCcw, Search } from 'lucide-react'
 
 type Category = 'malaysia' | 'markets_investment' | 'world'
 type Confidence = 'verified' | 'cross_checked' | 'reported_unconfirmed'
@@ -136,6 +136,45 @@ function normalizeImportance(score: number) {
   if (!Number.isFinite(score)) return 0
   const scaledScore = score <= 5 ? score * 20 : score
   return Math.max(0, Math.min(Math.round(scaledScore), 100))
+}
+
+function getCategoryBrief(category: Category) {
+  if (category === 'malaysia') {
+    return 'A Malaysia-focused update that may affect local policy, companies, public services, or daily decisions.'
+  }
+  if (category === 'markets_investment') {
+    return 'A markets and investment update worth watching for price moves, earnings expectations, rates, currencies, or sector sentiment.'
+  }
+  return 'A world update that may shape geopolitics, business confidence, supply chains, technology, or public safety.'
+}
+
+function getConfidenceDescription(confidence: Confidence) {
+  if (confidence === 'verified') {
+    return 'The item is treated as verified from a credible public source in the current feed.'
+  }
+  if (confidence === 'cross_checked') {
+    return 'The item has supporting coverage or source context, so it is stronger than a single isolated report.'
+  }
+  return 'The item is reported from public sources but should be read with extra caution until more confirmation appears.'
+}
+
+function getWatchNote(story: Story) {
+  const topicText = story.topics.slice(0, 3).join(', ')
+  if (story.category === 'markets_investment') {
+    return `Watch whether this changes investor sentiment around ${topicText || 'the related market'}, especially through price action, company statements, analyst notes, or regulator updates.`
+  }
+  if (story.category === 'malaysia') {
+    return `Watch for official follow-up, local policy response, and practical effects around ${topicText || 'the affected Malaysia topic'}.`
+  }
+  return `Watch for follow-up confirmation, official response, and wider effects around ${topicText || 'the affected global issue'}.`
+}
+
+function getDetailPoints(story: Story) {
+  return [
+    story.summary,
+    story.why_it_matters,
+    getWatchNote(story),
+  ]
 }
 
 function App() {
@@ -537,18 +576,7 @@ function StoryCard({
   const heatClass = importance >= 85 ? 'heat-hot' : importance >= 65 ? 'heat-warm' : 'heat-cool'
 
   return (
-    <article
-      className={`story-card ${heatClass}`}
-      onClick={onOpen}
-      onKeyDown={(event) => {
-        if (event.key === 'Enter' || event.key === ' ') {
-          event.preventDefault()
-          onOpen()
-        }
-      }}
-      role="button"
-      tabIndex={0}
-    >
+    <article className={`story-card ${heatClass}`}>
       <div className="story-meta">
         <span className={`confidence-pill ${confidenceTone[story.confidence]}`}>
           {confidenceLabels[story.confidence]}
@@ -585,7 +613,10 @@ function StoryCard({
             <i style={{ width: `${importance}%` }} />
           </div>
         </div>
-        <span className="details-cue">Open details</span>
+        <button className="details-button" onClick={onOpen} type="button">
+          Open details
+          <ArrowRight aria-hidden="true" size={15} strokeWidth={2.4} />
+        </button>
       </div>
     </article>
   )
@@ -602,6 +633,7 @@ function StoryDetail({
 }) {
   const importance = normalizeImportance(story.importance)
   const heatClass = importance >= 85 ? 'heat-hot' : importance >= 65 ? 'heat-warm' : 'heat-cool'
+  const detailPoints = getDetailPoints(story)
 
   return (
     <article className={`detail-page ${heatClass}`}>
@@ -626,14 +658,33 @@ function StoryDetail({
 
       <div className="detail-grid">
         <section className="detail-main">
+          <div className="detail-section detail-lead">
+            <span>What happened</span>
+            <p>{story.summary}</p>
+          </div>
+
+          <div className="detail-section">
+            <span>Key takeaways</span>
+            <ul className="detail-list">
+              {detailPoints.map((point) => (
+                <li key={point}>{point}</li>
+              ))}
+            </ul>
+          </div>
+
           <div className="summary-panel">
-            <span>Summary</span>
-            <p className="story-summary">{story.summary}</p>
+            <span>Context</span>
+            <p className="story-summary">{getCategoryBrief(story.category)}</p>
           </div>
 
           <div className="matter-panel">
             <span>How it may affect us</span>
             <p>{story.why_it_matters}</p>
+          </div>
+
+          <div className="detail-section">
+            <span>What to watch next</span>
+            <p>{getWatchNote(story)}</p>
           </div>
 
           <div className="topic-row" aria-label="Topics">
@@ -650,6 +701,25 @@ function StoryDetail({
               <i style={{ width: `${importance}%` }} />
             </div>
           </div>
+
+          <dl className="detail-facts">
+            <div>
+              <dt>Published</dt>
+              <dd>{formatDateTime(story.published_at, timezone)}</dd>
+            </div>
+            <div>
+              <dt>Category</dt>
+              <dd>{categoryLabels[story.category]}</dd>
+            </div>
+            <div>
+              <dt>Confidence</dt>
+              <dd>{getConfidenceDescription(story.confidence)}</dd>
+            </div>
+            <div>
+              <dt>Sources found</dt>
+              <dd>{story.source_links.map((source) => source.name).join(', ')}</dd>
+            </div>
+          </dl>
 
           <div className="source-row detail-sources" aria-label="Sources">
             <span className="source-label">Article source</span>
