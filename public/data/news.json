@@ -1,70 +1,630 @@
 {
-  "generated_at": "2026-06-21T15:05:00+08:00",
+  "generated_at": "2026-06-21T23:01:38+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-06-21-india-tightens-security-as-millions-of-medical-student-aspirants-retake-entrance-e",
+      "id": "2026-06-21-spain-swelters-in-first-official-heatwave-of-2026",
       "category": "world",
-      "headline": "India tightens security as millions of medical student aspirants retake entrance exam after paper leak",
-      "summary": "India's 2.2 million medical aspirants retook the entrance exam under heavy security after a paper leak triggered arrests, protests and a broader credibility crisis around public exams.",
-      "why_it_matters": "The retest shows how governance failures can spill into social stability and political pressure in one of Asia's largest economies.",
-      "published_at": "2026-06-21T14:20:00+08:00",
+      "headline": "Spain swelters in first official heatwave of 2026",
+      "summary": "Spain swelters in first official heatwave of 2026",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T22:20:38+08:00",
       "source_links": [
         {
-          "name": "CNA Asia",
-          "url": "https://www.channelnewsasia.com/asia/india-tightens-security-millions-medical-student-aspirants-retake-entrance-exam-after-paper-leak-6198201",
-          "publisher_type": "news"
-        },
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/06/21/no-cheating-tight-security-as-india-holds-exam-retest-after-leak-scandal/224625",
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/heatwave-europe-spain-madrid-sun-wildfires-6198431",
           "publisher_type": "news"
         },
         {
           "name": "X Channel NewsAsia",
           "url": "https://x.com/ChannelNewsAsia",
           "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
         }
       ],
       "topics": [
-        "india",
-        "education",
-        "governance",
-        "social stability"
+        "latest update"
       ],
       "importance": 4,
       "confidence": "cross_checked"
     },
     {
-      "id": "2026-06-21-uzbekistan-taps-malaysia-s-expertise-to-expand-muslim-friendly-travel-bernama",
+      "id": "2026-06-21-from-rm500-to-over-rm6-000-association-warns-of-13-fold-fee-hike-if-selangor-recla",
       "category": "malaysia",
-      "headline": "Uzbekistan taps Malaysia's expertise to expand Muslim-friendly travel",
-      "summary": "Bernama reported that Uzbekistan is looking to Malaysia for know-how on Muslim-friendly tourism, highlighting Malaysia's soft-power role in halal travel standards and destination development.",
-      "why_it_matters": "Tourism cooperation supports Malaysia's services exports, regional influence and Visit Malaysia-related positioning.",
-      "published_at": "2026-06-21T13:42:38+08:00",
+      "headline": "From RM500 to over RM6,000? Association warns of 13-fold fee hike if Selangor reclassifies kids’ playlands",
+      "summary": "KUALA LUMPUR, June 21 — The Malaysian Association of Theme Parks and Family Attractions (Matfa) has urged the Sela...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T20:27:02+08:00",
       "source_links": [
         {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGRlNOaHdJRmtYZUYzN2JJRGhEVldhc2FBbzZNMWY1SzRMWkZFZDlWcXBGNFM1OUJ5VnIxZm43M3MtZkxqcXBGOG1ETFJzbUo1QlcxanotZmZCem1HQU9vUEw1bjNJemdRN0xGOXJR?oc=5",
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/from-rm500-to-over-rm6000-association-warns-of-13-fold-fee-hike-if-selangor-reclassifies-kids-playlands/224664",
           "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
         "malaysia",
-        "uzbekistan",
-        "tourism",
-        "halal travel"
+        "kuala lumpur",
+        "selangor",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-mother-tongue-mastery-is-the-best-tool-against-3r-trolls-says-deputy-unity-ministe",
+      "category": "malaysia",
+      "headline": "Mother-tongue mastery is the best tool against 3R trolls, says deputy unity minister",
+      "summary": "KUALA LUMPUR, June 21 — Deputy National Unity Minister R. Yuneswaran has called for greater emphasis on strengthen...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T20:13:28+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/mother-tongue-mastery-is-the-best-tool-against-3r-trolls-says-deputy-unity-minister/224663",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-france-s-street-music-festival-collides-with-record-heatwave-alcohol-ban-imposed-a",
+      "category": "world",
+      "headline": "France’s street music festival collides with record heatwave, alcohol ban imposed across red‑alert zones",
+      "summary": "PARIS, June 21 — France on Sunday prepared to host its annual street music festival in boiling heat, with a third...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T19:24:16+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/21/frances-street-music-festival-collides-with-record-heatwave-alcohol-ban-imposed-across-redalert-zones/224661",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-penang-pumps-rm129-900-into-youth-ideas-not-just-events",
+      "category": "malaysia",
+      "headline": "Penang pumps RM129,900 into youth ideas, not just events",
+      "summary": "GEORGE TOWN, June 21 — The Penang government has approved RM129,900 under its Youth Development Fund this year to...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T19:20:03+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/penang-pumps-rm129900-into-youth-ideas-not-just-events/224659",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-reports-say-starmer-ready-to-resign-after-burnham-s-emphatic-makerfield-victory-do",
+      "category": "world",
+      "headline": "Reports say Starmer ready to resign after Burnham’s emphatic Makerfield victory doubles majority",
+      "summary": "LONDON, June 21 — British Prime Minister Keir Starmer was reflecting this weekend on the “political realitie...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T19:15:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/21/reports-say-starmer-ready-to-resign-after-burnhams-emphatic-makerfield-victory-doubles-majority/224660",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-tekun-targets-24-hour-loan-approvals-for-small-businesses",
+      "category": "malaysia",
+      "headline": "Tekun targets 24-hour loan approvals for small businesses",
+      "summary": "MELAKA, June 21 — Tabung Ekonomi Kumpulan Usaha Niaga (Tekun Nasional) aims to approve financing below RM20,000 wi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T19:09:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/tekun-targets-24-hour-loan-approvals-for-small-businesses/224658",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-poll-shows-israelis-believe-iran-won-war-deal-leaves-nation-weaker-and-netanyahu-e",
+      "category": "world",
+      "headline": "Poll shows Israelis believe Iran won war, deal leaves nation weaker and Netanyahu exposed",
+      "summary": "JERUSALEM, June 21 — Israelis overwhelmingly believe that Iran emerged stronger from the Middle East war and its s...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T18:59:54+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/21/poll-shows-israelis-believe-iran-won-war-deal-leaves-nation-weaker-and-netanyahu-exposed/224657",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-iceland-resumes-whale-hunt-despite-global-outrage-activists-condemn-cruel-slaughte",
+      "category": "world",
+      "headline": "Iceland resumes whale hunt despite global outrage, activists condemn cruel slaughter for unwanted meat",
+      "summary": "REYKJAVIK, June 21 — One of Iceland’s two remaining whaling ships set out this week to hunt the giant mammal...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T18:42:43+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/21/iceland-resumes-whale-hunt-despite-global-outrage-activists-condemn-cruel-slaughter-for-unwanted-meat/224651",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-bintulu-port-shift-marks-win-win-under-ma63-framework-says-federal-minister",
+      "category": "malaysia",
+      "headline": "Bintulu Port shift marks win-win under MA63 framework, says federal minister",
+      "summary": "KUCHING, June 21 — The handover of Bintulu Port’s regulatory authority to the Sarawak state government is am...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T18:41:10+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/bintulu-port-shift-marks-win-win-under-ma63-framework-says-federal-minister/224654",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-zambry-malaysia-emerging-as-global-education-hub-after-strong-asia-rankings-showin",
+      "category": "malaysia",
+      "headline": "Zambry: Malaysia emerging as global education hub after strong Asia rankings showing",
+      "summary": "KUALA LUMPUR, June 21 — The success of Malaysian universities in securing international rankings demonstrates the...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T18:36:20+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/zambry-malaysia-emerging-as-global-education-hub-after-strong-asia-rankings-showing/224655",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "rate",
+        "asia"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-viral-data-leak-claims-stem-from-pre-2022-intrusions-unrelated-to-current-systems-",
+      "category": "malaysia",
+      "headline": "Viral data‑leak claims stem from pre‑2022 intrusions, unrelated to current systems, says National Security Council",
+      "summary": "KUALA LUMPUR, June 21 — The National Security Council (MKN) has clarified that claims of a personal data leak circ...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T17:30:42+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/viral-dataleak-claims-stem-from-pre2022-intrusions-unrelated-to-current-systems-says-national-security-council/224650",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-old-bruises-unanswered-questions-death-of-64-year-old-at-sungai-petani-care-home-s",
+      "category": "malaysia",
+      "headline": "Old bruises, unanswered questions: Death of 64-year-old at Sungai Petani care home sparks police probe",
+      "summary": "SUNGAI PETANI, June 21 — A 64-year-old man’s death at a care centre here has sparked a police investigation...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T17:26:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/old-bruises-unanswered-questions-death-of-64-year-old-at-sungai-petani-care-home-sparks-police-probe/224649",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-job-losses-near-39-000-in-five-months-with-malaysians-aged-25-to-39-hardest-hit-sa",
+      "category": "malaysia",
+      "headline": "Job losses near 39,000 in five months with Malaysians aged 25 to 39 hardest hit, says HR Ministry",
+      "summary": "KUALA LUMPUR, June 21 — Nearly 39,000 Malaysians lost their jobs in the first five months of this year, prompting...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T17:03:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/job-losses-near-39000-in-five-months-with-malaysians-aged-25-to-39-hardest-hit-says-hr-ministry/224648",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-us-iran-talks-kick-off-in-switzerland-amid-lebanon-conflict-threat",
+      "category": "world",
+      "headline": "US-Iran talks kick off in Switzerland amid Lebanon conflict threat",
+      "summary": "BURGENSTOCK (Switzerland), June 21 — The first round of negotiations between the United States and Iran since the...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T17:02:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/21/us-iran-talks-kick-off-in-switzerland-amid-lebanon-conflict-threat/224647",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-legal-action-likely-over-tambirat-waterfront-project-collapse-delaying-phase-two-a",
+      "category": "malaysia",
+      "headline": "Legal action likely over Tambirat Waterfront project collapse, delaying Phase Two and the regatta, says Sarawak minister",
+      "summary": "KUCHING, June 21 — The stalled Phase One of the Tambirat Waterfront project is likely to end up in court following...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T16:53:47+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/legal-action-likely-over-tambirat-waterfront-project-collapse-delaying-phase-two-and-the-regatta-says-sarawak-minister/224645",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-malaysia-s-shrimp-supply-stable-as-industry-backs-temporary-thai-import-ban-says-d",
+      "category": "malaysia",
+      "headline": "Malaysia’s shrimp supply stable as industry backs temporary Thai import ban, says DOF",
+      "summary": "MARANG, June 21 — Malaysia’s shrimp supply is guaranteed to be sufficient even after the country imposed a t...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T16:42:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/malaysias-shrimp-supply-stable-as-industry-backs-temporary-thai-import-ban-says-dof/224643",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-police-seal-bercham-storm-hit-areas-tighten-movement-controls-to-curb-theft",
+      "category": "malaysia",
+      "headline": "Police seal Bercham storm‑hit areas, tighten movement controls to curb theft",
+      "summary": "IPOH, June 21 — Police have sealed off five zones within disaster-affected areas in Bercham and restricted movemen...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T16:32:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/police-seal-bercham-stormhit-areas-tighten-movement-controls-to-curb-theft/224642",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-subsidised-diesel-reduced-to-rm2-10-per-litre-nationwide-beginning-july-the-edge-m",
+      "category": "malaysia",
+      "headline": "Subsidised diesel reduced to RM2.10 per litre nationwide beginning July - The Edge Malaysia",
+      "summary": "Subsidised diesel reduced to RM2.10 per litre nationwide beginning July The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T16:26:10+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15V1NWMHo4ajFPWVdQT3Rqck0wY2l0VEpiam1vSnVnYzg2blQwdFJnc0puVUdPQkMtWURrczM5aGt6OUNtZkpRa2ZxdHFUYVRj?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-21-mof-diesel-price-to-drop-to-rm2-10-per-litre-from-july-2026-under-mykad-based-subs",
+      "category": "malaysia",
+      "headline": "MOF: Diesel price to drop to RM2.10 per litre from July 2026 under MyKad‑based subsidy mechanism",
+      "summary": "KUALA LUMPUR, June 21 — The subsidised diesel price for Malaysians will fall to RM2.10 per litre starting July 202...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T16:18:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/mof-diesel-price-to-drop-to-rm210-per-litre-from-july-2026-under-mykadbased-subsidy-mechanism/224640",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-federal-allocations-to-states-guided-by-constitution-says-pasir-gudang-mp",
+      "category": "malaysia",
+      "headline": "Federal allocations to states guided by Constitution, says Pasir Gudang MP",
+      "summary": "JOHOR BAHRU, June 21 — The Madani Government is guided by written laws and the Federal Constitution in matters inv...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T16:03:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/federal-allocations-to-states-guided-by-constitution-says-pasir-gudang-mp/224639",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-dr-sim-urges-deaf-community-to-harness-emerging-technologies-as-sarawak-works-to-i",
+      "category": "malaysia",
+      "headline": "Dr Sim urges deaf community to harness emerging technologies as Sarawak works to improve accessibility for PwDs",
+      "summary": "KUCHING, June 21 — Sarawak still has significant ground to cover in improving infrastructure and accessibility for...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T15:49:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/dr-sim-urges-deaf-community-to-harness-emerging-technologies-as-sarawak-works-to-improve-accessibility-for-pwds/224637",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-perikatan-to-review-coalition-membership-logo-and-johor-negeri-sembilan-poll-strat",
+      "category": "malaysia",
+      "headline": "Perikatan to review coalition membership, logo and Johor, Negeri Sembilan poll strategy at emergency meeting tomorrow",
+      "summary": "KUALA LUMPUR, June 21 — Perikatan Nasional (PN) will convene an emergency meeting tomorrow to determine the coalit...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T15:33:45+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/perikatan-to-review-coalition-membership-logo-and-johor-negeri-sembilan-poll-strategy-at-emergency-meeting-tomorrow/224636",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-former-titi-serong-assemblyman-hasnul-zulkarnain-rejoins-amanah-after-six-years",
+      "category": "malaysia",
+      "headline": "Former Titi Serong assemblyman Hasnul Zulkarnain rejoins Amanah after six years",
+      "summary": "IPOH, June 21 — Former Titi Serong state assemblyman Hasnul Zulkarnain Abd Munaim has rejoined Parti Amanah Negara...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T15:16:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/former-titi-serong-assemblyman-hasnul-zulkarnain-rejoins-amanah-after-six-years/224634",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-the-15-day-deficit-how-sabah-s-shorter-birth-registration-window-is-fuelling-a-sta",
+      "category": "malaysia",
+      "headline": "The 15-day deficit: How Sabah’s shorter birth registration window is fuelling a statelessness crisis",
+      "summary": "KOTA KINABALU, June 30 — Advocates for Non-Discrimination and Access to Knowledge (Anak) Executive Director Anne B...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T15:11:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/the-15-day-deficit-how-sabahs-shorter-birth-registration-window-is-fuelling-a-statelessness-crisis/224632",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-speaker-confirms-hamzah-s-status-as-opposition-leader-muhyiddin-moved-to-new-seat",
+      "category": "malaysia",
+      "headline": "Speaker confirms Hamzah’s status as Opposition Leader, Muhyiddin moved to new seat",
+      "summary": "KUALA LUMPUR, June 21 — Dewan Rakyat Speaker Tan Sri Johari Abdul confirmed that he had received a notification le...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T15:07:49+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/speaker-confirms-hamzahs-status-as-opposition-leader-muhyiddin-moved-to-new-seat/224631",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-from-abah-to-abi-malaysia-s-top-leaders-salute-the-silent-superheroes-who-don-t-we",
+      "category": "malaysia",
+      "headline": "From abah to abi: Malaysia’s top leaders salute the silent superheroes who don’t wear capes",
+      "summary": "KUALA LUMPUR, June 21 — Deputy Prime Ministers Datuk Seri Dr Ahmad Zahid Hamidi and Datuk Seri Fadillah Yusof, tog...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T14:57:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/from-abah-to-abi-malaysias-top-leaders-salute-the-silent-superheroes-who-dont-wear-capes/224629",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-trump-blames-terrible-vandals-for-washington-pool-renovation-woes",
+      "category": "world",
+      "headline": "Trump blames ‘terrible vandals’ for Washington pool renovation woes",
+      "summary": "WASHINGTON, June 21 — US President Donald Trump said yesterday “terrible vandals” had sabotaged his re...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T14:29:27+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/21/trump-blames-terrible-vandals-for-washington-pool-renovation-woes/224626",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-no-cheating-tight-security-as-india-holds-exam-retest-after-leak-scandal",
+      "category": "world",
+      "headline": "No cheating: Tight security as India holds exam retest after leak scandal",
+      "summary": "NEW DELHI, June 21 — India’s 2.2 million aspiring medical students sit a re-examination under tight security...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T14:22:03+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/21/no-cheating-tight-security-as-india-holds-exam-retest-after-leak-scandal/224625",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-ganja-buds-terengganu-police-seize-luxury-rides-and-rm1-76m-in-drugs-from-kampung-",
+      "category": "malaysia",
+      "headline": "Ganja buds: Terengganu police seize luxury rides and RM1.76m in drugs from Kampung Duyong Besar brothers",
+      "summary": "KUALA TERENGGANU, June 21 — Police have arrested two brothers suspected of using their house in Kampung Duyong Bes...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T14:04:36+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/ganja-buds-terengganu-police-seize-luxury-rides-and-rm176m-in-drugs-from-kampung-duyong-besar-brothers/224623",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
@@ -72,9 +632,9 @@
     {
       "id": "2026-06-21-diabetes-remains-one-of-malaysia-s-biggest-public-health-challenges-says-sarawak-h",
       "category": "malaysia",
-      "headline": "Diabetes remains one of Malaysia's biggest public health challenges, says Sarawak Health director",
-      "summary": "Sarawak's health leadership warned that diabetes remains among Malaysia's most serious public-health burdens, reinforcing pressure on prevention, screening and treatment capacity.",
-      "why_it_matters": "A persistent chronic-disease burden affects healthcare costs, labour productivity and long-term public spending.",
+      "headline": "Diabetes remains one of Malaysia’s biggest public health challenges, says Sarawak Health director",
+      "summary": "KUCHING, June 21 — Non-communicable diseases (NCDs), particularly diabetes, continue to pose major public health c...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-06-21T13:12:32+08:00",
       "source_links": [
         {
@@ -84,10 +644,7 @@
         }
       ],
       "topics": [
-        "malaysia",
-        "healthcare",
-        "diabetes",
-        "sarawak"
+        "latest update"
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
@@ -95,9 +652,9 @@
     {
       "id": "2026-06-21-army-freezes-hand-grenade-drills-as-investigation-into-kedah-training-blast-is-fas",
       "category": "malaysia",
-      "headline": "Army freezes hand-grenade drills as investigation into Kedah training blast is fast-tracked",
-      "summary": "The army temporarily suspended hand-grenade training after the Kedah training-blast incident, while the defence ministry said the investigation would be accelerated.",
-      "why_it_matters": "Military training safety is a sensitive public-sector issue with operational, accountability and political implications.",
+      "headline": "Army freezes hand‑grenade drills as investigation into Kedah training blast is fast‑tracked, says defence minister",
+      "summary": "KOTA TINGGI, June 21 — The Malaysian Army has temporarily suspended all hand grenade training activities following...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-06-21T12:57:14+08:00",
       "source_links": [
         {
@@ -107,20 +664,37 @@
         }
       ],
       "topics": [
-        "malaysia",
-        "defence",
-        "army",
-        "safety"
+        "latest update"
       ],
-      "importance": 4,
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-kuching-south-mayor-urges-public-to-report-murky-water-issues-to-sarawak-water-not",
+      "category": "malaysia",
+      "headline": "Kuching South mayor urges public to report murky water issues to Sarawak Water, not on social media",
+      "summary": "KUCHING, June 21 — Members of the public are urged to lodge formal complaints with Sarawak Water Sdn Bhd whenever...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T12:47:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/kuching-south-mayor-urges-public-to-report-murky-water-issues-to-sarawak-water-not-on-social-media/224615",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
       "id": "2026-06-21-bangladesh-pm-to-visit-malaysia-in-first-official-trip-abroad-bernama",
       "category": "malaysia",
-      "headline": "Bangladesh PM to visit Malaysia in first official trip abroad",
-      "summary": "Bernama reported that Bangladesh's prime minister will travel to Malaysia on her first official foreign visit, signalling near-term diplomatic and economic engagement between the two countries.",
-      "why_it_matters": "The visit can affect bilateral trade, labour, migration and regional diplomacy.",
+      "headline": "Bangladesh PM To Visit Malaysia In First Official Trip abroad - Bernama",
+      "summary": "Bangladesh PM To Visit Malaysia In First Official Trip abroad Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-06-21T12:46:03+08:00",
       "source_links": [
         {
@@ -140,10 +714,47 @@
         }
       ],
       "topics": [
-        "malaysia",
-        "bangladesh",
-        "diplomacy",
-        "trade"
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "cross_checked"
+    },
+    {
+      "id": "2026-06-21-scratch-and-lose-bau-woman-poorer-by-rm6-000-after-falling-for-online-super-lotto-",
+      "category": "malaysia",
+      "headline": "Scratch-and-lose: Bau woman poorer by RM6,000 after falling for online ‘Super Lotto’ scam",
+      "summary": "KUCHING, June 21 — A woman from a village in Bau lost over RM6,000 to an online scratch-and-win scam advertised un...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T12:31:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/scratch-and-lose-bau-woman-poorer-by-rm6000-after-falling-for-online-super-lotto-scam/224614",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-kuching-cop-injured-after-falling-into-6m-deep-gorge-during-village-community-prog",
+      "category": "malaysia",
+      "headline": "Kuching cop injured after falling into 6m‑deep gorge during village community programme",
+      "summary": "KUCHING, June 21 — A police personnel suffered injuries to his body and head after he slipped and fell down a six-...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T12:22:47+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/kuching-cop-injured-after-falling-into-6mdeep-gorge-during-village-community-programme/224612",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
@@ -152,8 +763,8 @@
       "id": "2026-06-21-malaysian-sisters-behind-handcrafted-footwear-brand-machino-named-to-forbes-30-und",
       "category": "malaysia",
       "headline": "Malaysian sisters behind handcrafted footwear brand Machino named to Forbes 30 Under 30 Asia list",
-      "summary": "A Malaysian-founded footwear label landed on the Forbes 30 Under 30 Asia list, giving the local consumer-brand scene a fresh entrepreneurship and exports story.",
-      "why_it_matters": "Recognition for local founders supports Malaysia's startup narrative and brand-building ambitions beyond manufacturing.",
+      "summary": "KUALA LUMPUR, June 21 — Two entrepreneurial sisters have done Malaysia proud by being inducted into the prestigiou...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-06-21T12:05:20+08:00",
       "source_links": [
         {
@@ -163,10 +774,7 @@
         }
       ],
       "topics": [
-        "malaysia",
-        "entrepreneurship",
-        "consumer brands",
-        "forbes"
+        "latest update"
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
@@ -175,8 +783,8 @@
       "id": "2026-06-21-pakatan-to-unveil-johor-state-poll-candidates-in-bukit-gambir-tomorrow-says-anwar",
       "category": "malaysia",
       "headline": "Pakatan to unveil Johor state poll candidates in Bukit Gambir tomorrow, says Anwar",
-      "summary": "Pakatan Harapan said it will announce Johor state-poll candidates in Bukit Gambir, putting the campaign and coalition seat strategy back in focus ahead of the contest.",
-      "why_it_matters": "Johor state-politics developments can influence coalition momentum, campaign narratives and local policy expectations.",
+      "summary": "JOHOR BAHRU, June 21 — Pakatan Harapan (PH) chairman Datuk Seri Anwar Ibrahim will attend the announcement ceremon...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-06-21T11:46:46+08:00",
       "source_links": [
         {
@@ -186,20 +794,17 @@
         }
       ],
       "topics": [
-        "malaysia",
-        "johor",
-        "politics",
-        "pakatan harapan"
+        "latest update"
       ],
-      "importance": 4,
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
       "id": "2026-06-21-how-much-britain-s-king-charles-to-reveal-personal-tax-bill",
       "category": "world",
-      "headline": "Britain's King Charles to reveal personal tax bill",
-      "summary": "Buckingham Palace is set to disclose King Charles III's personal tax bill in a transparency move that could reshape expectations around the monarchy's finances.",
-      "why_it_matters": "The disclosure touches public trust, institutional legitimacy and broader debates over state-linked wealth and accountability.",
+      "headline": "How much? Britain's King Charles to reveal personal tax bill",
+      "summary": "LONDON, June 21 — King Charles III will reveal his personal tax bill in a bid to improve transparency, Buckingham...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
       "published_at": "2026-06-21T11:38:45+08:00",
       "source_links": [
         {
@@ -209,20 +814,17 @@
         }
       ],
       "topics": [
-        "united kingdom",
-        "monarchy",
-        "transparency",
-        "tax"
+        "latest update"
       ],
-      "importance": 3,
+      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
       "id": "2026-06-21-brics-malaysia-russia-s-supply-assurance-petronas-turkmenistan-gains-from-anwar-s-",
-      "category": "markets_investment",
-      "headline": "Russia supply assurance and PETRONAS-Turkmenistan gains lift Malaysia's energy security outlook",
-      "summary": "A Brics International Malaysia response to Anwar's Russia and Turkmenistan visits said supply assurances from Russia and PETRONAS gains in Turkmenistan strengthen Malaysia's energy-security position.",
-      "why_it_matters": "Energy-security narratives can shape inflation risks, industrial planning and investor views on Malaysia's medium-term resilience.",
+      "category": "malaysia",
+      "headline": "Brics Malaysia: Russia’s supply assurance, Petronas-Turkmenistan gains from Anwar’s visits boost nation’s energy security",
+      "summary": "KUALA LUMPUR, June 21 — Brics International Malaysia welcomes the positive outcomes of Prime Minister Datuk Seri A...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-06-21T11:29:34+08:00",
       "source_links": [
         {
@@ -233,19 +835,19 @@
       ],
       "topics": [
         "malaysia",
-        "energy",
-        "petronas",
-        "turkmenistan"
+        "kuala lumpur",
+        "anwar",
+        "russia"
       ],
-      "importance": 4,
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
       "id": "2026-06-21-trump-backed-hardliner-faces-leftist-in-high-stakes-colombia-vote",
       "category": "world",
       "headline": "Trump-backed hardliner faces leftist in high-stakes Colombia vote",
-      "summary": "Colombia's presidential race pits a hard-right candidate backed by Donald Trump against a leftist rival, raising the stakes for regional politics and investor sentiment.",
-      "why_it_matters": "A major election in Latin America can move policy expectations on security, business regulation and foreign relations.",
+      "summary": "BOGOTÁ, June 21 — Colombians pick a new president today, a choice between a hard-right White House-backed l...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
       "published_at": "2026-06-21T11:17:02+08:00",
       "source_links": [
         {
@@ -255,53 +857,180 @@
         }
       ],
       "topics": [
-        "colombia",
-        "elections",
-        "latin america",
-        "politics"
+        "latest update"
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-06-21-weak-3-3-magnitude-earthquake-hits-waters-off-johor",
+      "id": "2026-06-21-anwar-s-charisma-emerges-as-diplomatic-asset-during-russia-and-turkmenistan-visits",
       "category": "malaysia",
-      "headline": "Weak 3.3-magnitude earthquake hits waters off Johor",
-      "summary": "A weak earthquake struck waters off Batu Pahat, with MetMalaysia saying tremors could be felt around Johor and regional news outlets carrying the same advisory.",
-      "why_it_matters": "Even minor seismic events matter for public awareness, emergency messaging and confidence in local disaster response.",
-      "published_at": "2026-06-21T10:49:00+08:00",
+      "headline": "Anwar’s charisma emerges as diplomatic asset during Russia and Turkmenistan visits",
+      "summary": "ISTANBUL, June 21 — Prime Minister Datuk Seri Anwar Ibrahim’s recent visit to Russia was marked not only by...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T10:51:35+08:00",
       "source_links": [
         {
-          "name": "CNA Asia",
-          "url": "https://www.channelnewsasia.com/asia/weak-33-magnitude-earthquake-hits-waters-johor-6198036",
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/anwars-charisma-emerges-as-diplomatic-asset-during-russia-and-turkmenistan-visits/224593",
           "publisher_type": "news"
-        },
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-us-and-iran-set-for-new-talks-after-delay-and-deadly-strikes",
+      "category": "world",
+      "headline": "US and Iran set for new talks after delay and deadly strikes",
+      "summary": "GENEVA, June 21 — A new round of negotiations over the Middle East war was set to kick off today, with Irania...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T10:31:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/21/us-and-iran-set-for-new-talks-after-delay-and-deadly-strikes/224592",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-bersama-to-announce-johor-candidates-friday-as-applications-pour-in-for-two-state-",
+      "category": "malaysia",
+      "headline": "Bersama to announce Johor candidates Friday as applications pour in for two state polls, says Rafizi",
+      "summary": "KOTA BHARU, June 21 — Parti Bersama Malaysia (Bersama) will announce its line-up of candidates for the Johor state...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T10:30:52+08:00",
+      "source_links": [
         {
           "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/tremors-possible-as-weak-33magnitude-quake-hits-off-batu-pahat-says-metmalaysia/224575",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/bersama-to-announce-johor-candidates-friday-as-applications-pour-in-for-two-state-polls-says-rafizi/224591",
           "publisher_type": "news"
-        },
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-pekan-crash-driver-has-six-traffic-summonses-including-two-for-double-line-overtak",
+      "category": "malaysia",
+      "headline": "Pekan crash driver has six traffic summonses, including two for double‑line overtaking, say police",
+      "summary": "KUANTAN, June 21 — The driver of a pick-up truck involved in yesterday’s fatal three-vehicle crash near Peka...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T10:22:28+08:00",
+      "source_links": [
         {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/pekan-crash-driver-has-six-traffic-summonses-including-two-for-doubleline-overtaking-say-police/224589",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-police-probe-case-of-two-teenage-cousins-missing-after-first-solo-outing-to-kota-b",
+      "category": "malaysia",
+      "headline": "Police probe case of two teenage cousins missing after first solo outing to Kota Bharu",
+      "summary": "KOTA BHARU, June 21 — Two teenage cousins, aged 15 and 16, have been missing for three days after going on their f...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T10:01:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/police-probe-case-of-two-teenage-cousins-missing-after-first-solo-outing-to-kota-bharu/224587",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-king-queen-honour-fathers-sacrifices-in-father-s-day-message",
+      "category": "malaysia",
+      "headline": "King, Queen honour fathers’ sacrifices in Father’s Day message",
+      "summary": "KUALA LUMPUR, June 21 — His Majesty Sultan Ibrahim, King of Malaysia, and Her Majesty Raja Zarith Sofiah today ext...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T09:54:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/king-queen-honour-fathers-sacrifices-in-fathers-day-message/224586",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-petronas-expanded-role-in-turkmenistan-boosts-malaysia-s-global-energy-position-sa",
+      "category": "malaysia",
+      "headline": "Petronas’ expanded role in Turkmenistan boosts Malaysia’s global energy position, says Anwar",
+      "summary": "KUALA LUMPUR, June 21 — The success of Petroliam Nasional Bhd (Petronas) in expanding its role in Turkmenistan&rsq...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T09:45:20+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/petronas-expanded-role-in-turkmenistan-boosts-malaysias-global-energy-position-says-anwar/224585",
+          "publisher_type": "news"
         }
       ],
       "topics": [
         "malaysia",
-        "johor",
-        "earthquake",
-        "metmalaysia"
+        "kuala lumpur",
+        "anwar",
+        "war"
       ],
       "importance": 3,
-      "confidence": "cross_checked"
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-indigenous-icon-raoni-undergoes-surgery-fervent-defender-of-amazon-rainforest",
+      "category": "world",
+      "headline": "Indigenous icon Raoni undergoes surgery, fervent defender of Amazon rainforest",
+      "summary": "SAO PAULO, June 21 — Brazilian Indigenous leader Raoni Metuktire, a celebrated defender of the Amazon rainforest,...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T09:33:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/21/indigenous-icon-raoni-undergoes-surgery-fervent-defender-of-amazon-rainforest/224582",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
     },
     {
       "id": "2026-06-21-dzulkefly-402-vape-cases-involving-synthetic-drugs-give-strong-basis-for-national-",
       "category": "malaysia",
-      "headline": "402 vape cases involving synthetic drugs strengthen case for a national vape ban, says Dzulkefly",
-      "summary": "Health Minister Dzulkefly said 402 vape-related cases involving synthetic drugs provide strong grounds for pursuing a national ban.",
-      "why_it_matters": "A tougher policy stance on vaping would affect public health, enforcement priorities and retail operators.",
+      "headline": "Dzulkefly: 402 vape cases involving synthetic drugs give strong basis for national vape ban",
+      "summary": "KUALA LUMPUR, June 21 — Data on vape seizures by the Royal Malaysia Police (PDRM) up to April this year recorded 4...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-06-21T09:32:05+08:00",
       "source_links": [
         {
@@ -311,160 +1040,147 @@
         }
       ],
       "topics": [
-        "malaysia",
-        "health",
-        "vaping",
-        "drug policy"
+        "latest update"
       ],
-      "importance": 4,
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-06-21-los-angeles-under-state-of-emergency-due-to-warehouse-fire",
-      "category": "world",
-      "headline": "Los Angeles under state of emergency due to warehouse fire",
-      "summary": "Los Angeles remained under a state of emergency as a warehouse fire kept burning and sending hazardous smoke across the city.",
-      "why_it_matters": "A prolonged urban emergency can disrupt logistics, public health and regional business activity in a major US hub.",
-      "published_at": "2026-06-21T08:40:23+08:00",
+      "id": "2026-06-21-dzulkefly-moh-fast-tracking-study-on-e-mc-system-to-curb-medical-certificate-forge",
+      "category": "malaysia",
+      "headline": "Dzulkefly: MOH fast‑tracking study on e‑MC system to curb medical certificate forgery and identity theft",
+      "summary": "KUALA LUMPUR, June 21 — The Ministry of Health (MOH) is studying the implementation of a digital medical certifica...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T09:22:29+08:00",
       "source_links": [
         {
-          "name": "CNA World",
-          "url": "https://www.channelnewsasia.com/world/la-state-emergency-warehouse-fire-6197956",
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/dzulkefly-moh-fasttracking-study-on-emc-system-to-curb-medical-certificate-forgery-and-identity-theft/224580",
           "publisher_type": "news"
-        },
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-anwar-urges-malaysians-to-work-together-as-one-strong-force-to-drive-unity-and-rej",
+      "category": "malaysia",
+      "headline": "Anwar urges Malaysians to ‘work together as one strong force’ to drive unity and reject divisive racial narratives",
+      "summary": "SEREMBAN, June 21 — Datuk Seri Anwar Ibrahim has called on Malaysians of all races to uphold the spirit of unity a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T09:14:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/anwar-urges-malaysians-to-work-together-as-one-strong-force-to-drive-unity-and-reject-divisive-racial-narratives/224577",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-los-angeles-under-state-of-emergency-due-to-warehouse-fire-video",
+      "category": "world",
+      "headline": "Los Angeles under state of emergency due to warehouse fire (VIDEO)",
+      "summary": "LOS ANGELES, June 21 — Los Angeles was under a state of emergency yesterday as fire crews fought a days-long battl...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T09:13:18+08:00",
+      "source_links": [
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/06/21/los-angeles-under-state-of-emergency-due-to-warehouse-fire-video/224579",
           "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
-        "united states",
-        "los angeles",
-        "fire",
-        "public safety"
+        "latest update"
       ],
       "importance": 4,
-      "confidence": "cross_checked"
+      "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-06-21-us-and-iran-set-for-new-talks-in-switzerland-after-delay-and-deadly-lebanon-strike",
-      "category": "world",
-      "headline": "US and Iran set for new talks in Switzerland after delay and deadly Lebanon strikes",
-      "summary": "US and Iranian negotiators were due to restart talks in Switzerland after a delay, with Lebanon strikes underscoring how fragile the wider regional situation remains.",
-      "why_it_matters": "Any movement in US-Iran talks can alter energy prices, shipping risk and broader Middle East geopolitics.",
-      "published_at": "2026-06-21T07:04:00+08:00",
+      "id": "2026-06-21-tremors-possible-as-weak-3-3-magnitude-quake-hits-off-batu-pahat-says-metmalaysia",
+      "category": "malaysia",
+      "headline": "Tremors possible as weak 3.3‑magnitude quake hits off Batu Pahat, says MetMalaysia",
+      "summary": "KUALA LUMPUR, June 21 — A weak earthquake struck the waters off Batu Pahat, Johor early this morning, according to...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T08:57:07+08:00",
       "source_links": [
         {
-          "name": "CNA World",
-          "url": "https://www.channelnewsasia.com/world/us-vance-iran-talks-switzerland-6197851",
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/tremors-possible-as-weak-33magnitude-quake-hits-off-batu-pahat-says-metmalaysia/224575",
           "publisher_type": "news"
-        },
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-police-detain-woman-who-allegedly-staged-own-kidnapping-for-rm18-000-ransom-in-joh",
+      "category": "malaysia",
+      "headline": "Police detain woman who allegedly staged own kidnapping for RM18,000 ransom in Johor Bahru",
+      "summary": "KUALA LUMPUR, June 21 — Police have detained a woman believed to have staged her own kidnapping in an attempt to o...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-21T08:48:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/21/police-detain-woman-who-allegedly-staged-own-kidnapping-for-rm18000-ransom-in-johor-bahru/224571",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-21-portugal-s-unofficial-exorcism-fever-worries-church",
+      "category": "world",
+      "headline": "Portugal’s unofficial exorcism fever worries Church",
+      "summary": "FÀTIMA (Portugal), June 21 — A woman closes her eyes as a young man dressed as a priest places both hands o...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-21T07:00:00+08:00",
+      "source_links": [
         {
           "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/06/21/us-and-iran-set-for-new-talks-after-delay-and-deadly-strikes/224592",
+          "url": "https://www.malaymail.com/news/world/2026/06/21/portugals-unofficial-exorcism-fever-worries-church/224531",
           "publisher_type": "news"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
-        "iran",
-        "united states",
-        "middle east",
-        "geopolitics"
-      ],
-      "importance": 5,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-21-asia-s-synthetic-drug-seizures-hit-new-highs-as-scam-links-deepen-un-report",
-      "category": "world",
-      "headline": "Asia's synthetic drug seizures hit new highs as scam links deepen, says UN report",
-      "summary": "A UN-linked regional warning said methamphetamine and ketamine seizures in Asia hit fresh highs in 2025 even as organised crime networks expanded through scam compounds and cross-border routes.",
-      "why_it_matters": "The report points to a growing transnational security and public-health problem across Southeast Asia and beyond.",
-      "published_at": "2026-06-21T06:00:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Asia",
-          "url": "https://www.channelnewsasia.com/asia/drug-meth-ketamine-seizures-asia-myanmar-scam-6194666",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "asia",
-        "crime",
-        "drugs",
-        "united nations"
+        "latest update"
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-06-21-uk-pm-starmer-expected-to-resign-on-monday-and-set-out-orderly-exit-observer-repor",
+      "id": "2026-06-20-breturn-or-bre-entry-would-the-eu-take-britain-back",
       "category": "world",
-      "headline": "UK PM Starmer expected to resign on Monday and set out orderly exit, Observer reports",
-      "summary": "The Observer reported that Prime Minister Keir Starmer is expected to resign and outline an orderly transition, intensifying uncertainty around UK leadership.",
-      "why_it_matters": "Leadership instability in Britain can quickly affect markets, policy direction and relations with allies.",
-      "published_at": "2026-06-21T05:35:47+08:00",
+      "headline": "Breturn or Bre-entry: Would the EU take Britain back?",
+      "summary": "BRUSSELS, June 20 — Is it Brejoin, Breturn — or perhaps Bre-entry?A decade after the Brexit referendum, the...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-20T21:00:00+08:00",
       "source_links": [
         {
-          "name": "CNA World",
-          "url": "https://www.channelnewsasia.com/world/june-20-reuters-british-finance-minister-rachel-reeves-will-be-sacked-lawmaker-andy-burnham-if-he-takes-power-times-reported-saturday-6197721",
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/20/breturn-or-bre-entry-would-the-eu-take-britain-back/224551",
           "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
-        "united kingdom",
-        "politics",
-        "leadership",
-        "europe"
-      ],
-      "importance": 5,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-21-europe-swelters-under-heatwave-france-restricts-alcohol-consumption",
-      "category": "world",
-      "headline": "Europe swelters under heatwave as France restricts alcohol consumption at public events",
-      "summary": "A severe European heatwave prompted emergency restrictions in parts of France, including limits tied to major public events.",
-      "why_it_matters": "Extreme weather is increasingly affecting public safety, labour conditions, power demand and climate-risk pricing.",
-      "published_at": "2026-06-21T02:55:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA World",
-          "url": "https://www.channelnewsasia.com/world/europe-swelters-under-heatwave-france-restricts-alcohol-consumption-6197551",
-          "publisher_type": "news"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "europe",
-        "climate",
-        "heatwave",
-        "france"
+        "latest update"
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
@@ -473,8 +1189,8 @@
       "id": "2026-06-20-iraq-projects-oil-production-to-return-to-pre-war-levels-within-two-months",
       "category": "markets_investment",
       "headline": "Iraq projects oil production to return to pre-war levels within two months",
-      "summary": "Iraqi authorities said oil production could return to pre-war levels within one to two months, offering a possible easing signal for crude-supply concerns.",
-      "why_it_matters": "Oil-supply expectations can move energy prices, inflation assumptions and risk appetite across global markets.",
+      "summary": "BAGHDAD, June 20 — Iraqi authorities predict oil production will return to peacetime levels “within one to t...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
       "published_at": "2026-06-20T19:53:34+08:00",
       "source_links": [
         {
@@ -484,20 +1200,17 @@
         }
       ],
       "topics": [
-        "oil",
-        "iraq",
-        "energy",
-        "commodities"
+        "latest update"
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-06-20-indonesias-new-palm-oil-export-rules-draw-scrutiny-from-malaysia-traders",
+      "id": "2026-06-20-indonesia-s-new-palm-oil-export-rules-draw-scrutiny-from-malaysia-traders",
       "category": "markets_investment",
-      "headline": "Indonesia's new palm oil export rules draw scrutiny from Malaysia and traders",
-      "summary": "Indonesia's proposed tighter oversight for strategic commodity exports drew concern from Malaysia-linked palm-oil market participants watching for trade friction and shipment delays.",
-      "why_it_matters": "Palm-oil rule changes can affect commodity prices, exporters, plantation counters and regional trade flows.",
+      "headline": "Indonesia’s new palm oil export rules draw scrutiny from Malaysia, traders",
+      "summary": "JAKARTA, June 20 — Indonesia’s plan to tighten oversight of strategic commodity exports through a new state-...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
       "published_at": "2026-06-20T16:42:29+08:00",
       "source_links": [
         {
@@ -507,9 +1220,9 @@
         }
       ],
       "topics": [
-        "palm oil",
-        "indonesia",
         "malaysia",
+        "oil",
+        "rate",
         "trade"
       ],
       "importance": 4,
@@ -518,9 +1231,9 @@
     {
       "id": "2026-06-20-chip-giant-mks-pours-rm400m-into-penang-plant-creates-1-000-high-value-jobs",
       "category": "markets_investment",
-      "headline": "Chip giant MKS pours RM400m into Penang plant, creating 1,000 high-value jobs",
-      "summary": "MKS said it is investing more than RM400 million in Penang, adding a semiconductor-linked manufacturing boost and new skilled-job commitments.",
-      "why_it_matters": "Large chip-related investments reinforce Malaysia's role in regional electronics supply chains and manufacturing competitiveness.",
+      "headline": "Chip giant MKS pours RM400m into Penang plant, creates 1,000 high-value jobs",
+      "summary": "SEBERANG PERAI, June 20 — Global semiconductor technology company MKS Inc today invested more than RM400 million t...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
       "published_at": "2026-06-20T13:24:14+08:00",
       "source_links": [
         {
@@ -530,148 +1243,10 @@
         }
       ],
       "topics": [
-        "malaysia",
-        "semiconductors",
-        "investment",
-        "penang"
+        "latest update"
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-19-ringgit-slips-into-weekend-as-us-dollar-stays-supported-by-fed-outlook",
-      "category": "markets_investment",
-      "headline": "Ringgit slips into the weekend as the US dollar stays supported by the Fed outlook",
-      "summary": "The ringgit closed weaker against the US dollar as traders kept pricing in a firm US rate outlook and stronger greenback demand.",
-      "why_it_matters": "Currency moves feed directly into imported inflation, funding conditions and market sentiment in Malaysia.",
-      "published_at": "2026-06-19T19:19:57+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/19/ringgit-slips-into-weekend-as-us-dollar-stays-supported-by-fed-outlook/224466",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "ringgit",
-        "foreign exchange",
-        "federal reserve"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-19-france-mobilises-13-billion-for-tech-sovereignty-funding-push",
-      "category": "markets_investment",
-      "headline": "France mobilises EUR13 billion for a tech-sovereignty funding push",
-      "summary": "France unveiled a EUR13 billion financing drive aimed at strategic technologies, adding to Europe's push to build local capability in key sectors.",
-      "why_it_matters": "State-backed technology funding can influence capital flows, industrial competition and Europe's investment agenda.",
-      "published_at": "2026-06-19T18:53:15+08:00",
-      "source_links": [
-        {
-          "name": "CNA Business",
-          "url": "https://www.channelnewsasia.com/business/france-mobilises-eu13-billion-tech-sovereignty-funding-push-6195671",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "france",
-        "technology",
-        "industrial policy",
-        "investment"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-19-malaysia-s-trade-hits-all-time-high-of-rm328b-in-may-on-ai-boom",
-      "category": "markets_investment",
-      "headline": "Malaysia's trade hits an all-time high of RM328b in May on AI-related demand",
-      "summary": "Malaysia's May trade reached a record RM328 billion as export demand linked to electronics and AI supply chains helped lift the headline total.",
-      "why_it_matters": "Record trade data supports the growth outlook, corporate earnings expectations and confidence in Malaysia's export engine.",
-      "published_at": "2026-06-19T18:04:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/19/malaysias-trade-hits-all-time-high-of-rm328b-in-may-on-ai-boom/224458",
-          "publisher_type": "news"
-        },
-        {
-          "name": "OpenDOSM External Trade",
-          "url": "https://open.dosm.gov.my/dashboard/external-trade",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "trade",
-        "exports",
-        "electronics"
-      ],
-      "importance": 5,
-      "confidence": "cross_checked"
-    },
-    {
-      "id": "2026-06-19-investors-see-micron-earnings-as-pulse-check-of-ai-rally-momentum",
-      "category": "markets_investment",
-      "headline": "Investors see Micron earnings as a pulse check of AI rally momentum",
-      "summary": "Investors are treating Micron's results as a read-through on whether the AI-driven semiconductor rally still has earnings support.",
-      "why_it_matters": "Micron's numbers can influence sentiment across chips, AI infrastructure and broader equity leadership trades.",
-      "published_at": "2026-06-19T18:02:23+08:00",
-      "source_links": [
-        {
-          "name": "CNA Business",
-          "url": "https://www.channelnewsasia.com/business/investors-see-micron-earnings-pulse-check-ai-rally-momentum-6195586",
-          "publisher_type": "news"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "micron",
-        "semiconductors",
-        "artificial intelligence",
-        "equities"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-19-malaysias-inflation-up-2pc-in-may-as-information-food-and-housing-groups-record-g",
-      "category": "markets_investment",
-      "headline": "Malaysia's inflation rose 2.0% in May as information, food and housing costs increased",
-      "summary": "Official data showed Malaysia's consumer prices rose 2.0% year on year in May, with gains led by information, food and housing components.",
-      "why_it_matters": "Inflation data shapes expectations for household purchasing power, rate settings and ringgit-sensitive asset prices.",
-      "published_at": "2026-06-19T14:53:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/19/malaysias-inflation-up-2pc-in-may-as-information-food-and-housing-groups-record-gains-says-dosm/224429",
-          "publisher_type": "news"
-        },
-        {
-          "name": "OpenDOSM Consumer Prices",
-          "url": "https://open.dosm.gov.my/dashboard/consumer-prices",
-          "publisher_type": "official"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "inflation",
-        "consumer prices",
-        "economy"
-      ],
-      "importance": 5,
-      "confidence": "cross_checked"
     }
   ]
 }

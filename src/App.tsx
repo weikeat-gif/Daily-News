@@ -116,6 +116,11 @@ const AUTO_REFRESH_MS = 5 * 60 * 1000
 const WATCHLIST_STORAGE_KEY = 'daily-news-watchlist'
 const THEME_STORAGE_KEY = 'daily-news-theme'
 const DEFAULT_WATCHLIST = ['Tesla', 'Nvidia', 'Ringgit', 'Malaysia economy']
+const LIVE_DASHBOARD_QUERIES = [
+  'Malaysia latest news politics economy',
+  'Malaysia markets investment ringgit Bursa',
+  'world latest news markets geopolitics',
+]
 
 function isNewsPayload(value: unknown): value is NewsPayload {
   if (!value || typeof value !== 'object') return false
@@ -132,6 +137,103 @@ function isSearchPayload(value: unknown): value is SearchPayload {
   if (!value || typeof value !== 'object') return false
   const payload = value as SearchPayload
   return typeof payload.generated_at === 'string' && Array.isArray(payload.stories)
+}
+
+async function fetchDashboardLiveNews() {
+  const results = await Promise.allSettled(
+    LIVE_DASHBOARD_QUERIES.map(async (query) => {
+      const response = await fetch(`/api/news-search?q=${encodeURIComponent(query)}`, {
+        cache: 'no-store',
+      })
+
+      if (!response.ok) {
+        throw new Error(`Live search returned ${response.status}`)
+      }
+
+      const json = (await response.json()) as unknown
+      if (!isSearchPayload(json)) {
+        throw new Error('Live search shape does not match the shared contract')
+      }
+      if (json.error) {
+        throw new Error(json.error)
+      }
+      return json
+    }),
+  )
+
+  const payloads: SearchPayload[] = []
+  let failedCount = 0
+  for (const result of results) {
+    if (result.status === 'fulfilled') {
+      payloads.push(result.value)
+    } else {
+      failedCount += 1
+    }
+  }
+
+  return { failedCount, payloads }
+}
+
+function mergeLiveDashboardNews(savedPayload: NewsPayload, livePayloads: SearchPayload[]): NewsPayload {
+  if (livePayloads.length === 0) return savedPayload
+
+  return {
+    ...savedPayload,
+    generated_at: newestIso([
+      savedPayload.generated_at,
+      ...livePayloads.map((payload) => payload.generated_at),
+    ]),
+    stories: mergeStoriesBySource([
+      ...livePayloads.flatMap((payload) => payload.stories),
+      ...savedPayload.stories,
+    ]),
+  }
+}
+
+function mergeStoriesBySource(stories: Story[]) {
+  const seenUrls = new Set<string>()
+  const seenHeadlines = new Set<string>()
+  const merged: Story[] = []
+
+  for (const story of stories) {
+    const urls = story.source_links.map((source) => canonicalStoryUrl(source.url)).filter(Boolean)
+    const headlineKey = story.headline.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim()
+    if (urls.some((url) => seenUrls.has(url)) || seenHeadlines.has(headlineKey)) {
+      continue
+    }
+
+    urls.forEach((url) => seenUrls.add(url))
+    seenHeadlines.add(headlineKey)
+    merged.push(story)
+  }
+
+  return merged
+    .sort((a, b) => storyTimestamp(b) - storyTimestamp(a))
+    .slice(0, 60)
+}
+
+function canonicalStoryUrl(value: string) {
+  try {
+    const url = new URL(value)
+    for (const key of Array.from(url.searchParams.keys())) {
+      if (key.toLowerCase().startsWith('utm_')) {
+        url.searchParams.delete(key)
+      }
+    }
+    url.hash = ''
+    return url.toString()
+  } catch {
+    return value
+  }
+}
+
+function newestIso(values: string[]) {
+  const newest = values.reduce((currentNewest, value) => {
+    const timestamp = new Date(value).getTime()
+    return Number.isNaN(timestamp) ? currentNewest : Math.max(currentNewest, timestamp)
+  }, 0)
+
+  return newest > 0 ? new Date(newest).toISOString() : new Date().toISOString()
 }
 
 function formatDateTime(value: string, timezone?: string) {
@@ -345,9 +447,16 @@ function App() {
         throw new Error('News feed shape does not match the shared contract')
       }
 
-      setLoadState({ status: 'loaded', data: json })
+      const liveResult = await fetchDashboardLiveNews()
+      const mergedPayload = mergeLiveDashboardNews(json, liveResult.payloads)
+
+      setLoadState({ status: 'loaded', data: mergedPayload })
       setLastCheckedAt(new Date().toISOString())
-      setRefreshError(null)
+      setRefreshError(
+        liveResult.payloads.length === 0 && liveResult.failedCount > 0
+          ? 'Live update unavailable; showing saved feed'
+          : null,
+      )
     } catch (error) {
       const message = error instanceof Error ? error.message : 'Unable to load the briefing'
       if (background) {
@@ -627,7 +736,7 @@ function App() {
                 <span>Last checked</span>
                 <strong>{lastCheckedAt ? formatDateTime(lastCheckedAt, data.timezone) : 'Checking'}</strong>
                 <span>Auto check</span>
-                <strong>{isRefreshing ? 'Checking now' : 'Every 5 minutes'}</strong>
+                <strong>{isRefreshing ? 'Checking now' : 'Live every 5 minutes'}</strong>
                 {refreshError && (
                   <>
                     <span>Latest check</span>

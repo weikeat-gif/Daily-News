@@ -30,6 +30,7 @@ PUBLIC_DATA_PATH = ROOT / "public" / "data" / "news.json"
 SOCIAL_SOURCES_PATH = ROOT / "data" / "public_social_sources.json"
 MYT = timezone(timedelta(hours=8))
 MAX_STORIES = 60
+MIN_CATEGORY_STORIES = 3
 
 
 @dataclass(frozen=True)
@@ -177,6 +178,8 @@ def category_for(text: str, fallback: str) -> str:
         category: sum(1 for keyword in keywords if re.search(rf"\b{re.escape(keyword)}\b", haystack))
         for category, keywords in CATEGORY_KEYWORDS.items()
     }
+    if fallback == "markets_investment" and scores.get("markets_investment", 0) > 0:
+        return fallback
     best_category, best_score = max(scores.items(), key=lambda item: item[1])
     return best_category if best_score > 0 else fallback
 
@@ -293,7 +296,7 @@ def fetch_feed(feed: Feed, social_mapping: dict[str, list[dict[str, str]]]) -> l
 def merge_stories(fresh: list[dict[str, Any]], existing: list[dict[str, Any]]) -> list[dict[str, Any]]:
     seen_ids: set[str] = set()
     seen_urls: set[str] = set()
-    merged: list[dict[str, Any]] = []
+    deduped: list[dict[str, Any]] = []
     for story in fresh + existing:
         urls = {
             link.get("url")
@@ -304,10 +307,29 @@ def merge_stories(fresh: list[dict[str, Any]], existing: list[dict[str, Any]]) -
             continue
         seen_ids.add(story.get("id", ""))
         seen_urls.update(urls)
-        merged.append(story)
+        deduped.append(story)
 
-    merged.sort(key=lambda story: story.get("published_at", ""), reverse=True)
-    return merged[:MAX_STORIES]
+    deduped.sort(key=lambda story: story.get("published_at", ""), reverse=True)
+
+    selected: list[dict[str, Any]] = []
+    selected_ids: set[str] = set()
+    for category in CATEGORY_KEYWORDS:
+        for story in (story for story in deduped if story.get("category") == category):
+            if len([item for item in selected if item.get("category") == category]) >= MIN_CATEGORY_STORIES:
+                break
+            selected.append(story)
+            selected_ids.add(story.get("id", ""))
+
+    for story in deduped:
+        if len(selected) >= MAX_STORIES:
+            break
+        if story.get("id") in selected_ids:
+            continue
+        selected.append(story)
+        selected_ids.add(story.get("id", ""))
+
+    selected.sort(key=lambda story: story.get("published_at", ""), reverse=True)
+    return selected[:MAX_STORIES]
 
 
 def main() -> int:
