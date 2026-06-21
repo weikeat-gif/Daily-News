@@ -217,6 +217,97 @@ h1 {
   backdrop-filter: blur(18px);
 }
 
+.ai-search-panel,
+.search-results {
+  margin-bottom: 22px;
+  border: 1px solid rgba(31, 45, 42, 0.12);
+  border-radius: 8px;
+  background: rgba(250, 253, 251, 0.88);
+  box-shadow: 0 14px 34px rgba(35, 55, 51, 0.07);
+  backdrop-filter: blur(16px);
+}
+
+.ai-search-panel {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.75fr) minmax(260px, 1.25fr);
+  gap: 18px;
+  align-items: end;
+  padding: 18px;
+}
+
+.ai-search-panel h2,
+.search-results-head h2 {
+  margin-bottom: 0;
+  font-size: clamp(1.25rem, 2.2vw, 1.8rem);
+  line-height: 1.14;
+}
+
+.ai-search-form {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: end;
+}
+
+.ai-search-form button {
+  min-height: 44px;
+  padding: 0 18px;
+  border: 0;
+  border-radius: 8px;
+  background: var(--green);
+  color: #f7fbf9;
+  font-weight: 850;
+  transition:
+    opacity 160ms ease,
+    transform 160ms ease,
+    background 160ms ease;
+}
+
+.ai-search-form button:hover:not(:disabled) {
+  background: #28564d;
+  transform: translateY(-1px);
+}
+
+.ai-search-form button:disabled {
+  cursor: wait;
+  opacity: 0.7;
+}
+
+.search-results {
+  padding: 18px;
+}
+
+.search-results-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: end;
+  margin-bottom: 16px;
+}
+
+.search-results-head span {
+  color: var(--muted);
+  font-size: 0.76rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.search-results-head strong {
+  color: var(--muted);
+  font-size: 0.9rem;
+  text-align: right;
+}
+
+.search-grid .story-card {
+  min-height: 360px;
+}
+
+.search-error {
+  margin-bottom: 0;
+  color: #7b4d48;
+  font-weight: 700;
+}
+
 .search-field,
 .select-field {
   display: grid;
@@ -607,6 +698,8 @@ h1 {
 
 @media (max-width: 900px) {
   .headline-grid,
+  .ai-search-panel,
+  .ai-search-form,
   .controls-band,
   .story-footer {
     grid-template-columns: 1fr;
@@ -626,6 +719,15 @@ h1 {
   }
 
   .source-label {
+    text-align: left;
+  }
+
+  .search-results-head {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .search-results-head strong {
     text-align: left;
   }
 }

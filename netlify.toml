@@ -2,3 +2,10 @@
   command = "npm run build"
   publish = "dist"
 
+[functions]
+  directory = "netlify/functions"
+
+[[redirects]]
+  from = "/api/news-search"
+  to = "/.netlify/functions/news-search"
+  status = 200

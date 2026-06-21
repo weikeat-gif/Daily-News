@@ -35,6 +35,19 @@ type LoadState =
   | { status: 'loaded'; data: NewsPayload }
   | { status: 'error'; message: string }
 
+type SearchState =
+  | { status: 'idle' }
+  | { status: 'loading'; query: string }
+  | { status: 'loaded'; query: string; generatedAt: string; stories: Story[] }
+  | { status: 'error'; query: string; message: string }
+
+type SearchPayload = {
+  generated_at: string
+  timezone: string
+  stories: Story[]
+  error?: string
+}
+
 const categoryLabels: Record<Category | 'all', string> = {
   all: 'All',
   malaysia: 'Malaysia',
@@ -82,6 +95,12 @@ function isNewsPayload(value: unknown): value is NewsPayload {
   )
 }
 
+function isSearchPayload(value: unknown): value is SearchPayload {
+  if (!value || typeof value !== 'object') return false
+  const payload = value as SearchPayload
+  return typeof payload.generated_at === 'string' && Array.isArray(payload.stories)
+}
+
 function formatDateTime(value: string, timezone?: string) {
   const date = new Date(value)
   if (Number.isNaN(date.getTime())) return 'Time unavailable'
@@ -127,6 +146,8 @@ function App() {
   const [activeCategory, setActiveCategory] = useState<Category | 'all'>('all')
   const [activeConfidence, setActiveConfidence] = useState<Confidence | 'all'>('all')
   const [query, setQuery] = useState('')
+  const [liveQuery, setLiveQuery] = useState('')
+  const [searchState, setSearchState] = useState<SearchState>({ status: 'idle' })
 
   const loadNews = useCallback(async (background = false) => {
     if (background) {
@@ -190,6 +211,51 @@ function App() {
 
     window.addEventListener('pointermove', handlePointerMove, { passive: true })
     return () => window.removeEventListener('pointermove', handlePointerMove)
+  }, [])
+
+  const runLiveSearch = useCallback(async (searchTerm: string) => {
+    const trimmedTerm = searchTerm.trim()
+    if (trimmedTerm.length < 2) {
+      setSearchState({
+        status: 'error',
+        query: trimmedTerm,
+        message: 'Search at least two characters.',
+      })
+      return
+    }
+
+    setSearchState({ status: 'loading', query: trimmedTerm })
+    try {
+      const response = await fetch(`/api/news-search?q=${encodeURIComponent(trimmedTerm)}`, {
+        cache: 'no-store',
+      })
+
+      if (!response.ok) {
+        throw new Error(`Search returned ${response.status}`)
+      }
+
+      const json = (await response.json()) as unknown
+      if (!isSearchPayload(json)) {
+        throw new Error('Search result shape does not match the shared contract')
+      }
+
+      if (json.error) {
+        throw new Error(json.error)
+      }
+
+      setSearchState({
+        status: 'loaded',
+        query: trimmedTerm,
+        generatedAt: json.generated_at,
+        stories: json.stories,
+      })
+    } catch (error) {
+      setSearchState({
+        status: 'error',
+        query: trimmedTerm,
+        message: error instanceof Error ? error.message : 'Search failed',
+      })
+    }
   }, [])
 
   const stories = loadState.status === 'loaded' ? loadState.data.stories : []
@@ -274,16 +340,79 @@ function App() {
         </div>
       </section>
 
+      <section className="ai-search-panel" aria-label="Latest online news search">
+        <div>
+          <p className="section-kicker">Search AI</p>
+          <h2>Search latest online news</h2>
+        </div>
+        <form
+          className="ai-search-form"
+          onSubmit={(event) => {
+            event.preventDefault()
+            runLiveSearch(liveQuery)
+          }}
+        >
+          <label className="search-field">
+            <span>Topic</span>
+            <div className="search-input-wrap">
+              <Search aria-hidden="true" size={18} strokeWidth={2.2} />
+              <input
+                type="search"
+                value={liveQuery}
+                onChange={(event) => setLiveQuery(event.target.value)}
+                placeholder="Tesla, Nvidia, ringgit, oil..."
+              />
+            </div>
+          </label>
+          <button type="submit" disabled={searchState.status === 'loading'}>
+            {searchState.status === 'loading' ? 'Searching' : 'Search latest'}
+          </button>
+        </form>
+      </section>
+
+      {searchState.status !== 'idle' && (
+        <section className="search-results" aria-live="polite">
+          <div className="search-results-head">
+            <div>
+              <span>Online search</span>
+              <h2>
+                {searchState.status === 'loading'
+                  ? `Searching ${searchState.query}`
+                  : searchState.status === 'loaded'
+                    ? `Latest on ${searchState.query}`
+                    : `Search issue for ${searchState.query || 'topic'}`}
+              </h2>
+            </div>
+            {searchState.status === 'loaded' && (
+              <strong>{formatDateTime(searchState.generatedAt, 'Asia/Kuala_Lumpur')}</strong>
+            )}
+          </div>
+
+          {searchState.status === 'loading' && <span className="loading-bar" />}
+          {searchState.status === 'error' && <p className="search-error">{searchState.message}</p>}
+          {searchState.status === 'loaded' && searchState.stories.length > 0 && (
+            <div className="story-grid search-grid">
+              {searchState.stories.map((story) => (
+                <StoryCard key={story.id} story={story} timezone="Asia/Kuala_Lumpur" />
+              ))}
+            </div>
+          )}
+          {searchState.status === 'loaded' && searchState.stories.length === 0 && (
+            <p className="search-error">No recent public news results found.</p>
+          )}
+        </section>
+      )}
+
       <section className="controls-band" aria-label="Story controls">
         <label className="search-field">
-          <span>Search</span>
+          <span>Filter dashboard</span>
           <div className="search-input-wrap">
             <Search aria-hidden="true" size={18} strokeWidth={2.2} />
             <input
               type="search"
               value={query}
               onChange={(event) => setQuery(event.target.value)}
-              placeholder="Headline, topic, source..."
+              placeholder="Filter headline, topic, source..."
             />
           </div>
         </label>
