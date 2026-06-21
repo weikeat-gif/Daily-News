@@ -122,8 +122,8 @@ function getSourceHost(url: string) {
 
 function getImportanceLabel(score: number) {
   const normalizedScore = normalizeImportance(score)
-  if (normalizedScore >= 85) return 'High signal'
-  if (normalizedScore >= 65) return 'Worth tracking'
+  if (normalizedScore >= 85) return 'Hot signal'
+  if (normalizedScore >= 65) return 'Rising heat'
   return 'Developing'
 }
 
@@ -300,11 +300,11 @@ function App() {
 
         <div className="headline-grid">
           <div className="headline-copy">
-            <p className="section-kicker">Morning briefing</p>
-            <h1 id="page-title">A calmer read on the stories moving today.</h1>
+            <p className="section-kicker">Live news search</p>
+            <h1 id="page-title">Search what is happening now.</h1>
             <p className="lede">
-              Scan the newest Malaysia, markets, and world updates with clear summaries,
-              confidence labels, and direct links when you want the full story.
+              Ask for any topic and get latest public news results with short summaries,
+              impact notes, published times, and direct source links.
             </p>
           </div>
 
@@ -493,9 +493,10 @@ function App() {
 
 function StoryCard({ story, timezone }: { story: Story; timezone: string }) {
   const importance = normalizeImportance(story.importance)
+  const heatClass = importance >= 85 ? 'heat-hot' : importance >= 65 ? 'heat-warm' : 'heat-cool'
 
   return (
-    <article className="story-card">
+    <article className={`story-card ${heatClass}`}>
       <div className="story-meta">
         <span className={`confidence-pill ${confidenceTone[story.confidence]}`}>
           {confidenceLabels[story.confidence]}
@@ -503,14 +504,19 @@ function StoryCard({ story, timezone }: { story: Story; timezone: string }) {
         <span className={`category-pill category-${categoryTone[story.category]}`}>
           {categoryLabels[story.category]}
         </span>
-        <time dateTime={story.published_at}>{formatDateTime(story.published_at, timezone)}</time>
+        <time dateTime={story.published_at}>
+          Published by source {formatDateTime(story.published_at, timezone)}
+        </time>
       </div>
 
       <h2>{story.headline}</h2>
-      <p className="story-summary">{story.summary}</p>
+      <div className="summary-panel">
+        <span>Summary</span>
+        <p className="story-summary">{story.summary}</p>
+      </div>
 
       <div className="matter-panel">
-        <span>Why it matters</span>
+        <span>How it may affect us</span>
         <p>{story.why_it_matters}</p>
       </div>
 

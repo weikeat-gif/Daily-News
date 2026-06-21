@@ -58,6 +58,7 @@ function cleanTitle(rawTitle, sourceName) {
   if (sourceName && sourceName !== "News source") {
     title = title.replace(new RegExp(`\\s+[-–—]\\s+${escapeRegExp(sourceName)}\\s*$`, "i"), "");
   }
+  title = title.replace(/\s+\|\s+[^|]{2,60}$/, "").trim();
   title = title.replace(/\s+[-–—]\s+[^-–—]{2,80}$/, "").trim();
   if (sourceName && sourceName !== "News source") {
     title = title.replace(new RegExp(`\\s+[-–—]\\s+${escapeRegExp(sourceName)}\\s*$`, "i"), "");
@@ -82,9 +83,10 @@ function toMytIso(value) {
 function classify(text) {
   const haystack = text.toLowerCase();
   if (
-    /\b(stock|shares|market|markets|earnings|revenue|profit|investment|investor|nasdaq|nyse|bursa|ringgit|rate|inflation|tariff|oil|ev|deliveries)\b/.test(
+    /\b(stock|shares|market|markets|earnings|revenue|profit|investment|investor|nasdaq|nyse|bursa|ringgit|rate|inflation|tariff|oil|ev|deliveries|returns|valuation)\b/.test(
       haystack,
     )
+    || /\b(bull case|bear case)\b/.test(haystack)
   ) {
     return "markets_investment";
   }
@@ -106,7 +108,7 @@ function topicsFor(text, query) {
 }
 
 function summarize(description, title, sourceName, query) {
-  const fallback = `${sourceName} reports: ${title}. This is one of the latest public news results related to ${query}.`;
+  const fallback = summaryFromTitle(title, sourceName, query);
   const cleanedDescription = description.replace(/\s+/g, " ").trim();
   const repeatedTitle = title.toLowerCase();
   const normalizedDescription = cleanedDescription.toLowerCase();
@@ -121,18 +123,61 @@ function summarize(description, title, sourceName, query) {
       ? cleanedDescription
       : fallback;
 
-  if (base.length <= 220) return base;
-  return `${base.slice(0, 217).trim()}...`;
+  return truncateText(base, 220);
 }
 
 function whyItMatters(category, query) {
   if (category === "markets_investment") {
-    return `This can affect how investors read ${query}, related stocks, sector sentiment, or wider market risk.`;
+    return `This may affect investors, related stocks, supplier demand, sector sentiment, and market risk around ${query}. Watch for follow-up moves in share prices, regulation, earnings, and competitor reactions.`;
   }
   if (category === "malaysia") {
-    return `This connects ${query} to Malaysia-focused policy, business, consumer, or market developments.`;
+    return `This may affect Malaysia-focused businesses, consumers, policy decisions, or local market sentiment connected to ${query}. It is worth tracking for practical spillovers at home.`;
   }
-  return `This is a timely global update related to ${query}, useful for understanding the wider context and current discussion.`;
+  return `This may affect public safety, regulation, consumer trust, market confidence, or the wider discussion around ${query}. It helps show what risk or opportunity people may need to watch next.`;
+}
+
+function truncateText(value, maxLength) {
+  if (value.length <= maxLength) return value;
+  const clipped = value.slice(0, maxLength - 3);
+  const lastBreak = Math.max(clipped.lastIndexOf(" "), clipped.lastIndexOf("."), clipped.lastIndexOf(","));
+  const safeClip = lastBreak > 120 ? clipped.slice(0, lastBreak) : clipped;
+  return `${safeClip.trim()}...`;
+}
+
+function summaryFromTitle(title, sourceName, query) {
+  const lowerTitle = title.toLowerCase();
+  if (/\bcrash|fatal|killed|death|accident|autopilot|recall|probe|investigat/.test(lowerTitle)) {
+    return `${sourceName} reports that ${title}. The update appears to involve safety, responsibility, or regulatory questions connected to ${query}.`;
+  }
+  if (/\bearnings|revenue|profit|stock|shares|market|deliveries|sales|price|returns|bull|bear|valuation\b/.test(lowerTitle)) {
+    return `${sourceName} reports that ${title}. The story may be relevant for investors watching ${query}, demand trends, and market expectations.`;
+  }
+  if (/\blaunch|reveals|announces|unveils|plans|coming soon|expands\b/.test(lowerTitle)) {
+    return `${sourceName} reports that ${title}. The news points to a product, strategy, or expansion update related to ${query}.`;
+  }
+  return `${sourceName} reports that ${title}. The update adds new context to the latest public discussion around ${query}.`;
+}
+
+function impactFromTitle(title, category, query) {
+  const lowerTitle = title.toLowerCase();
+  if (/\bcrash|fatal|killed|death|accident|autopilot|recall|probe|investigat/.test(lowerTitle)) {
+    return `This may affect public safety, consumer trust, insurance risk, and regulator attention around ${query}. It can also influence how people judge autonomous-driving claims and brand reliability.`;
+  }
+  if (/\bearnings|revenue|profit|stock|shares|market|deliveries|sales|price|returns|bull|bear|valuation\b/.test(lowerTitle)) {
+    return `This may affect investors, related stocks, demand expectations, and market sentiment around ${query}. It is worth watching for price moves and analyst reactions.`;
+  }
+  if (/\blaunch|reveals|announces|unveils|plans|coming soon|expands\b/.test(lowerTitle)) {
+    return `This may affect customer interest, competitor response, future revenue expectations, and the product roadmap around ${query}.`;
+  }
+  return whyItMatters(category, query);
+}
+
+function importanceForTitle(title, category) {
+  const lowerTitle = title.toLowerCase();
+  if (/\bfatal|killed|death|crash|recall|probe|investigat/.test(lowerTitle)) return 5;
+  if (/\bstock|shares|earnings|revenue|profit|deliveries|market|returns|bull|bear|valuation\b/.test(lowerTitle)) return 4;
+  if (/\blaunch|reveals|announces|unveils|plans\b/.test(lowerTitle)) return 4;
+  return category === "markets_investment" ? 4 : 3;
 }
 
 function parseGoogleNews(xmlText, query) {
@@ -156,7 +201,7 @@ function parseGoogleNews(xmlText, query) {
       category,
       headline: title,
       summary: summarize(description, title, sourceName, query),
-      why_it_matters: whyItMatters(category, query),
+      why_it_matters: impactFromTitle(title, category, query),
       published_at: publishedAt,
       source_links: [
         {
@@ -166,7 +211,7 @@ function parseGoogleNews(xmlText, query) {
         },
       ],
       topics: topicsFor(`${title} ${description}`, query),
-      importance: category === "markets_investment" ? 4 : 3,
+      importance: importanceForTitle(title, category),
       confidence: "reported_unconfirmed",
     });
   }
