@@ -24,6 +24,12 @@
   --soft-bg: #fff8f5;
   --panel-bg: rgba(250, 253, 251, 0.9);
   --button-bg: #fbfefc;
+  --button-text: #26302f;
+  --button-border: rgba(47, 98, 88, 0.22);
+  --button-hover-from: #26302f;
+  --button-hover-to: #c83f33;
+  --button-active-text: #f7fbf9;
+  --button-shadow: rgba(35, 55, 51, 0.1);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -44,6 +50,12 @@
   --soft-bg: #f0fbf7;
   --panel-bg: rgba(245, 253, 249, 0.92);
   --button-bg: #f8fffc;
+  --button-text: #1f5a4d;
+  --button-border: rgba(31, 90, 77, 0.28);
+  --button-hover-from: #1f5a4d;
+  --button-hover-to: #b82f2b;
+  --button-active-text: #f8fffc;
+  --button-shadow: rgba(31, 90, 77, 0.13);
 }
 
 :root[data-theme="night"] {
@@ -62,7 +74,13 @@
   --focus: #8bd6c2;
   --soft-bg: #101716;
   --panel-bg: rgba(24, 34, 32, 0.9);
-  --button-bg: #1b2724;
+  --button-bg: #243a35;
+  --button-text: #dffaf0;
+  --button-border: rgba(139, 214, 194, 0.42);
+  --button-hover-from: #8bd6c2;
+  --button-hover-to: #f0796f;
+  --button-active-text: #101716;
+  --button-shadow: rgba(139, 214, 194, 0.18);
 }
 
 * {
@@ -86,6 +104,10 @@ body {
     ),
     var(--soft-bg);
   background-attachment: fixed;
+  transition:
+    background-color 320ms ease,
+    color 320ms ease,
+    filter 320ms ease;
 }
 
 :root[data-theme="night"] body {
@@ -106,6 +128,62 @@ button,
 input,
 select {
   font: inherit;
+}
+
+button,
+input,
+select,
+a,
+.app-shell,
+.briefing-header,
+.controls-band,
+.ai-search-panel,
+.search-results,
+.insight-panel,
+.metric,
+.story-card,
+.detail-page,
+.detail-section,
+.detail-side,
+.status-panel,
+.empty-state,
+.theme-switcher,
+.search-mode-row,
+.source-row a,
+.details-button,
+.back-button,
+.status-refresh,
+.mini-action,
+.trend-chip,
+.watch-chip,
+.watch-chip button,
+.filter-button {
+  transition:
+    background-color 320ms ease,
+    background 320ms ease,
+    border-color 320ms ease,
+    box-shadow 320ms ease,
+    color 320ms ease,
+    opacity 220ms ease,
+    transform 180ms ease;
+}
+
+.theme-transitioning {
+  animation: theme-settle 340ms ease both;
+}
+
+@keyframes theme-settle {
+  0% {
+    filter: saturate(0.92) brightness(1.04);
+    opacity: 0.82;
+    transform: translateY(3px);
+  }
+
+  100% {
+    filter: saturate(1) brightness(1);
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 button,
@@ -186,10 +264,10 @@ a {
 .theme-switcher button,
 .search-mode-row button {
   min-height: 32px;
-  border: 0;
+  border: 1px solid transparent;
   border-radius: 6px;
   background: transparent;
-  color: var(--muted);
+  color: var(--button-text);
   font-size: 0.82rem;
   font-weight: 850;
   transition:
@@ -205,8 +283,10 @@ a {
 
 .theme-switcher button.is-active,
 .search-mode-row button.is-active {
-  background: linear-gradient(90deg, #26302f, #c83f33);
-  color: #f7fbf9;
+  border-color: var(--button-border);
+  background: linear-gradient(90deg, var(--button-hover-from), var(--button-hover-to));
+  color: var(--button-active-text);
+  box-shadow: 0 8px 18px var(--button-shadow);
 }
 
 .headline-grid {
@@ -284,10 +364,10 @@ h1 {
   justify-content: center;
   gap: 8px;
   margin-top: 4px;
-  border: 1px solid rgba(47, 98, 88, 0.24);
+  border: 1px solid var(--button-border);
   border-radius: 8px;
   background: var(--button-bg);
-  color: var(--green);
+  color: var(--button-text);
   font-size: 0.9rem;
   font-weight: 850;
   transition:
@@ -297,8 +377,8 @@ h1 {
 }
 
 .status-refresh:hover {
-  background: linear-gradient(90deg, #26302f, #c83f33);
-  color: #f7fbf9;
+  background: linear-gradient(90deg, var(--button-hover-from), var(--button-hover-to));
+  color: var(--button-active-text);
   transform: translateY(-1px);
 }
 
@@ -372,8 +452,8 @@ h1 {
   padding: 0 18px;
   border: 0;
   border-radius: 8px;
-  background: linear-gradient(90deg, #26302f, #c83f33);
-  color: #f7fbf9;
+  background: linear-gradient(90deg, var(--button-hover-from), var(--button-hover-to));
+  color: var(--button-active-text);
   font-weight: 850;
   transition:
     opacity 160ms ease,
@@ -382,7 +462,7 @@ h1 {
 }
 
 .ai-search-form button:hover:not(:disabled) {
-  background: linear-gradient(90deg, #171d1c, #a92d25);
+  background: linear-gradient(90deg, var(--button-hover-to), var(--button-hover-from));
   transform: translateY(-1px);
 }
 
@@ -490,7 +570,7 @@ h1 {
   border: 0;
   border-radius: 6px;
   background: transparent;
-  color: #405047;
+  color: var(--button-text);
   font-size: 0.91rem;
   font-weight: 800;
   transition:
@@ -504,9 +584,9 @@ h1 {
 }
 
 .filter-button.is-active {
-  background: linear-gradient(90deg, #26302f, #c83f33);
-  color: #f7fbf9;
-  box-shadow: 0 6px 16px rgba(47, 98, 88, 0.16);
+  background: linear-gradient(90deg, var(--button-hover-from), var(--button-hover-to));
+  color: var(--button-active-text);
+  box-shadow: 0 6px 16px var(--button-shadow);
 }
 
 .filter-button.category-malaysia.is-active {
@@ -519,6 +599,44 @@ h1 {
 
 .filter-button.category-world.is-active {
   background: #493942;
+}
+
+:root[data-theme="night"] .theme-switcher button,
+:root[data-theme="night"] .search-mode-row button,
+:root[data-theme="night"] .filter-button,
+:root[data-theme="night"] .mini-action,
+:root[data-theme="night"] .trend-chip,
+:root[data-theme="night"] .watch-chip button,
+:root[data-theme="night"] .status-refresh,
+:root[data-theme="night"] .details-button,
+:root[data-theme="night"] .back-button,
+:root[data-theme="night"] .source-row a {
+  border-color: var(--button-border);
+  background: color-mix(in srgb, var(--button-bg) 82%, #8bd6c2 18%);
+  color: var(--button-text);
+  box-shadow: 0 0 0 1px rgba(139, 214, 194, 0.08);
+}
+
+:root[data-theme="night"] .theme-switcher button.is-active,
+:root[data-theme="night"] .search-mode-row button.is-active,
+:root[data-theme="night"] .filter-button.is-active {
+  background: linear-gradient(90deg, var(--button-hover-from), var(--button-hover-to));
+  color: var(--button-active-text);
+}
+
+:root[data-theme="night"] .filter-button.category-malaysia.is-active {
+  background: #f0796f;
+  color: #101716;
+}
+
+:root[data-theme="night"] .filter-button.category-markets.is-active {
+  background: #e5ad60;
+  color: #101716;
+}
+
+:root[data-theme="night"] .filter-button.category-world.is-active {
+  background: #8bd6c2;
+  color: #101716;
 }
 
 .summary-strip {
@@ -568,10 +686,10 @@ h1 {
   align-items: center;
   justify-content: center;
   gap: 7px;
-  border: 1px solid rgba(47, 98, 88, 0.18);
+  border: 1px solid var(--button-border);
   border-radius: 8px;
   background: var(--button-bg);
-  color: var(--green);
+  color: var(--button-text);
   font-size: 0.84rem;
   font-weight: 850;
   transition:
@@ -583,8 +701,8 @@ h1 {
 .mini-action:hover,
 .trend-chip:hover,
 .watch-chip button:hover {
-  background: linear-gradient(90deg, #26302f, #c83f33);
-  color: #f7fbf9;
+  background: linear-gradient(90deg, var(--button-hover-from), var(--button-hover-to));
+  color: var(--button-active-text);
   transform: translateY(-1px);
 }
 
@@ -597,7 +715,7 @@ h1 {
 .watch-chip {
   display: inline-flex;
   overflow: hidden;
-  border: 1px solid rgba(47, 98, 88, 0.18);
+  border: 1px solid var(--button-border);
   border-radius: 8px;
   background: var(--button-bg);
 }
@@ -610,7 +728,7 @@ h1 {
 .watch-chip .chip-remove {
   min-width: 30px;
   padding: 0 8px;
-  color: var(--muted);
+  color: var(--button-text);
 }
 
 .trend-chip small,
@@ -932,9 +1050,9 @@ h1 {
 .source-row a {
   max-width: 190px;
   padding: 0 12px;
-  border: 1px solid rgba(47, 98, 88, 0.2);
+  border: 1px solid var(--button-border);
   background: var(--button-bg);
-  color: var(--green);
+  color: var(--button-text);
   overflow-wrap: anywhere;
   transition:
     background 160ms ease,
@@ -947,8 +1065,8 @@ h1 {
 }
 
 .source-row a:hover {
-  background: linear-gradient(90deg, #26302f, #c83f33);
-  color: #f7fbf9;
+  background: linear-gradient(90deg, var(--button-hover-from), var(--button-hover-to));
+  color: var(--button-active-text);
   transform: translateY(-1px);
 }
 
@@ -967,10 +1085,10 @@ h1 {
   justify-self: end;
   align-self: end;
   padding: 0 12px;
-  border: 1px solid rgba(200, 63, 51, 0.28);
+  border: 1px solid var(--button-border);
   border-radius: 8px;
   background: var(--button-bg);
-  color: #9d2e27;
+  color: var(--button-text);
   font-size: 0.88rem;
   font-weight: 850;
   text-transform: uppercase;
@@ -983,8 +1101,8 @@ h1 {
 
 .details-button:hover,
 .details-button:focus-visible {
-  background: linear-gradient(90deg, #26302f, #c83f33);
-  color: #f7fbf9;
+  background: linear-gradient(90deg, var(--button-hover-from), var(--button-hover-to));
+  color: var(--button-active-text);
   transform: translateY(-1px);
   box-shadow: 0 10px 20px rgba(200, 63, 51, 0.16);
 }
@@ -1034,10 +1152,10 @@ h1 {
   justify-content: center;
   gap: 8px;
   padding: 0 14px;
-  border: 1px solid rgba(47, 98, 88, 0.22);
+  border: 1px solid var(--button-border);
   border-radius: 8px;
   background: var(--button-bg);
-  color: var(--green);
+  color: var(--button-text);
   font-weight: 850;
   transition:
     background 160ms ease,
@@ -1046,8 +1164,8 @@ h1 {
 }
 
 .back-button:hover {
-  background: linear-gradient(90deg, #26302f, #c83f33);
-  color: #f7fbf9;
+  background: linear-gradient(90deg, var(--button-hover-from), var(--button-hover-to));
+  color: var(--button-active-text);
   transform: translateY(-1px);
 }
 

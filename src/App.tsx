@@ -318,6 +318,7 @@ function App() {
   const [liveQuery, setLiveQuery] = useState('')
   const [activeSearchMode, setActiveSearchMode] = useState<SearchMode>('all')
   const [theme, setTheme] = useState<ThemeMode>(() => loadSavedTheme())
+  const [isThemeChanging, setIsThemeChanging] = useState(false)
   const [watchlistTopics, setWatchlistTopics] = useState<string[]>(() => loadSavedWatchlist())
   const [searchState, setSearchState] = useState<SearchState>({ status: 'idle' })
   const [selectedStory, setSelectedStory] = useState<{ story: Story; timezone: string } | null>(null)
@@ -563,9 +564,16 @@ function App() {
     )
   }
 
+  function changeTheme(nextTheme: ThemeMode) {
+    if (nextTheme === theme) return
+    setIsThemeChanging(true)
+    setTheme(nextTheme)
+    window.setTimeout(() => setIsThemeChanging(false), 360)
+  }
+
   if (selectedStory) {
     return (
-      <main className="app-shell">
+      <main className={`app-shell ${isThemeChanging ? 'theme-transitioning' : ''}`}>
         <StoryDetail
           onBack={closeStory}
           story={selectedStory.story}
@@ -576,14 +584,14 @@ function App() {
   }
 
   return (
-    <main className="app-shell">
+    <main className={`app-shell ${isThemeChanging ? 'theme-transitioning' : ''}`}>
       <section className="briefing-header" aria-labelledby="page-title">
         <div className="header-top">
           <div className="brand-row">
             <img className="brand-mark" src="/favicon.svg" alt="" aria-hidden="true" />
             <span className="brand-name">Daily News</span>
           </div>
-          <ThemeSwitcher theme={theme} onThemeChange={setTheme} />
+          <ThemeSwitcher theme={theme} onThemeChange={changeTheme} />
         </div>
 
         <div className="headline-grid">
