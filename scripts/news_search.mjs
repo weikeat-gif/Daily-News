@@ -2,14 +2,19 @@ const MYT_OFFSET = "+08:00";
 const SEARCH_WINDOW = "when:14d";
 
 function stripHtml(value = "") {
-  return decodeEntities(value.replace(/<[^>]+>/g, " "))
+  return decodeEntities(value)
+    .replace(/<[^>]*>/g, " ")
+    .replace(/<\/?[^>\s]+[^>]*$/g, " ")
     .replace(/\s+/g, " ")
     .trim();
 }
 
 function decodeEntities(value) {
   return value
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCharCode(Number.parseInt(code, 16)))
+    .replace(/&#([0-9]+);/g, (_, code) => String.fromCharCode(Number.parseInt(code, 10)))
     .replace(/&amp;/g, "&")
+    .replace(/&nbsp;/g, " ")
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
     .replace(/&quot;/g, '"')
@@ -40,8 +45,28 @@ function canonicalUrl(rawUrl) {
 }
 
 function sourceFromTitle(title) {
-  const parts = title.split(" - ");
-  return parts.length > 1 ? parts.at(-1)?.trim() || "News source" : "News source";
+  const parts = title.split(/\s+[-–—]\s+/);
+  return parts.length > 1 ? cleanSourceName(parts.at(-1)?.trim() || "News source") : "News source";
+}
+
+function cleanSourceName(value) {
+  return value.split(/\s+[-–—]\s+/)[0]?.trim() || "News source";
+}
+
+function cleanTitle(rawTitle, sourceName) {
+  let title = rawTitle.trim();
+  if (sourceName && sourceName !== "News source") {
+    title = title.replace(new RegExp(`\\s+[-–—]\\s+${escapeRegExp(sourceName)}\\s*$`, "i"), "");
+  }
+  title = title.replace(/\s+[-–—]\s+[^-–—]{2,80}$/, "").trim();
+  if (sourceName && sourceName !== "News source") {
+    title = title.replace(new RegExp(`\\s+[-–—]\\s+${escapeRegExp(sourceName)}\\s*$`, "i"), "");
+  }
+  return title.trim() || rawTitle;
+}
+
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 function toMytIso(value) {
@@ -80,10 +105,24 @@ function topicsFor(text, query) {
   return topics;
 }
 
-function summarize(description, title) {
-  const base = description || title;
-  if (base.length <= 260) return base;
-  return `${base.slice(0, 257).trim()}...`;
+function summarize(description, title, sourceName, query) {
+  const fallback = `${sourceName} reports: ${title}. This is one of the latest public news results related to ${query}.`;
+  const cleanedDescription = description.replace(/\s+/g, " ").trim();
+  const repeatedTitle = title.toLowerCase();
+  const normalizedDescription = cleanedDescription.toLowerCase();
+  const normalizedSource = sourceName.toLowerCase();
+  const base =
+    cleanedDescription &&
+    !cleanedDescription.includes("href=") &&
+    !cleanedDescription.includes("&nbsp;") &&
+    normalizedDescription !== repeatedTitle &&
+    !normalizedDescription.startsWith(`${repeatedTitle} `) &&
+    !(normalizedDescription.includes(repeatedTitle) && normalizedDescription.includes(normalizedSource))
+      ? cleanedDescription
+      : fallback;
+
+  if (base.length <= 220) return base;
+  return `${base.slice(0, 217).trim()}...`;
 }
 
 function whyItMatters(category, query) {
@@ -103,11 +142,11 @@ function parseGoogleNews(xmlText, query) {
   for (const [index, match] of items.entries()) {
     const itemXml = match[1];
     const rawTitle = stripHtml(extractTag(itemXml, "title"));
-    const title = rawTitle.replace(/\s+-\s+[^-]+$/, "").trim() || rawTitle;
     const link = canonicalUrl(stripHtml(extractTag(itemXml, "link")));
     const description = stripHtml(extractTag(itemXml, "description"));
     const publishedAt = toMytIso(stripHtml(extractTag(itemXml, "pubDate")));
-    const sourceName = stripHtml(extractTag(itemXml, "source")) || sourceFromTitle(rawTitle);
+    const sourceName = cleanSourceName(stripHtml(extractTag(itemXml, "source")) || sourceFromTitle(rawTitle));
+    const title = cleanTitle(rawTitle, sourceName);
     const category = classify(`${title} ${description}`);
 
     if (!title || !link.startsWith("https://")) continue;
@@ -116,7 +155,7 @@ function parseGoogleNews(xmlText, query) {
       id: `search-${Date.parse(publishedAt) || Date.now()}-${index}-${slugify(title)}`,
       category,
       headline: title,
-      summary: summarize(description, title),
+      summary: summarize(description, title, sourceName, query),
       why_it_matters: whyItMatters(category, query),
       published_at: publishedAt,
       source_links: [
