@@ -163,7 +163,6 @@ a,
 .theme-switcher,
 .search-mode-row,
 .source-row a,
-.details-button,
 .back-button,
 .status-refresh,
 .mini-action,
@@ -770,7 +769,6 @@ h1 {
 :root[data-theme="night"] .trend-chip,
 :root[data-theme="night"] .watch-chip button,
 :root[data-theme="night"] .status-refresh,
-:root[data-theme="night"] .details-button,
 :root[data-theme="night"] .back-button,
 :root[data-theme="night"] .source-row a {
   border-color: var(--button-border);
@@ -947,6 +945,7 @@ h1 {
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(247, 251, 249, 0.94)),
     var(--paper);
+  cursor: pointer;
   box-shadow: 0 16px 42px rgba(35, 55, 51, 0.08);
   transition:
     border-color 160ms ease,
@@ -981,6 +980,14 @@ h1 {
   border-color: rgba(47, 98, 88, 0.3);
   transform: translateY(-2px);
   box-shadow: 0 22px 48px rgba(35, 55, 51, 0.12);
+}
+
+.story-card:focus-visible {
+  border-color: var(--button-border);
+  outline: none;
+  box-shadow:
+    0 0 0 3px color-mix(in srgb, var(--focus) 26%, transparent),
+    0 22px 48px rgba(35, 55, 51, 0.12);
 }
 
 .story-meta {
@@ -1178,9 +1185,8 @@ h1 {
 
 .story-footer {
   display: grid;
-  grid-template-columns: minmax(150px, 1fr) minmax(180px, 1.3fr);
-  gap: 18px;
-  align-items: end;
+  grid-template-columns: 1fr;
+  gap: 12px;
   margin-top: auto;
 }
 
@@ -1259,37 +1265,6 @@ h1 {
   color: var(--muted);
   font-size: 0.72rem;
   font-weight: 800;
-}
-
-.details-button {
-  display: inline-flex;
-  min-height: 38px;
-  align-items: center;
-  justify-content: center;
-  gap: 7px;
-  justify-self: end;
-  align-self: end;
-  padding: 0 12px;
-  border: 1px solid var(--button-border);
-  border-radius: 8px;
-  background: var(--button-bg);
-  color: var(--button-text);
-  font-size: 0.88rem;
-  font-weight: 850;
-  text-transform: uppercase;
-  transition:
-    background 160ms ease,
-    color 160ms ease,
-    transform 160ms ease,
-    box-shadow 160ms ease;
-}
-
-.details-button:hover,
-.details-button:focus-visible {
-  background: linear-gradient(90deg, var(--button-hover-from), var(--button-hover-to));
-  color: var(--button-active-text);
-  transform: translateY(-1px);
-  box-shadow: 0 10px 20px rgba(200, 63, 51, 0.16);
 }
 
 .detail-page {
@@ -1574,10 +1549,6 @@ h1 {
 
   .detail-side {
     position: static;
-  }
-
-  .details-button {
-    justify-self: start;
   }
 
   .search-results-head {

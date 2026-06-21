@@ -1,7 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import {
   ArrowLeft,
-  ArrowRight,
   Bookmark,
   ExternalLink,
   Palette,
@@ -850,7 +849,19 @@ function StoryCard({
   const heatClass = importance >= 85 ? 'heat-hot' : importance >= 65 ? 'heat-warm' : 'heat-cool'
 
   return (
-    <article className={`story-card ${heatClass}`}>
+    <article
+      aria-label={`Open details for ${story.headline}`}
+      className={`story-card ${heatClass}`}
+      onClick={onOpen}
+      onKeyDown={(event) => {
+        if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault()
+          onOpen()
+        }
+      }}
+      role="button"
+      tabIndex={0}
+    >
       <div className="story-meta">
         <span className={`confidence-pill ${confidenceTone[story.confidence]}`}>
           {confidenceLabels[story.confidence]}
@@ -888,10 +899,6 @@ function StoryCard({
             <i style={{ width: `${importance}%` }} />
           </div>
         </div>
-        <button className="details-button" onClick={onOpen} type="button">
-          Open details
-          <ArrowRight aria-hidden="true" size={15} strokeWidth={2.4} />
-        </button>
       </div>
     </article>
   )
