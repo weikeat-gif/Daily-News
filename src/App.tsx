@@ -949,13 +949,13 @@ function FloatingFilters({
   return (
     <aside className="floating-filter" aria-label="Dashboard filters">
       <button
+        aria-label="Open dashboard filters"
         aria-expanded={isOpen}
         className="floating-filter-button"
         onClick={onToggle}
         type="button"
       >
         <SlidersHorizontal aria-hidden="true" size={18} strokeWidth={2.4} />
-        Filter
         {activeFilterCount > 0 && <span>{activeFilterCount}</span>}
       </button>
 
