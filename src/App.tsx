@@ -7,6 +7,7 @@ import {
   Palette,
   RotateCcw,
   Search,
+  SlidersHorizontal,
   X,
 } from 'lucide-react'
 
@@ -315,6 +316,7 @@ function App() {
   const [activeCategory, setActiveCategory] = useState<Category | 'all'>('all')
   const [activeConfidence, setActiveConfidence] = useState<Confidence | 'all'>('all')
   const [query, setQuery] = useState('')
+  const [isFilterPanelOpen, setIsFilterPanelOpen] = useState(false)
   const [liveQuery, setLiveQuery] = useState('')
   const [activeSearchMode, setActiveSearchMode] = useState<SearchMode>('all')
   const [theme, setTheme] = useState<ThemeMode>(() => loadSavedTheme())
@@ -510,6 +512,10 @@ function App() {
 
   const data = loadState.status === 'loaded' ? loadState.data : null
   const topStory = filteredStories[0]
+  const activeFilterCount =
+    (activeCategory !== 'all' ? 1 : 0) +
+    (activeConfidence !== 'all' ? 1 : 0) +
+    (normalizedQuery ? 1 : 0)
 
   useEffect(() => {
     function syncRouteStory() {
@@ -562,6 +568,12 @@ function App() {
     setWatchlistTopics((currentTopics) =>
       currentTopics.filter((currentTopic) => currentTopic.toLowerCase() !== topic.toLowerCase()),
     )
+  }
+
+  function resetDashboardFilters() {
+    setActiveCategory('all')
+    setActiveConfidence('all')
+    setQuery('')
   }
 
   function changeTheme(nextTheme: ThemeMode) {
@@ -670,53 +682,19 @@ function App() {
         </form>
       </section>
 
-      <section className="controls-band" aria-label="Story controls">
-        <label className="search-field">
-          <span>Filter dashboard</span>
-          <div className="search-input-wrap">
-            <Search aria-hidden="true" size={18} strokeWidth={2.2} />
-            <input
-              type="search"
-              value={query}
-              onChange={(event) => setQuery(event.target.value)}
-              placeholder="Filter headline, topic, source..."
-            />
-          </div>
-        </label>
-
-        <div className="filter-group" aria-label="Category filter">
-          {categoryOrder.map((category) => (
-            <button
-              className={[
-                'filter-button',
-                `category-${categoryTone[category]}`,
-                activeCategory === category ? 'is-active' : '',
-              ]
-                .filter(Boolean)
-                .join(' ')}
-              key={category}
-              onClick={() => setActiveCategory(category)}
-              type="button"
-            >
-              {categoryLabels[category]}
-            </button>
-          ))}
-        </div>
-
-        <label className="select-field">
-          <span>Confidence</span>
-          <select
-            value={activeConfidence}
-            onChange={(event) => setActiveConfidence(event.target.value as Confidence | 'all')}
-          >
-            {confidenceOrder.map((confidence) => (
-              <option key={confidence} value={confidence}>
-                {confidenceLabels[confidence]}
-              </option>
-            ))}
-          </select>
-        </label>
-      </section>
+      <FloatingFilters
+        activeCategory={activeCategory}
+        activeConfidence={activeConfidence}
+        activeFilterCount={activeFilterCount}
+        isOpen={isFilterPanelOpen}
+        onCategoryChange={setActiveCategory}
+        onClose={() => setIsFilterPanelOpen(false)}
+        onConfidenceChange={setActiveConfidence}
+        onQueryChange={setQuery}
+        onReset={resetDashboardFilters}
+        onToggle={() => setIsFilterPanelOpen((isOpen) => !isOpen)}
+        query={query}
+      />
 
       {loadState.status === 'loaded' && (
         <section className="insights-band" aria-label="Watchlist and trending topics">
@@ -846,11 +824,7 @@ function App() {
               <p>Try widening the category, confidence, or search filter.</p>
               <button
                 type="button"
-                onClick={() => {
-                  setActiveCategory('all')
-                  setActiveConfidence('all')
-                  setQuery('')
-                }}
+                onClick={resetDashboardFilters}
               >
                 <RotateCcw aria-hidden="true" size={17} strokeWidth={2.4} />
                 Reset filters
@@ -944,6 +918,112 @@ function ThemeSwitcher({
         </button>
       ))}
     </div>
+  )
+}
+
+function FloatingFilters({
+  activeCategory,
+  activeConfidence,
+  activeFilterCount,
+  isOpen,
+  onCategoryChange,
+  onClose,
+  onConfidenceChange,
+  onQueryChange,
+  onReset,
+  onToggle,
+  query,
+}: {
+  activeCategory: Category | 'all'
+  activeConfidence: Confidence | 'all'
+  activeFilterCount: number
+  isOpen: boolean
+  onCategoryChange: (category: Category | 'all') => void
+  onClose: () => void
+  onConfidenceChange: (confidence: Confidence | 'all') => void
+  onQueryChange: (query: string) => void
+  onReset: () => void
+  onToggle: () => void
+  query: string
+}) {
+  return (
+    <aside className="floating-filter" aria-label="Dashboard filters">
+      <button
+        aria-expanded={isOpen}
+        className="floating-filter-button"
+        onClick={onToggle}
+        type="button"
+      >
+        <SlidersHorizontal aria-hidden="true" size={18} strokeWidth={2.4} />
+        Filters
+        {activeFilterCount > 0 && <span>{activeFilterCount}</span>}
+      </button>
+
+      {isOpen && (
+        <div className="floating-filter-panel">
+          <div className="floating-filter-head">
+            <strong>Filters</strong>
+            <button aria-label="Close filters" onClick={onClose} type="button">
+              <X aria-hidden="true" size={16} strokeWidth={2.5} />
+            </button>
+          </div>
+
+          <label className="search-field">
+            <span>Search dashboard</span>
+            <div className="search-input-wrap">
+              <Search aria-hidden="true" size={18} strokeWidth={2.2} />
+              <input
+                type="search"
+                value={query}
+                onChange={(event) => onQueryChange(event.target.value)}
+                placeholder="Headline, topic, source..."
+              />
+            </div>
+          </label>
+
+          <div className="floating-filter-section">
+            <span>Category</span>
+            <div className="filter-group" aria-label="Category filter">
+              {categoryOrder.map((category) => (
+                <button
+                  className={[
+                    'filter-button',
+                    `category-${categoryTone[category]}`,
+                    activeCategory === category ? 'is-active' : '',
+                  ]
+                    .filter(Boolean)
+                    .join(' ')}
+                  key={category}
+                  onClick={() => onCategoryChange(category)}
+                  type="button"
+                >
+                  {categoryLabels[category]}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <label className="select-field">
+            <span>Confidence</span>
+            <select
+              value={activeConfidence}
+              onChange={(event) => onConfidenceChange(event.target.value as Confidence | 'all')}
+            >
+              {confidenceOrder.map((confidence) => (
+                <option key={confidence} value={confidence}>
+                  {confidenceLabels[confidence]}
+                </option>
+              ))}
+            </select>
+          </label>
+
+          <button className="floating-filter-reset" onClick={onReset} type="button">
+            <RotateCcw aria-hidden="true" size={16} strokeWidth={2.4} />
+            Reset filters
+          </button>
+        </div>
+      )}
+    </aside>
   )
 }
 
