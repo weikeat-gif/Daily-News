@@ -719,7 +719,7 @@ function App() {
     window.setTimeout(() => {
       setIsThemeChanging(false)
       document.documentElement.classList.remove('theme-changing')
-    }, 520)
+    }, 760)
   }
 
   if (selectedStory) {
@@ -758,10 +758,8 @@ function App() {
           <aside className="briefing-status" aria-label="Briefing status">
             {data ? (
               <>
-                <span>Generated</span>
-                <strong>{formatDateTime(data.generated_at, data.timezone)}</strong>
-                <span>Last checked</span>
-                <strong>{lastCheckedAt ? formatDateTime(lastCheckedAt, data.timezone) : 'Checking'}</strong>
+                <span>Updated</span>
+                <strong>{formatDateTime(lastCheckedAt || data.generated_at, data.timezone)}</strong>
                 <span>Auto check</span>
                 <strong>{isRefreshing ? 'Checking now' : 'Live every 5 minutes'}</strong>
                 {refreshError && (
