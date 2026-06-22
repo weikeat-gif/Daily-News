@@ -545,6 +545,10 @@ h1 {
   font-size: 0.8rem;
 }
 
+.heat-filter-group {
+  display: grid;
+}
+
 .floating-filter-bottom {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
@@ -780,6 +784,17 @@ h1 {
   background: #493942;
 }
 
+.heat-filter {
+  border-color: rgba(212, 137, 62, 0.34);
+  background: linear-gradient(90deg, rgba(212, 137, 62, 0.14), rgba(200, 63, 51, 0.1));
+  color: #7b3e2f;
+}
+
+.filter-button.heat-filter.is-active {
+  background: linear-gradient(90deg, #d4893e, #c83f33);
+  color: #fffaf7;
+}
+
 :root[data-theme="night"] .theme-switcher button,
 :root[data-theme="night"] .search-mode-row button,
 :root[data-theme="night"] .filter-button,
@@ -814,6 +829,17 @@ h1 {
 
 :root[data-theme="night"] .filter-button.category-world.is-active {
   background: #8bd6c2;
+  color: #101716;
+}
+
+:root[data-theme="night"] .heat-filter {
+  border-color: rgba(229, 173, 96, 0.38);
+  background: rgba(229, 173, 96, 0.14);
+  color: #ffe8c1;
+}
+
+:root[data-theme="night"] .filter-button.heat-filter.is-active {
+  background: linear-gradient(90deg, #e5ad60, #f0796f);
   color: #101716;
 }
 

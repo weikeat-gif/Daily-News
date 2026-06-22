@@ -12,6 +12,7 @@ import {
 
 type Category = 'malaysia' | 'markets_investment' | 'world'
 type Confidence = 'verified' | 'cross_checked' | 'reported_unconfirmed'
+type HeatFilter = 'all' | 'rising'
 type ThemeMode = 'calm' | 'focus' | 'night'
 type SearchMode = 'all' | 'latest' | 'malaysia' | 'markets' | 'world' | 'social' | 'official' | 'high'
 
@@ -66,6 +67,11 @@ const categoryLabels: Record<Category | 'all', string> = {
   world: 'World',
 }
 
+const heatFilterLabels: Record<HeatFilter, string> = {
+  all: 'All heat',
+  rising: 'Rising Heat',
+}
+
 const categoryTone: Record<Category | 'all', string> = {
   all: 'all',
   malaysia: 'malaysia',
@@ -95,6 +101,7 @@ const themeOrder: ThemeMode[] = ['calm', 'focus', 'night']
 const searchModeOrder: SearchMode[] = ['all', 'latest', 'malaysia', 'markets', 'world', 'social', 'official', 'high']
 const AUTO_REFRESH_MS = 5 * 60 * 1000
 const WATCHLIST_STORAGE_KEY = 'daily-news-watchlist'
+const STORY_VIEWS_STORAGE_KEY = 'daily-news-story-views'
 const THEME_STORAGE_KEY = 'daily-news-theme'
 const DEFAULT_WATCHLIST = ['Tesla', 'Nvidia', 'Ringgit', 'Malaysia economy']
 const LIVE_DASHBOARD_QUERIES = [
@@ -324,6 +331,23 @@ function loadSavedWatchlist() {
   }
 }
 
+function loadSavedStoryViews() {
+  try {
+    const storedValue = window.localStorage.getItem(STORY_VIEWS_STORAGE_KEY)
+    if (!storedValue) return {}
+    const parsed = JSON.parse(storedValue) as unknown
+    if (!parsed || typeof parsed !== 'object' || Array.isArray(parsed)) return {}
+    return Object.entries(parsed).reduce<Record<string, number>>((views, [storyId, count]) => {
+      if (typeof count === 'number' && Number.isFinite(count) && count > 0) {
+        views[storyId] = count
+      }
+      return views
+    }, {})
+  } catch {
+    return {}
+  }
+}
+
 function loadSavedTheme() {
   try {
     const storedValue = window.localStorage.getItem(THEME_STORAGE_KEY)
@@ -379,6 +403,33 @@ function getDetailPoints(story: Story) {
   ], story.summary)
 }
 
+function recencyBoost(story: Story) {
+  const ageHours = (Date.now() - storyTimestamp(story)) / 36e5
+  if (!Number.isFinite(ageHours) || ageHours < 0) return 8
+  if (ageHours <= 6) return 10
+  if (ageHours <= 24) return 7
+  if (ageHours <= 72) return 4
+  return 0
+}
+
+function topicMomentum(story: Story, stories: Story[]) {
+  const normalizedTopics = story.topics.map((topic) => topic.toLowerCase())
+  const matchingStories = stories.filter((candidate) =>
+    candidate.topics.some((topic) => normalizedTopics.includes(topic.toLowerCase())),
+  ).length
+  return Math.min(matchingStories * 3, 18)
+}
+
+function getHeatScore(story: Story, stories: Story[], storyViews: Record<string, number>) {
+  const baseScore = normalizeImportance(story.importance)
+  const sourceSignal = Math.min(Math.max(story.source_links.length - 1, 0) * 6, 18)
+  const viewSignal = Math.min((storyViews[story.id] || 0) * 8, 24)
+  return Math.max(
+    0,
+    Math.min(Math.round(baseScore * 0.72 + sourceSignal + topicMomentum(story, stories) + recencyBoost(story) + viewSignal), 100),
+  )
+}
+
 function normalizePointText(value: string) {
   return value
     .toLowerCase()
@@ -417,6 +468,7 @@ function App() {
   const [isRefreshing, setIsRefreshing] = useState(false)
   const [refreshError, setRefreshError] = useState<string | null>(null)
   const [activeCategory, setActiveCategory] = useState<Category | 'all'>('all')
+  const [activeHeatFilter, setActiveHeatFilter] = useState<HeatFilter>('all')
   const [query, setQuery] = useState('')
   const [isFilterPanelOpen, setIsFilterPanelOpen] = useState(false)
   const [liveQuery, setLiveQuery] = useState('')
@@ -424,6 +476,7 @@ function App() {
   const [theme, setTheme] = useState<ThemeMode>(() => loadSavedTheme())
   const [isThemeChanging, setIsThemeChanging] = useState(false)
   const [watchlistTopics, setWatchlistTopics] = useState<string[]>(() => loadSavedWatchlist())
+  const [storyViews, setStoryViews] = useState<Record<string, number>>(() => loadSavedStoryViews())
   const [searchState, setSearchState] = useState<SearchState>({ status: 'idle' })
   const [selectedStory, setSelectedStory] = useState<{ story: Story; timezone: string } | null>(null)
 
@@ -507,6 +560,10 @@ function App() {
     window.localStorage.setItem(WATCHLIST_STORAGE_KEY, JSON.stringify(watchlistTopics))
   }, [watchlistTopics])
 
+  useEffect(() => {
+    window.localStorage.setItem(STORY_VIEWS_STORAGE_KEY, JSON.stringify(storyViews))
+  }, [storyViews])
+
   const runLiveSearch = useCallback(async (searchTerm: string) => {
     const trimmedTerm = searchTerm.trim()
     if (trimmedTerm.length < 2) {
@@ -561,9 +618,15 @@ function App() {
     return Array.from(storyMap.values())
   }, [searchState, stories])
 
+  const heatScores = useMemo(() => {
+    const allStories = allSelectableStories.length > 0 ? allSelectableStories : stories
+    return new Map(allStories.map((story) => [story.id, getHeatScore(story, allStories, storyViews)]))
+  }, [allSelectableStories, stories, storyViews])
+
   const filteredStories = useMemo(() => {
     return stories
       .filter((story) => activeCategory === 'all' || story.category === activeCategory)
+      .filter((story) => activeHeatFilter === 'all' || (heatScores.get(story.id) || 0) >= 65)
       .filter((story) => {
         if (!normalizedQuery) return true
         const haystack = [
@@ -582,9 +645,9 @@ function App() {
       .sort((a, b) => {
         const byReleaseTime = storyTimestamp(b) - storyTimestamp(a)
         if (byReleaseTime !== 0) return byReleaseTime
-        return normalizeImportance(b.importance) - normalizeImportance(a.importance)
+        return (heatScores.get(b.id) || 0) - (heatScores.get(a.id) || 0)
       })
-  }, [activeCategory, normalizedQuery, stories])
+  }, [activeCategory, activeHeatFilter, heatScores, normalizedQuery, stories])
 
   const filteredSearchStories = useMemo(() => {
     if (searchState.status !== 'loaded') return []
@@ -597,12 +660,12 @@ function App() {
         if (activeSearchMode === 'world') return story.category === 'world'
         if (activeSearchMode === 'social') return hasSourceKind(story, 'Social')
         if (activeSearchMode === 'official') return hasSourceKind(story, 'Official')
-        if (activeSearchMode === 'high') return normalizeImportance(story.importance) >= 80
+        if (activeSearchMode === 'high') return (heatScores.get(story.id) || 0) >= 80
         return true
       })
-      .sort((a, b) => storyTimestamp(b) - storyTimestamp(a))
+      .sort((a, b) => storyTimestamp(b) - storyTimestamp(a) || (heatScores.get(b.id) || 0) - (heatScores.get(a.id) || 0))
       .slice(0, activeSearchMode === 'latest' ? 10 : undefined)
-  }, [activeSearchMode, searchState])
+  }, [activeSearchMode, heatScores, searchState])
 
   const trendingTopics = useMemo(() => getTrendingTopics(stories), [stories])
   const watchlistMatches = useMemo(() => {
@@ -622,6 +685,7 @@ function App() {
   const topStory = filteredStories[0]
   const activeFilterCount =
     (activeCategory !== 'all' ? 1 : 0) +
+    (activeHeatFilter !== 'all' ? 1 : 0) +
     (normalizedQuery ? 1 : 0)
 
   useEffect(() => {
@@ -644,6 +708,10 @@ function App() {
   }, [allSelectableStories, data?.timezone])
 
   function openStory(story: Story, timezone: string) {
+    setStoryViews((currentViews) => ({
+      ...currentViews,
+      [story.id]: (currentViews[story.id] || 0) + 1,
+    }))
     setSelectedStory({ story, timezone })
     window.history.pushState(null, '', getStoryPath(story))
     window.scrollTo({ top: 0, behavior: 'smooth' })
@@ -679,6 +747,7 @@ function App() {
 
   function resetDashboardFilters() {
     setActiveCategory('all')
+    setActiveHeatFilter('all')
     setQuery('')
   }
 
@@ -697,6 +766,7 @@ function App() {
     return (
       <main className={`app-shell ${isThemeChanging ? 'theme-transitioning' : ''}`}>
         <StoryDetail
+          heatScore={heatScores.get(selectedStory.story.id) || normalizeImportance(selectedStory.story.importance)}
           onBack={closeStory}
           story={selectedStory.story}
           timezone={selectedStory.timezone}
@@ -788,10 +858,12 @@ function App() {
 
       <FloatingFilters
         activeCategory={activeCategory}
+        activeHeatFilter={activeHeatFilter}
         activeFilterCount={activeFilterCount}
         isOpen={isFilterPanelOpen}
         onCategoryChange={setActiveCategory}
         onClose={() => setIsFilterPanelOpen(false)}
+        onHeatFilterChange={setActiveHeatFilter}
         onQueryChange={setQuery}
         onReset={resetDashboardFilters}
         onToggle={() => setIsFilterPanelOpen((isOpen) => !isOpen)}
@@ -884,6 +956,7 @@ function App() {
             <div className="story-grid search-grid">
               {filteredSearchStories.map((story) => (
                 <StoryCard
+                  heatScore={heatScores.get(story.id) || normalizeImportance(story.importance)}
                   key={story.id}
                   onOpen={() => openStory(story, 'Asia/Kuala_Lumpur')}
                   story={story}
@@ -913,6 +986,7 @@ function App() {
             <section className="story-grid" aria-label="Filtered stories">
               {filteredStories.map((story) => (
                 <StoryCard
+                  heatScore={heatScores.get(story.id) || normalizeImportance(story.importance)}
                   key={story.id}
                   onOpen={() => openStory(story, loadState.data.timezone)}
                   story={story}
@@ -923,7 +997,7 @@ function App() {
           ) : (
             <section className="empty-state" aria-live="polite">
               <h2>No stories match this view.</h2>
-              <p>Try widening the category, confidence, or search filter.</p>
+              <p>Try widening the category, heat, or search filter.</p>
               <button
                 type="button"
                 onClick={resetDashboardFilters}
@@ -940,16 +1014,17 @@ function App() {
 }
 
 function StoryCard({
+  heatScore,
   onOpen,
   story,
   timezone,
 }: {
+  heatScore: number
   onOpen: () => void
   story: Story
   timezone: string
 }) {
-  const importance = normalizeImportance(story.importance)
-  const heatClass = importance >= 85 ? 'heat-hot' : importance >= 65 ? 'heat-warm' : 'heat-cool'
+  const heatClass = heatScore >= 85 ? 'heat-hot' : heatScore >= 65 ? 'heat-warm' : 'heat-cool'
 
   return (
     <article
@@ -991,10 +1066,10 @@ function StoryCard({
       </div>
 
       <div className="story-footer">
-        <div className="importance-meter" aria-label={`Importance ${importance} out of 100`}>
-          <span>{getImportanceLabel(story.importance)}</span>
+        <div className="importance-meter" aria-label={`Heat ${heatScore} out of 100`}>
+          <span>{getImportanceLabel(heatScore)}</span>
           <div>
-            <i style={{ width: `${importance}%` }} />
+            <i style={{ width: `${heatScore}%` }} />
           </div>
         </div>
       </div>
@@ -1028,20 +1103,24 @@ function ThemeSwitcher({
 
 function FloatingFilters({
   activeCategory,
+  activeHeatFilter,
   activeFilterCount,
   isOpen,
   onCategoryChange,
   onClose,
+  onHeatFilterChange,
   onQueryChange,
   onReset,
   onToggle,
   query,
 }: {
   activeCategory: Category | 'all'
+  activeHeatFilter: HeatFilter
   activeFilterCount: number
   isOpen: boolean
   onCategoryChange: (category: Category | 'all') => void
   onClose: () => void
+  onHeatFilterChange: (heatFilter: HeatFilter) => void
   onQueryChange: (query: string) => void
   onReset: () => void
   onToggle: () => void
@@ -1097,6 +1176,16 @@ function FloatingFilters({
             ))}
           </div>
 
+          <div className="heat-filter-group" aria-label="Heat filter">
+            <button
+              className={`filter-button heat-filter ${activeHeatFilter === 'rising' ? 'is-active' : ''}`}
+              onClick={() => onHeatFilterChange(activeHeatFilter === 'rising' ? 'all' : 'rising')}
+              type="button"
+            >
+              {heatFilterLabels.rising}
+            </button>
+          </div>
+
           <div className="floating-filter-bottom">
             <button className="floating-filter-reset" onClick={onReset} type="button">
               <RotateCcw aria-hidden="true" size={15} strokeWidth={2.4} />
@@ -1125,16 +1214,17 @@ function SourceProof({ story }: { story: Story }) {
 }
 
 function StoryDetail({
+  heatScore,
   onBack,
   story,
   timezone,
 }: {
+  heatScore: number
   onBack: () => void
   story: Story
   timezone: string
 }) {
-  const importance = normalizeImportance(story.importance)
-  const heatClass = importance >= 85 ? 'heat-hot' : importance >= 65 ? 'heat-warm' : 'heat-cool'
+  const heatClass = heatScore >= 85 ? 'heat-hot' : heatScore >= 65 ? 'heat-warm' : 'heat-cool'
   const detailPoints = getDetailPoints(story)
 
   return (
@@ -1183,10 +1273,10 @@ function StoryDetail({
         </section>
 
         <aside className="detail-side">
-          <div className="importance-meter" aria-label={`Importance ${importance} out of 100`}>
-            <span>{getImportanceLabel(story.importance)}</span>
+          <div className="importance-meter" aria-label={`Heat ${heatScore} out of 100`}>
+            <span>{getImportanceLabel(heatScore)}</span>
             <div>
-              <i style={{ width: `${importance}%` }} />
+              <i style={{ width: `${heatScore}%` }} />
             </div>
           </div>
 
