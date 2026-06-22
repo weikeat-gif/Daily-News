@@ -626,7 +626,6 @@ function App() {
   const filteredStories = useMemo(() => {
     return stories
       .filter((story) => activeCategory === 'all' || story.category === activeCategory)
-      .filter((story) => activeHeatFilter === 'all' || (heatScores.get(story.id) || 0) >= 65)
       .filter((story) => {
         if (!normalizedQuery) return true
         const haystack = [
@@ -643,9 +642,11 @@ function App() {
         return haystack.includes(normalizedQuery)
       })
       .sort((a, b) => {
+        const byHeat = (heatScores.get(b.id) || 0) - (heatScores.get(a.id) || 0)
+        if (activeHeatFilter === 'rising' && byHeat !== 0) return byHeat
         const byReleaseTime = storyTimestamp(b) - storyTimestamp(a)
         if (byReleaseTime !== 0) return byReleaseTime
-        return (heatScores.get(b.id) || 0) - (heatScores.get(a.id) || 0)
+        return byHeat
       })
   }, [activeCategory, activeHeatFilter, heatScores, normalizedQuery, stories])
 
@@ -979,7 +980,7 @@ function App() {
           <section className="summary-strip" aria-label="Briefing summary">
             <Metric label="Stories" value={stories.length.toString()} />
             <Metric label="Showing" value={filteredStories.length.toString()} />
-            <Metric label="Sorted by" value={topStory ? 'Latest first' : 'None'} />
+            <Metric label="Sorted by" value={topStory ? (activeHeatFilter === 'rising' ? 'Rising heat' : 'Latest first') : 'None'} />
           </section>
 
           {filteredStories.length > 0 ? (
