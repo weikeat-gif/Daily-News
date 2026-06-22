@@ -28,3 +28,6 @@ private/
 notes/
 WhatsApp*/
 data/social_candidates.json
+
+# Local Netlify folder
+.netlify
