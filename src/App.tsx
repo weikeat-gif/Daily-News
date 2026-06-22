@@ -73,19 +73,6 @@ const categoryTone: Record<Category | 'all', string> = {
   world: 'world',
 }
 
-const confidenceLabels: Record<Confidence | 'all', string> = {
-  all: 'All verification',
-  verified: 'Primary source',
-  cross_checked: 'Multiple reports',
-  reported_unconfirmed: 'Single-source',
-}
-
-const confidenceTone: Record<Confidence, string> = {
-  verified: 'good',
-  cross_checked: 'steady',
-  reported_unconfirmed: 'watch',
-}
-
 const themeLabels: Record<ThemeMode, string> = {
   calm: 'Calm',
   focus: 'Focus',
@@ -104,12 +91,6 @@ const searchModeLabels: Record<SearchMode, string> = {
 }
 
 const categoryOrder: Array<Category | 'all'> = ['all', 'malaysia', 'markets_investment', 'world']
-const confidenceOrder: Array<Confidence | 'all'> = [
-  'all',
-  'verified',
-  'cross_checked',
-  'reported_unconfirmed',
-]
 const themeOrder: ThemeMode[] = ['calm', 'focus', 'night']
 const searchModeOrder: SearchMode[] = ['all', 'latest', 'malaysia', 'markets', 'world', 'social', 'official', 'high']
 const AUTO_REFRESH_MS = 5 * 60 * 1000
@@ -380,43 +361,6 @@ function getCategoryBrief(category: Category) {
   return 'A world update that may shape geopolitics, business confidence, supply chains, technology, or public safety.'
 }
 
-function getConfidenceDescription(confidence: Confidence) {
-  if (confidence === 'verified') {
-    return 'The verification agent found an official, regulator, exchange, government, or similarly authoritative source.'
-  }
-  if (confidence === 'cross_checked') {
-    return 'The verification agent found supporting coverage or source context from more than one public source.'
-  }
-  return 'The verification agent found one public report so far. Read it as reported, not fully confirmed.'
-}
-
-function getVerificationAgentNote(story: Story) {
-  const reportCount = getVerificationReportCount(story)
-  if (story.confidence === 'verified') {
-    return `Verification agent: official or authoritative source detected across ${reportCount} report${reportCount === 1 ? '' : 's'}.`
-  }
-  if (story.confidence === 'cross_checked') {
-    return `Verification agent: cross-checked with ${reportCount} public report${reportCount === 1 ? '' : 's'} before showing this as stronger than a single source.`
-  }
-  return 'Verification agent: only one public report found so far, so this stays marked as single-source until more confirmation appears.'
-}
-
-function getVerificationEvidence(story: Story) {
-  const sourceKinds = Array.from(new Set(story.source_links.map((source) => getSourceKind(source))))
-  const sourceHosts = Array.from(new Set(story.source_links.map((source) => getSourceHost(source.url)))).slice(0, 4)
-  return [
-    `${story.source_links.length} source link${story.source_links.length === 1 ? '' : 's'} found`,
-    `${getVerificationReportCount(story)} article report${getVerificationReportCount(story) === 1 ? '' : 's'} counted`,
-    sourceKinds.join(', '),
-    sourceHosts.join(', '),
-  ].filter(Boolean)
-}
-
-function getVerificationReportCount(story: Story) {
-  const reportSources = story.source_links.filter((source) => getSourceKind(source) !== 'Social')
-  return Math.max(1, new Set(reportSources.map((source) => source.name.toLowerCase())).size)
-}
-
 function getWatchNote(story: Story) {
   const topicText = story.topics.slice(0, 3).join(', ')
   if (story.category === 'markets_investment') {
@@ -442,7 +386,6 @@ function App() {
   const [isRefreshing, setIsRefreshing] = useState(false)
   const [refreshError, setRefreshError] = useState<string | null>(null)
   const [activeCategory, setActiveCategory] = useState<Category | 'all'>('all')
-  const [activeConfidence, setActiveConfidence] = useState<Confidence | 'all'>('all')
   const [query, setQuery] = useState('')
   const [isFilterPanelOpen, setIsFilterPanelOpen] = useState(false)
   const [liveQuery, setLiveQuery] = useState('')
@@ -590,7 +533,6 @@ function App() {
   const filteredStories = useMemo(() => {
     return stories
       .filter((story) => activeCategory === 'all' || story.category === activeCategory)
-      .filter((story) => activeConfidence === 'all' || story.confidence === activeConfidence)
       .filter((story) => {
         if (!normalizedQuery) return true
         const haystack = [
@@ -611,7 +553,7 @@ function App() {
         if (byReleaseTime !== 0) return byReleaseTime
         return normalizeImportance(b.importance) - normalizeImportance(a.importance)
       })
-  }, [activeCategory, activeConfidence, normalizedQuery, stories])
+  }, [activeCategory, normalizedQuery, stories])
 
   const filteredSearchStories = useMemo(() => {
     if (searchState.status !== 'loaded') return []
@@ -649,7 +591,6 @@ function App() {
   const topStory = filteredStories[0]
   const activeFilterCount =
     (activeCategory !== 'all' ? 1 : 0) +
-    (activeConfidence !== 'all' ? 1 : 0) +
     (normalizedQuery ? 1 : 0)
 
   useEffect(() => {
@@ -707,7 +648,6 @@ function App() {
 
   function resetDashboardFilters() {
     setActiveCategory('all')
-    setActiveConfidence('all')
     setQuery('')
   }
 
@@ -817,12 +757,10 @@ function App() {
 
       <FloatingFilters
         activeCategory={activeCategory}
-        activeConfidence={activeConfidence}
         activeFilterCount={activeFilterCount}
         isOpen={isFilterPanelOpen}
         onCategoryChange={setActiveCategory}
         onClose={() => setIsFilterPanelOpen(false)}
-        onConfidenceChange={setActiveConfidence}
         onQueryChange={setQuery}
         onReset={resetDashboardFilters}
         onToggle={() => setIsFilterPanelOpen((isOpen) => !isOpen)}
@@ -997,9 +935,6 @@ function StoryCard({
       tabIndex={0}
     >
       <div className="story-meta">
-        <span className={`confidence-pill ${confidenceTone[story.confidence]}`}>
-          {confidenceLabels[story.confidence]}
-        </span>
         <span className={`category-pill category-${categoryTone[story.category]}`}>
           {categoryLabels[story.category]}
         </span>
@@ -1062,24 +997,20 @@ function ThemeSwitcher({
 
 function FloatingFilters({
   activeCategory,
-  activeConfidence,
   activeFilterCount,
   isOpen,
   onCategoryChange,
   onClose,
-  onConfidenceChange,
   onQueryChange,
   onReset,
   onToggle,
   query,
 }: {
   activeCategory: Category | 'all'
-  activeConfidence: Confidence | 'all'
   activeFilterCount: number
   isOpen: boolean
   onCategoryChange: (category: Category | 'all') => void
   onClose: () => void
-  onConfidenceChange: (confidence: Confidence | 'all') => void
   onQueryChange: (query: string) => void
   onReset: () => void
   onToggle: () => void
@@ -1136,18 +1067,6 @@ function FloatingFilters({
           </div>
 
           <div className="floating-filter-bottom">
-            <select
-              aria-label="Confidence"
-              value={activeConfidence}
-              onChange={(event) => onConfidenceChange(event.target.value as Confidence | 'all')}
-            >
-              {confidenceOrder.map((confidence) => (
-                <option key={confidence} value={confidence}>
-                  {confidenceLabels[confidence]}
-                </option>
-              ))}
-            </select>
-
             <button className="floating-filter-reset" onClick={onReset} type="button">
               <RotateCcw aria-hidden="true" size={15} strokeWidth={2.4} />
               Reset
@@ -1164,15 +1083,12 @@ function SourceProof({ story }: { story: Story }) {
 
   return (
     <div className="source-proof" aria-label="Source evidence">
-      <div className="source-proof-tags">
-        {sourceKinds.map((kind) => (
-          <span className={`source-kind source-kind-${kind.toLowerCase().replace(/\s+/g, '-')}`} key={kind}>
-            {kind}
-          </span>
-        ))}
-        <span className="source-count">{story.source_links.length} source link{story.source_links.length === 1 ? '' : 's'}</span>
-      </div>
-      <p>{getVerificationAgentNote(story)}</p>
+      {sourceKinds.map((kind) => (
+        <span className={`source-kind source-kind-${kind.toLowerCase().replace(/\s+/g, '-')}`} key={kind}>
+          {kind}
+        </span>
+      ))}
+      <span className="source-count">{story.source_links.length} source link{story.source_links.length === 1 ? '' : 's'}</span>
     </div>
   )
 }
@@ -1198,9 +1114,6 @@ function StoryDetail({
       </button>
 
       <div className="story-meta">
-        <span className={`confidence-pill ${confidenceTone[story.confidence]}`}>
-          {confidenceLabels[story.confidence]}
-        </span>
         <span className={`category-pill category-${categoryTone[story.category]}`}>
           {categoryLabels[story.category]}
         </span>
@@ -1241,16 +1154,6 @@ function StoryDetail({
             <p>{getWatchNote(story)}</p>
           </div>
 
-          <div className="detail-section verification-section">
-            <span>Verification agent</span>
-            <p>{getVerificationAgentNote(story)}</p>
-            <ul className="detail-list verification-list">
-              {getVerificationEvidence(story).map((item) => (
-                <li key={item}>{item}</li>
-              ))}
-            </ul>
-          </div>
-
           <div className="topic-row" aria-label="Topics">
             {story.topics.map((topic) => (
               <span key={topic}>{topic}</span>
@@ -1274,10 +1177,6 @@ function StoryDetail({
             <div>
               <dt>Category</dt>
               <dd>{categoryLabels[story.category]}</dd>
-            </div>
-            <div>
-              <dt>Confidence</dt>
-              <dd>{getConfidenceDescription(story.confidence)}</dd>
             </div>
             <div>
               <dt>Source links found</dt>
