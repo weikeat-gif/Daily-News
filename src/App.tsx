@@ -373,11 +373,42 @@ function getWatchNote(story: Story) {
 }
 
 function getDetailPoints(story: Story) {
-  return [
-    story.summary,
+  return dedupeDetailPoints([
     story.why_it_matters,
     getWatchNote(story),
-  ]
+  ], story.summary)
+}
+
+function normalizePointText(value: string) {
+  return value
+    .toLowerCase()
+    .replace(/^key points:\s*/, '')
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
+function pointSimilarity(left: string, right: string) {
+  const leftTerms = new Set(normalizePointText(left).split(' ').filter((term) => term.length > 3))
+  const rightTerms = new Set(normalizePointText(right).split(' ').filter((term) => term.length > 3))
+  if (leftTerms.size === 0 || rightTerms.size === 0) return 0
+  const sharedTerms = Array.from(leftTerms).filter((term) => rightTerms.has(term)).length
+  return sharedTerms / Math.min(leftTerms.size, rightTerms.size)
+}
+
+function dedupeDetailPoints(points: string[], alreadyShown: string) {
+  const uniquePoints: string[] = []
+  for (const point of points) {
+    const trimmedPoint = point.trim()
+    if (!trimmedPoint) continue
+    const duplicatesExisting =
+      pointSimilarity(trimmedPoint, alreadyShown) > 0.72 ||
+      uniquePoints.some((existingPoint) => pointSimilarity(trimmedPoint, existingPoint) > 0.72)
+    if (!duplicatesExisting) {
+      uniquePoints.push(trimmedPoint)
+    }
+  }
+  return uniquePoints
 }
 
 function App() {
@@ -1142,16 +1173,6 @@ function StoryDetail({
           <div className="summary-panel">
             <span>Context</span>
             <p className="story-summary">{getCategoryBrief(story.category)}</p>
-          </div>
-
-          <div className="matter-panel">
-            <span>How it may affect us</span>
-            <p>{story.why_it_matters}</p>
-          </div>
-
-          <div className="detail-section">
-            <span>What to watch next</span>
-            <p>{getWatchNote(story)}</p>
           </div>
 
           <div className="topic-row" aria-label="Topics">
