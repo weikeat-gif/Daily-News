@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-24T01:52:45+08:00",
+  "generated_at": "2026-06-24T04:01:59+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-06-24-ronaldo-becomes-first-player-to-score-at-six-world-cup-finals",
+      "id": "2026-06-24-mexico-city-bans-alcohol-sales-ahead-of-mexico-czech-republic-match",
       "category": "world",
-      "headline": "Ronaldo becomes first player to score at six World Cup finals",
-      "summary": "Key points: CNA Latest reports that Ronaldo becomes first player to score at six World Cup finals.",
+      "headline": "Mexico City bans alcohol sales ahead of Mexico-Czech Republic match",
+      "summary": "Key points: CNA Latest reports that Mexico City bans alcohol sales ahead of Mexico-Czech Republic match.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-24T01:23:25+08:00",
+      "published_at": "2026-06-24T03:48:27+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/ronaldo-becomes-first-player-score-six-world-cup-finals-6204441",
+          "url": "https://www.channelnewsasia.com/sport/mexico-city-bans-alcohol-sales-ahead-mexico-czech-republic-match-6204681",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-zaiton-urges-malaysia-athletics-to-enhance-governance-bernama",
+      "category": "malaysia",
+      "headline": "Zaiton Urges Malaysia Athletics To Enhance Governance - Bernama",
+      "summary": "Key points: Zaiton Urges Malaysia Athletics To Enhance Governance Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T01:56:00+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2clpIelNaaGwwX29yRFpqMDZQZWx3QXJld0xnSF9jZDZ1V2tHWWVLVlBKT3Eyb1J5NjhMUy1nbDVWYmItTmdtVW5uNXYyeE82Vmt1SHFMdHdxa0NrZnY0aVNFWQ?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -281,36 +311,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-23-feytech-partners-with-cauto-to-strengthen-malaysia-s-ev-talent-pipeline-bernama",
-      "category": "malaysia",
-      "headline": "Feytech Partners With CAuto To Strengthen Malaysia’s EV Talent Pipeline - Bernama",
-      "summary": "Key points: Feytech Partners With CAuto To Strengthen Malaysia’s EV Talent Pipeline Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-23T18:39:37+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mcjc2VVFTQ1JXQktmNlZQMlMxam9lUkE3R3hEdTZxZ0gwQ19HeFdIOUpQcDRSMWhPSjhhZVd5Z3VxT2JyejdFUDZZM2dmR1B5b0F0a0ZjdUFibmJNMHR2UENSbXg?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
