@@ -1,8 +1,631 @@
 {
-  "generated_at": "2026-06-24T15:39:04+08:00",
+  "generated_at": "2026-06-24T18:47:57+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-06-24-ringgit-closes-higher-after-malaysia-posts-surge-in-foreign-investment",
+      "category": "markets_investment",
+      "headline": "Ringgit closes higher after Malaysia posts surge in foreign investment",
+      "summary": "Key points: KUALA LUMPUR, June 24 — The ringgit extended its gains to close higher against the US dollar and other major curre...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-24T18:45:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/24/ringgit-closes-higher-after-malaysia-posts-surge-in-foreign-investment/225037",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "ringgit",
+        "investment"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-agility-robotics-to-go-public-in-2-5-billion-deal-with-michael-klein-backed-spac",
+      "category": "world",
+      "headline": "Agility Robotics to go public in $2.5 billion deal with Michael Klein-backed SPAC",
+      "summary": "Key points: CNA Latest reports that Agility Robotics to go public in $2.5 billion deal with Michael Klein-backed SPAC.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-24T18:38:49+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/agility-robotics-go-public-in-25-billion-deal-michael-klein-backed-spac-6206066",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-malaysia-courts-us-firms-with-pitch-for-johor-singapore-economic-zone",
+      "category": "malaysia",
+      "headline": "Malaysia courts US firms with pitch for Johor-Singapore economic zone",
+      "summary": "Key points: Malaysia is committed to fostering deeper engagement with American companies, particularly wi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T18:32:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/24/malaysia-courts-us-firms-with-pitch-for-johor-singapore-economic-zone/225035",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-not-out-to-get-you-new-section-42a-meant-to-rein-in-illegal-racing-dangerous-speed",
+      "category": "malaysia",
+      "headline": "Not out to get you: New Section 42A meant to rein in illegal racing, dangerous speed trails",
+      "summary": "Key points: KUALA LUMPUR, June 24 — Transport Minister Anthony Loke has clarified that the new Section 42A under the Road Tran...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T18:32:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/not-out-to-get-you-new-section-42a-meant-to-rein-in-illegal-racing-dangerous-speed-trails/225033",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-bnm-fines-aeon-credit-rm520-000-over-sanctions-compliance-breaches",
+      "category": "malaysia",
+      "headline": "BNM fines AEON Credit RM520,000 over sanctions compliance breaches",
+      "summary": "Key points: KUALA LUMPUR, June 24 — AEON Credit Service (M) Bhd (AEON Credit) has been fined RM520,000 for failing to comply w...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T18:28:39+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/24/bnm-fines-aeon-credit-rm520000-over-sanctions-compliance-breaches/225034",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-armed-forces-cooperative-declares-7-3pc-dividend-pays-out-rm126-2m-to-members",
+      "category": "malaysia",
+      "headline": "Armed Forces cooperative declares 7.3pc dividend, pays out RM126.2m to members",
+      "summary": "Key points: KUALA LUMPUR, June 24 — Koperasi Angkatan Tentera Malaysia Bhd (Koperasi Tentera) has declared a 7.3 per cent divi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T18:24:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/24/armed-forces-cooperative-declares-73pc-dividend-pays-out-rm1262m-to-members/225032",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-un-watchdog-says-iran-nuclear-inspections-going-to-happen",
+      "category": "world",
+      "headline": "UN watchdog says Iran nuclear inspections ‘going to happen’",
+      "summary": "Key points: The head of the United Nations nuclear watchdog said today that inspections at Iranian atomic sit...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-24T18:17:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/24/un-watchdog-says-iran-nuclear-inspections-going-to-happen/225031",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-south-korea-s-ai-chip-darling-sk-hynix-eyes-record-breaking-us-29b-nasdaq-debut",
+      "category": "markets_investment",
+      "headline": "South Korea’s AI chip darling SK hynix eyes record-breaking US$29b Nasdaq debut",
+      "summary": "Key points: South Korea’s SK hynix, a maker of memory chips for artificial intelligence data centres, s...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-24T18:12:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/24/south-koreas-ai-chip-darling-sk-hynix-eyes-record-breaking-us29b-nasdaq-debut/225030",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-as-traffic-violations-rise-so-must-the-penalties-loke-defends-rm500-fine-hike",
+      "category": "malaysia",
+      "headline": "As traffic violations rise, so must the penalties: Loke defends RM500 fine hike",
+      "summary": "Key points: KUALA LUMPUR, June 23 — Transport Minister Anthony Loke today defended his ministry’s push to raise the pena...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T18:07:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/as-traffic-violations-rise-so-must-the-penalties-loke-defends-rm500-fine-hike/225028",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-we-re-not-that-wealthy-china-s-li-qiang-says-beijing-s-tech-boom-wasn-t-built-on-s",
+      "category": "world",
+      "headline": "‘We’re not that wealthy’: China’s Li Qiang says Beijing’s tech boom wasn’t built on subsidies",
+      "summary": "Key points: China’s Premier Li Qiang defended today his country’s emergence in frontier technol...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-24T18:06:55+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/24/were-not-that-wealthy-chinas-li-qiang-says-beijings-tech-boom-wasnt-built-on-subsidies/225029",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-bursa-malaysia-closes-higher-as-bargain-hunters-return-after-recent-losses",
+      "category": "markets_investment",
+      "headline": "Bursa Malaysia closes higher as bargain hunters return after recent losses",
+      "summary": "Key points: KUALA LUMPUR, June 24 — Bursa Malaysia finished higher on Wednesday as bargain-hunting activities emerged followin...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-24T17:58:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/24/bursa-malaysia-closes-higher-as-bargain-hunters-return-after-recent-losses/225027",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-malaysia-explores-investment-technology-transfer-opportunities-at-wmc-asean-bernam",
+      "category": "malaysia",
+      "headline": "Malaysia Explores Investment, Technology Transfer Opportunities At WMC - ASEAN - BERNAMA",
+      "summary": "Key points: Malaysia Explores Investment, Technology Transfer Opportunities At WMC ASEAN - BERNAMA",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T17:50:11+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UODBrWVhuX0JtbXdpRWxWbmZvMUJPMTdmTm5BTEN2dlgwUmd4Z1lJbnZTY1l4VkxpXzdST3ZCdk12X1owWWU1WkZJTFdzWjNYQnltd29zTkw?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-bears-are-getting-so-bold-that-a-tokyo-suburb-is-arming-schools-with-spray",
+      "category": "world",
+      "headline": "Bears are getting so bold that a Tokyo suburb is arming schools with spray",
+      "summary": "Key points: A Tokyo suburb has announced an emergency spending plan to buy 700 anti-bear sprays for schools a...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-24T17:38:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/24/bears-are-getting-so-bold-that-a-tokyo-suburb-is-arming-schools-with-spray/225026",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-france-announces-first-ebola-case",
+      "category": "world",
+      "headline": "France announces first Ebola case",
+      "summary": "Key points: France today announced its first confirmed case of Ebola identified on its territory, a doctor ba...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-24T17:33:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/24/france-announces-first-ebola-case/225025",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-e-hailing-driver-fined-rm101-750-for-importing-5-500-bottles-of-zam-zam-water",
+      "category": "malaysia",
+      "headline": "E-hailing driver fined RM101,750 for importing 5,500 bottles of zam-zam water",
+      "summary": "Key points: An e-hailing driver was fined RM101,750 by the Magistrate’s Court here today aft...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T17:22:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/e-hailing-driver-fined-rm101750-for-importing-5500-bottles-of-zam-zam-water/225022",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-malaysia-s-rise-in-competitiveness-index-reflects-civil-service-efficiency-says-an",
+      "category": "malaysia",
+      "headline": "Malaysia’s rise in competitiveness index reflects civil service efficiency, says Anwar",
+      "summary": "Key points: ALOR GAJAH, June 24 — Prime Minister Datuk Seri Anwar Ibrahim today praised the efficiency of the count...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T17:20:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/malaysias-rise-in-competitiveness-index-reflects-civil-service-efficiency-says-anwar/225021",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-honda-jazz-driver-sent-to-henry-gurney-school-for-three-years-over-2025-crash-that",
+      "category": "malaysia",
+      "headline": "Honda Jazz driver sent to Henry Gurney School for three years over 2025 crash that killed three teens",
+      "summary": "Key points: KUALA LUMPUR, June 24 — The Magistrates’ Court in Seremban today ordered the Honda Jazz driver who drove dan...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T17:20:06+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/honda-jazz-driver-sent-to-henry-gurney-school-for-three-years-over-2025-crash-that-killed-three-teens/225019",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-klia-drug-crackdown-nets-653kg-of-cannabis-buds-38-arrests-this-year",
+      "category": "malaysia",
+      "headline": "KLIA drug crackdown nets 653kg of cannabis buds, 38 arrests this year",
+      "summary": "Key points: SHAH ALAM, June 24 — Police have seized a total of 653.6 kilogrammes (kg) of cannabis buds at the Kuala...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T17:17:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/klia-drug-crackdown-nets-653kg-of-cannabis-buds-38-arrests-this-year/225020",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-man-pleads-guilty-to-insulting-threatening-posts-targeting-terengganu-royal-family",
+      "category": "malaysia",
+      "headline": "Man pleads guilty to insulting, threatening posts targeting Terengganu royal family",
+      "summary": "Key points: A man pleaded guilty in the Sessions Court here today to five charges of posting insu...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T17:15:39+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/man-pleads-guilty-to-insulting-threatening-posts-targeting-terengganu-royal-family/225018",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-anwar-elections-should-be-between-political-parties-don-t-involve-royalty",
+      "category": "malaysia",
+      "headline": "Anwar: Elections should be between political parties, don’t involve royalty",
+      "summary": "Key points: KUALA LUMPUR, June 24 — Prime Minister Datuk Seri Anwar Ibrahim has called for elections to be treated strictly as...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T17:00:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/anwar-elections-should-be-between-political-parties-dont-involve-royalty/225015",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-in-sarawak-security-guard-jailed-eight-months-fined-rm50-000-for-offensive-faceboo",
+      "category": "malaysia",
+      "headline": "In Sarawak, security guard jailed eight months, fined RM50,000 for offensive Facebook comment against King",
+      "summary": "Key points: KUALA LUMPUR, June 24 — A security guard was sentenced to eight months’ jail and fined RM50,000 by the Sessi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T16:44:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/in-sarawak-security-guard-jailed-eight-months-fined-rm50000-for-offensive-facebook-comment-against-king/225013",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-oman-launches-emergency-strait-of-hormuz-routes-declares-existing-shipping-lanes-u",
+      "category": "world",
+      "headline": "Oman launches emergency Strait of Hormuz routes, declares existing shipping lanes unsafe",
+      "summary": "Key points: Oman said it would keep the Strait of Hormuz open to shipping without imposing any tolls and had d...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-24T16:19:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/24/oman-launches-emergency-strait-of-hormuz-routes-declares-existing-shipping-lanes-unsafe/225007",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-malaysia-se-asia-on-red-alert-for-severe-haze-risk-in-2026-warns-siia-report",
+      "category": "malaysia",
+      "headline": "Malaysia, SE Asia on red alert for severe haze risk in 2026, warns SIIA report",
+      "summary": "Key points: Malaysia, Brunei, Indonesia and Singapore could face severe transboundary haze in the coming...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T16:18:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/malaysia-se-asia-on-red-alert-for-severe-haze-risk-in-2026-warns-siia-report/225008",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-starmer-ally-darren-jones-backs-burnham-to-be-next-uk-pm",
+      "category": "world",
+      "headline": "Starmer ally Darren Jones backs Burnham to be next UK PM",
+      "summary": "Key points: Darren Jones, an ally of outgoing Prime Minister ‌Keir Starmer, endorsed Andy Burnham ​to t...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-24T16:13:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/24/starmer-ally-darren-jones-backs-burnham-to-be-next-uk-pm/225005",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-zara-qairina-inquest-expert-says-copying-handwriting-across-multiple-pages-difficu",
+      "category": "malaysia",
+      "headline": "Zara Qairina inquest: Expert says copying handwriting across multiple pages difficult, court hears",
+      "summary": "Key points: KOTA KINABALU, June 24 — The Coroner’s Court here today was told that copying another person’s handwri...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T16:12:54+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/zara-qairina-inquest-expert-says-copying-handwriting-across-multiple-pages-difficult-court-hears/225006",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-smk-suria-jaya-in-johor-to-open-in-september-after-receiving-partial-occupation-ce",
+      "category": "malaysia",
+      "headline": "SMK Suria Jaya in Johor to open in September after receiving partial occupation certificate, says MOE",
+      "summary": "Key points: BATU PAHAT, June 24 — Sekolah Menengah Kebangsaan (SMK) Suria Jaya here is expected to commence operations in Sept...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T16:07:47+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/smk-suria-jaya-in-johor-to-open-in-september-after-receiving-partial-occupation-certificate-says-moe/225004",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-rm1-7b-npe-2-to-feature-barrier-free-mlff-toll-system-to-ease-klang-valley-congest",
+      "category": "malaysia",
+      "headline": "RM1.7b NPE 2 to feature barrier-free MLFF toll system to ease Klang Valley congestion",
+      "summary": "Key points: KUALA LUMPUR, June 24 — The New Pantai Expressway Extension Project (NPE 2) will use a barrier-free toll collectio...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T16:02:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/rm17b-npe-2-to-feature-barrier-free-mlff-toll-system-to-ease-klang-valley-congestion/225003",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-sara-programme-expanded-to-include-more-local-products-says-finance-minister-ii",
+      "category": "malaysia",
+      "headline": "SARA programme expanded to include more local products, says finance minister II",
+      "summary": "Key points: The government continues to strengthen the implementation of the Sumbangan Asas Rahmah (SARA) p...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T15:57:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/sara-programme-expanded-to-include-more-local-products-says-finance-minister-ii/225002",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-online-scam-losses-surge-to-rm2-97b-in-2025-says-home-ministry-as-fraud-trend-wors",
+      "category": "malaysia",
+      "headline": "Online scam losses surge to RM2.97b in 2025, says Home Ministry as fraud trend worsens across Malaysia",
+      "summary": "Key points: KUALA LUMPUR, June 24 — The value of losses due to online fraud crimes at the national level has jumped drasticall...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T15:53:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/online-scam-losses-surge-to-rm297b-in-2025-says-home-ministry-as-fraud-trend-worsens-across-malaysia/225000",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-stats-dept-domestic-tourism-spending-climbs-15-8pc-to-rm34b-in-q1-2026-amid-festiv",
+      "category": "malaysia",
+      "headline": "Stats Dept: Domestic tourism spending climbs 15.8pc to RM34b in Q1 2026 amid festive travel boost",
+      "summary": "Key points: Domestic tourism expenditure recorded a double-digit growth of 15.8 per cent year-on-year to...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T15:50:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/stats-dept-domestic-tourism-spending-climbs-158pc-to-rm34b-in-q1-2026-amid-festive-travel-boost/224994",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-06-24-blackouts-hit-northern-france-already-sweltering-in-record-european-heatwave",
       "category": "world",
@@ -24,33 +647,33 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-06-24-supergirl-proves-james-gunn-s-dc-universe-is-on-the-right-track-albeit-a-safe-one",
-      "category": "world",
-      "headline": "Supergirl proves James Gunn’s DC Universe is on the right track, albeit a safe one",
-      "summary": "Key points: Supergirl, released in Singapore theatres on Wednesday (Jun 24), is the second and latest film in the new DC Universe franchise by James Gunn and Peter Safran.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-24T15:32:43+08:00",
+      "id": "2026-06-24-aeon-credit-fined-rm520-000-for-onboarding-sanctioned-entity-delay-in-freezing-acc",
+      "category": "malaysia",
+      "headline": "AEON Credit fined RM520,000 for onboarding sanctioned entity, delay in freezing account - The Edge Malaysia",
+      "summary": "Key points: AEON Credit fined RM520,000 for onboarding sanctioned entity, delay in freezing account The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T15:27:43+08:00",
       "source_links": [
         {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/entertainment/supergirl-dc-universe-6206156",
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43RXV4Nkc5dWdHVmJOWmwza0ZFREo3VDFKU1hQU1lVSGVaYldXbEt6RHlKcXU5VXc3Rl9hYUp0WEl5WTdacWxHWVlKY09IeGxq?oc=5",
           "publisher_type": "news"
         },
         {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
           "publisher_type": "social"
         },
         {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
           "publisher_type": "social"
         }
       ],
       "topics": [
         "latest update"
       ],
-      "importance": 4,
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -234,36 +857,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-06-24-colombia-beat-dr-congo-1-0-to-stay-in-world-cup-knockout-hunt-bernama",
-      "category": "world",
-      "headline": "Colombia Beat DR Congo 1-0 To Stay In World Cup Knockout Hunt - Bernama",
-      "summary": "Key points: Colombia Beat DR Congo 1-0 To Stay In World Cup Knockout Hunt Bernama",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-24T13:40:45+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yWkNoRnlDMzEzM0JRYjBhWURBRmJzNk1qUEd6OXVDUngyZ0MxMnVJWThBVHlhcXlfN3FJMEltX2stMVRKa2xJTkdhUURSTjlhNlI2ZEdqTnJiTHZM?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-06-24-national-unity-ministry-unveils-plans-to-transform-malaysia-s-museum-sector",
       "category": "malaysia",
       "headline": "National Unity Ministry unveils plans to transform Malaysia’s museum sector",
@@ -381,36 +974,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-bursa-suspends-short-selling-of-xl-holdings-the-edge-malaysia",
-      "category": "markets_investment",
-      "headline": "Bursa suspends short-selling of XL Holdings - The Edge Malaysia",
-      "summary": "Key points: Bursa suspends short-selling of XL Holdings The Edge Malaysia",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-24T12:36:50+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoSzJ3V3A5b3BqMnlabk0yUHhTUmZwZkswbVBMaFE1eVpwSnc0VEFEbTNPZXlmLXpNNlEzam56WHkzVlUyY2JGVHBLQ1NZdUVD?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -664,569 +1227,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/06/24/puncak-borneo-water-system-has-spare-capacity-to-supply-more-villages-says-sarawak-minister/224943",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-lorry-driver-loses-over-rm80-000-after-fake-job-offer-on-facebook",
-      "category": "malaysia",
-      "headline": "Lorry driver loses over RM80,000 after fake job offer on Facebook",
-      "summary": "Key points: KUALA TERENGGANU, June 24 — A lorry driver lost RM80,580 after falling victim to an online part-time jo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T10:38:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/lorry-driver-loses-over-rm80000-after-fake-job-offer-on-facebook/224942",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-police-arrest-seven-after-roadside-brawl-in-jasin-leaves-two-injured",
-      "category": "malaysia",
-      "headline": "Police arrest seven after roadside brawl in Jasin leaves two injured",
-      "summary": "Key points: Police have detained seven individuals, comprising six men and one woman, to assist in...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T10:35:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/police-arrest-seven-after-roadside-brawl-in-jasin-leaves-two-injured/224941",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-us-congress-votes-to-stop-iran-war-the-white-house-claims-is-already-over",
-      "category": "world",
-      "headline": "US congress votes to stop Iran war the White House claims is already over",
-      "summary": "Key points: The US Senate passed a largely symbolic resolution Tuesday calling for an end to President D...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-24T10:28:33+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/06/24/us-congress-votes-to-stop-iran-war-the-white-house-claims-is-already-over/224940",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-malaysia-poised-to-tap-low-altitude-economy-boom-says-anthony-loke",
-      "category": "malaysia",
-      "headline": "Malaysia poised to tap Low Altitude Economy boom, says Anthony Loke",
-      "summary": "Key points: Malaysia is well-positioned to play an active role in developing a vibrant Low Altitude Econo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T10:25:09+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/malaysia-poised-to-tap-low-altitude-economy-boom-says-anthony-loke/224938",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-airbus-orders-urgent-a380-wing-inspections-after-cracks-found",
-      "category": "markets_investment",
-      "headline": "Airbus orders urgent A380 wing inspections after cracks found",
-      "summary": "Key points: Airbus on Tuesday said it would inspect 16 A380 planes, five of them immediately, after cracks...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-24T10:23:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/24/airbus-orders-urgent-a380-wing-inspections-after-cracks-found/224939",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-lazada-layoffs-e-commerce-firm-to-cut-5pc-of-southeast-asian-workforce",
-      "category": "markets_investment",
-      "headline": "Lazada layoffs: E-commerce firm to cut 5pc of Southeast Asian workforce",
-      "summary": "Key points: Regional e-commerce heavyweight Lazada will retrench 5 per cent of its Southeast Asian workfo...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-24T10:09:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/24/lazada-layoffs-e-commerce-firm-to-cut-5pc-of-southeast-asian-workforce/224934",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-lim-guan-eng-wife-to-stand-trial-over-rm11-6m-penang-project-linked-graft-case",
-      "category": "malaysia",
-      "headline": "Lim Guan Eng, wife to stand trial over RM11.6m Penang project-linked graft case",
-      "summary": "Key points: KUALA LUMPUR, June 24 — DAP adviser Lim Guan Eng, his wife Betty Chew and businesswoman Phang Li Koon will stand t...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T10:09:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/lim-guan-eng-wife-to-stand-trial-over-rm116m-penang-project-linked-graft-case/224932",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-some-things-you-should-know-about-malaysia-s-proposed-new-traffic-law-including-mi",
-      "category": "malaysia",
-      "headline": "Some things you should know about Malaysia’s proposed new traffic law, including minimum RM500 speeding fine",
-      "summary": "Key points: KUALA LUMPUR, June 24 — The Malaysian government is proposing new changes to the law that will increase the minimu...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T10:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/some-things-you-should-know-about-malaysias-proposed-new-traffic-law-including-minimum-rm500-speeding-fine/224919",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-food-court-prices-under-watch-as-selangor-directs-local-councils-to-step-up-checks",
-      "category": "malaysia",
-      "headline": "Food court prices under watch as Selangor directs local councils to step up checks",
-      "summary": "Key points: KUALA LUMPUR, June 24 — The Selangor government will direct all local councils to monitor food court pricing to en...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T09:57:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/food-court-prices-under-watch-as-selangor-directs-local-councils-to-step-up-checks/224931",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-metmalaysia-issues-thunderstorm-warning-for-perlis-northern-kedah-and-penang-until",
-      "category": "malaysia",
-      "headline": "MetMalaysia issues thunderstorm warning for Perlis, northern Kedah and Penang until noon today",
-      "summary": "Key points: KUALA LUMPUR, June 24 — The Malaysian Meteorological Department (MetMalaysia) has issued a thunderstorm warning fo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T09:50:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/metmalaysia-issues-thunderstorm-warning-for-perlis-northern-kedah-and-penang-until-noon-today/224929",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-zahid-no-directive-issued-to-restrict-johor-mb-s-felda-access",
-      "category": "malaysia",
-      "headline": "Zahid: No directive issued to restrict Johor MB’s Felda access",
-      "summary": "Key points: KUALA LUMPUR, June 24 — Deputy Prime Minister Datuk Seri Ahmad Zahid Hamidi has denied claims that he issued any d...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T09:45:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/zahid-no-directive-issued-to-restrict-johor-mbs-felda-access/224928",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-miti-malaysia-open-to-strategic-uae-cooperation-in-petroleum-gas-and-high-value-se",
-      "category": "malaysia",
-      "headline": "Miti: Malaysia open to strategic UAE cooperation in petroleum, gas and high-value sectors",
-      "summary": "Key points: KUALA LUMPUR, June 24 — Malaysia is always open to strengthening strategic cooperation with the United Arab...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T09:34:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/miti-malaysia-open-to-strategic-uae-cooperation-in-petroleum-gas-and-high-value-sectors/224926",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "gas",
-        "rate"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-police-kpdn-seize-over-5-000-litres-of-diesel-in-miri-raid-two-arrested",
-      "category": "world",
-      "headline": "Police, KPDN seize over 5,000 litres of diesel in Miri raid, two arrested",
-      "summary": "Key points: Police and the Ministry of Domestic Trade and Cost of Living (KPDN) raided an indus...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-24T09:27:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/police-kpdn-seize-over-5000-litres-of-diesel-in-miri-raid-two-arrested/224924",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-anwar-makes-second-johor-visit-in-three-days-as-state-election-campaign-heats-up",
-      "category": "malaysia",
-      "headline": "Anwar makes second Johor visit in three days as state election campaign heats up",
-      "summary": "Key points: JOHOR BAHRU, June 24 — Prime Minister Datuk Seri Anwar Ibrahim returns to Johor today and is scheduled...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T09:23:19+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/anwar-makes-second-johor-visit-in-three-days-as-state-election-campaign-heats-up/224923",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-reprieve-for-indonesia-as-msci-delays-emerging-markets-downgrade-decision-to-novem",
-      "category": "markets_investment",
-      "headline": "Reprieve for Indonesia as MSCI delays emerging markets downgrade decision to November",
-      "summary": "Key points: SINGAPORE, ​June 24 — Indonesia held on to its emerging markets status, for now, as global index provider MSCI on...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-24T09:23:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/24/reprieve-for-indonesia-as-msci-delays-emerging-markets-downgrade-decision-to-november/224921",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-ringgit-trading-range-bound-at-4-1450-before-critical-us-inflation-report",
-      "category": "markets_investment",
-      "headline": "Ringgit trading range-bound at 4.1450 before critical US inflation report",
-      "summary": "Key points: KUALA LUMPUR, June 24 — The ringgit opened easier against the US dollar this morning and is expected to remain ran...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-24T09:16:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/24/ringgit-trading-range-bound-at-41450-before-critical-us-inflation-report/224915",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-police-probe-suspected-bullying-case-involving-10-year-old-girl-in-tenom-school-do",
-      "category": "malaysia",
-      "headline": "Police probe suspected bullying case involving 10-year-old girl in Tenom school dorm",
-      "summary": "Key points: Police are investigating a suspected bullying case involving a 10-year-old girl in a s...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T09:12:19+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/police-probe-suspected-bullying-case-involving-10-year-old-girl-in-tenom-school-dorm/224918",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-police-probe-alleged-abuse-of-two-residents-at-sungai-petani-elderly-care-centre",
-      "category": "malaysia",
-      "headline": "Police probe alleged abuse of two residents at Sungai Petani elderly care centre",
-      "summary": "Key points: SUNGAI PETANI, June 24 — Police have opened two investigation papers into allegations that two residents wer...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T09:07:57+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/police-probe-alleged-abuse-of-two-residents-at-sungai-petani-elderly-care-centre/224917",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-police-tracking-hilux-viva-drivers-over-viral-reckless-driving-video-on-nse",
-      "category": "malaysia",
-      "headline": "Police tracking Hilux, Viva drivers over viral reckless driving video on NSE",
-      "summary": "Key points: NIBONG TEBAL, June 24 — Police are tracking down the drivers of two vehicles allegedly involved in reck...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T09:05:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/police-tracking-hilux-viva-drivers-over-viral-reckless-driving-video-on-nse/224914",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-ac-sales-skyrocket-in-france-and-italy-as-unprecedented-41c-heatwave-cooks-europe",
-      "category": "world",
-      "headline": "AC sales skyrocket in France and Italy as ‘unprecedented’ 41C heatwave cooks Europe",
-      "summary": "Key points: Europe braced Wednesday for another day of an unprecedented heatwave that has smashed records in...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-24T09:03:05+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/06/24/ac-sales-skyrocket-in-france-and-italy-as-unprecedented-41c-heatwave-cooks-europe/224911",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-early-intervention-for-sick-housing-projects-as-housing-and-local-government-minis",
-      "category": "malaysia",
-      "headline": "Early intervention for sick housing projects as Housing and Local Government Ministry moves to curb rising construction costs",
-      "summary": "Key points: KUALA LUMPUR, June 24 — The Housing and Local Government Ministry (KPKT) will carry out early intervention on any...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T09:01:52+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/early-intervention-for-sick-housing-projects-as-housing-and-local-government-ministry-moves-to-curb-rising-construction-costs/224913",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-24-zambry-hails-strong-tvet-demand-as-polytechnic-enrolment-tops-30-000",
-      "category": "malaysia",
-      "headline": "Zambry hails strong TVET demand as polytechnic enrolment tops 30,000",
-      "summary": "Key points: A total of 30,488 new students have registered at polytechnics nationwide for Sess...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T08:59:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/zambry-hails-strong-tvet-demand-as-polytechnic-enrolment-tops-30000/224912",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-marco-rubio-us-rejects-iranian-tolls-and-fees-in-strait-of-hormuz",
-      "category": "world",
-      "headline": "Marco Rubio: US rejects Iranian tolls and fees in Strait of Hormuz",
-      "summary": "Key points: US Secretary of State Marco Rubio said Tuesday that Washington would not accept Iranian tolls or...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-24T08:57:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/06/24/marco-rubio-us-rejects-iranian-tolls-and-fees-in-strait-of-hormuz/224908",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-miti-says-foreign-investors-prioritise-economic-fundamentals-over-ge16-speculation",
-      "category": "malaysia",
-      "headline": "MITI says foreign investors prioritise economic fundamentals over GE16 speculation",
-      "summary": "Key points: KUALA LUMPUR, June 24 — Speculations on politics and the potential 16th General Election (GE16) are not...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T08:57:36+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/miti-says-foreign-investors-prioritise-economic-fundamentals-over-ge16-speculation/224910",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-cash-boost-for-paddy-farmers-7-387-in-selangor-to-receive-rm500-per-hectare-fisher",
-      "category": "malaysia",
-      "headline": "Cash boost for paddy farmers: 7,387 in Selangor to receive RM500 per hectare, fishermen get fuel aid",
-      "summary": "Key points: SHAH ALAM, June 24 — A total of 7,387 paddy farmers in Selangor will receive RM500 in cash assistance for every he...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T08:55:28+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/cash-boost-for-paddy-farmers-7387-in-selangor-to-receive-rm500-per-hectare/224909",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-annuar-musa-perikatan-completes-over-half-of-johor-seat-talks-announcement-possibl",
-      "category": "malaysia",
-      "headline": "Annuar Musa: Perikatan completes over half of Johor seat talks, announcement possible this week",
-      "summary": "Key points: KUALA LUMPUR, June 24 — Perikatan Nasional (PN) has completed more than half of the seat-sharing negotiation...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T08:52:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/annuar-musa-perikatan-completes-over-half-of-johor-seat-talks-announcement-possible-this-week/224907",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-anwar-federal-state-leaders-discuss-economy-water-security-and-food-supply-amid-gl",
-      "category": "malaysia",
-      "headline": "Anwar: Federal, state leaders discuss economy, water security and food supply amid global uncertainty",
-      "summary": "Key points: KUALA LUMPUR, June 24 — The 149th Meeting of Menteris Besar and Chief Ministers, chaired by Prime Minister D...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T08:49:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/anwar-federal-state-leaders-discuss-economy-water-security-and-food-supply-amid-global-uncertainty/224906",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-foreign-student-found-dead-in-bandar-sunway-condominium-man-arrested",
-      "category": "malaysia",
-      "headline": "Foreign student found dead in Bandar Sunway condominium, man arrested",
-      "summary": "Key points: KUALA LUMPUR, June 24 — A foreign woman was found dead with several injuries on her body at a condominium in...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T08:45:31+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/foreign-student-found-dead-in-bandar-sunway-condominium-man-arrested/224905",
           "publisher_type": "news"
         }
       ],
