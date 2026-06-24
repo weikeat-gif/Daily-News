@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-24T21:21:16+08:00",
+  "generated_at": "2026-06-25T00:20:50+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-06-24-iran-says-deal-to-end-mideast-war-declaration-of-us-defeat",
+      "id": "2026-06-25-france-detects-first-ebola-case-outside-africa-in-current-outbreak",
       "category": "world",
-      "headline": "Iran says deal to end Mideast war 'declaration of US defeat'",
-      "summary": "Key points: CNA Latest reports that Iran says deal to end Mideast war 'declaration of US defeat'.",
+      "headline": "France detects first Ebola case outside Africa in current outbreak",
+      "summary": "Key points: A doctor returning to France from the Democratic Republic of Congo, where a major Ebola outbreak is ongoing, has tested positive for the virus despite showing only mild headaches.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-24T21:17:17+08:00",
+      "published_at": "2026-06-25T00:04:13+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/iran-war-deal-declaration-us-defeat-6207181",
+          "url": "https://www.channelnewsasia.com/world/ebola-outbreak-france-drc-first-case-outside-africa-6207491",
           "publisher_type": "news"
         },
         {
@@ -514,6 +514,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-24-malaysia-explores-investment-technology-transfer-opportunities-at-wmc-asean-bernam",
+      "category": "malaysia",
+      "headline": "Malaysia Explores Investment, Technology Transfer Opportunities At WMC - ASEAN - BERNAMA",
+      "summary": "Key points: Malaysia Explores Investment, Technology Transfer Opportunities At WMC ASEAN - BERNAMA",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-24T17:50:11+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UODBrWVhuX0JtbXdpRWxWbmZvMUJPMTdmTm5BTEN2dlgwUmd4Z1lJbnZTY1l4VkxpXzdST3ZCdk12X1owWWU1WkZJTFdzWjNYQnltd29zTkw?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1197,26 +1227,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/06/24/personal-dispute-financial-issues-believed-to-be-motive-in-bandar-sunway-private-college-student-murder-says-selangor-top-cop/224969",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-24-kedah-exco-to-face-court-over-higher-education-access-issue-linked-to-backdoor-adm",
-      "category": "malaysia",
-      "headline": "Kedah exco to face court over higher education access issue linked to ‘backdoor’ admissions claims",
-      "summary": "Key points: KUALA LUMPUR, June 24 — Kedah Higher Education Exco Haim Hilman Abdullah is set to face charges at the Seremban Ma...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-24T12:48:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/24/kedah-exco-to-face-court-over-higher-education-access-issue-linked-to-backdoor-admissions-claims/224967",
           "publisher_type": "news"
         }
       ],
