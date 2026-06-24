@@ -1,49 +1,19 @@
 {
-  "generated_at": "2026-06-25T04:47:34+08:00",
+  "generated_at": "2026-06-25T06:16:00+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-06-25-anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities",
-      "category": "world",
-      "headline": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "summary": "Key points: CNA Latest reports that Anthropic says Alibaba illicitly extracted Claude AI model capabilities.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-25T04:30:48+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-6207956",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-06-25-fifa-world-cup-2026-platform-to-strengthen-cooperation-and-friendship-mexico-ambas",
       "category": "world",
-      "headline": "FIFA World Cup 2026 Platform To Strengthen Cooperation And Friendship -- Mexico Ambassador - Bernama",
-      "summary": "Key points: FIFA World Cup 2026 Platform To Strengthen Cooperation And Friendship -- Mexico Ambassador Bernama",
+      "headline": "FIFA World Cup 2026 Platform To Strengthen Cooperation And Friendship -- Mexico Ambassador - bernama",
+      "summary": "Key points: FIFA World Cup 2026 Platform To Strengthen Cooperation And Friendship -- Mexico Ambassador bernama",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-25T01:33:53+08:00",
+      "published_at": "2026-06-25T06:09:48+08:00",
       "source_links": [
         {
           "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nb0V1VVdVeWZ4c0hXYnlkT01KVHBoX3NweTF4Mk1XcFN4ZmQyTnZMMVBEdGYzR3lKV3dQQUdId0p4S3VhU2Q1WkUwekE5dTVoOXUwWVdaYWxPeUJJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MUENsMHdGQmlDNlpyMUJrQjF5Q0F6b0JDVWpkcXhGSmZhdWhmZDBoRHdJZ1ptVm9scEE3by1Zc0w3LU1YY1l3X2RYLWdxblNTRmdaVzhaekxtMzMteDRyUjJn?oc=5",
           "publisher_type": "news"
         },
         {
@@ -54,6 +24,36 @@
         {
           "name": "Facebook BERNAMA",
           "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-25-bang-olufsen-s-newly-refurbished-singapore-flagship-is-rethinking-how-luxury-audio",
+      "category": "world",
+      "headline": "Bang & Olufsen’s newly refurbished Singapore flagship is rethinking how luxury audio is sold",
+      "summary": "Key points: At its largest Culture Store in Asia Pacific, the century-old Danish brand is betting that experience, craftsmanship and longevity matter more than technical specifications.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-25T06:06:01+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/obsessions/bang-olufsen-singapore-flagship-culture-store-6199251",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
         }
       ],
