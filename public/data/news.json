@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-26T06:20:34+08:00",
+  "generated_at": "2026-06-26T08:07:20+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-06-26-netherlands-defender-ake-replaces-van-de-ven-against-tunisia",
-      "category": "world",
-      "headline": "Netherlands defender Ake replaces Van de Ven against Tunisia",
-      "summary": "Key points: CNA Latest reports that Netherlands defender Ake replaces Van de Ven against Tunisia.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-26T06:13:00+08:00",
+      "id": "2026-06-26-core-inflation-in-tokyo-stays-below-boj-target-for-fifth-month",
+      "category": "markets_investment",
+      "headline": "Core inflation in Tokyo stays below BOJ target for fifth month",
+      "summary": "Key points: CNA Latest reports that Core inflation in Tokyo stays below BOJ target for fifth month.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-26T07:42:03+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/netherlands-defender-ake-replaces-van-de-ven-against-tunisia-6211421",
+          "url": "https://www.channelnewsasia.com/business/core-inflation-in-tokyo-stays-below-boj-target-fifth-month-6211576",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,46 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-26-the-ghost-of-2022-will-voter-apathy-again-haunt-johor-s-july-11-election",
+      "category": "malaysia",
+      "headline": "The ghost of 2022: Will voter apathy again haunt Johor’s July 11 election?",
+      "summary": "Key points: KUALA LUMPUR, June 26 — As Johor prepares to head to the polls on July 11, political parties are bracing for a cha...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-26T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/26/the-ghost-of-2022-will-voter-apathy-again-haunt-johors-july-11-election/224232",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-26-inside-auroville-india-s-experimental-city-caught-between-utopian-ideals-and-state",
+      "category": "world",
+      "headline": "Inside Auroville: India’s experimental city caught between utopian ideals and state power under Modi",
+      "summary": "Key points: It was founded as a Sixties utopia \"where men and women of all countries are able to liv...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-26T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/26/inside-auroville-indias-experimental-city-caught-between-utopian-ideals-and-state-power-under-modi/225123",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1196,46 +1236,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-25-at-least-32-dead-hundreds-injured-after-devastating-twin-earthquakes-rock-venezuel",
-      "category": "world",
-      "headline": "At least 32 dead, hundreds injured after devastating twin earthquakes rock Venezuela",
-      "summary": "Key points: Two powerful earthquakes struck Venezuela on Wednesday, killing at least 32 people and injuring...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-25T13:25:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/06/25/at-least-32-dead-hundreds-injured-after-devastating-twin-earthquakes-rock-venezuela/225114",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-25-malaysia-acquires-french-caesar-artillery-systems-eyes-homegrown-weapons-for-anka-",
-      "category": "malaysia",
-      "headline": "Malaysia acquires French CAESAR artillery systems, eyes homegrown weapons for ANKA-S fleet, says Khaled",
-      "summary": "Key points: KUALA LUMPUR, June 25 — Malaysia has formally procured CAESAR 155mm self-propelled howitzers (SPH) from Fran...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-25T13:16:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/25/malaysia-acquires-french-caesar-artillery-systems-eyes-homegrown-weapons-for-anka-s-fleet-says-khaled/225112",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
