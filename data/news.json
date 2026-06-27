@@ -1,19 +1,59 @@
 {
-  "generated_at": "2026-06-28T05:01:33+08:00",
+  "generated_at": "2026-06-28T07:00:44+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-06-28-new-zealand-s-early-world-cup-exit-puts-oceania-free-pass-in-spotlight",
+      "id": "2026-06-28-explainer-what-is-an-omega-block-the-weather-pattern-fuelling-europe-s-deadly-heat",
       "category": "world",
-      "headline": "New Zealand's early World Cup exit puts Oceania free pass in spotlight",
-      "summary": "Key points: CNA Latest reports that New Zealand's early World Cup exit puts Oceania free pass in spotlight.",
+      "headline": "Explainer: What is an omega block, the weather pattern fuelling Europe’s deadly heatwave?",
+      "summary": "Key points: The intense heatwave engulfing Western Europe, resulting in more than 50 deaths in France...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-28T04:25:43+08:00",
+      "published_at": "2026-06-28T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/28/explainer-what-is-an-omega-block-the-weather-pattern-fuelling-europes-deadly-heatwave/225439",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-28-times-square-becomes-global-world-cup-meeting-point-as-fans-bring-football-fever-t",
+      "category": "world",
+      "headline": "Times Square becomes global World Cup meeting point as fans bring football fever to New York",
+      "summary": "Key points: NEW YORK, June 28 — Surrounded by dozens of dazzling screens and crowds of tourists, World Cup fans have turn...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-28T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/28/times-square-becomes-global-world-cup-meeting-point-as-fans-bring-football-fever-to-new-york/225409",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-28-egypt-sweat-on-salah-fitness-after-hamstring-strain",
+      "category": "world",
+      "headline": "Egypt sweat on Salah fitness after hamstring strain",
+      "summary": "Key points: CNA Latest reports that Egypt sweat on Salah fitness after hamstring strain.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-28T06:48:08+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/new-zealands-early-world-cup-exit-puts-oceania-free-pass-in-spotlight-6215576",
+          "url": "https://www.channelnewsasia.com/sport/egypt-sweat-salah-fitness-after-hamstring-strain-6215686",
           "publisher_type": "news"
         },
         {
@@ -1170,46 +1210,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/06/27/two-burnt-to-death-one-survives-after-car-skids-and-burns-at-duke-exit-near-jalan-kuching/225376",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-27-mohamad-sabu-leads-pakatan-supporters-as-sharon-teo-enters-permas-nomination-race",
-      "category": "malaysia",
-      "headline": "Mohamad Sabu leads Pakatan supporters as Sharon Teo enters Permas nomination race",
-      "summary": "Key points: PASIR GUDANG, June 27 — Chants of “Johor undi Pakatan Harapan” (Johor votes for Pakatan Har...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-27T09:42:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/27/mohamad-sabu-leads-pakatan-supporters-as-sharon-teo-enters-permas-nomination-race/225379",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-27-budi-diesel-expanded-to-cover-company-owned-pick-ups-and-jeeps-as-subsidy-system-g",
-      "category": "malaysia",
-      "headline": "Budi Diesel expanded to cover company-owned pick-ups and jeeps as subsidy system gets tweaks",
-      "summary": "Key points: KUALA LUMPUR, June 27 — The Madani Government has announced three enhancements to the implementati...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-27T09:33:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/27/budi-diesel-expanded-to-cover-company-owned-pick-ups-and-jeeps-as-subsidy-system-gets-tweaks/225375",
           "publisher_type": "news"
         }
       ],
