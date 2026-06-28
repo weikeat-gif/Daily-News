@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-06-29T00:08:58+08:00",
+  "generated_at": "2026-06-29T02:03:59+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-06-29-thirty-three-people-rescued-thousands-still-missing-after-venezuela-quakes",
+      "category": "world",
+      "headline": "Thirty-three people rescued, thousands still missing after Venezuela quakes",
+      "summary": "Key points: The US Geological Survey estimated more than 10,000 deaths were possible from the magnitude 7.2 and 7.5 quakes, which would place them among Latin America's deadliest of the last century.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-29T01:59:58+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/thirty-three-people-rescued-thousands-still-missing-after-venezuela-quakes-6216531",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-06-28-colours-of-malaysia-a-platform-to-showcase-malaysia-s-identity-to-foreign-tourists",
       "category": "malaysia",
@@ -31,36 +61,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-28-raducanu-plans-wimbledon-start-despite-leg-injury-concerns",
-      "category": "world",
-      "headline": "Raducanu plans Wimbledon start despite leg injury concerns",
-      "summary": "Key points: CNA Latest reports that Raducanu plans Wimbledon start despite leg injury concerns.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-28T23:53:44+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/raducanu-plans-wimbledon-start-despite-leg-injury-concerns-6216556",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
