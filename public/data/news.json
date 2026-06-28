@@ -1,19 +1,49 @@
 {
-  "generated_at": "2026-06-28T22:47:20+08:00",
+  "generated_at": "2026-06-29T00:08:58+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-06-28-england-test-captain-stokes-to-retire-from-international-cricket",
+      "id": "2026-06-28-colours-of-malaysia-a-platform-to-showcase-malaysia-s-identity-to-foreign-tourists",
+      "category": "malaysia",
+      "headline": "Colours Of Malaysia A Platform To Showcase Malaysia's Identity To Foreign Tourists - Bernama",
+      "summary": "Key points: Colours Of Malaysia A Platform To Showcase Malaysia's Identity To Foreign Tourists Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-28T23:54:04+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMZkNPRl83bHlBUWZWOHl5dl9taGMxQ2g5MlRnb2pyYllUSzV2aTJObUhlYUt0TnhUSzBSMWFYcGpxemZfLWt2WVlvemZYSFlrQ3hNTlBHcERiS3VodnB0RGhRV2M?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-28-raducanu-plans-wimbledon-start-despite-leg-injury-concerns",
       "category": "world",
-      "headline": "England test captain Stokes to retire from international cricket",
-      "summary": "Key points: CNA Latest reports that England test captain Stokes to retire from international cricket.",
+      "headline": "Raducanu plans Wimbledon start despite leg injury concerns",
+      "summary": "Key points: CNA Latest reports that Raducanu plans Wimbledon start despite leg injury concerns.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-28T22:34:37+08:00",
+      "published_at": "2026-06-28T23:53:44+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/england-test-captain-stokes-retire-international-cricket-6216476",
+          "url": "https://www.channelnewsasia.com/sport/raducanu-plans-wimbledon-start-despite-leg-injury-concerns-6216556",
           "publisher_type": "news"
         },
         {
@@ -654,36 +684,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-28-all-32-teams-confirmed-for-world-cup-knockout-stage-bernama",
-      "category": "world",
-      "headline": "All 32 Teams Confirmed For World Cup Knockout Stage - Bernama",
-      "summary": "Key points: All 32 Teams Confirmed For World Cup Knockout Stage Bernama",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-28T13:01:26+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EM0pkdE5RUllTai02Y1RtaGYzRFNGWlVfSFhwX0syRFdVRWRKTmdKa2dqajcwTDNONmNpeVl6Vzk3N192S20yVS1BaWwwNUwtNWN6NmlNWk0zSUp5?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
