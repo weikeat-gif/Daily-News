@@ -1,19 +1,59 @@
 {
-  "generated_at": "2026-06-30T08:04:16+08:00",
+  "generated_at": "2026-06-30T13:01:50+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-06-30-how-a-bangkok-fashion-label-went-from-self-taught-knitting-to-an-iu-music-video-an",
+      "id": "2026-06-30-syed-saddiq-to-skip-johor-election-campaign-after-federal-court-ruling-postponed",
+      "category": "malaysia",
+      "headline": "Syed Saddiq to skip Johor election campaign after Federal Court ruling postponed",
+      "summary": "Key points: KUALA LUMPUR, June 30 — Muar MP Syed Saddiq Syed Abdul Rahman will sit out the Johor election campaign as the Fede...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T13:00:05+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/syed-saddiq-to-skip-johor-election-campaign-after-federal-court-ruling-postponed/225760",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-no-need-to-rush-to-replace-passports-says-immigration-d-g-as-new-rollout-begins-ju",
+      "category": "malaysia",
+      "headline": "No need to rush to replace passports, says Immigration D-G as new rollout begins July 1",
+      "summary": "Key points: KUALA LUMPUR, June 30 — Malaysians are urged not to rush to replace their existing passports as the rollout of the...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T12:58:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/no-need-to-rush-to-replace-passports-says-immigration-d-g-as-new-rollout-begins-july-1/225763",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-china-bets-on-ai-for-smarter-more-resilient-supply-chains",
       "category": "world",
-      "headline": "How a Bangkok fashion label went from self-taught knitting to an IU music video and an LVMH Prize nod",
-      "summary": "Key points: Nong Rak’s founders first taught themselves to knit during the pandemic. Since then, their brand has collaborated with a Marc Jacobs sub-label and featured in K-pop star IU’s music video.",
+      "headline": "China bets on AI for smarter, more resilient supply chains",
+      "summary": "Key points: At the recent China International Supply Chain Expo, companies showcased how artificial intelligence is helping manufacturers and logistics firms adapt to geopolitical uncertainty and changing global trade.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-30T07:58:21+08:00",
+      "published_at": "2026-06-30T12:56:08+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/style-beauty/nong-rak-bangkok-knitwear-6186871",
+          "url": "https://www.channelnewsasia.com/east-asia/china-supply-chain-expo-artificial-intelligence-6220511",
           "publisher_type": "news"
         },
         {
@@ -25,6 +65,782 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-dr-kjey-dedicates-third-world-record-to-late-father-bernama",
+      "category": "world",
+      "headline": "Dr Kjey Dedicates Third World Record To Late Father - Bernama",
+      "summary": "Key points: Dr Kjey Dedicates Third World Record To Late Father Bernama",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-30T12:52:30+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KZ2oycUVXODBFWDVtZ1Jna3VZX3Q3N2dQVVVEN1J4dmZpaFM0X2pNeGVwM2ljWDVuUnpEWnlRdE5lckFGZHA5d2ppbXotampyd2VieVpLZE9pdw?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-new-york-style-in-johor-puteri-wangsa-hopeful-maszlee-pivots-to-pixels-to-win-over",
+      "category": "malaysia",
+      "headline": "New York style in Johor: Puteri Wangsa hopeful Maszlee pivots to pixels to win over Gen Z voters",
+      "summary": "Key points: JOHOR BAHRU, June 30 — Pakatan Harapan (PH) candidate for the Puteri Wangsa seat, Dr Maszlee Malik, plans to intro...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T12:37:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/new-york-style-in-johor-puteri-wangsa-hopeful-maszlee-pivots-to-pixels-to-win-over-gen-z-voters/225753",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-over-45-000-arrested-in-online-scam-crackdown-since-2023-says-home-minister",
+      "category": "malaysia",
+      "headline": "Over 45,000 arrested in online scam crackdown since 2023, says home minister",
+      "summary": "Key points: KUALA LUMPUR, June 30 — Police have opened 165,501 investigation papers into online scam cases since 2023, with te...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T12:31:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/over-45000-arrested-in-online-scam-crackdown-since-2023-says-home-minister/225756",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-pakatan-candidate-for-kukup-cheah-chee-hong-banks-on-js-sez-to-lift-local-economy",
+      "category": "malaysia",
+      "headline": "Pakatan candidate for Kukup Cheah Chee Hong banks on JS-SEZ to lift local economy",
+      "summary": "Key points: Drawing on his experience as an entrepreneur, Pakatan Harapan (PH) candidate for the Kukup seat...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T12:16:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/pakatan-candidate-for-kukup-cheah-chee-hong-banks-on-js-sez-to-lift-local-economy/225752",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-with-gunung-pulai-at-its-doorstep-incumbent-arthur-chiong-eyes-infrastructure-push",
+      "category": "malaysia",
+      "headline": "With Gunung Pulai at its doorstep, incumbent Arthur Chiong eyes infrastructure push and tourism boost for Bukit Batu",
+      "summary": "Key points: Incumbent Bukit Batu Assemblyman Arthur Chiong Sen Sern is committed to continuing infrastructure...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T11:33:31+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/with-gunung-pulai-at-its-doorstep-incumbent-arthur-chiong-eyes-infrastructure-push-and-tourism-boost-for-bukit-batu/225751",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-anwar-defends-kpkt-johor-project-announcement-says-no-breach-of-election-law-over-",
+      "category": "malaysia",
+      "headline": "Anwar defends KPKT Johor project announcement, says no breach of election law over Budget 2026 allocation",
+      "summary": "Key points: KUALA LUMPUR, June 30 — Prime Minister Datuk Seri Anwar Ibrahim today defended the Housing and Local Government Mi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T11:23:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/anwar-defends-kpkt-johor-project-announcement-says-no-breach-of-election-law-over-budget-2026-allocation/225755",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "kuala lumpur",
+        "anwar",
+        "johor",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-pakatan-s-simpang-jeram-hopeful-banks-on-tvet-training-to-anchor-young-workers",
+      "category": "malaysia",
+      "headline": "Pakatan’s Simpang Jeram hopeful banks on TVET training to anchor young workers",
+      "summary": "Key points: Pakatan Harapan (PH) candidate for the Simpang Jeram seat Nazri Abd Rahman is determined to empowe...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T11:20:35+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/pakatans-simpang-jeram-hopeful-banks-on-tvet-training-to-anchor-young-workers/225750",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-anwar-selangor-and-penang-aside-all-states-receive-higher-development-funds-than-t",
+      "category": "malaysia",
+      "headline": "Anwar: Selangor and Penang aside, all states receive higher development funds than they give in tax",
+      "summary": "Key points: KUALA LUMPUR, June 30 — Datuk Seri Anwar told Parliament today that all states except Selangor and Penang receive...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T11:11:35+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/anwar-selangor-and-penang-aside-all-states-receive-higher-development-funds-than-they-give-in-tax/225754",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "kuala lumpur",
+        "anwar",
+        "selangor",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-paris-morgues-strained-after-deadly-heatwave-claims-around-1-000-lives",
+      "category": "world",
+      "headline": "Paris morgues strained after deadly heatwave claims around 1,000 lives",
+      "summary": "Key points: France yesterday counted its heat-related deaths, as a funeral business representative said Paris...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-30T10:47:06+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/30/paris-morgues-strained-after-deadly-heatwave-claims-around-1000-lives/225749",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-tokyo-vows-appropriate-action-as-yen-tumbles-to-weakest-level-since-1986",
+      "category": "markets_investment",
+      "headline": "Tokyo vows ‘appropriate action’ as yen tumbles to weakest level since 1986",
+      "summary": "Key points: Japan’s finance minister said today that authorities were ready to take “appropriate...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-30T10:38:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/30/tokyo-vows-appropriate-action-as-yen-tumbles-to-weakest-level-since-1986/225747",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-us-military-reopens-battered-venezuelan-port-to-speed-quake-relief-mass-burials-be",
+      "category": "world",
+      "headline": "US military reopens battered Venezuelan port to speed quake relief, mass burials begin",
+      "summary": "Key points: LA GUAIRA, June 30 — The United States military repaired and reopened a key seaport in the hardest hit area of Ven...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-30T10:34:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/30/us-military-reopens-battered-venezuelan-port-to-speed-quake-relief-mass-burials-begin/225746",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-malaysia-drafting-new-national-guidelines-for-non-muslim-cemeteries-crematoria-and",
+      "category": "malaysia",
+      "headline": "Malaysia drafting new national guidelines for non-Muslim cemeteries, crematoria and columbarium planning",
+      "summary": "Key points: KUALA LUMPUR, June 30 — Malaysia is preparing to roll out a national planning guideline for non-Muslim cemeteries,...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T10:14:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/malaysia-drafting-new-national-guidelines-for-non-muslim-cemeteries-crematoria-and-columbarium-planning/225743",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-trump-says-iran-requested-doha-meeting-today-despite-tehran-s-denial",
+      "category": "world",
+      "headline": "Trump says Iran requested Doha meeting today despite Tehran’s denial",
+      "summary": "Key points: US President Donald Trump said Iran has requested a meeting that will be held today in Qatar, de...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-30T10:08:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/30/trump-says-iran-requested-doha-meeting-today-despite-tehrans-denial/225742",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-in-dewan-rakyat-today-state-allocation-distribution-project-announcement-ban-among",
+      "category": "malaysia",
+      "headline": "In Dewan Rakyat today: State allocation distribution, project announcement ban among key issues",
+      "summary": "Key points: KUALA LUMPUR, June 30 — The fairness of Federal Government allocations to state governments and the status of the...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T10:06:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/in-dewan-rakyat-today-state-allocation-distribution-project-announcement-ban-among-key-issues/225741",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-fourth-time-lucky-as-peruvian-political-heir-keiko-fujimori-wins-presidency-after-",
+      "category": "world",
+      "headline": "Fourth time lucky as Peruvian political heir Keiko Fujimori wins presidency after razor-thin election victory",
+      "summary": "Key points: Peru’s conservative president-elect Keiko Fujimori vowed yesterday to restore “order a...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-30T10:03:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/30/fourth-time-lucky-as-peruvian-political-heir-keiko-fujimori-wins-presidency-after-razor-thin-election-victory/225740",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-bursa-opens-slightly-higher-as-wall-street-gains-lift-sentiment",
+      "category": "markets_investment",
+      "headline": "Bursa opens slightly higher as Wall Street gains lift sentiment",
+      "summary": "Key points: KUALA LUMPUR, June 30 — Bursa Malaysia opened marginally higher on Tuesday, tracking Wall Street’s overnight...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-30T10:00:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/30/bursa-opens-slightly-higher-as-wall-street-gains-lift-sentiment/225739",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-syed-saddiq-appeal-ruling-postponed-to-july-13-after-federal-court-judge-falls-ill",
+      "category": "malaysia",
+      "headline": "Syed Saddiq appeal ruling postponed to July 13 after Federal Court judge falls ill",
+      "summary": "Key points: The Federal Court today postponed its decision on the prosecution’s appeal against Muar...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T09:52:42+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/syed-saddiq-appeal-ruling-postponed-to-july-13-after-federal-court-judge-falls-ill/225736",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-eu-tells-china-trade-status-quo-not-an-option-after-talks",
+      "category": "world",
+      "headline": "EU tells China trade status quo ‘not an option’ after talks",
+      "summary": "Key points: Europe and China vowed yesterday to tackle their trade frictions through dialogue despite the...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-30T09:42:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/30/eu-tells-china-trade-status-quo-not-an-option-after-talks/225734",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-bringing-life-back-to-old-air-itam-township-in-penang",
+      "category": "markets_investment",
+      "headline": "Bringing life back to old Air Itam township in Penang",
+      "summary": "Key points: GEORGE TOWN, June 30 — Air Itam township spreads out from the iconic Air Itam Market which is always bustling with...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-30T09:41:36+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/bringing-life-back-to-old-air-itam-township-in-penang/225732",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-ecb-chief-lagarde-says-eurozone-more-resilient-to-geopolitical-shocks",
+      "category": "markets_investment",
+      "headline": "ECB chief Lagarde says eurozone more ‘resilient’ to geopolitical shocks",
+      "summary": "Key points: The eurozone will face more frequent geopolitical shocks but growing “resilience”...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-30T09:37:12+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/30/ecb-chief-lagarde-says-eurozone-more-resilient-to-geopolitical-shocks/225733",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-from-traffic-jams-to-teen-dropouts-pakatan-s-maszlee-maps-out-puteri-wangsa-priori",
+      "category": "malaysia",
+      "headline": "From traffic jams to teen dropouts: Pakatan’s Maszlee maps out Puteri Wangsa priorities",
+      "summary": "Key points: JOHOR BAHRU, June 30 — Infrastructure issues such as chronic traffic congestion and school dropouts among teenager...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T09:32:25+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/from-traffic-jams-to-teen-dropouts-pakatans-maszlee-maps-out-puteri-wangsa-priorities/225724",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-san-francisco-archdiocese-announces-us-395m-sexual-abuse-settlement",
+      "category": "world",
+      "headline": "San Francisco archdiocese announces US$395m sexual abuse settlement",
+      "summary": "Key points: SAN FRANCISCO, June 30 — The San Francisco archdiocese announced a US$395 million (RM1.6 billion) settlement yeste...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-30T09:31:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/30/san-francisco-archdiocese-announces-us395m-sexual-abuse-settlement/225731",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-johor-state-election-ec-issues-24-677-postal-ballot-papers",
+      "category": "malaysia",
+      "headline": "Johor state election: EC issues 24,677 postal ballot papers",
+      "summary": "Key points: JOHOR BAHRU, June 30 — The Election Commission (EC) has issued 24,677 postal ballot papers to eligible voters for...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T09:28:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/johor-state-election-ec-issues-24677-postal-ballot-papers/225730",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-former-gojek-boss-nadiem-makarim-faces-judgment-in-graft-case-in-jakarta",
+      "category": "world",
+      "headline": "Former Gojek boss Nadiem Makarim faces judgment in graft case in Jakarta",
+      "summary": "Key points: An Indonesian court is set to issue a verdict today in the corruption trial of former education...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-30T09:26:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/30/former-gojek-boss-nadiem-makarim-faces-judgment-in-graft-case-in-jakarta/225729",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-exiled-chinese-tycoon-guo-wengui-jailed-30-years-in-new-york-for-us-1b-fraud",
+      "category": "world",
+      "headline": "Exiled Chinese tycoon Guo Wengui jailed 30 years in New York for US$1b fraud",
+      "summary": "Key points: NEW YORK, June 30 — Exiled Chinese entrepreneur Guo Wengui, convicted of defrauding thousands of people of more th...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-30T09:22:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/30/exiled-chinese-tycoon-guo-wengui-jailed-30-years-in-new-york-for-us1b-fraud/225728",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-e-hailing-driver-pleads-not-guilty-to-molest-of-passenger-in-melaka",
+      "category": "malaysia",
+      "headline": "E-hailing driver pleads not guilty to molest of passenger in Melaka",
+      "summary": "Key points: KUALA LUMPUR, June 30 — An e-hailing driver pleaded not guilty at the Ayer Keroh Magistrates’ Court in Melak...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T09:19:59+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/e-hailing-driver-pleads-not-guilty-to-alleged-molest-of-passenger-in-melaka/225727",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-syed-saddiq-arrives-at-apex-court-for-make-or-break-verdict",
+      "category": "malaysia",
+      "headline": "Syed Saddiq arrives at apex court for make-or-break verdict",
+      "summary": "Key points: Muar Member of Parliament (MP) Syed Saddiq Syed Abdul Rahman arrived at the Palace of Justice...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T09:19:56+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/syed-saddiq-arrives-at-apex-court-for-make-or-break-verdict/225726",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-home-ministry-deaths-in-immigration-detention-depots-total-465-from-2021-to-2025",
+      "category": "malaysia",
+      "headline": "Home Ministry: Deaths in immigration detention depots total 465 from 2021 to 2025",
+      "summary": "Key points: KUALA LUMPUR, June 30 — A total of 465 deaths among detainees were recorded at immigration detention depots betwee...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T09:15:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/home-ministry-deaths-in-immigration-detention-depots-total-465-from-2021-to-2025/225725",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-genting-kidnapping-case-three-south-koreans-granted-bail-over-rm39-5m-crypto-ranso",
+      "category": "malaysia",
+      "headline": "Genting kidnapping case: Three South Koreans granted bail over RM39.5m crypto ransom plot, victim jailed for overstaying",
+      "summary": "Key points: KUALA LUMPUR, June 30 — Three South Korean men accused of kidnapping their compatriot in a case linked to a crypto...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T09:10:40+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/genting-kidnapping-case-three-south-koreans-granted-bail-over-rm395m-crypto-ransom-plot-victim-jailed-for-overstaying/225723",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-viral-queen-elizabeth-hospital-i-scenes-prompt-sabah-health-dept-pledge-to-improve",
+      "category": "malaysia",
+      "headline": "Viral Queen Elizabeth Hospital I scenes prompt Sabah Health Dept pledge to improve facilities, services",
+      "summary": "Key points: KUALA LUMPUR, June 30 — The Sabah Health Department (JKNS) has pledged to improve facilities and service delivery...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T09:03:19+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/viral-queen-elizabeth-hospital-i-scenes-prompt-sabah-health-dept-pledge-to-improve-facilities-services/225719",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-pray-for-him-syed-saddiq-s-fianc-e-bella-astillah-arrives-at-federal-court-ahead-o",
+      "category": "malaysia",
+      "headline": "‘Pray for him’: Syed Saddiq’s fiancée Bella Astillah arrives at Federal Court ahead of final appeal verdict",
+      "summary": "Key points: KUALA LUMPUR, June 30 — Syed Saddiq Syed Abdul Rahman’s fiancée, Bella Astillah, arrived at the Feder...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T08:57:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/pray-for-him-syed-saddiqs-fiancee-bella-astillah-arrives-at-court-ahead-of-final-appeal-verdict/225716",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-indonesia-turns-to-felda-playbook-to-transform-newly-secured-border-land",
+      "category": "malaysia",
+      "headline": "Indonesia turns to Felda playbook to transform newly secured border land",
+      "summary": "Key points: Malaysia’s Federal Land Development Authority (Felda) has been highlighted in Indonesia&r...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T08:53:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/indonesia-turns-to-felda-playbook-to-transform-newly-secured-border-land/225712",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-ukrainian-oligarch-wounded-in-monaco-blast-as-police-probe-deliberate-attack",
+      "category": "world",
+      "headline": "Ukrainian oligarch wounded in Monaco blast as police probe ‘deliberate’ attack",
+      "summary": "Key points: A blast from an explosive device wounded Ukrainian oligarch Vadym Yermolaiev and two others in Mon...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-30T08:52:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/30/ukrainian-oligarch-wounded-in-monaco-blast-as-police-probe-deliberate-attack/225717",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-six-killed-in-shooting-at-german-mother-and-child-shelter-amid-custody-dispute-sho",
+      "category": "world",
+      "headline": "Six killed in shooting at German mother-and-child shelter amid custody dispute, shooter arrested",
+      "summary": "Key points: A gunman killed four women and two men yesterday at a German shelter for mothers and their childr...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-30T08:49:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/30/six-killed-in-shooting-at-german-mother-and-child-shelter-amid-custody-dispute-shooter-arrested/225715",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-mara-deploys-military-veterans-to-patrol-mrsm-hostels-in-bullying-crackdown",
+      "category": "malaysia",
+      "headline": "MARA deploys military veterans to patrol MRSM hostels in bullying crackdown",
+      "summary": "Key points: KUALA LUMPUR, June 30 — A total of 16 Malaysian Armed Forces (ATM) veterans will report for duty as full-time ward...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-30T08:47:04+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/30/mara-deploys-military-veterans-to-patrol-mrsm-hostels-in-bullying-crackdown/225711",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-us-supreme-court-rejects-trump-s-bid-to-overturn-e-jean-carroll-us-5m-sexual-assau",
+      "category": "world",
+      "headline": "US Supreme Court rejects Trump’s bid to overturn E. Jean Carroll US$5m sexual assault verdict",
+      "summary": "Key points: The US Supreme Court rejected yesterday Donald Trump’s effort to overturn a jury judgm...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-06-30T08:44:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/06/30/us-supreme-court-rejects-trumps-bid-to-overturn-e-jean-carroll-us5m-sexual-assault-verdict/225714",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-ringgit-gains-against-us-dollar-in-early-trade-ahead-of-key-us-economic-data",
+      "category": "markets_investment",
+      "headline": "Ringgit gains against US dollar in early trade ahead of key US economic data",
+      "summary": "Key points: KUALA LUMPUR, June 30 — The ringgit was higher against the US dollar in the early session today, tracking a weaker...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-30T08:40:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/30/ringgit-gains-against-us-dollar-in-early-trade-ahead-of-key-us-economic-data/225713",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-30-tech-rebound-lifts-dow-to-record-yen-hits-40-year-low-against-dollar",
+      "category": "markets_investment",
+      "headline": "Tech rebound lifts Dow to record, yen hits 40-year low against dollar",
+      "summary": "Key points: NEW YORK, June 30 — Resurgent tech stocks helped lift the Dow to a fresh record yesterday as oil prices advanced a...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-30T08:36:31+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/30/tech-rebound-lifts-dow-to-record-yen-hits-40-year-low-against-dollar/225709",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -87,6 +903,56 @@
         {
           "name": "Malay Mail Money",
           "url": "https://www.malaymail.com/news/money/2026/06/30/project-eyes-zimbabwes-first-gas-to-power-production/225626",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-29-jati-tinggi-berjaya-property-pmw-international-hi-mobility-kim-loong-crescendo-cyp",
+      "category": "malaysia",
+      "headline": "Jati Tinggi, Berjaya Property, PMW International, HI Mobility, Kim Loong, Crescendo, Cypark, Apollo Food, Superlon, Hibiscus, Insi",
+      "summary": "Key points: Jati Tinggi, Berjaya Property, PMW International, HI Mobility, Kim Loong, Crescendo, Cypark, Apollo Food, Superlon, Hibiscus, Insights Analytics, Ajinomoto (Malaysia), Lianson, Favelle Favco The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-06-29T21:55:52+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5OVVrNTNvb2JTSlRQYjAyLTZIYW14N0FSZUh0QTBDc3pfRnAtdGRjMVVqdXZIVDgxaWFreVdkLXI5cmtwZGZ5RXA3a3NOQWJq?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-06-29-fruitful-pineapple-cultivation-in-melaka-expands-142pc-since-2021",
+      "category": "markets_investment",
+      "headline": "Fruitful: Pineapple cultivation in Melaka expands 142pc since 2021",
+      "summary": "Key points: The pineapple industry in Melaka has recorded a more than 142 per cent increase in cultivated ar...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-06-29T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/06/29/fruitful-pineapple-cultivation-in-melaka-expands-142pc-since-2021/225620",
           "publisher_type": "news"
         }
       ],
@@ -367,878 +1233,6 @@
         {
           "name": "Malay Mail Money",
           "url": "https://www.malaymail.com/news/money/2026/06/29/bursa-bounces-off-days-lows-but-still-ends-in-the-red/225688",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-venezuela-s-race-to-find-survivors-enters-its-darkest-phase",
-      "category": "world",
-      "headline": "Venezuela’s race to find survivors enters its darkest phase",
-      "summary": "Key points: LA GUAIRA, June 29 — Hopes were fading today of finding survivors more than four days after powerful twin earthqua...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-29T18:02:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/06/29/venezuelas-race-to-find-survivors-enters-its-darkest-phase/225687",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-bomb-blast-in-narathiwat-wisma-putra-confirms-no-malaysian-casualties",
-      "category": "malaysia",
-      "headline": "Bomb blast in Narathiwat: Wisma Putra confirms no Malaysian casualties",
-      "summary": "Key points: Malaysia’s Foreign Ministry is monitoring developments in southern Thailand after an im...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T18:01:26+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/bomb-blast-in-narathiwat-wisma-putra-confirms-no-malaysian-casualties/225686",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-can-meh-yes-new-meh-licence-plates-for-melaka-will-open-for-bidding-from-july-10",
-      "category": "malaysia",
-      "headline": "Can-meh? Yes, new MEH licence plates for Melaka will open for bidding from July 10",
-      "summary": "Key points: The Road Transport Department (JPJ) Melaka has issued a public notice encouraging Malaysians to...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T17:44:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/can-meh-yes-new-meh-licence-plates-for-melaka-will-open-for-bidding-from-july-10/225683",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-one-time-opportunity-why-south-korea-is-betting-big-on-the-ai-chip-boom",
-      "category": "markets_investment",
-      "headline": "‘One-time opportunity’: Why South Korea is betting big on the AI chip boom",
-      "summary": "Key points: Huge demand for the components that power artificial intelligence presents South Korea with an op...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-29T17:40:02+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/29/one-time-opportunity-why-south-korea-is-betting-big-on-the-ai-chip-boom/225681",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-ceasefire-hopes-lift-asia-but-ai-bubble-fears-refuse-to-fade",
-      "category": "markets_investment",
-      "headline": "Ceasefire hopes lift Asia, but AI bubble fears refuse to fade",
-      "summary": "Key points: HONG KONG, June 29 — Asian stocks mostly rose and oil prices edged up today as reports said the United States and...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-29T17:31:52+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/29/ceasefire-hopes-lift-asia-but-ai-bubble-fears-refuse-to-fade/225678",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "stock",
-        "oil",
-        "asia",
-        "united states"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-cigarette-giant-bat-goes-on-corporate-diet-to-shed-20pc-workforce-weight-save-600m",
-      "category": "markets_investment",
-      "headline": "Cigarette giant BAT goes on corporate diet to shed 20pc workforce weight, save £600m",
-      "summary": "Key points: British American Tobacco announced today sweeping job cuts as the cigarette maker axes 5,50...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-29T17:27:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/29/cigarette-giant-bat-goes-on-corporate-diet-to-shed-20pc-workforce-weight-save-600m/225675",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-high-court-rejects-former-directors-bid-to-delay-rm492-480-refund-owed-to-umrah-pi",
-      "category": "malaysia",
-      "headline": "High Court rejects former directors’ bid to delay RM492,480 refund owed to umrah pilgrims",
-      "summary": "Key points: KUALA LUMPUR, June 29 — The High Court here today dismissed an application by three former directors and sharehold...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T17:26:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/high-court-rejects-former-directors-bid-to-delay-rm492480-refund-owed-to-umrah-pilgrims/225677",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-ahmad-maslan-says-government-finalising-engineers-scale-of-fees-review-to-set-fair",
-      "category": "malaysia",
-      "headline": "Ahmad Maslan says government finalising Engineers Scale of Fees review to set fairer pay benchmark",
-      "summary": "Key points: KUALA LUMPUR, June 29 — The government is finalising a review of the Engineers Scale of Fees, which was gazetted i...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T17:14:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/ahmad-maslan-says-government-finalising-engineers-scale-of-fees-review-to-set-fairer-pay-benchmark/225674",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-06-29-fire-tears-through-subang-jaya-apartment-four-residents-rescued-after-being-trappe",
-      "category": "malaysia",
-      "headline": "Fire tears through Subang Jaya apartment, four residents rescued after being trapped by thick smoke",
-      "summary": "Key points: KUALA LUMPUR, June 29 — Four residents were rescued after a fire gutted a first-floor apartment at Subang Perdana...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T17:13:20+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/fire-tears-through-subang-jaya-apartment-four-residents-rescued-after-being-trapped-by-thick-smoke/225673",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-new-moh-rule-compels-medicine-suppliers-to-report-shortages-from-july-1-ensuring-s",
-      "category": "malaysia",
-      "headline": "New MOH rule compels medicine suppliers to report shortages from July 1, ensuring stability despite West Asia risks",
-      "summary": "Key points: KUALA LUMPUR, June 29 — Effective July 1, the Health Ministry (MOH) will enforce mandatory reporting by Product Re...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T17:08:51+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/new-moh-rule-compels-medicine-suppliers-to-report-shortages-from-july-1-ensuring-stability-despite-west-asia-risks/225672",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-dungun-man-accused-of-hammer-attack-on-grandmother-ordered-to-undergo-psychiatric-",
-      "category": "malaysia",
-      "headline": "Dungun man accused of hammer attack on grandmother ordered to undergo psychiatric evaluation",
-      "summary": "Key points: KUALA TERENGGANU, June 29 — The Sessions Court today ordered a 25-year-old man charged with causing grievous hurt...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T16:59:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/dungun-man-accused-of-hammer-attack-on-grandmother-ordered-to-undergo-psychiatric-evaluation/225670",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-azalina-tables-sweeping-amendment-to-act-792-expanding-child-sex-crime-law-and-clo",
-      "category": "malaysia",
-      "headline": "Azalina tables sweeping amendment to Act 792 expanding child sex crime law and closing loopholes overseas",
-      "summary": "Key points: KUALA LUMPUR, June 29 — The proposed amendment to the Sexual Offences Against Children Act 2017 (Act 792) seeks to...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T16:53:55+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/azalina-tables-sweeping-amendment-to-act-792-expanding-child-sex-crime-law-and-closing-loopholes-overseas/225667",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-srkk-ai-attracts-rm1-4b-in-retail-bids-as-ipo-oversubscribed-312-times-the-edge-ma",
-      "category": "malaysia",
-      "headline": "SRKK AI attracts RM1.4b in retail bids as IPO oversubscribed 312 times - The Edge Malaysia",
-      "summary": "Key points: SRKK AI attracts RM1.4b in retail bids as IPO oversubscribed 312 times The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T16:53:36+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmYlY4TTRyQkgxaWlFUndxYjF4RU5yQ2M0dEhMb3k3SFFucWN1ZlhTRzVmSmdKUHk5SnhpSHk5TUVZT2Z6R3lLNklNT25fcWFB?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-two-malaysians-injured-after-ied-blast-near-suv-in-thailand-s-tak-bai-one-seriousl",
-      "category": "malaysia",
-      "headline": "Two Malaysians injured after IED blast near SUV in Thailand’s Tak Bai, one seriously hurt",
-      "summary": "Key points: KUALA LUMPUR, June 29 — Two Malaysians were injured after an improvised explosive device (IED) planted beneath a r...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T16:48:28+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/two-malaysians-injured-after-bomb-rips-through-vehicle-in-thailands-tak-bai-third-occupant-escapes-unhurt/225668",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-jakarta-moves-to-cap-lng-prices-as-industry-and-unions-push-back",
-      "category": "markets_investment",
-      "headline": "Jakarta moves to cap LNG prices as industry and unions push back",
-      "summary": "Key points: Indonesia will cut the price of liquefied natural gas (LNG) supplied to industrial users to US$...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-29T16:44:31+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/29/jakarta-moves-to-cap-lng-prices-as-industry-and-unions-push-back/225662",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-three-young-malaysian-scientists-head-to-lindau-nobel-laureate-meeting-joining-600",
-      "category": "malaysia",
-      "headline": "Three young Malaysian scientists head to Lindau Nobel Laureate Meeting, joining 600 peers worldwide",
-      "summary": "Key points: KUALA LUMPUR, June 29 — Three young scientists have been selected to represent the country at the 75th Lindau Nobe...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T16:39:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/three-young-malaysian-scientists-head-to-lindau-nobel-laureate-meeting-joining-600-peers-worldwide/225655",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-puad-claims-secret-umno-pas-talks-bred-overconfidence-now-bn-faces-precarious-situ",
-      "category": "malaysia",
-      "headline": "Puad claims secret Umno‑PAS talks bred overconfidence, now BN faces precarious situation",
-      "summary": "Key points: JOHOR BAHRU, June 29 — Former Johor assembly speaker Datuk Mohd Puad Zarkashi claimed that the secret plot between...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T15:56:13+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/puad-claims-secret-umnopas-talks-bred-overconfidence-now-bn-faces-precarious-situation/225665",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-ai-s-next-bottleneck-isn-t-chips-it-s-the-weather",
-      "category": "markets_investment",
-      "headline": "AI’s next bottleneck isn’t chips — it’s the weather",
-      "summary": "Key points: The race to build more artificial intelligence data centres is running into an increasingly expe...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-29T15:45:18+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/29/ais-next-bottleneck-isnt-chips-its-the-weather/225663",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-world-cup-hong-myung-bo-steps-down-as-s-korea-coach-after-early-exit-bernama",
-      "category": "world",
-      "headline": "World Cup: Hong Myung-Bo Steps Down As S. Korea Coach After Early Exit - Bernama",
-      "summary": "Key points: World Cup: Hong Myung-Bo Steps Down As S. Korea Coach After Early Exit Bernama",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-29T14:37:35+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JV01MN0NiNkRueFdQWTJvMGswRXlxWnlZaEttQjVCay1qbG96Y21EblNCcEdoUEU1YnFKemZ2aGU0TklJakxfb29FOG0zTUVpYU9PWE1uWHlvR3Qzcnp0VUtn?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-dzulkefly-tells-dewan-rakyat-moh-reviewing-cerebral-palsy-registry-plan-to-widen-r",
-      "category": "malaysia",
-      "headline": "Dzulkefly tells Dewan Rakyat MOH reviewing cerebral palsy registry plan to widen rehab access",
-      "summary": "Key points: KUALA LUMPUR, June 29 — The Health Ministry (MOH) is studying a proposal to establish a National Cerebral Palsy Re...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T14:22:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/dzulkefly-tells-dewan-rakyat-moh-reviewing-cerebral-palsy-registry-plan-to-widen-rehab-access/225654",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-cabinet-greenlights-mh370-deep-sea-search-extension-with-ocean-infinity-for-anothe",
-      "category": "malaysia",
-      "headline": "Cabinet greenlights MH370 deep-sea search extension with Ocean Infinity for another year, search to resume July 1, says Anthony Lo",
-      "summary": "Key points: KUALA LUMPUR, June 29 — The government has agreed to extend its agreement with UK-based Ocean Infinity for another...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T14:18:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/cabinet-greenlights-mh370-deep-sea-search-extension-with-ocean-infinity-for-another-year-search-to-resume-july-1-says-anthony-loke/225653",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-ex-temerloh-police-chief-ordered-to-enter-defence-on-46-bribery-charges-totalling-",
-      "category": "malaysia",
-      "headline": "Ex‑Temerloh police chief ordered to enter defence on 46 bribery charges totalling RM69,600",
-      "summary": "Key points: The Sessions Court here today ordered former Temerloh district police chief Mohd Azhar Mohd Yus...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T14:14:55+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/extemerloh-police-chief-ordered-to-enter-defence-on-46-bribery-charges-totalling-rm69600/225651",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-south-korea-goes-all-in-on-ai-with-us-518b-semiconductor-push",
-      "category": "markets_investment",
-      "headline": "South Korea goes all in on AI with US$518b semiconductor push",
-      "summary": "Key points: South Korea’s chip industry will see a record investment of more than half a trillion dolla...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-29T14:08:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/29/south-korea-goes-all-in-on-ai-with-us518b-semiconductor-push/225650",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-pm-anwar-to-roll-out-redesigned-malaysian-passport-tomorrow-holograms-and-uv-ink-a",
-      "category": "malaysia",
-      "headline": "PM Anwar to roll out redesigned Malaysian passport tomorrow, holograms and UV ink among 94 features",
-      "summary": "Key points: KUALA LUMPUR, June 29 — Prime Minister Datuk Seri Anwar Ibrahim is scheduled to launch the new version of the Mala...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T14:05:57+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/pm-anwar-to-roll-out-redesigned-malaysian-passport-tuesday-holograms-and-uv-ink-among-94-features/225649",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-profit-taking-pulls-bursa-lower-amid-election-middle-east-jitters",
-      "category": "markets_investment",
-      "headline": "Profit-taking pulls Bursa lower amid election, Middle East jitters",
-      "summary": "Key points: KUALA LUMPUR, June 29 — Bursa Malaysia ended the morning session lower as persistent profit-taking in selected hea...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-06-29T13:57:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/29/profit-taking-pulls-bursa-lower-amid-election-middle-east-jitters/225646",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-britain-s-pm-in-waiting-andy-burnham-unveils-vision-to-reshape-the-economy",
-      "category": "world",
-      "headline": "Britain’s PM-in-waiting Andy Burnham unveils vision to reshape the economy",
-      "summary": "Key points: The frontrunner to become Britain’s next prime minister, Andy Burnham, plans to lay out hi...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-29T13:54:12+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/06/29/britains-pm-in-waiting-andy-burnham-unveils-vision-to-reshape-the-economy/225645",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-anwar-unveils-malaysia-digital-2030-targets-30pc-gdp-500-000-jobs-95pc-services-on",
-      "category": "malaysia",
-      "headline": "Anwar unveils Malaysia Digital 2030: Targets 30pc GDP, 500,000 jobs, 95pc services online by 2030",
-      "summary": "Key points: Prime Minister Datuk Seri Anwar Ibrahim today launched Malaysia Digital 2030 (MD2030), a nati...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T13:52:36+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/anwar-unveils-malaysia-digital-2030-targets-30pc-gdp-500000-jobs-95pc-services-online-by-2030/225648",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "putrajaya",
-        "anwar",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-maszlee-malik-dismisses-mb-speculation-says-johor-sultan-holds-sole-prerogative-un",
-      "category": "malaysia",
-      "headline": "Maszlee Malik dismisses MB speculation, says Johor Sultan holds sole prerogative under state constitution",
-      "summary": "Key points: JOHOR BAHRU, June 29 — Pakatan Harapan will leave the appointment of the Johor Menteri Besar entirely to the wisdo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T13:43:54+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/maszlee-malik-dismisses-mb-speculation-says-johor-sultan-holds-sole-prerogative-under-state-constitution/225642",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-world-cup-fever-fuels-illegal-betting-surge-as-police-net-331-in-nationwide-ops-so",
-      "category": "malaysia",
-      "headline": "World Cup fever fuels illegal betting surge as police net 331 in nationwide Ops Soga XI crackdown",
-      "summary": "Key points: KUALA LUMPUR, June 29 — Police have intensified nationwide enforcement against illegal sports betting ahead of the...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T13:40:36+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/world-cup-fever-fuels-illegal-betting-surge-as-police-net-331-in-nationwide-ops-soga-xi-crackdown/225644",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-putrajaya-says-shielding-smes-from-war-fallout-top-priority-rm700m-in-financial-he",
-      "category": "malaysia",
-      "headline": "Putrajaya says shielding SMEs from war fallout top priority, RM700m in financial help already given up to June",
-      "summary": "Key points: KUALA LUMPUR, June 29 — Bank Negara Malaysia had approved over RM700 million in relief financing up to June, Econo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T13:25:05+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/putrajaya-says-shielding-smes-from-war-fallout-top-priority-rm700m-in-financial-help-already-given-up-to-june/225638",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "putrajaya",
-        "bank negara"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-kajang-cops-hunt-man-suspected-of-impersonating-civil-servant-to-dupe-public",
-      "category": "malaysia",
-      "headline": "Kajang cops hunt man suspected of impersonating civil servant to dupe public",
-      "summary": "Key points: KUALA LUMPUR, June 29 — Police are tracking down a man suspected of impersonating a civil servant by wearing a sec...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T13:01:49+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/kajang-cops-hunt-man-suspected-of-impersonating-civil-servant-to-dupe-public/225635",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-housing-mismatch-persists-as-32-800-unsold-homes-worth-rm16-3b-recorded-in-q1-2026",
-      "category": "malaysia",
-      "headline": "Housing mismatch persists as 32,800 unsold homes worth RM16.3b recorded in Q1 2026, Dewan Rakyat told",
-      "summary": "Key points: KUALA LUMPUR, June 29 — Malaysia is facing a continued mismatch in the housing market, with tens of thousands of c...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T12:58:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/housing-mismatch-persists-as-32800-unsold-homes-worth-rm163b-recorded-in-q1-2026-dewan-rakyat-told/225632",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-malaysia-s-risk-of-mass-job-losses-from-global-energy-crisis-remains-low-says-econ",
-      "category": "malaysia",
-      "headline": "Malaysia’s risk of mass job losses from global energy crisis remains low, says economy minister",
-      "summary": "Key points: KUALA LUMPUR, June 29 — Malaysia’s exposure to the risk of mass scale job losses stemming from the global en...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T12:55:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/malaysias-risk-of-mass-job-losses-from-global-energy-crisis-remains-low-says-economy-minister/225631",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-firefighter-pleads-not-guilty-to-negligent-driving-over-crash-that-injured-child-i",
-      "category": "malaysia",
-      "headline": "Firefighter pleads not guilty to negligent driving over crash that injured child in Bachok",
-      "summary": "Key points: A firefighter pleaded not guilty at the Magistrate’s Court here today to a charge of negli...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T12:50:51+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/firefighter-pleads-not-guilty-to-negligent-driving-over-crash-that-injured-child-in-bachok/225629",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-new-iia-malaysia-bac-partnership-aims-to-grow-country-s-internal-audit-talent-pool",
-      "category": "malaysia",
-      "headline": "New IIA Malaysia, BAC partnership aims to grow country’s internal audit talent pool",
-      "summary": "Key points: KUALA LUMPUR, June 29 — The Institute of Internal Auditors Malaysia (IIA Malaysia) and BAC Education Group have si...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T12:41:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/29/new-iia-malaysia-bac-partnership-aims-to-grow-countrys-internal-audit-talent-pool/225591",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-lrt3-shah-alam-debuts-smoothly-no-women-only-coach-planned-yet-says-prasarana",
-      "category": "malaysia",
-      "headline": "LRT3 Shah Alam debuts smoothly, no women-only coach planned yet, says Prasarana",
-      "summary": "Key points: PETALING JAYA, June 29 — The first day of operations for the LRT3 Shah Alam Line got off to a smooth start today,...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T12:26:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/lrt3-shah-alam-debuts-smoothly-no-women-only-coach-planned-yet-says-prasarana/225619",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-malaysia-eyes-ai-drones-to-strengthen-maritime-security-says-deputy-home-minister",
-      "category": "malaysia",
-      "headline": "Malaysia eyes AI, drones to strengthen maritime security, says deputy home minister",
-      "summary": "Key points: KUALA LUMPUR, June 29 — Security agencies operating in Langkawi and northern Malaysia remain in a good state of re...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T12:15:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/malaysia-eyes-ai-drones-to-strengthen-maritime-security-says-deputy-home-minister/225618",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-kg-betangga-highland-villagers-in-sabah-allege-land-encroachment-urge-macc-police-",
-      "category": "malaysia",
-      "headline": "Kg Betangga Highland villagers in Sabah allege land encroachment, urge MACC, police and Native Court probe",
-      "summary": "Key points: Villagers from Kg Betangga Highland have called on the Malaysian Anti-Corruption Commission (M...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T12:11:19+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/kg-betangga-highland-villagers-in-sabah-allege-land-encroachment-urge-macc-police-and-native-court-probe/225614",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-johor-polls-police-open-three-probes-as-campaigning-gets-underway",
-      "category": "malaysia",
-      "headline": "Johor polls: Police open three probes as campaigning gets underway",
-      "summary": "Key points: JOHOR BAHRU, June 29 — Johor police have received seven reports related to the Johor state election since nominati...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-06-29T11:43:33+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/06/29/johor-polls-police-open-three-probes-as-campaigning-gets-underway/225612",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-uighur-and-tibetan-groups-sound-alarm-over-china-s-new-ethnic-unity-law-likens-it-",
-      "category": "world",
-      "headline": "Uighur and Tibetan groups sound alarm over China’s new ethnic unity law, likens it to ‘cultural genocide’",
-      "summary": "Key points: Tibetan and Uighur representatives urged countries at a United Nations meeting last week to pres...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-29T11:19:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/06/29/uighur-and-tibetan-groups-sound-alarm-over-chinas-new-ethnic-unity-law-likens-it-to-cultural-genocide/225605",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-uyghur-and-tibetan-groups-sound-alarm-over-china-s-new-ethnic-unity-law-likens-it-",
-      "category": "world",
-      "headline": "Uyghur and Tibetan groups sound alarm over China’s new ethnic unity law, likens it to ‘cultural genocide’",
-      "summary": "Key points: Tibetan and Uyghur representatives urged countries at a United Nations meeting last week to pres...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-29T11:19:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/06/29/uyghur-and-tibetan-groups-sound-alarm-over-chinas-new-ethnic-unity-law-likens-it-to-cultural-genocide/225605",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-06-29-china-moves-to-curb-dual-use-exports-targets-20-japanese-institutions",
-      "category": "world",
-      "headline": "China moves to curb dual-use exports, targets 20 Japanese institutions",
-      "summary": "Key points: China added 20 Japanese organisations including major companies to a blacklist on Monday over t...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-06-29T11:08:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/06/29/china-moves-to-curb-dual-use-exports-targets-20-japanese-institutions/225604",
           "publisher_type": "news"
         }
       ],
