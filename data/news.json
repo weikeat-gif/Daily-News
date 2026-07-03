@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-03T23:10:00+08:00",
+  "generated_at": "2026-07-04T01:23:51+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-03-tesla-rolls-out-robotaxi-service-in-miami",
+      "id": "2026-07-04-salah-starts-for-egypt-against-australia",
       "category": "world",
-      "headline": "Tesla rolls out robotaxi service in Miami",
-      "summary": "Key points: CNA Latest reports that Tesla rolls out robotaxi service in Miami.",
+      "headline": "Salah starts for Egypt against Australia",
+      "summary": "Key points: CNA Latest reports that Salah starts for Egypt against Australia.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-03T22:59:13+08:00",
+      "published_at": "2026-07-04T00:57:20+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/tesla-rolls-out-robotaxi-service-in-miami-6230881",
+          "url": "https://www.channelnewsasia.com/sport/salah-starts-egypt-against-australia-6231071",
           "publisher_type": "news"
         },
         {
@@ -1123,39 +1123,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-07-03-malaysian-shares-climb-as-asian-markets-rise-with-dimming-us-rate-hike-prospects-r",
-      "category": "markets_investment",
-      "headline": "Malaysian shares climb as Asian markets rise with dimming US rate hike prospects, ringgit also strengthens - The Edge Malaysia",
-      "summary": "Key points: Malaysian shares climb as Asian markets rise with dimming US rate hike prospects, ringgit also strengthens The Edge Malaysia",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-03T11:22:55+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkZFBoX1R4NmxfbmthYk95VEMtX1hXM0ZKbC15RnhQcFI1ZXVORURrQnlpWkEzNXBtcmNseWNGMnlDYU8wUGFHX1NLbEdySzhZ?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "ringgit",
-        "market",
-        "markets"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-07-03-uk-crime-agency-arrests-eight-in-probe-of-global-network-drugging-and-sexually-abu",
       "category": "world",
       "headline": "UK crime agency arrests eight in probe of global network drugging and sexually abusing women",
@@ -1226,6 +1193,26 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/03/johor-polls-ling-tian-soon-banks-on-jalan-koyok-upgrade-as-key-achievement-in-yong-peng/226158",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-03-police-open-eight-probe-papers-in-johor-polls-five-involving-arson-related-mischie",
+      "category": "malaysia",
+      "headline": "Police open eight probe papers in Johor polls, five involving arson‑related mischief",
+      "summary": "Key points: JOHOR BAHRU, July 3 — Police have opened eight investigation papers linked to the 16th Johor state election for th...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-03T10:49:08+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/03/police-open-eight-probe-papers-in-johor-polls-five-involving-arsonrelated-mischief/226156",
           "publisher_type": "news"
         }
       ],
