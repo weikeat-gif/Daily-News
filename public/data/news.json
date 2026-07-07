@@ -1,8 +1,621 @@
 {
-  "generated_at": "2026-07-07T14:45:24+08:00",
+  "generated_at": "2026-07-07T18:24:54+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-07-07-bnm-expected-to-hold-opr-steady-at-2-75pc-amid-resilient-exports-say-economists",
+      "category": "markets_investment",
+      "headline": "BNM expected to hold OPR steady at 2.75pc amid resilient exports, say economists",
+      "summary": "Key points: KUALA LUMPUR, July 7 — Bank Negara Malaysia (BNM) is expected to maintain the overnight policy rate (OPR) at 2.75...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-07T18:22:08+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/07/bnm-expected-to-hold-opr-steady-at-275pc-amid-resilient-exports-say-economists/226744",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "bnm",
+        "bank negara"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-bursa-malaysia-dips-on-mild-profit-taking-regional-softnes",
+      "category": "markets_investment",
+      "headline": "Bursa Malaysia dips on mild profit‑taking, regional softnes",
+      "summary": "Key points: KUALA LUMPUR, July 7 — Bursa Malaysia ended marginally lower today as investors engaged in mild profit-taking foll...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-07T18:13:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/07/bursa-malaysia-dips-on-mild-profittaking-regional-softnes/226742",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-johor-election-ktmb-ramps-up-ets-services-with-20pc-discount",
+      "category": "malaysia",
+      "headline": "Johor election: KTMB ramps up ETS services with 20pc discount",
+      "summary": "Key points: KUALA LUMPUR, July 7 — Keretapi Tanah Melayu Berhad (KTMB) is ramping up its Electric Train Service (ETS) capacity...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T18:11:44+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/johor-election-ktmb-ramps-up-ets-services-with-20pc-discount/226743",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-xi-calls-for-all-out-rescue-as-storms-tornadoes-and-landslide-kill-15-injure-hundr",
+      "category": "world",
+      "headline": "Xi calls for ‘all out’ rescue as storms, tornadoes and landslide kill 15, injure hundreds and displace thousands in China",
+      "summary": "Key points: The death toll from devastating storms in parts of China rose to 15 today, with hundreds more in...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-07T18:03:42+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/07/xi-calls-for-all-out-rescue-as-storms-tornadoes-and-landslide-kill-15-injure-hundreds-and-displace-thousands-in-china/226735",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-big-tech-data-centers-are-driving-up-power-bills-at-america-s-rust-belt-factories",
+      "category": "world",
+      "headline": "Big Tech data centers are driving up power bills at America's Rust Belt factories",
+      "summary": "Key points: CNA Latest reports that Big Tech data centers are driving up power bills at America's Rust Belt factories.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-07T18:02:31+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/big-tech-data-centers-are-driving-up-power-bills-americas-rust-belt-factories-6238091",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-corporate-espionage-case-ex-petronas-manager-sent-upstream-performance-report-to-p",
+      "category": "malaysia",
+      "headline": "Corporate espionage case: Ex-Petronas manager sent upstream performance report to Petros email, witness says",
+      "summary": "Key points: KUALA LUMPUR, July 7 — The Sessions Court was told today that Mohd Khairul Akmal Mohd Jasni, a former Petronas man...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T18:00:04+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/corporate-espionage-case-ex-petronas-manager-sent-upstream-performance-report-to-petros-email-witness-says/226740",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-preparations-made-nadma-says-govt-agencies-ready-for-possible-super-el-nino",
+      "category": "malaysia",
+      "headline": "‘Preparations made’: Nadma says govt agencies ready for possible ‘Super El Nino’",
+      "summary": "Key points: Government agencies responsible for disaster management are on high alert ahead of the possible...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T17:36:05+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/preparations-made-nadma-says-govt-agencies-ready-for-possible-super-el-nino/226737",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-sharing-banting-stabbing-children-s-identities-could-land-you-in-jail-warns-suhaka",
+      "category": "malaysia",
+      "headline": "Sharing Banting stabbing children’s identities could land you in jail, warns Suhakam",
+      "summary": "Key points: KUALA LUMPUR, July 7 — Malaysia’s human rights commission has warned that sharing photographs, videos or oth...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T17:29:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/sharing-banting-stabbing-childrens-identities-could-land-you-in-jail-warns-suhakam/226734",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-zahid-pays-tribute-to-former-journalist-and-umno-media-officer-jailani-harun",
+      "category": "malaysia",
+      "headline": "Zahid pays tribute to former journalist and Umno media officer Jailani Harun",
+      "summary": "Key points: KUALA LUMPUR, July 7 — Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi has expressed his condolences to the...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T17:26:47+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/zahid-pays-tribute-to-former-journalist-and-umno-media-officer-jailani-harun/226729",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-incoming-super-el-ni-o-could-bring-heat-and-haze-from-november-says-metmalaysia",
+      "category": "malaysia",
+      "headline": "Incoming: Super El Niño could bring heat and haze from November, says MetMalaysia",
+      "summary": "Key points: KUALA LUMPUR, July 7 — Malaysia could face hotter weather, lower rainfall and a greater risk of transboundary haze...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T17:09:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/incoming-super-el-nino-could-bring-heat-and-haze-from-november-says-metmalaysia/226731",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-tamco-to-assemble-hoymiles-battery-energy-storage-solutions-in-shah-alam",
+      "category": "malaysia",
+      "headline": "Tamco to assemble Hoymiles Battery Energy Storage Solutions in Shah Alam",
+      "summary": "Key points: KUALA LUMPUR, July 7 — Local power infrastructure solutions provider Tamco Switchgear will soon begin the assembly...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T16:53:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/07/tamco-to-assemble-hoymiles-battery-energy-storage-solutions-in-shah-alam/226726",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-teacher-accomplice-jailed-eight-years-for-trafficking-woman-for-sexual-exploitatio",
+      "category": "malaysia",
+      "headline": "Teacher, accomplice jailed eight years for trafficking woman for sexual exploitation",
+      "summary": "Key points: KUALA TERENGGANU, July 7 — The Sessions Court here today found a teacher and his accomplice guilty of trafficking...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T16:47:56+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/teacher-accomplice-jailed-eight-years-for-trafficking-woman-for-sexual-exploitation/226727",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-three-men-plead-not-guilty-to-setting-fire-to-activist-cikgu-chandra-s-wife-s-cars",
+      "category": "malaysia",
+      "headline": "Three men plead not guilty to setting fire to activist Cikgu Chandra’s wife’s cars",
+      "summary": "Key points: KUALA LUMPUR, July 7 — Three men pleaded not guilty today in the Petaling Jaya Sessions Court to charges of settin...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T16:44:35+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/three-men-plead-not-guilty-to-setting-fire-to-activist-cikgu-chandras-wifes-cars/226725",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-south-korean-law-targeting-false-online-information-takes-effect",
+      "category": "world",
+      "headline": "South Korean law targeting false online information takes effect",
+      "summary": "Key points: South Korea began enforcing today a revised law targeting false information posted online, toughen...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-07T16:42:40+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/07/south-korean-law-targeting-false-online-information-takes-effect/226715",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-builder-of-myanmar-condo-destroyed-in-quake-jailed-for-5-years",
+      "category": "world",
+      "headline": "Builder of Myanmar condo destroyed in quake jailed for 5 years",
+      "summary": "Key points: The builder of a Myanmar condominium which collapsed killing more than 200 people during a d...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-07T16:39:52+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/07/builder-of-myanmar-condo-destroyed-in-quake-jailed-for-5-years/226714",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-thunderstorms-and-heavy-rain-forecast-in-nine-states-kl-and-putrajaya-until-6pm",
+      "category": "malaysia",
+      "headline": "Thunderstorms and heavy rain forecast in nine states, KL and Putrajaya until 6pm",
+      "summary": "Key points: KUALA LUMPUR, July 7 — Thunderstorms, heavy rain and strong winds have been forecasted in nine states, Kuala Lumpu...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T16:38:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/thunderstorms-and-heavy-rain-forecast-in-nine-states-kl-and-putrajaya-until-6pm/226724",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-macc-armed-forces-tighten-information-sharing-in-fight-against-corruption",
+      "category": "malaysia",
+      "headline": "MACC, Armed Forces tighten information-sharing in fight against corruption",
+      "summary": "Key points: The Malaysian Anti-Corruption Commission (MACC) and the Malaysian Armed Forces (MAF) have reaf...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T16:34:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/macc-armed-forces-tighten-information-sharing-in-fight-against-corruption/226722",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-ec-says-johor-s-56-seat-election-could-be-decided-by-10pm-on-saturday",
+      "category": "malaysia",
+      "headline": "EC says Johor’s 56-seat election could be decided by 10pm on Saturday",
+      "summary": "Key points: KUALA LUMPUR, July7 — Voters are expected to know the outcome of all 56 seats in Saturday’s Johor state elec...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T16:32:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/ec-says-johors-56-seat-election-could-be-decided-by-10pm-on-saturday/226721",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-new-mosques-surau-must-include-facilities-for-pwds-and-seniors-dewan-rakyat-told",
+      "category": "malaysia",
+      "headline": "New mosques, surau must include facilities for PWDs and seniors, Dewan Rakyat told",
+      "summary": "Key points: KUALA LUMPUR, July 7 — All new mosque and surau developments in the country must incorporate facilities and infras...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T16:30:53+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/new-mosques-surau-must-include-facilities-for-pwds-and-seniors-dewan-rakyat-told/226720",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-ec-aims-for-96pc-turnout-in-early-voting",
+      "category": "malaysia",
+      "headline": "EC aims for 96pc turnout in early voting",
+      "summary": "Key points: The Election Commission (EC) is targeting a 96 per cent turnout for early voting in the Johor sta...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T16:28:49+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/ec-aims-for-96pc-turnout-in-early-voting/226718",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-hong-kong-to-sentence-activist-joshua-wong-in-september",
+      "category": "world",
+      "headline": "Hong Kong to sentence activist Joshua Wong in September",
+      "summary": "Key points: HONG KONG, July 7 — Prominent Hong Kong pro-democracy activist Joshua Wong — already serving a years-long ja...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-07T15:51:29+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/07/hong-kong-to-sentence-activist-joshua-wong-in-september/226713",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-in-larkin-land-leases-and-a-city-s-growing-pains-shape-johor-election-contest",
+      "category": "malaysia",
+      "headline": "In Larkin, land leases and a city’s growing pains shape Johor election contest",
+      "summary": "Key points: JOHOR BAHRU, July 7 — Land lease renewals in Kampung Melayu Majidee and the need to modernise public infrastructur...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T15:49:27+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/in-larkin-land-leases-and-a-citys-growing-pains-shape-johor-election-contest/226711",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-macc-three-arrested-in-kedah-over-alleged-rm20m-financing-bid-for-paddy-and-rice-p",
+      "category": "malaysia",
+      "headline": "MACC: Three arrested in Kedah over alleged RM20m financing bid for paddy and rice purchases that never happened",
+      "summary": "Key points: KUALA LUMPUR, July 7 — Three people, including two company directors, have been arrested by the Malaysian Anti-Cor...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T15:47:08+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/macc-three-arrested-in-kedah-over-alleged-rm20m-financing-bid-for-paddy-and-rice-purchases-that-never-happened/226712",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-the-tears-just-won-t-stop-father-says-banting-stabbing-victim-leaves-icu-but-remai",
+      "category": "malaysia",
+      "headline": "‘The tears just won’t stop’: Father says Banting stabbing victim leaves ICU but remains traumatised",
+      "summary": "Key points: KUALA LUMPUR, July 7 — The 15-year-old girl injured in a stabbing at a secondary school in Banting remains deeply...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T15:35:36+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/the-tears-just-wont-stop-father-says-banting-stabbing-victim-leaves-icu-but-remains-traumatised/226710",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-taiwan-s-evergreen-marine-directors-grilled-over-alleged-insider-trading",
+      "category": "markets_investment",
+      "headline": "Taiwan’s Evergreen Marine directors grilled over alleged insider trading",
+      "summary": "Key points: Three directors on shipping giant Evergreen Marine Corp’s board are among nine people...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-07T15:22:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/07/taiwans-evergreen-marine-directors-grilled-over-alleged-insider-trading/226703",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-perak-ruler-officiates-sultan-nazrin-shah-69-commando-camp-in-ulu-kinta",
+      "category": "malaysia",
+      "headline": "Perak Ruler officiates Sultan Nazrin Shah 69 Commando Camp in Ulu Kinta",
+      "summary": "Key points: The Sultan of Perak, Sultan Nazrin Shah, today officially opened the Sultan Nazrin Shah 69 Commando...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T15:17:53+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/perak-ruler-officiates-sultan-nazrin-shah-69-commando-camp-in-ulu-kinta/226708",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-election-commission-says-588-complaints-lodged-as-johor-polls-enter-final-stretch",
+      "category": "malaysia",
+      "headline": "Election Commission says 588 complaints lodged as Johor polls enter final stretch",
+      "summary": "Key points: The Election Commission (EC) has received 588 complaints involving various election offences duri...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T15:14:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/election-commission-says-588-complaints-lodged-as-johor-polls-enter-final-stretch/226707",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-environment-department-denies-issuing-viral-2024-state-cleanliness-infographic",
+      "category": "malaysia",
+      "headline": "Environment Department denies issuing viral 2024 state cleanliness infographic",
+      "summary": "Key points: The Department of Environment (DOE) has denied issuing, publishing or verifying the infographi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T15:03:33+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/environment-department-denies-issuing-viral-2024-state-cleanliness-infographic/226705",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-democrats-push-key-us-senate-candidate-to-quit-over-sex-assault-claim",
+      "category": "world",
+      "headline": "Democrats push key US Senate candidate to quit over sex assault claim",
+      "summary": "Key points: Top Democrats called on scandal-hit US Senate candidate Graham Platner to quit the race...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-07T14:54:36+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/07/democrats-push-key-us-senate-candidate-to-quit-over-sex-assault-claim/226701",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-johor-candidates-pause-campaigning-to-observe-early-voting-by-security-personnel",
+      "category": "malaysia",
+      "headline": "Johor candidates pause campaigning to observe early voting by security personnel",
+      "summary": "Key points: JOHOR BAHRU, July 7 — Despite their busy campaign schedule ahead of polling day this Saturday, Johor state electio...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T14:47:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/johor-candidates-pause-campaigning-to-observe-early-voting-by-security-personnel/226700",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-07-07-unlucky-gamble-vietnam-police-bust-us-133m-world-cup-betting-rings",
       "category": "world",
@@ -21,6 +634,26 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-govt-reviewing-indefinite-detention-of-juvenile-offenders-under-child-act-dewan-ra",
+      "category": "malaysia",
+      "headline": "Govt reviewing indefinite detention of juvenile offenders under Child Act, Dewan Rakyat told",
+      "summary": "Key points: KUALA LUMPUR, July 7 — The government is reviewing Section 97 of the Child Act 2001 (Act 611), including introduci...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T14:42:03+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/govt-reviewing-indefinite-detention-of-juvenile-offenders-under-child-act-dewan-rakyat-told/226699",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -84,33 +717,23 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-07-07-japan-china-coast-guards-face-off-near-disputed-islands",
-      "category": "world",
-      "headline": "Japan, China coast guards face off near disputed islands",
-      "summary": "Key points: CNA Latest reports that Japan, China coast guards face off near disputed islands.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-07T14:27:07+08:00",
+      "id": "2026-07-07-dosm-malaysia-s-health-inflation-doubles-to-3pc-in-2025-on-higher-insurance-and-se",
+      "category": "malaysia",
+      "headline": "DOSM: Malaysia’s health inflation doubles to 3pc in 2025 on higher insurance and service costs",
+      "summary": "Key points: Health inflation in Malaysia increased to three per cent in 2025 from 1.4 per cent the previou...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T14:23:12+08:00",
       "source_links": [
         {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/east-asia/japan-china-coast-guard-face-disputed-island-senkaku-diaoyu-6237356",
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/dosm-malaysias-health-inflation-doubles-to-3pc-in-2025-on-higher-insurance-and-service-costs/226691",
           "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
         "latest update"
       ],
-      "importance": 4,
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -227,6 +850,26 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/07/johor-polls-early-voting-turnout-passes-56pc-by-11am/226683",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-07-at-least-two-more-years-before-malaysia-gets-new-lcs-missiles-says-chief-of-defenc",
+      "category": "malaysia",
+      "headline": "At least two more years before Malaysia gets new LCS missiles, says Chief of Defence Force",
+      "summary": "Key points: KUALA LUMPUR, July 7 — Malaysia will need at least two more years to acquire a replacement surface-to-surface miss...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-07T13:41:22+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/at-least-two-more-years-before-malaysia-gets-new-lcs-missiles-says-defence-force-chief/226680",
           "publisher_type": "news"
         }
       ],
@@ -587,646 +1230,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-dbkl-pushes-ptkl2040-amendment-application-deadline-to-aug-7",
-      "category": "malaysia",
-      "headline": "DBKL pushes PTKL2040 amendment application deadline to Aug 7",
-      "summary": "Key points: KUALA LUMPUR, July 7 — Kuala Lumpur City Hall (DBKL) has extended the deadline for applications to amend the Kuala...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T10:31:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/dbkl-pushes-ptkl2040-amendment-application-deadline-to-aug-7/226659",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-how-us-is-using-cash-and-threats-to-dump-migrants-in-africa",
-      "category": "world",
-      "headline": "How US is using cash and threats to dump migrants in Africa",
-      "summary": "Key points: It began with threats of US visa bans on a swathe of African nations.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-07T10:29:28+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/07/how-us-is-using-cash-and-threats-to-dump-migrants-in-africa/226654",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-mat-sabu-asks-johor-voters-to-give-pakatan-chance-to-prove-manifesto-not-copy-past",
-      "category": "malaysia",
-      "headline": "Mat Sabu asks Johor voters to give Pakatan chance to prove manifesto not ‘copy paste’",
-      "summary": "Key points: BATU PAHAT, July 7 — Voters in Johor need to give Pakatan Harapan (PH) candidates a chance in the state election t...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T10:24:07+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/mat-sabu-asks-johor-voters-to-give-pakatan-chance-to-prove-manifesto-not-copy-paste/226658",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-trump-touts-latest-white-house-renovation-a-new-helipad",
-      "category": "world",
-      "headline": "Trump touts latest White House renovation: A new helipad",
-      "summary": "Key points: US President Donald Trump today confirmed that work was underway to build a “beautiful&...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-07T10:23:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/07/trump-touts-latest-white-house-renovation-a-new-helipad/226653",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-domestic-violence-offender-registry-to-track-repeat-abusers-under-consideration-sa",
-      "category": "malaysia",
-      "headline": "Domestic violence offender registry to track repeat abusers under consideration, says Nancy Shukri",
-      "summary": "Key points: KUALA LUMPUR, July 7 — Malaysia is considering establishing a Domestic Violence Offender Registry to monitor repea...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T10:21:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/domestic-violence-offender-registry-to-track-repeat-abusers-under-consideration-says-nancy-shukri/226657",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-court-of-appeal-grants-bail-to-14-foreign-nationals-in-brickfields-drug-possession",
-      "category": "malaysia",
-      "headline": "Court of Appeal grants bail to 14 foreign nationals in Brickfields drug possession case",
-      "summary": "Key points: The Court of Appeal yesterday granted bail of RM3,000 with two sureties each to 14 foreign nat...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T10:21:21+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/court-of-appeal-grants-bail-to-14-foreign-nationals-in-brickfields-drug-possession-case/226656",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-frenchman-jailed-in-missing-body-case-confesses-to-killing-wife-says-lawyer",
-      "category": "world",
-      "headline": "Frenchman jailed in missing body case confesses to killing wife, says lawyer",
-      "summary": "Key points: A Frenchman convicted of the murder of his wife who disappeared over half-a-decade ago but whos...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-07T10:13:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/07/frenchman-jailed-in-missing-body-case-confesses-to-killing-wife-says-lawyer/226651",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-banting-school-stabbing-suspect-remanded-for-four-days-lawyer-says-teen-is-autisti",
-      "category": "malaysia",
-      "headline": "Banting school stabbing suspect remanded for four days, lawyer says teen is autistic",
-      "summary": "Key points: KUALA LUMPUR, July 7 — The 15-year-old alleged to have stabbed a fellow student at a secondary school in Banting h...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T09:59:02+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/banting-school-stabbing-suspect-remanded-for-four-days-lawyer-says-teen-is-autistic/226647",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-microsoft-slashes-4-800-xbox-related-jobs-in-global-cost-cutting-drive",
-      "category": "markets_investment",
-      "headline": "Microsoft slashes 4,800 Xbox-related jobs in global cost-cutting drive",
-      "summary": "Key points: Microsoft said yesterday it was eliminating about 4,800 jobs — roughly two percent of i...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-07T09:54:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/07/microsoft-slashes-4800-xbox-related-jobs-in-global-cost-cutting-drive/226645",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-anwar-says-national-service-gaining-positive-feedback-nationhood-values-must-be-st",
-      "category": "malaysia",
-      "headline": "Anwar says National Service gaining positive feedback, nationhood values must be strengthened",
-      "summary": "Key points: KUALA LUMPUR, July 7 — Prime Minister Datuk Seri Anwar Ibrahim has stressed that the cultivation of nationhood val...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T09:51:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/anwar-says-national-service-gaining-positive-feedback-nationhood-values-must-be-strengthened/226644",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-jpj-cracks-down-on-e-hailing-drivers-at-klia-bypassing-apps-charging-up-to-rm800",
-      "category": "malaysia",
-      "headline": "JPJ cracks down on e-hailing drivers at KLIA bypassing apps, charging up to RM800",
-      "summary": "Key points: The Road Transport Department (JPJ) found some licensed e-hailing drivers at Kuala Lumpur Interna...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T09:39:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/jpj-cracks-down-on-e-hailing-drivers-at-klia-bypassing-apps-charging-up-to-rm800/226642",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-three-myanmar-nationals-on-the-run-after-bmw-crashes-into-water-tank-while-fleeing",
-      "category": "malaysia",
-      "headline": "Three Myanmar nationals on the run after BMW crashes into water tank while fleeing police roadblock in Lipis",
-      "summary": "Key points: KUALA LUMPUR, July 7 — A suspected migrant smuggling run ended in a dramatic crash after a BMW driver allegedly fl...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T09:33:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/three-myanmar-nationals-on-the-run-after-bmw-crashes-into-water-tank-while-fleeing-police-roadblock-in-lipis/226643",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-police-urge-public-not-to-revive-old-sungai-buloh-azan-issue",
-      "category": "malaysia",
-      "headline": "Police urge public not to revive old Sungai Buloh ‘azan’ issue",
-      "summary": "Key points: KUALA LUMPUR, July 7 — Police have reminded the public not to recirculate an old issue involving allegations that...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T09:29:51+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/police-urge-public-not-to-revive-old-sungai-buloh-azan-issue/226641",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-ringgit-opens-slightly-higher-against-us-dollar-amid-focus-on-fed-outlook",
-      "category": "markets_investment",
-      "headline": "Ringgit opens slightly higher against US dollar amid focus on Fed outlook",
-      "summary": "Key points: KUALA LUMPUR, July 7 — The ringgit opened slightly higher against the US dollar today amid continued focus on the...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-07T09:28:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/07/ringgit-opens-slightly-higher-against-us-dollar-amid-focus-on-fed-outlook/226639",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-zahid-tells-johor-early-voters-to-fulfil-duty-with-integrity-choose-stability",
-      "category": "malaysia",
-      "headline": "Zahid tells Johor early voters to fulfil duty with integrity, choose stability",
-      "summary": "Key points: JOHOR BAHRU, July 7 — Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi has called on security personnel cast...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T09:23:47+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/zahid-tells-johor-early-voters-to-fulfil-duty-with-integrity-choose-stability/226638",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-airborneo-opens-bookings-for-kuala-lumpur-route-unveils-rm375-sarawakku-sayang-pro",
-      "category": "malaysia",
-      "headline": "AirBorneo opens bookings for Kuala Lumpur route, unveils RM375 ‘Sarawakku Sayang’ promo fare",
-      "summary": "Key points: AirBorneo has opened ticket sales for its new Kuala Lumpur route, offering promotional one-way E...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T09:18:31+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/airborneo-opens-bookings-for-kuala-lumpur-route-unveils-rm375-sarawakku-sayang-promo-fare/226637",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-pm-s-dept-luxury-vehicle-seen-used-by-anwar-an-existing-govt-asset-official-car-un",
-      "category": "malaysia",
-      "headline": "PM’s Dept: Luxury vehicle seen used by Anwar an existing govt asset, official car under maintenance",
-      "summary": "Key points: KUALA LUMPUR, July 7 — A luxury vehicle used by Prime Minister Datuk Seri Anwar Ibrahim recently is an existing go...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T09:16:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/pms-dept-luxury-vehicle-seen-used-by-anwar-an-existing-govt-asset-official-car-under-maintenance/226635",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-07-07-did-you-see-this-hit-and-run-police-seek-witnesses-after-man-dies-changing-punctur",
-      "category": "malaysia",
-      "headline": "Did you see this hit-and-run? Police seek witnesses after man dies changing punctured tyre on Cheras-Kajang Highway",
-      "summary": "Key points: KUALA LUMPUR, July 7 — A 46-year-old man was killed moments after changing a punctured tyre when a passing MPV str...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T09:04:33+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/did-you-see-this-hit-and-run-police-seek-witnesses-after-man-dies-changing-punctured-tyre-on-cheras-kajang-highway/226633",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-anwar-urges-johor-early-voters-to-choose-pakatan-as-polling-begins",
-      "category": "malaysia",
-      "headline": "Anwar urges Johor early voters to choose Pakatan as polling begins",
-      "summary": "Key points: JOHOR BAHRU, July 7 — Prime Minister Datuk Seri Anwar Ibrahim today extended his best wishes to all early voters c...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T09:01:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/anwar-urges-johor-early-voters-to-choose-pakatan-as-polling-begins/226632",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-early-voting-for-johor-election-begins-at-64-centres-statewide",
-      "category": "malaysia",
-      "headline": "Early voting for Johor election begins at 64 centres statewide",
-      "summary": "Key points: JOHOR BAHRU, July 7 — A total of 64 early voting centres for the 16th Johor state election opened at 8am today to...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T08:57:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/early-voting-for-johor-election-begins-at-64-centres-statewide/226631",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-johor-polls-24-751-early-voters-set-to-cast-ballots-today",
-      "category": "malaysia",
-      "headline": "Johor polls: 24,751 early voters set to cast ballots today",
-      "summary": "Key points: JOHOR BAHRU, July 7 — A total of 24,751 early voters eligible to vote in the 16th Johor state election will cast t...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T08:52:08+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/johor-polls-24751-early-voters-set-to-cast-ballots-today/226629",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-defence-minister-malaysia-to-receive-first-lcs-on-time-despite-missing-anti-ship-m",
-      "category": "malaysia",
-      "headline": "Defence minister: Malaysia to receive first LCS on time despite missing anti-ship missiles",
-      "summary": "Key points: KUALA LUMPUR, July 7 — Malaysia will take delivery of its first Littoral Combat Ship (LCS) as scheduled in Decembe...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T08:51:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/defence-minister-malaysia-to-receive-first-lcs-on-time-despite-missing-anti-ship-missiles/226630",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-samsung-expects-1-800pc-leap-in-quarterly-operating-profit-on-ai-boom",
-      "category": "markets_investment",
-      "headline": "Samsung expects 1,800pc leap in quarterly operating profit on AI boom",
-      "summary": "Key points: South Korean technology giant Samsung Electronics forecast today a roughly 19-fold jump in se...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-07T08:42:09+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/07/samsung-expects-1800pc-leap-in-quarterly-operating-profit-on-ai-boom/226628",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-lim-kit-siang-urges-johoreans-not-to-split-pakatan-vote-in-test-of-the-malaysian-d",
-      "category": "malaysia",
-      "headline": "Lim Kit Siang urges Johoreans not to split Pakatan vote in ‘test of the Malaysian Dream’",
-      "summary": "Key points: JOHOR BAHRU, July 7 — DAP veteran Tan Sri Lim Kit Siang has called on Johoreans not to split Pakatan Harapan&rsquo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T08:34:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/lim-kit-siang-urges-johoreans-not-to-split-pakatan-vote-in-test-of-the-malaysian-dream/226625",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-from-singapore-commutes-to-affordable-housing-what-johor-election-manifestos-promi",
-      "category": "malaysia",
-      "headline": "From Singapore commutes to affordable housing: What Johor election manifestos promise voters",
-      "summary": "Key points: KUALA LUMPUR, July 7 — As the race for the 16th Johor State Election enters its critical phase, the primary politi...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/from-singapore-commutes-to-affordable-housing-what-johor-election-manifestos-promise-voters/226590",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-hate-speech-outruns-facts-on-social-media-because-we-react-strongly-to-emotional-c",
-      "category": "malaysia",
-      "headline": "Hate speech outruns facts on social media because ‘we react strongly to emotional content’, say experts",
-      "summary": "Key points: KUALA LUMPUR, July 7 — With the Online Safety Act 2025 now in force in Malaysia, discussions are continuing on how...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-07T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/07/hate-speech-outruns-facts-on-social-media-because-we-react-strongly-to-emotional-content-say-experts/226553",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-the-end-of-the-us-umbrella-how-europe-is-preparing-for-a-post-trump-nato",
-      "category": "world",
-      "headline": "The end of the US umbrella? How Europe is preparing for a post-Trump Nato",
-      "summary": "Key points: Nato leaders will focus on Europe assuming greater defence responsibility as US commitment faces growing uncertainty.Don...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-07T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/07/the-end-of-the-us-umbrella-how-europe-is-preparing-for-a-post-trump-nato/226538",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-europe-on-fire-19-000-hectares-devastated-as-record-heat-returns-to-south",
-      "category": "world",
-      "headline": "Europe on fire: 19,000 hectares devastated as record heat returns to south",
-      "summary": "Key points: Wildfires across southern Europe have forced mass evacuations, scorched over 19,000 hectares, and threatened communities...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-07T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/07/europe-on-fire-19000-hectares-devastated-as-record-heat-returns-to-south/226527",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-nato-s-mark-rutte-the-trump-whisperer-faces-crucial-test-in-ankara",
-      "category": "world",
-      "headline": "Nato’s Mark Rutte, the Trump whisperer, faces crucial test in Ankara",
-      "summary": "Key points: Mark Rutte uses diplomacy and praise to keep Donald Trump committed to Nato during repeated disputes.Rutte helped secure...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-07T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/07/natos-mark-rutte-the-trump-whisperer-faces-crucial-test-in-ankara/226536",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-07-four-legged-rescuers-bring-hope-and-moments-of-joy-amid-devastation-in-venezuela",
-      "category": "world",
-      "headline": "Four‑legged rescuers bring hope — and moments of joy — amid devastation in Venezuela",
-      "summary": "Key points: MAIQUETÍA (Venezuela), July 7 — Sisu tackles her missions in the rubble left by Venezuela’s two earth...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-07T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/07/fourlegged-rescuers-bring-hope-and-moments-of-joy-amid-devastation-in-venezuela/226535",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-06-calls-to-have-a-drink-ring-out-as-tehran-funeral-events-take-on-fete-like-mood-wit",
-      "category": "world",
-      "headline": "Calls to ‘have a drink’ ring out as Tehran funeral events take on fete‑like mood with free refreshments and electro music",
-      "summary": "Key points: With electronic music blaring and free food and drinks on offer at hundreds of stalls, the area a...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-06T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/06/calls-to-have-a-drink-ring-out-as-tehran-funeral-events-take-on-fetelike-mood-with-free-refreshments-and-electro-music/226530",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-06-sara-duterte-s-impeachment-what-it-means-for-the-philippines-and-her-political-fut",
-      "category": "world",
-      "headline": "Sara Duterte’s impeachment: What it means for the Philippines and her political future",
-      "summary": "Key points: Sara Duterte faces a Senate impeachment trial that could remove her from office and permanently end her electoral career...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-06T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/06/sara-dutertes-impeachment-what-it-means-for-the-philippines-and-her-political-future/226523",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
