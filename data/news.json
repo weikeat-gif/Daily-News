@@ -1,19 +1,99 @@
 {
-  "generated_at": "2026-07-08T18:15:16+08:00",
+  "generated_at": "2026-07-08T20:19:49+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-08-families-mourn-26-killed-in-deadly-sri-lanka-prison-riot",
+      "id": "2026-07-08-mof-unsubsidised-petrol-diesel-prices-remain-unchanged-for-july-9-15",
+      "category": "malaysia",
+      "headline": "MOF: Unsubsidised petrol, diesel prices remain unchanged for July 9-15",
+      "summary": "Key points: KUALA LUMPUR, July 8 — Retail prices of unsubsidised petrol and diesel will remain unchanged from July 9 to 15, as...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T20:15:54+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/mof-unsubsidised-petrol-diesel-prices-remain-unchanged-for-july-9-15/226881",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-liew-chin-tong-govt-approved-rm15-77m-grant-for-suhakam-in-2025-to-cover-operation",
+      "category": "malaysia",
+      "headline": "Liew Chin Tong: Govt approved RM15.77m grant for Suhakam in 2025 to cover operational costs, up RM2.2m from last year",
+      "summary": "Key points: KUALA LUMPUR, July 8 — The government, through the Ministry of Finance (MOF), approved a grant of RM15.77 million...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T20:09:04+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/liew-chin-tong-govt-approved-rm1577m-grant-for-suhakam-in-2025-to-cover-operational-costs-up-rm22m-from-last-year/226879",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-singapore-s-temasek-to-triple-ai-investments-by-2031-targets-15pc-exposure",
       "category": "world",
-      "headline": "Families mourn 26 killed in deadly Sri Lanka prison riot",
-      "summary": "Key points: CNA Latest reports that Families mourn 26 killed in deadly Sri Lanka prison riot.",
+      "headline": "Singapore’s Temasek to triple AI investments by 2031, targets 15pc exposure",
+      "summary": "Key points: Singapore state investor Temasek Holdings, one of the world’s top funds, said on Wednesd...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-08T18:09:00+08:00",
+      "published_at": "2026-07-08T20:07:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/08/singapores-temasek-to-triple-ai-investments-by-2031-targets-15pc-exposure/226880",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-anwar-okays-10-year-extension-of-tar-umt-tax-exemption-says-fahmi",
+      "category": "malaysia",
+      "headline": "Anwar okays 10‑year extension of TAR UMT tax exemption, says Fahmi",
+      "summary": "Key points: KUALA LUMPUR, July 8 — Prime Minister Datuk Seri Anwar Ibrahim has approved a 10-year extension of tax exemption f...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T20:02:20+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/anwar-okays-10year-extension-of-tar-umt-tax-exemption-says-fahmi/226878",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-hsbc-drops-overweight-call-on-em-equities-on-ai-spending-fears",
+      "category": "world",
+      "headline": "HSBC drops 'overweight' call on EM equities on AI spending fears",
+      "summary": "Key points: CNA Latest reports that HSBC drops 'overweight' call on EM equities on AI spending fears.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-08T20:02:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/sri-lanka-prison-riot-26-killed-families-6240811",
+          "url": "https://www.channelnewsasia.com/business/hsbc-drops-overweight-call-em-equities-ai-spending-fears-6241121",
           "publisher_type": "news"
         },
         {
@@ -31,6 +111,212 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-not-just-an-exhibition-malaysia-eyes-boosting-local-defence-capacity-and-literacy-",
+      "category": "malaysia",
+      "headline": "Not just an exhibition: Malaysia eyes boosting local defence capacity and literacy through LIMA’27",
+      "summary": "Key points: KUALA LUMPUR, July 8 — Malaysia seeks to leverage the upcoming Langkawi International Maritime and Aerospace Exhib...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T19:55:56+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/not-just-an-exhibition-malaysia-eyes-boosting-local-defence-capacity-and-literacy-through-lima27/226877",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-citizenship-applications-assessed-on-merits-including-cases-involving-children-bor",
+      "category": "malaysia",
+      "headline": "Citizenship applications assessed on merits, including cases involving children born to Malaysian mothers abroad, says Shamsul Anu",
+      "summary": "Key points: KUALA LUMPUR, July 8 — Opportunities to obtain Malaysian citizenship for individuals facing documentation issues,...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T19:42:06+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/citizenship-applications-assessed-on-merits-including-cases-involving-children-born-to-malaysian-mothers-abroad-says-shamsul-anuar/226876",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-fahmi-govt-orders-immediate-suspension-of-new-defence-procurements-from-norway",
+      "category": "malaysia",
+      "headline": "Fahmi: Govt orders immediate suspension of new defence procurements from Norway",
+      "summary": "Key points: KUALA LUMPUR, July 8 — The government has agreed that the Defence Ministry suspend, with immediate effect, any pro...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T19:31:18+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/fahmi-govt-orders-immediate-suspension-of-new-defence-procurements-from-norway/226875",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-court-allows-najib-s-presence-at-hearing-on-malaysian-bar-s-challenge-to-src-inter",
+      "category": "malaysia",
+      "headline": "Court allows Najib’s presence at hearing on Malaysian Bar’s challenge to SRC International pardon on July 31",
+      "summary": "Key points: The Court of Appeal today granted former prime minister Datuk Seri Najib Razak permission to a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T19:13:03+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/court-allows-najibs-presence-at-hearing-on-malaysian-bars-challenge-to-src-international-pardon-on-july-31/226873",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-fahmi-govt-retains-mandatory-retirement-age-for-civil-servants-at-60",
+      "category": "malaysia",
+      "headline": "Fahmi: Govt retains mandatory retirement age for civil servants at 60",
+      "summary": "Key points: KUALA LUMPUR, July 8 — The government has decided that there is no need to increase the mandatory retirement age f...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T19:00:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/fahmi-govt-retains-mandatory-retirement-age-for-civil-servants-at-60/226871",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-mof-madani-govt-continues-working-with-bnm-banking-industry-to-ensure-financial-sy",
+      "category": "malaysia",
+      "headline": "MOF: Madani govt continues working with BNM, banking industry to ensure financial system remains stable",
+      "summary": "Key points: KUALA LUMPUR, July 8 — The Madani government will continue to work closely with Bank Negara Malaysia (BNM) and the...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T18:51:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/mof-madani-govt-continues-working-with-bnm-banking-industry-to-ensure-financial-system-remains-stable/226870",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "bnm",
+        "bank negara"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-trump-says-ceasefire-with-iran-over-after-strait-of-hormuz-clashes",
+      "category": "world",
+      "headline": "Trump says ceasefire with Iran ‘over’ after Strait of Hormuz clashes",
+      "summary": "Key points: US President Donald Trump said the ceasefire with Iran was “over” Wednesday but left...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-08T18:47:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/08/trump-says-ceasefire-with-iran-over-after-strait-of-hormuz-clashes/226869",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-anwar-malaysia-uae-to-boost-cooperation-discuss-ai-defence-and-regional-issues",
+      "category": "malaysia",
+      "headline": "Anwar: Malaysia, UAE to boost cooperation, discuss AI, defence and regional issues",
+      "summary": "Key points: KUALA LUMPUR, July 8 — Malaysia and the United Arab Emirates (UAE) remain committed to strengthening bilateral rel...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T18:45:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/anwar-malaysia-uae-to-boost-cooperation-discuss-ai-defence-and-regional-issues/226868",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "anwar",
+        "rate"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-high-court-greenlights-contempt-case-against-negeri-sembilan-undang-over-appointme",
+      "category": "malaysia",
+      "headline": "High Court greenlights contempt case against Negeri Sembilan Undang over appointment dispute",
+      "summary": "Key points: The High Court here has allowed contempt proceedings to move forward against Negeri Sembilan&rs...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T18:18:16+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/high-court-greenlights-contempt-case-against-negeri-sembilan-undang-over-appointment-dispute/226866",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-08-tengku-zafrul-tells-court-pm-s-minutes-are-instructions-says-he-usually-acted-on-a",
+      "category": "malaysia",
+      "headline": "Tengku Zafrul tells court PM’s minutes are ‘instructions’, says he usually acted on all minutes issued by then‑PM Muhyiddin",
+      "summary": "Key points: KUALA LUMPUR, July 8 — Former finance minister Datuk Seri Tengku Zafrul Abdul Aziz today said he had considered Ta...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T18:15:10+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/tengku-zafrul-tells-court-pms-minutes-are-instructions-says-he-usually-acted-on-all-minutes-issued-by-thenpm-muhyiddin/226862",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -924,299 +1210,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/08/gazetted-kl-green-spaces-can-be-leased-for-non-green-uses-says-land-office/226794",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-selangor-sultan-does-not-consent-to-friday-prayers-at-shopping-malls",
-      "category": "malaysia",
-      "headline": "Selangor Sultan does not consent to Friday prayers at shopping malls",
-      "summary": "Key points: SHAH ALAM, July 8 — The Sultan of Selangor, Sultan Sharafuddin Idris Shah, has not granted consent for...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-08T10:27:07+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/selangor-sultan-does-not-consent-to-friday-prayers-at-shopping-malls/226788",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-excess-cash-holdings-weak-capital-allocation-weigh-on-malaysia-s-market-valuation-",
-      "category": "markets_investment",
-      "headline": "Excess cash holdings, weak capital allocation weigh on Malaysia’s market valuation — CIMB IB - The Edge Malaysia",
-      "summary": "Key points: Excess cash holdings, weak capital allocation weigh on Malaysia’s market valuation — CIMB IB The Edge Malaysia",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-08T10:26:32+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tZlQtQ01yQnY4aFlWeVY1MGtVQXNQM1ZZeG5wZG0yV1JqRHFlcU9KRGFGTlowYzdrWnJkX3ljb1JkcG1jdHdjSTl6U2xuOUdF?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-bn-does-not-deserve-second-chance-over-johor-development-failures-says-lim-guan-en",
-      "category": "malaysia",
-      "headline": "BN does not deserve second chance over Johor development failures, says Lim Guan Eng",
-      "summary": "Key points: BATU PAHAT, July 8 — DAP chairman Lim Guan Eng has claimed that Barisan Nasional (BN) does not deserve a sec...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-08T10:20:54+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/bn-does-not-deserve-second-chance-over-johor-development-failures-says-lim-guan-eng/226787",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-ireland-passes-bill-banning-goods-from-israeli-settlements",
-      "category": "world",
-      "headline": "Ireland passes Bill banning goods from Israeli settlements",
-      "summary": "Key points: Ireland’s parliament yesterday approved legislation banning imports of goods from Isra...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-08T10:18:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/08/ireland-passes-bill-banning-goods-from-israeli-settlements/226779",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-perak-s-tvet-elderly-care-programme-projected-to-generate-rm1-75m-income-for-pract",
-      "category": "malaysia",
-      "headline": "Perak’s TVET elderly care programme projected to generate RM1.75m income for practitioners",
-      "summary": "Key points: The Technical and Vocational Education and Training (TVET) Elderly Care Programme implem...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-08T10:14:20+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/peraks-tvet-elderly-care-programme-projected-to-generate-rm175m-income-for-practitioners/226786",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-thunderstorm-warning-issued-for-parts-of-peninsular-malaysia-sarawak-and-labuan",
-      "category": "malaysia",
-      "headline": "Thunderstorm warning issued for parts of peninsular Malaysia, Sarawak and Labuan",
-      "summary": "Key points: KUALA LUMPUR, July 8 — The Malaysian Meteorological Department (MetMalaysia) has issued a thunderstorm...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-08T10:11:28+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/thunderstorm-warning-issued-for-parts-of-peninsular-malaysia-sarawak-and-labuan/226785",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-in-dewan-rakyat-today-mps-to-raise-lpt3-plans-crackdown-on-harmful-vape-products",
-      "category": "malaysia",
-      "headline": "In Dewan Rakyat today: MPs to raise LPT3 plans, crackdown on harmful vape products",
-      "summary": "Key points: KUALA LUMPUR, July 8 — The proposed implementation of the East Coast Expressway Phase 3 (LPT3) through a pub...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-08T10:09:21+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/in-dewan-rakyat-today-mps-to-raise-lpt3-plans-crackdown-on-harmful-vape-products/226784",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-international-sting-arrests-24-over-india-based-organised-crime-linked-to-murder-o",
-      "category": "world",
-      "headline": "International sting arrests 24 over India-based organised crime, linked to murder of Sikh activist",
-      "summary": "Key points: LOS ANGELES, July 8 —An international operation against Indian organised crime groups has led to 24 arrests, US of...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-08T09:48:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/08/international-sting-arrests-24-over-india-based-organised-crime-linked-to-murder-of-sikh-activist/226776",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-kedah-student-falls-from-third-floor-while-trying-to-catch-pigeon-in-ceiling-space",
-      "category": "malaysia",
-      "headline": "Kedah student falls from third floor while trying to catch pigeon in ceiling space",
-      "summary": "Key points: ALOR SETAR, July 8 — The Kedah State Education Department (JPN Kedah) has confirmed an incident yesterday&nb...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-08T09:32:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/kedah-student-falls-from-third-floor-while-trying-to-catch-pigeon-in-ceiling-space/226775",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-ringgit-opens-higher-against-major-currencies-eases-against-the-us-dollar",
-      "category": "markets_investment",
-      "headline": "Ringgit opens higher against major currencies, eases against the US dollar",
-      "summary": "Key points: KUALA LUMPUR, July 8 — The ringgit opened higher against major currencies but eased against the US dollar on...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-08T09:32:07+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/08/ringgit-opens-higher-against-major-currencies-eases-against-the-us-dollar/226772",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-police-uncover-suspected-illegal-e-waste-facility-in-bukit-tengah-11-foreigners-he",
-      "category": "malaysia",
-      "headline": "Police uncover suspected illegal e-waste facility in Bukit Tengah, 11 foreigners held",
-      "summary": "Key points: BUKIT MERTAJAM, July 8 — Police raided a premises in Lorong Pengkalan Indah, Bukit Tengah, yesterday an...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-08T09:29:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/police-uncover-suspected-illegal-e-waste-facility-in-bukit-tengah-11-foreigners-held/226773",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-us-strikes-iran-after-hormuz-attacks-tehran-threatens-response",
-      "category": "world",
-      "headline": "US strikes Iran after Hormuz attacks, Tehran threatens response",
-      "summary": "Key points: US forces launched strikes on Iran yesterday after three commercial vessels were attacked in...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-08T09:20:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/08/us-strikes-iran-after-hormuz-attacks-tehran-threatens-response/226771",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-oil-rises-moderately-as-mideast-tensions-spike-again",
-      "category": "markets_investment",
-      "headline": "Oil rises moderately as Mideast tensions spike again",
-      "summary": "Key points: The benchmark US oil contract increased more than 2.5 per cent when markets opened today, as...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-08T09:16:07+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/08/oil-rises-moderately-as-mideast-tensions-spike-again/226770",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "market",
-        "markets",
-        "oil",
-        "rate"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-ngo-urges-whole-school-safeguarding-approach-after-school-stabbing-in-banting",
-      "category": "malaysia",
-      "headline": "NGO urges whole-school safeguarding approach after school stabbing in Banting",
-      "summary": "Key points: KUALA LUMPUR, July 8 — The Education Ministry has been urged to strengthen and implement the Safe Schoo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-08T08:56:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/ngo-urges-whole-school-safeguarding-approach-after-school-stabbing-in-banting/226766",
           "publisher_type": "news"
         }
       ],
