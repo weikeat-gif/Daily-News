@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-08T23:20:36+08:00",
+  "generated_at": "2026-07-09T01:27:27+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-08-henderson-rejoins-england-squad-after-surgery-in-kansas-city",
+      "id": "2026-07-09-ukraine-s-kostyuk-speaks-out-against-lifting-of-russia-s-olympic-suspension",
       "category": "world",
-      "headline": "Henderson rejoins England squad after surgery in Kansas City",
-      "summary": "Key points: CNA Latest reports that Henderson rejoins England squad after surgery in Kansas City.",
+      "headline": "Ukraine's Kostyuk speaks out against lifting of Russia's Olympic suspension",
+      "summary": "Key points: CNA Latest reports that Ukraine's Kostyuk speaks out against lifting of Russia's Olympic suspension.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-08T23:10:23+08:00",
+      "published_at": "2026-07-09T01:21:33+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/henderson-rejoins-england-squad-after-surgery-in-kansas-city-6241546",
+          "url": "https://www.channelnewsasia.com/sport/ukraines-kostyuk-speaks-out-against-lifting-russias-olympic-suspension-6241866",
           "publisher_type": "news"
         },
         {
@@ -1070,6 +1070,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-07-08-second-wave-of-data-centre-boom-is-here-says-kenanga-as-infrastructure-projects-sl",
+      "category": "malaysia",
+      "headline": "Second wave of data centre boom is here, says Kenanga, as infrastructure projects slow - The Edge Malaysia",
+      "summary": "Key points: Second wave of data centre boom is here, says Kenanga, as infrastructure projects slow The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-08T12:47:56+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wRF81bE53dGJIeEdURjVaOWNPYTRzVmJJZHJ3c0MySlZUYzBMVVdLMFBldW9Ha2lDLWdMRk93ZC1jbDgtZG1tUEt0b3pmN0li?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-07-08-johor-polls-over-300-000-voters-expected-to-travel-home-heavier-traffic-anticipate",
       "category": "malaysia",
       "headline": "Johor polls: Over 300,000 voters expected to travel home, heavier traffic anticipated, says LLM",
@@ -1180,26 +1210,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/08/speaker-urges-mps-to-undergo-regular-health-screenings-as-kuala-terengganu-mp-is-hospitalised-at-ijn/226805",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-08-malaysia-targets-30-000-ev-charging-points-by-2030-says-miti",
-      "category": "malaysia",
-      "headline": "Malaysia targets 30,000 EV charging points by 2030, says Miti",
-      "summary": "Key points: KUALA LUMPUR, July 8 — The government is working with stakeholders, including Tenaga Nasional Berhad (TNB),...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-08T11:52:55+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/08/malaysia-targets-30000-ev-charging-points-by-2030-says-miti/226802",
           "publisher_type": "news"
         }
       ],
