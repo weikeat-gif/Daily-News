@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-09T21:48:35+08:00",
+  "generated_at": "2026-07-10T00:26:30+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-09-italy-privacy-watchdog-fines-character-ai-owner-over-age-check-failures",
+      "id": "2026-07-10-india-clears-dixon-vivo-jv-for-domestic-smartphone-manufacturing",
       "category": "world",
-      "headline": "Italy privacy watchdog fines Character.AI owner over age-check failures",
-      "summary": "Key points: CNA Latest reports that Italy privacy watchdog fines Character.AI owner over age-check failures.",
+      "headline": "India clears Dixon-Vivo JV for domestic smartphone manufacturing",
+      "summary": "Key points: CNA Latest reports that India clears Dixon-Vivo JV for domestic smartphone manufacturing.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-09T21:30:00+08:00",
+      "published_at": "2026-07-10T00:01:16+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/italy-privacy-watchdog-fines-characterai-owner-over-age-check-failures-6244191",
+          "url": "https://www.channelnewsasia.com/business/india-clears-dixon-vivo-jv-domestic-smartphone-manufacturing-6244501",
           "publisher_type": "news"
         },
         {
@@ -91,6 +91,36 @@
         "latest update"
       ],
       "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-09-bursa-malaysia-may-get-its-first-ever-listing-of-video-game-publisher-the-edge-mal",
+      "category": "markets_investment",
+      "headline": "Bursa Malaysia may get its first ever listing of video game publisher - The Edge Malaysia",
+      "summary": "Key points: Bursa Malaysia may get its first ever listing of video game publisher The Edge Malaysia",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-09T19:21:59+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yWmtzLU1EajZqWEFPdURFckN1cW9SVlUtd2U4VWtfNmpsamhxanhwLWwzaGIweEMxYnhrcjBsN25fR0Z3RkdWd0xuekw1aXNt?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1216,26 +1246,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-09-home-minister-says-78-rohingya-granted-refugee-status-25-eligible-for-work-under-d",
-      "category": "malaysia",
-      "headline": "Home minister says 78 Rohingya granted refugee status, 25 eligible for work under DPP pilot scheme",
-      "summary": "Key points: KUALA LUMPUR, July 9 — A total of 78 Myanmar nationals of Rohingya ethnicity have been granted refugee status unde...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-09T10:36:24+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/09/home-minister-says-78-rohingya-granted-refugee-status-25-eligible-for-work-under-dpp-pilot-scheme/226931",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
