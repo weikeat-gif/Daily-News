@@ -1,19 +1,59 @@
 {
-  "generated_at": "2026-07-11T06:00:17+08:00",
+  "generated_at": "2026-07-11T07:08:34+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-11-how-hangzhou-born-jeweller-feng-j-became-one-of-high-jewellery-s-most-sought-after",
+      "id": "2026-07-11-all-eyes-on-turnout-as-johor-heads-to-polls-today",
+      "category": "malaysia",
+      "headline": "All eyes on turnout as Johor heads to polls today",
+      "summary": "Key points: JOHOR BAHRU, July 11 — Johor voters head to the polls today in what analysts say will be a closely watched test no...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-11T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/11/all-eyes-on-turnout-as-johor-heads-to-polls-today/226872",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-11-kazakhstan-s-gas-dilemma-why-millions-still-depend-on-ageing-cylinders-despite-vas",
+      "category": "markets_investment",
+      "headline": "Kazakhstan’s gas dilemma: Why millions still depend on ageing cylinders despite vast reserves",
+      "summary": "Key points: The last thing Zarina Giyassova recalls before she lost consciousness in a deadly gas...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-11T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/11/kazakhstans-gas-dilemma-why-millions-still-depend-on-ageing-cylinders-despite-vast-reserves/227076",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-11-spain-s-super-sub-merino-delivers-again-to-set-up-france-semi-final",
       "category": "world",
-      "headline": "How Hangzhou-born jeweller Feng J became one of high jewellery’s most sought-after names",
-      "summary": "Key points: From multimillion-dollar auction sales to museum recognition and celebrity clients, the Chinese artist-jeweller has built a distinctive language around painterly gemstones and floating settings.",
+      "headline": "Spain's super sub Merino delivers again to set up France semi-final",
+      "summary": "Key points: CNA Latest reports that Spain's super sub Merino delivers again to set up France semi-final.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-11T05:39:00+08:00",
+      "published_at": "2026-07-11T06:53:26+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/people/feng-j-chinese-jeweller-high-jewellery-6237746",
+          "url": "https://www.channelnewsasia.com/sport/spains-super-sub-merino-delivers-again-set-up-france-semi-final-6247531",
           "publisher_type": "news"
         },
         {
@@ -1190,49 +1230,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-10-bnm-governor-says-opr-adjustments-will-be-data-dependent-on-growth-and-inflation-t",
-      "category": "malaysia",
-      "headline": "BNM governor says OPR adjustments will be data‑dependent on growth and inflation trends",
-      "summary": "Key points: KUALA LUMPUR, July 10 — At its current level of 2.75 per cent, the overnight policy rate (OPR) remains appropriate...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-10T11:20:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/10/bnm-governor-says-opr-adjustments-will-be-datadependent-on-growth-and-inflation-trends/227060",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "kuala lumpur",
-        "bnm",
-        "inflation",
-        "rate"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-10-taiwan-braces-for-biggest-typhoon-in-decades-as-bavi-forces-evacuations",
-      "category": "world",
-      "headline": "Taiwan braces for biggest typhoon in decades as Bavi forces evacuations",
-      "summary": "Key points: Hundreds of people in Taiwan have been evacuated from their homes, and many schools...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-10T11:20:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/10/taiwan-braces-for-biggest-typhoon-in-decades-as-bavi-forces-evacuations/227061",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
