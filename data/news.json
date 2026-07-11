@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-12T06:45:19+08:00",
+  "generated_at": "2026-07-12T07:53:24+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-12-mitchell-out-of-england-s-trip-to-argentina",
+      "id": "2026-07-12-iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit",
       "category": "world",
-      "headline": "Mitchell out of England’s trip to Argentina",
-      "summary": "Key points: CNA Latest reports that Mitchell out of England’s trip to Argentina.",
+      "headline": "Iran declares Strait of Hormuz closed as 'unauthorised' vessel hit",
+      "summary": "Key points: Iran's Islamic Revolutionary Guard Corps said that several ships attempted to move through the waterway on an \"unauthorised route\" and disregarded warnings to correct their course.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-12T06:23:09+08:00",
+      "published_at": "2026-07-12T07:36:56+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/mitchell-out-englands-trip-argentina-6248561",
+          "url": "https://www.channelnewsasia.com/world/iran-strait-hormuz-closed-unauthorised-vessel-hit-6248636",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,46 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-12-mediators-try-to-salvage-diplomacy-after-us-iran-escalation",
+      "category": "world",
+      "headline": "Mediators try to salvage diplomacy after US-Iran escalation",
+      "summary": "Key points: Mediators were trying to salvage diplomacy aimed at ending the Middle East war after US Presiden...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-12T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/12/mediators-try-to-salvage-diplomacy-after-us-iran-escalation/227231",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-12-boeing-unveils-new-737-max-production-line-as-aviation-giant-charts-comeback",
+      "category": "world",
+      "headline": "Boeing unveils new 737 MAX production line as aviation giant charts comeback",
+      "summary": "Key points: EVERETT, US, July 11 — Boeing marked another step in a marathon comeback yesterday when it celebrated expande...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-12T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/12/boeing-unveils-new-737-max-production-line-as-aviation-giant-charts-comeback/227213",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1177,46 +1217,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/11/rafizi-says-bersama-aims-to-break-malaysias-race-based-politics-with-multiracial-platform/227159",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-11-mid-air-scare-as-ryanair-passenger-is-nearly-sucked-out-of-broken-window-on-boeing",
-      "category": "world",
-      "headline": "Mid-air scare as Ryanair passenger is nearly sucked out of broken window on Boeing plane",
-      "summary": "Key points: THESSALONIKI (Greece), July 11 — A man was nearly sucked out the window of a Ryanair flight when it “detache...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-11T08:54:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/11/mid-air-scare-as-ryanair-passenger-is-nearly-sucked-out-of-broken-window-on-boeing-plane/227153",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-11-vigneswaran-confident-mic-can-retain-indian-support-in-johor-election",
-      "category": "malaysia",
-      "headline": "Vigneswaran confident MIC can retain Indian support in Johor election",
-      "summary": "Key points: MIC president Tan Sri S.A. Vigneswaran is confident that the Indian community will con...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-11T08:46:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/11/vigneswaran-confident-mic-can-retain-indian-support-in-johor-election/227158",
           "publisher_type": "news"
         }
       ],
