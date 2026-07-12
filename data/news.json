@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-13T06:45:05+08:00",
+  "generated_at": "2026-07-13T07:52:03+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-13-us-military-says-began-new-wave-of-strikes-in-iran",
+      "id": "2026-07-13-south-korean-navy-recovers-body-of-seaman-missing-near-north-korean-border",
       "category": "world",
-      "headline": "US military says began new wave of strikes in Iran",
-      "summary": "Key points: The strikes are aimed to \"continue degrading\" Tehran's ability to attack commercial ships in the Strait of Hormuz, the US said.",
+      "headline": "South Korean navy recovers body of seaman missing near North Korean border",
+      "summary": "Key points: CNA Latest reports that South Korean navy recovers body of seaman missing near North Korean border.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-13T06:06:00+08:00",
+      "published_at": "2026-07-13T07:45:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/us-new-strikes-iran-hormuz-6249701",
+          "url": "https://www.channelnewsasia.com/east-asia/south-korea-navy-missing-seaman-north-korea-border-6249716",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,46 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-13-democratic-pastors-run-to-reclaim-jesus-from-trump-s-republicans",
+      "category": "world",
+      "headline": "Democratic pastors run to reclaim Jesus from Trump’s Republicans",
+      "summary": "Key points: A band of white Democratic pastors have a striking message ahead of November’s US...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-13T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/13/democratic-pastors-run-to-reclaim-jesus-from-trumps-republicans/227298",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-13-west-afghanistan-female-dress-code-crackdown-hits-businesses",
+      "category": "world",
+      "headline": "West Afghanistan female dress-code crackdown hits businesses",
+      "summary": "Key points: HERAT (Afghanistan), July 13 — Businesses in Afghanistan’s western city of Herat have suffered fro...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-13T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/13/west-afghanistan-female-dress-code-crackdown-hits-businesses/227300",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1148,46 +1188,6 @@
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-11-ec-tally-shows-bn-wins-landslide-johor-victory-with-48-seats-pakatan-reduced-to-ei",
-      "category": "malaysia",
-      "headline": "EC tally shows BN wins landslide Johor victory with 48 seats, Pakatan reduced to eight",
-      "summary": "Key points: JOHOR BAHRU, July 11 — Barisan Nasional (BN) secured a landslide victory in the 16th Johor state election today, w...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-11T23:15:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/11/ec-tally-shows-bn-wins-landslide-johor-victory-with-48-seats-pakatan-reduced-to-eight/227242",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-11-ec-confirms-unofficial-results-give-bn-simple-majority-in-johor",
-      "category": "malaysia",
-      "headline": "EC confirms unofficial results give BN simple majority in Johor",
-      "summary": "Key points: JOHOR BAHRU, July 11 — Unofficial results announced by the Election Commission (EC) show that Barisan Nasional (BN...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-11T22:13:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/11/ec-confirms-unofficial-results-give-bn-simple-majority-in-johor/227241",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "verified"
     },
     {
       "id": "2026-07-11-ringgit-holds-steady-but-next-us-inflation-print-could-shake-things-up",
