@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-14T00:31:13+08:00",
+  "generated_at": "2026-07-14T02:42:39+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-13-california-11-states-suing-to-block-paramount-s-110-billion-warner-bros-deal",
+      "id": "2026-07-14-canada-regulator-cited-anthropic-s-claude-mythos-in-warning-to-banks-on-cyber-risk",
       "category": "world",
-      "headline": "California, 11 states suing to block Paramount's $110 billion Warner Bros deal",
-      "summary": "Key points: CNA Latest reports that California, 11 states suing to block Paramount's $110 billion Warner Bros deal.",
+      "headline": "Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows",
+      "summary": "Key points: CNA Latest reports that Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-13T23:58:47+08:00",
+      "published_at": "2026-07-14T02:07:24+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/california-11-states-suing-block-paramounts-110-billion-warner-bros-deal-6251666",
+          "url": "https://www.channelnewsasia.com/business/canada-regulator-cited-anthropics-claude-mythos-in-warning-banks-cyber-risks-email-shows-6251836",
           "publisher_type": "news"
         },
         {
@@ -31,7 +31,7 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
+      "confidence": "verified"
     },
     {
       "id": "2026-07-13-malaysian-schools-need-more-mental-health-professionals-amid-rising-student-crises",
@@ -194,6 +194,36 @@
         "latest update"
       ],
       "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-13-nam-news-network-nnn-james-turns-focus-to-argentina-after-overcoming-world-cup-inj",
+      "category": "world",
+      "headline": "Nam News Network (NNN) - James Turns Focus To Argentina After Overcoming World Cup Injury - web29.bernama.com",
+      "summary": "Key points: Nam News Network (NNN) - James Turns Focus To Argentina After Overcoming World Cup Injury web29.bernama.com",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-13T19:43:56+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ISk9TVmpqLXZnV0ltSnBwbkVTYVFvdU5NVlE0N3ExR2tXOS0tSzZLY0Q0XzNsLVdCbkxXZGhiQ2hxSkprZU5CaThRckRIb1FGU0pjdzZxWFgyVzJaeHc?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1197,26 +1227,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-13-police-hunt-two-men-after-youtuber-badly-hurt-in-bandar-sri-damansara-attack",
-      "category": "malaysia",
-      "headline": "Police hunt two men after YouTuber badly hurt in Bandar Sri Damansara attack",
-      "summary": "Key points: PETALING JAYA, July 13 — A YouTuber and football commentator suffered serious injuries after being assaulted...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-13T13:27:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/13/police-hunt-two-men-after-youtuber-badly-hurt-in-bandar-sri-damansara-attack/227399",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
