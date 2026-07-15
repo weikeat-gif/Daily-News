@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-15T22:48:40+08:00",
+  "generated_at": "2026-07-16T00:19:58+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-15-five-cloud-business-groups-urge-eu-interim-measures-against-broadcom",
-      "category": "world",
-      "headline": "Five cloud business groups urge EU interim measures against Broadcom",
-      "summary": "Key points: CNA Latest reports that Five cloud business groups urge EU interim measures against Broadcom.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-15T22:16:47+08:00",
+      "id": "2026-07-16-stocks-rise-after-soft-us-inflation-reading-with-middle-east-in-focus",
+      "category": "markets_investment",
+      "headline": "Stocks rise after soft US inflation reading with Middle East in focus",
+      "summary": "Key points: CNA Latest reports that Stocks rise after soft US inflation reading with Middle East in focus.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-16T00:12:36+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/five-cloud-business-groups-urge-eu-interim-measures-against-broadcom-6256441",
+          "url": "https://www.channelnewsasia.com/business/stocks-rise-after-soft-us-inflation-reading-middle-east-in-focus-6254956",
           "publisher_type": "news"
         },
         {
@@ -1029,6 +1029,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-07-15-eg-industries-clinches-us-100m-deal-with-us-tech-firm-to-manufacture-advanced-open",
+      "category": "malaysia",
+      "headline": "EG Industries clinches US$100m deal with US tech firm to manufacture advanced open networking switches - The Edge Malaysia",
+      "summary": "Key points: EG Industries clinches US$100m deal with US tech firm to manufacture advanced open networking switches The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-15T13:58:11+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YYlE2VS1mNGxwWE1DVnRqeDFuSU4tZngwN085ZXlSWlpKQWJQSjZmSzRIV2lUd2FUTk9mcVc2ankybmZmWjZLS2hzdnNkOFRZ?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-07-15-sabah-seeks-budi-diesel-revamp-as-state-highlights-burden-on-farmers-rural-communi",
       "category": "malaysia",
       "headline": "Sabah seeks Budi Diesel revamp as state highlights burden on farmers, rural communities",
@@ -1199,26 +1229,6 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/07/15/japan-family-finds-bear-inside-kitchen-after-animal-breaks-into-home-and-raids-fridge/227656",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-15-china-s-economy-expands-4-3pc-in-second-quarter-as-property-crisis-and-spending-sl",
-      "category": "world",
-      "headline": "China's economy expands 4.3pc in second quarter as property crisis and spending slump persist",
-      "summary": "Key points: China’s economy grew at its weakest pace in more than three years during the second...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-15T12:26:55+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/15/chinas-economy-expands-43pc-in-second-quarter-as-property-crisis-and-spending-slump-persist/227652",
           "publisher_type": "news"
         }
       ],
