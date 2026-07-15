@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-16T02:05:33+08:00",
+  "generated_at": "2026-07-16T04:06:53+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-16-musk-s-xai-sues-grok-user-over-sexualized-deepfakes",
+      "id": "2026-07-16-france-s-parliament-adopts-assisted-dying-law",
       "category": "world",
-      "headline": "Musk's xAI sues Grok user over sexualized 'deepfakes'",
-      "summary": "Key points: CNA Latest reports that Musk's xAI sues Grok user over sexualized 'deepfakes'.",
+      "headline": "France's parliament adopts assisted dying law",
+      "summary": "Key points: The legislation now awaits approval from the country's highest constitutional authority before it can become law.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-16T01:51:54+08:00",
+      "published_at": "2026-07-16T03:33:20+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/musks-xai-sues-grok-user-over-sexualized-deepfakes-6256786",
+          "url": "https://www.channelnewsasia.com/world/assisted-dying-law-france-parliament-protest-6256866",
           "publisher_type": "news"
         },
         {
@@ -966,6 +966,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-07-15-hyrox-emerges-as-malaysia-s-new-fitness-craze-bernama",
+      "category": "malaysia",
+      "headline": "Hyrox Emerges As Malaysia's New Fitness Craze - bernama",
+      "summary": "Key points: Hyrox Emerges As Malaysia's New Fitness Craze bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-15T14:42:28+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VNV9nc0tFR2k0ODc2R1dHTjJBREoyUEJOZnlGeGdydnNWS2stX1h0bVBhNXdNTWZUNFJZWkNyamJHaUdHVlNTbXN6N2lXeXlwY0ExTTF1Vk96VGpNUWhxWGpR?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-07-15-vietnam-jewellery-giant-caught-up-in-probe-into-alleged-us-11m-diamond-smuggling-r",
       "category": "world",
       "headline": "Vietnam jewellery giant caught up in probe into alleged US$11m diamond smuggling ring",
@@ -1216,26 +1246,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-15-japan-family-finds-bear-inside-kitchen-after-animal-breaks-into-home-and-raids-fri",
-      "category": "world",
-      "headline": "Japan family finds bear inside kitchen after animal breaks into home and raids fridge",
-      "summary": "Key points: A family in northern Japan called police after finding a bear in their kitchen, an official...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-15T12:34:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/15/japan-family-finds-bear-inside-kitchen-after-animal-breaks-into-home-and-raids-fridge/227656",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
