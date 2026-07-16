@@ -1,8 +1,641 @@
 {
-  "generated_at": "2026-07-16T13:38:43+08:00",
+  "generated_at": "2026-07-16T16:09:26+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-07-16-national-trust-fund-bill-2026-passed-with-tighter-rules-on-contributions-withdrawa",
+      "category": "malaysia",
+      "headline": "National Trust Fund Bill 2026 passed with tighter rules on contributions, withdrawals and governance",
+      "summary": "Key points: KUALA LUMPUR, July 16 — The Dewan Rakyat today passed the National Trust Fund (KWAN) Bill 2026 which st...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T16:02:18+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/national-trust-fund-bill-2026-passed-with-tighter-rules-on-contributions-withdrawals-and-governance/227855",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-zara-qairina-s-early-months-at-boarding-school-marked-by-stress-peer-tensions-inqu",
+      "category": "malaysia",
+      "headline": "Zara Qairina’s early months at boarding school marked by stress, peer tensions, inquest told",
+      "summary": "Key points: KOTA KINABALU, July 16 — The Coroner’s Court here today heard that Zara Qairina Mahathir experienced d...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T15:59:39+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/zara-qairinas-early-months-at-boarding-school-marked-by-stress-peer-tensions-inquest-told/227854",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-russian-missiles-strike-kyiv-districts-killing-two-officials-say",
+      "category": "world",
+      "headline": "Russian missiles strike Kyiv districts, killing two, officials say",
+      "summary": "Key points: CNA Latest reports that Russian missiles strike Kyiv districts, killing two, officials say.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-16T15:55:31+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/russian-missiles-strike-kyiv-districts-killing-two-officials-say-6257791",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-07-16-israel-says-troops-to-remain-in-lebanon-syria-and-gaza-security-zones-despite-us-p",
+      "category": "world",
+      "headline": "Israel says troops to remain in Lebanon, Syria and Gaza ‘security zones’ despite US push for pullback",
+      "summary": "Key points: Israel’s Defence Minister Israel Katz told his US counterpart Pete Hegseth early Thursd...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-16T15:54:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/16/israel-says-troops-to-remain-in-lebanon-syria-and-gaza-security-zones-despite-us-push-for-pullback/227853",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-south-korea-central-bank-raises-rates-for-first-time-in-three-years-as-chip-export",
+      "category": "markets_investment",
+      "headline": "South Korea central bank raises rates for first time in three years as chip exports surge",
+      "summary": "Key points: South Korea’s central bank hiked interest rates Thursday for the first time in more than th...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-16T15:40:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/16/south-korea-central-bank-raises-rates-for-first-time-in-three-years-as-chip-exports-surge/227850",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-kl-s-new-lalaport-transport-hub-targets-10-000-passengers-a-day-says-hannah-yeoh",
+      "category": "malaysia",
+      "headline": "KL’s new LaLaport transport hub targets 10,000 passengers a day, says Hannah Yeoh",
+      "summary": "Key points: KUALA LUMPUR, July 16 — Kuala Lumpur’s newest integrated transport hub is targeting up to 10,000 passengers...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T15:37:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/kls-new-lalaport-transport-hub-targets-10000-passengers-a-day-says-hannah-yeoh/227849",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-ai-boom-powers-tsmc-to-record-rm89-6b-quarterly-profit",
+      "category": "markets_investment",
+      "headline": "AI boom powers TSMC to record RM89.6b quarterly profit",
+      "summary": "Key points: Taiwanese chipmaker TSMC reported a record net profit for the second quarter on Thursday, fuelle...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-16T15:33:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/16/ai-boom-powers-tsmc-to-record-rm896b-quarterly-profit/227847",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-court-of-appeal-upholds-mentega-terbang-ban-rules-film-censorship-powers-constitut",
+      "category": "malaysia",
+      "headline": "Court of Appeal upholds ‘Mentega Terbang’ ban, rules film censorship powers constitutional",
+      "summary": "Key points: KUALA LUMPUR, July 16 — Malaysia’s Court of Appeal has upheld the government’s ban on the controversia...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T15:31:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/court-of-appeal-upholds-mentega-terbang-ban-rules-film-censorship-powers-constitutional/227845",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-tiktok-shop-closes-in-on-shopee-as-usage-rises-to-62pc-among-malaysian-online-shop",
+      "category": "malaysia",
+      "headline": "TikTok Shop closes in on Shopee as usage rises to 62pc among Malaysian online shoppers, Ipsos survey finds",
+      "summary": "Key points: KUALA LUMPUR, July 16 — More Malaysians are turning to e-commerce platforms for everyday purchases, with TikTok Sh...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T15:25:51+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/16/tiktok-shop-closes-in-on-shopee-as-usage-rises-to-62pc-among-malaysian-online-shoppers-ipsos-survey-finds/227842",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-malaysia-condemns-israel-s-latest-settlement-expansion-in-occupied-palestinian-ter",
+      "category": "malaysia",
+      "headline": "Malaysia condemns Israel’s latest settlement expansion in Occupied Palestinian Territory",
+      "summary": "Key points: KUALA LUMPUR, July 16 — Malaysia strongly condemns Israel’s latest announcement of a US$2.3 billion settleme...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T15:22:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/malaysia-condemns-israels-latest-settlement-expansion-in-occupied-palestinian-territory/227844",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-supermarket-worker-charged-with-murdering-newborn-baby-in-subang-jaya",
+      "category": "malaysia",
+      "headline": "Supermarket worker charged with murdering newborn baby in Subang Jaya",
+      "summary": "Key points: SHAH ALAM, July 16 — A supermarket sales assistant was charged at the Magistrate’s Court here today with the...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T15:18:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/supermarket-worker-charged-with-murdering-newborn-baby-in-subang-jaya/227843",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-search-launched-for-fisherman-feared-overboard-off-labuan",
+      "category": "malaysia",
+      "headline": "Search launched for fisherman feared overboard off Labuan",
+      "summary": "Key points: A search and rescue (SAR) operation is underway for a 26-year-old local fisherman feared to have...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T15:14:19+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/search-launched-for-fisherman-feared-overboard-off-labuan/227841",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-fifty-sick-projects-nationwide-under-close-monitoring-says-works-ministry",
+      "category": "malaysia",
+      "headline": "Fifty ‘sick’ projects nationwide under close monitoring, says Works Ministry",
+      "summary": "Key points: KOTA BHARU, July 16 — The Works Ministry (KKR) is closely monitoring 50 “sick” projects nationwide to...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T15:11:29+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/fifty-sick-projects-nationwide-under-close-monitoring-says-works-ministry/227840",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-south-korea-mp-loses-seat-after-top-court-upholds-jail-term-over-church-bribes",
+      "category": "world",
+      "headline": "South Korea MP loses seat after top court upholds jail term over church bribes",
+      "summary": "Key points: South Korea’s top court upheld on Thursday a prominent MP’s two-year jail term for ta...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-16T15:09:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/16/south-korea-mp-loses-seat-after-top-court-upholds-jail-term-over-church-bribes/227836",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-samsuri-rebuts-muhyiddin-says-pas-bn-talks-had-his-approval",
+      "category": "malaysia",
+      "headline": "Samsuri rebuts Muhyiddin, says PAS-BN talks had his approval",
+      "summary": "Key points: KUALA LUMPUR, July 16 — Perikatan Nasional (PN) chairman Datuk Seri Ahmad Samsuri Mokhtar today rejected Bersatu p...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T15:04:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/samsuri-rebuts-muhyiddin-says-pas-bn-talks-had-his-approval/227837",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-tapped-just-twice-in-40-years-putrajaya-tables-bill-to-tighten-national-trust-fund",
+      "category": "malaysia",
+      "headline": "Tapped just twice in 40 years, Putrajaya tables Bill to tighten National Trust Fund withdrawals",
+      "summary": "Key points: KUALA LUMPUR, July 16 — Malaysia has tapped its RM22.43 billion National Trust Fund (KWAN) only twice in nearly fo...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T14:55:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/tapped-just-twice-in-40-years-putrajaya-tables-bill-to-tighten-national-trust-fund-withdrawals/227833",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-they-re-working-tirelessly-resident-says-sandakan-s-duchess-of-kent-hospital-not-i",
+      "category": "malaysia",
+      "headline": "‘They’re working tirelessly’: Resident says Sandakan’s Duchess of Kent Hospital, not its staff, needs fixing",
+      "summary": "Key points: The condition of Duchess of Kent Hospital Sandakan has once again come under the spotlight aft...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T14:51:03+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/theyre-working-tirelessly-resident-says-sandakans-duchess-of-kent-hospital-not-its-staff-needs-fixing/227832",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-sabah-police-appeal-for-witnesses-after-nine-china-tourists-injured-in-head-on-cra",
+      "category": "world",
+      "headline": "Sabah police appeal for witnesses after nine China tourists injured in head-on crash involving tour van and Perodua Axia",
+      "summary": "Key points: Nine China tourists were injured when their van collided with a Perodua Axia at Km 21 of the B...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-16T14:39:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/sabah-police-appeal-for-witnesses-after-nine-china-tourists-injured-in-head-on-crash-involving-tour-van-and-perodua-axia/227829",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-miri-woman-loses-rm1-39m-after-clicking-fake-cake-ad-on-social-media",
+      "category": "malaysia",
+      "headline": "Miri woman loses RM1.39m after clicking fake cake ad on social media",
+      "summary": "Key points: A 43-year-old woman lost RM1,389,132 after falling victim to an elaborate scam that began with an...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T14:28:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/miri-woman-loses-rm139m-after-clicking-fake-cake-ad-on-social-media/227827",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-govt-to-pilot-affordable-mediasas-health-insurance-plan-this-month-ahead-of-nation",
+      "category": "malaysia",
+      "headline": "Govt to pilot affordable MediAsas health insurance plan this month ahead of nationwide rollout in 2027, says deputy minister",
+      "summary": "Key points: KUALA LUMPUR, July 16 — The Base Medical and Health Insurance/Takaful (MHIT) Plan, or MediAsas, will begin its pil...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T14:24:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/govt-to-pilot-affordable-mediasas-health-insurance-plan-this-month-ahead-of-nationwide-rollout-in-2027-says-deputy-minister/227825",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-credit-card-outage-disrupts-payments-at-stores-across-japan",
+      "category": "world",
+      "headline": "Credit card outage disrupts payments at stores across Japan",
+      "summary": "Key points: Credit cards failed to work at convenience stores and other merchants across Japan on Thursday fo...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-16T14:19:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/16/credit-card-outage-disrupts-payments-at-stores-across-japan/227824",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-more-than-3-600-sabah-citizenship-applications-still-pending-dewan-rakyat-told",
+      "category": "malaysia",
+      "headline": "More than 3,600 Sabah citizenship applications still pending, Dewan Rakyat told",
+      "summary": "Key points: KUALA LUMPUR, July 16 — As of May 31 this year, 3,640 citizenship applications in Sabah were still pending, while...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T14:18:20+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/more-than-3600-sabah-citizenship-applications-still-pending-dewan-rakyat-told/227823",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-muhyiddin-s-trial-company-s-rm800-000-donation-to-bersatu-linked-to-jana-wibawa-pr",
+      "category": "malaysia",
+      "headline": "Muhyiddin’s trial: Company’s RM800,000 donation to Bersatu linked to Jana Wibawa project, witness says",
+      "summary": "Key points: KUALA LUMPUR, July 16 — KCJ Engineering Sdn Bhd’s RM800,000 donation in 2022 to political party Parti Pribum...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T14:14:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/muhyiddins-trial-companys-rm800000-donation-to-bersatu-linked-to-jana-wibawa-project-witness-says/227821",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-nearly-70pc-of-road-accident-victims-last-year-were-aged-16-to-40-says-deputy-mini",
+      "category": "malaysia",
+      "headline": "Nearly 70pc of road accident victims last year were aged 16 to 40, says deputy minister",
+      "summary": "Key points: KUALA LUMPUR, July 16 — A total of 69.4 per cent of all road accidents in the country last year involve...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T14:12:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/nearly-70pc-of-road-accident-victims-last-year-were-aged-16-to-40-says-deputy-minister/227822",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-religious-affairs-minister-govt-strengthens-crackdown-on-online-deviant-teachings",
+      "category": "malaysia",
+      "headline": "Religious affairs minister: Govt strengthens crackdown on online deviant teachings",
+      "summary": "Key points: KUALA LUMPUR, July 16 — The government is adopting a whole-of-government approach to strengthen coopera...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T14:10:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/religious-affairs-minister-govt-strengthens-crackdown-on-online-deviant-teachings/227820",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-loke-pakatan-unfazed-by-possible-bn-perikatan-cooperation-in-negeri-sembilan",
+      "category": "malaysia",
+      "headline": "Loke: Pakatan unfazed by possible BN-Perikatan cooperation in Negeri Sembilan",
+      "summary": "Key points: Pakatan Harapan (PH) says it is prepared for any political strategy by its rivals, includ...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T14:06:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/loke-pakatan-unfazed-by-possible-bn-perikatan-cooperation-in-negeri-sembilan/227819",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-eleven-held-including-employer-after-foreign-worker-dies-from-head-injuries-in-joh",
+      "category": "malaysia",
+      "headline": "Eleven held, including employer, after foreign worker dies from head injuries in Johor Bahru",
+      "summary": "Key points: JOHOR BAHRU, July 16 — Johor police have arrested 11 suspects, including the victim’s employer, over the all...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T14:06:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/eleven-held-including-employer-after-foreign-worker-dies-from-head-injuries-in-johor-bahru/227818",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-anwar-mourns-passing-of-scholar-john-l-esposito-a-true-friend-to-the-muslim-world",
+      "category": "malaysia",
+      "headline": "Anwar mourns passing of scholar John L. Esposito, a ‘true friend to the Muslim world’",
+      "summary": "Key points: KUALA LUMPUR, July 16 — Prime Minister Datuk Seri Anwar Ibrahim today extended his deepest condolences...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T14:03:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/anwar-mourns-passing-of-scholar-john-l-esposito-a-true-friend-to-the-muslim-world/227817",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "kuala lumpur",
+        "anwar",
+        "world",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-pac-chairman-committee-to-discuss-possible-probe-into-kwap-s-efishery-investment",
+      "category": "malaysia",
+      "headline": "PAC chairman: Committee to discuss possible probe into KWAP’s eFishery investment",
+      "summary": "Key points: KUALA LUMPUR, July 16 — The Public Accounts Committee (PAC) will discuss whether it should conduct proc...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T13:59:39+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/pac-chairman-committee-to-discuss-possible-probe-into-kwaps-efishery-investment/227816",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-perak-police-bust-alleged-online-scam-syndicate-arrest-18-chinese-nationals",
+      "category": "malaysia",
+      "headline": "Perak police bust alleged online scam syndicate, arrest 18 Chinese nationals",
+      "summary": "Key points: Perak police have arrested 18 Chinese nationals in two separate raids around Ipoh over a suspected...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T13:59:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/perak-police-bust-alleged-online-scam-syndicate-arrest-18-chinese-nationals/227815",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-aminuddin-says-not-running-away-from-sikamat-as-he-takes-on-bn-stronghold-linggi-i",
+      "category": "malaysia",
+      "headline": "Aminuddin says ‘not running away from Sikamat’ as he takes on BN stronghold Linggi in state polls",
+      "summary": "Key points: KUALA LUMPUR, July 16 — Negeri Sembilan caretaker Menteri Besar Datuk Seri Aminuddin Harun has rejected claims tha...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T13:51:55+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/aminuddin-says-not-running-away-from-sikamat-as-he-takes-on-bn-stronghold-linggi-in-state-polls/227814",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-07-16-us-slaps-25pc-tariff-on-brazilian-imports-after-trade-probe",
       "category": "world",
@@ -144,36 +777,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-07-16-new-zealand-coach-rennie-moves-vaa-i-to-blindside-for-ireland-test",
-      "category": "world",
-      "headline": "New Zealand coach Rennie moves Vaa'i to blindside for Ireland test",
-      "summary": "Key points: CNA Latest reports that New Zealand coach Rennie moves Vaa'i to blindside for Ireland test.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-16T13:01:37+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/new-zealand-coach-rennie-moves-vaai-blindside-ireland-test-6257726",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-07-16-police-remind-cosplayers-to-comply-with-laws-on-military-uniforms-replica-weapons",
       "category": "malaysia",
       "headline": "Police remind cosplayers to comply with laws on military uniforms, replica weapons",
@@ -265,6 +868,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/16/education-ministry-nearly-20pcof-chinese-secondary-students-enrolled-in-uec-schools-this-year/227793",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-16-malaysians-now-owe-over-rm5-bil-in-buy-now-pay-later-loans-finance-ministry-the-ed",
+      "category": "malaysia",
+      "headline": "Malaysians now owe over RM5 bil in buy-now-pay-later loans — Finance Ministry - The Edge Malaysia",
+      "summary": "Key points: Malaysians now owe over RM5 bil in buy-now-pay-later loans — Finance Ministry The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-16T11:54:00+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZZEJPcDBsVDVfU0c3a2g0V0hXMl9FV0x1aTJwcWN5dmN1SWxvSXZ3LXVneWdVMF9EVXdpN2hxNTFjT1U5YUxFQ0Z1WE95UUJK?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -607,629 +1240,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-intoxicated-man-arrested-after-allegedly-attacking-two-neighbours-in-rawang",
-      "category": "malaysia",
-      "headline": "Intoxicated man arrested after allegedly attacking two neighbours in Rawang",
-      "summary": "Key points: KUALA LUMPUR, July 16 —Police arrested a man on suspicion of attacking two neighbours in Kampung Baru Kundan...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T09:22:08+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/intoxicated-man-arrested-after-allegedly-attacking-two-neighbours-in-rawang/227766",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-wall-street-rises-as-tame-inflation-data-lifts-tech-giants",
-      "category": "markets_investment",
-      "headline": "Wall Street rises as tame inflation data lifts tech giants",
-      "summary": "Key points: NEW YORK, July 16 — Wall Street stocks advanced Wednesday following another benign US inflation report as oil pric...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-16T09:20:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/16/wall-street-rises-as-tame-inflation-data-lifts-tech-giants/227765",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-no-plans-to-impose-2pc-wealth-tax-for-now-says-finance-ministry",
-      "category": "malaysia",
-      "headline": "No plans to impose 2pc wealth tax for now, says Finance Ministry",
-      "summary": "Key points: KUALA LUMPUR, July 16 — The government has no plans at present to implement a two per cent wealth tax on wealthy i...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T09:19:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/no-plans-to-impose-2pc-wealth-tax-for-now-says-finance-ministry/227764",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-unsubsidised-ron95-diesel-prices-rise-5-sen-and-10-sen-amid-west-asia-tensions",
-      "category": "malaysia",
-      "headline": "Unsubsidised RON95, diesel prices rise 5 sen and 10 sen amid West Asia tensions",
-      "summary": "Key points: KUALA LUMPUR, July 16 — The retail prices of unsubsidised RON95 petrol and diesel will increase by five...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T09:17:12+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/unsubsidised-ron95-diesel-prices-rise-5-sen-and-10-sen-amid-west-asia-tensions/227763",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-ringgit-gains-as-weaker-us-data-drags-dollar-lower",
-      "category": "markets_investment",
-      "headline": "Ringgit gains as weaker US data drags dollar lower",
-      "summary": "Key points: KUALA LUMPUR, July 16 — The ringgit extended its gains against the US dollar at Thursday's opening, supported...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-16T09:16:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/16/ringgit-gains-as-weaker-us-data-drags-dollar-lower/227762",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-finance-ministry-bnpl-users-hit-eight-million-as-outstanding-balances-reach-rm5-3b",
-      "category": "malaysia",
-      "headline": "Finance Ministry: BNPL users hit eight million as outstanding balances reach RM5.3b",
-      "summary": "Key points: KUALA LUMPUR, July 16 —The number of active Buy Now, Pay Later (BNPL) account holders has risen to eight mil...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T09:15:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/finance-ministry-bnpl-users-hit-eight-million-as-outstanding-balances-reach-rm53b/227761",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-volunteer-firefighter-held-over-suspected-blaze-in-france-s-fontainebleau-forest",
-      "category": "world",
-      "headline": "Volunteer firefighter held over suspected blaze in France’s Fontainebleau forest",
-      "summary": "Key points: FONTAINEBLEAU (France), July 16 — A volunteer firefighter who was suspected of starting a fire in France’s h...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-16T09:13:08+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/16/volunteer-firefighter-held-over-suspected-blaze-in-frances-fontainebleau-forest/227760",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-bersatu-won-t-back-down-from-pas-clashes-in-negeri-sembilan-if-perikatan-seat-talk",
-      "category": "malaysia",
-      "headline": "Bersatu won’t back down from PAS clashes in Negeri Sembilan if Perikatan seat talks fail, says Muhyiddin",
-      "summary": "Key points: KUALA LUMPUR, July 16 — Parti Pribumi Bersatu Malaysia will not stand aside if it ends up facing PAS candidates in...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T09:12:13+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/bersatu-wont-back-down-from-pas-clashes-in-negeri-sembilan-if-perikatan-seat-talks-fail-says-muhyiddin/227759",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-venezuela-quake-death-toll-tops-4-800",
-      "category": "world",
-      "headline": "Venezuela quake death toll tops 4,800",
-      "summary": "Key points: The death toll from last month’s devastating twin earthquakes in Venezuela has surpassed...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-16T09:09:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/16/venezuela-quake-death-toll-tops-4800/227758",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-us-warplane-fires-on-ship-attempting-to-breach-iran-ports-blockade",
-      "category": "markets_investment",
-      "headline": "US warplane fires on ship attempting to breach Iran ports blockade",
-      "summary": "Key points: A US aircraft fired on and disabled an unladen oil tanker Wednesday as it tried to break the...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-16T09:05:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/16/us-warplane-fires-on-ship-attempting-to-breach-iran-ports-blockade/227757",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-trump-says-iran-has-freed-a-detained-us-citizen",
-      "category": "world",
-      "headline": "Trump says Iran has freed a detained US citizen",
-      "summary": "Key points: US President Donald Trump said Wednesday that arch foe Iran has freed an American citizen de...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-16T09:00:44+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/16/trump-says-iran-has-freed-a-detained-us-citizen/227753",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-us-launches-fresh-iran-strikes-as-trump-warns-of-wider-attacks",
-      "category": "world",
-      "headline": "US launches fresh Iran strikes as Trump warns of wider attacks",
-      "summary": "Key points: The United States launched a new wave of strikes against Iran on Wednesday to curb its ability t...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-16T09:00:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/16/us-launches-fresh-iran-strikes-as-trump-warns-of-wider-attacks/227755",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-zahid-tells-bn-machinery-to-replicate-johor-winning-formula-in-negeri-sembilan",
-      "category": "malaysia",
-      "headline": "Zahid tells BN machinery to replicate Johor winning formula in Negeri Sembilan",
-      "summary": "Key points: Barisan Nasional’s (BN) resounding victory in the Johor state election should...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T09:00:21+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/zahid-tells-bn-machinery-to-replicate-johor-winning-formula-in-negeri-sembilan/227756",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-bn-leaves-11-negeri-sembilan-state-seats-open-as-tok-mat-cites-talks-with-trusted-",
-      "category": "malaysia",
-      "headline": "BN leaves 11 Negeri Sembilan state seats open, as Tok Mat cites talks with ‘trusted friend’",
-      "summary": "Key points: KUALA LUMPUR, July 16 — Barisan Nasional (BN) has left 11 Negeri Sembilan state seats without candidates as it see...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T08:59:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/bn-leaves-11-negeri-sembilan-state-seats-open-as-tok-mat-cites-talks-with-trusted-friend/227754",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-they-chase-us-instead-fearless-monkeys-force-closure-of-northbound-sungai-perak-r-",
-      "category": "malaysia",
-      "headline": "‘They chase us instead’: Fearless monkeys force closure of northbound Sungai Perak R&R",
-      "summary": "Key points: KUALA LUMPUR, July 16 — A northbound rest and service area (R&R) on the North-South Expressway has been temporaril...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T08:47:57+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/they-chase-us-instead-fearless-monkeys-force-closure-of-northbound-sungai-perak-rr/227751",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-no-room-for-complacency-as-hormuz-closure-risks-economic-fallout-says-akmal-nasrul",
-      "category": "malaysia",
-      "headline": "No room for complacency as Hormuz closure risks economic fallout, says Akmal Nasrullah",
-      "summary": "Key points: KUALA LUMPUR, July 16 — The government is reminding the public and businesses not to become complacent...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T08:46:33+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/no-room-for-complacency-as-hormuz-closure-risks-economic-fallout-says-akmal-nasrullah/227750",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-tok-mat-to-defend-rantau-as-bn-names-first-25-candidates-for-negeri-sembilan-polls",
-      "category": "malaysia",
-      "headline": "Tok Mat to defend Rantau as BN names first 25 candidates for Negeri Sembilan polls",
-      "summary": "Key points: Barisan Nasional (BN) last night announced its lineup of 25 candidates for the 16th...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T08:43:18+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/tok-mat-to-defend-rantau-as-bn-names-first-25-candidates-for-negeri-sembilan-polls/227748",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-muhyiddin-bersatu-to-use-own-logo-in-negeri-sembilan-polls-amid-perikatan-rift",
-      "category": "malaysia",
-      "headline": "Muhyiddin: Bersatu to use own logo in Negeri Sembilan polls amid Perikatan rift",
-      "summary": "Key points: PETALING JAYA, July 16 — Parti Pribumi Bersatu Malaysia (Bersatu) will use its own logo for the party’s...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T08:38:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/muhyiddin-bersatu-to-use-own-logo-in-negeri-sembilan-polls-amid-perikatan-rift/227747",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-in-dewan-rakyat-today-el-nino-atm-grenade-blast-deviant-teachings-under-spotlight",
-      "category": "malaysia",
-      "headline": "In Dewan Rakyat today: El Nino, ATM grenade blast, deviant teachings under spotlight",
-      "summary": "Key points: KUALA LUMPUR, July 16 — The government’s preparations to face the El Nino phenomenon, the cause of a ha...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T08:34:08+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/in-dewan-rakyat-today-el-nino-atm-grenade-blast-deviant-teachings-under-spotlight/227745",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-don-t-just-bin-the-plastics-these-three-apps-could-turn-them-into-credit-to-pay-so",
-      "category": "malaysia",
-      "headline": "Don’t just bin the plastics: These three apps could turn them into credit to pay some bills (VIDEO)",
-      "summary": "Key points: KUALA LUMPUR July 16 — The small mountains of plastic bags inside your kitchen cabinet or under your sink right no...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-16T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/16/dont-just-bin-the-plastics-these-three-apps-could-turn-them-into-credit-to-pay-some-bills-video/224641",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-nigerian-women-lured-into-sex-trafficking-by-fake-jobs-held-by-juju-fears",
-      "category": "world",
-      "headline": "Nigerian women lured into sex trafficking by fake jobs, held by ‘juju’ fears",
-      "summary": "Key points: BENIN CITY, July 16 — She thought she was leaving Nigeria to work at a mobile phone shop in Mali to save money for...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-16T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/16/nigerian-women-lured-into-sex-trafficking-by-fake-jobs-held-by-juju-fears/227643",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-16-kenya-s-hired-goons-poverty-and-politics-fuel-cycle-of-election-violence",
-      "category": "world",
-      "headline": "Kenya’s hired ‘goons’: Poverty and politics fuel cycle of election violence",
-      "summary": "Key points: Kenyan politicians are hiring armed thugs for as little as US$4 (RM16) per day, as poverty...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-16T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/16/kenyas-hired-goons-poverty-and-politics-fuel-cycle-of-election-violence/227655",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-15-ai-boom-propels-japan-s-chipmaker-kioxia-from-obscurity-to-market-heavyweight",
-      "category": "markets_investment",
-      "headline": "AI boom propels Japan’s chipmaker Kioxia from obscurity to market heavyweight",
-      "summary": "Key points: KITAKAM (Japan), July 15 — Robotic transporters carrying silicon wafers whizz by on overhead rails at a new factor...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-15T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/15/ai-boom-propels-japans-chipmaker-kioxia-from-obscurity-to-market-heavyweight/227651",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-15-venezuelan-fashion-house-turns-to-making-body-bags-for-quake-victims",
-      "category": "world",
-      "headline": "Venezuelan fashion house turns to making body bags for quake victims",
-      "summary": "Key points: MARACAY (Venezuela), July 15 — Seamstresses at Venezuelan fashion label By Efrain Mogollon are used to making colo...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-15T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/15/venezuelan-fashion-house-turns-to-making-body-bags-for-quake-victims/227641",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-15-penang-signs-landmark-40-year-water-deal-with-perak-paying-rm210m-annually-to-secu",
-      "category": "malaysia",
-      "headline": "Penang signs landmark 40-year water deal with Perak, paying RM210m annually to secure future supply",
-      "summary": "Key points: GEORGE TOWN, July 15 — Penang will pay an annual capacity charge of RM210 million under a landmark agreement to pu...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-15T20:48:52+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/15/penang-signs-landmark-40-year-water-deal-with-perak-paying-rm210m-annually-to-secure-future-supply/227743",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-15-from-sushi-to-fried-chicken-japan-businesses-feel-chill-from-food-cyberattack",
-      "category": "markets_investment",
-      "headline": "From sushi to fried chicken, Japan businesses feel chill from food cyberattack",
-      "summary": "Key points: A cyberattack on a major frozen food maker in Japan has left businesses including Kentucky Fried...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-15T20:29:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/15/from-sushi-to-fried-chicken-japan-businesses-feel-chill-from-food-cyberattack/227740",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-15-from-bottled-water-to-supermarkets-and-mee-life-water-grows-its-sabah-f-b-footprin",
-      "category": "malaysia",
-      "headline": "From bottled water to supermarkets and mee, Life Water grows its Sabah F&B footprint with Hung Tai deal",
-      "summary": "Key points: KUALA LUMPUR, July 15 — Sabah-based beverage manufacturer Life Water Bhd has entered into a share sale agreement (...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-15T20:12:03+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/15/from-bottled-water-to-supermarkets-and-mee-life-water-grows-its-sabah-fb-footprint-with-hung-tai-deal/227730",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-15-police-bust-fake-investment-scheme-syndicate-arrest-21-chinese-nationals-in-melaka",
-      "category": "markets_investment",
-      "headline": "Police bust fake investment scheme syndicate, arrest 21 Chinese nationals in Melaka",
-      "summary": "Key points: Police arrested 21 Chinese nationals for suspected involvement in a non-existent investment sche...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-15T19:52:24+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/15/police-bust-fake-investment-scheme-syndicate-arrest-21-chinese-nationals-in-melaka/227735",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-15-super-el-nino-threat-anwar-orders-urgent-steps-to-safeguard-malaysia-s-food-supply",
-      "category": "malaysia",
-      "headline": "Super El Nino threat: Anwar orders urgent steps to safeguard Malaysia’s food supply",
-      "summary": "Key points: KUALA LUMPUR, July 15 — Prime Minister Datuk Seri Anwar Ibrahim has directed the Ministry of Agriculture and Food...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-15T19:50:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/15/super-el-nino-threat-anwar-orders-urgent-steps-to-safeguard-malaysias-food-supply/227742",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-15-siti-asiah-ahmad-takes-over-as-chief-statistician-after-mohd-uzir-s-retirement",
-      "category": "malaysia",
-      "headline": "Siti Asiah Ahmad takes over as chief statistician after Mohd Uzir’s retirement",
-      "summary": "Key points: The Department of Statistics Malaysia has appointed deputy chief statistician (economic progr...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-15T19:47:55+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/15/siti-asiah-ahmad-takes-over-as-chief-statistician-after-mohd-uzirs-retirement/227738",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-15-chip-s-the-word-for-india-with-us-13b-plan-to-build-its-tech-muscle",
-      "category": "markets_investment",
-      "headline": "Chip’s the word for India with US$13b plan to build its tech muscle",
-      "summary": "Key points: NEW DELHI, July 15 — India approved a new semiconductor programme on Wednesday, offering more than US$13 billion (...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-15T19:47:49+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/15/chips-the-word-for-india-with-us13b-plan-to-build-its-tech-muscle/227737",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
