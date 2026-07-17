@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-17T23:11:36+08:00",
+  "generated_at": "2026-07-18T01:09:30+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-17-as-life-expectancy-rises-talks-start-on-a-un-treaty-to-protect-older-persons",
+      "id": "2026-07-18-inclusive-world-cup-falls-short-as-some-fans-shut-out-rights-groups-say",
       "category": "world",
-      "headline": "As life expectancy rises, talks start on a UN treaty to protect older persons",
-      "summary": "Key points: CNA Latest reports that As life expectancy rises, talks start on a UN treaty to protect older persons.",
+      "headline": "'Inclusive' World Cup falls short as some fans shut out, rights groups say",
+      "summary": "Key points: CNA Latest reports that 'Inclusive' World Cup falls short as some fans shut out, rights groups say.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-17T23:04:41+08:00",
+      "published_at": "2026-07-18T00:58:18+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/un-treaty-ageism-protect-older-people-6261101",
+          "url": "https://www.channelnewsasia.com/sport/inclusive-world-cup-falls-short-some-fans-shut-out-rights-groups-say-6261796",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-17-culinary-talent-can-foster-closer-malaysia-japan-relations-bernama",
+      "category": "malaysia",
+      "headline": "Culinary Talent Can Foster Closer Malaysia-Japan Relations - bernama",
+      "summary": "Key points: Culinary Talent Can Foster Closer Malaysia-Japan Relations bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-17T22:41:20+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zMkpudnB1TjVvNnBHNnVvSlhHVTBTODdGVDFlV08xaFZNMURQRl83aWxHT25PUFhKNTNURFI0Tk5jRXFwS1Yzd242Y3doSnNlbWVOZTBwTjIxdUhoUXBMbnVB?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -288,36 +318,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/17/bandar-utama-school-stabbing-trial-to-hear-evidence-from-three-child-witnesses-under-special-safeguards/227998",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-17-malaysia-well-positioned-to-lead-asean-ev-growth-bmi-bernama",
-      "category": "malaysia",
-      "headline": "Malaysia Well Positioned To Lead ASEAN EV Growth -- BMI - bernama",
-      "summary": "Key points: Malaysia Well Positioned To Lead ASEAN EV Growth -- BMI bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-17T16:54:43+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05NjdIS3JGamVOUHNXdnBodnAxTjg1LTFUNk5hV2Z1ZXRXMTBTd3U2TjZaV1FtNDJ5Q1lteGVSLTYzN2dsdUJXbDhrQmNRa3N0NVl2YzJCU1I?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
