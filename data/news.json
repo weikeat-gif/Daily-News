@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-17T21:23:43+08:00",
+  "generated_at": "2026-07-17T23:11:36+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-17-apple-closes-in-on-nvidia-in-race-for-world-s-most-valuable-company",
+      "id": "2026-07-17-as-life-expectancy-rises-talks-start-on-a-un-treaty-to-protect-older-persons",
       "category": "world",
-      "headline": "Apple closes in on Nvidia in race for world's most valuable company",
-      "summary": "Key points: CNA Latest reports that Apple closes in on Nvidia in race for world's most valuable company.",
+      "headline": "As life expectancy rises, talks start on a UN treaty to protect older persons",
+      "summary": "Key points: CNA Latest reports that As life expectancy rises, talks start on a UN treaty to protect older persons.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-17T21:03:14+08:00",
+      "published_at": "2026-07-17T23:04:41+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/apple-closes-in-nvidia-in-race-worlds-most-valuable-company-6261371",
+          "url": "https://www.channelnewsasia.com/world/un-treaty-ageism-protect-older-people-6261101",
           "publisher_type": "news"
         },
         {
@@ -34,26 +34,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-07-17-venezuela-s-blessed-town-that-stood-untouched-after-deadly-earthquakes",
-      "category": "world",
-      "headline": "Venezuela’s ‘blessed’ town that stood untouched after deadly earthquakes",
-      "summary": "Key points: Venezuela is struggling to get back on its feet after last month’s devastating earthqu...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-17T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/17/venezuelas-blessed-town-that-stood-untouched-after-deadly-earthquakes/227953",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-07-17-cartel-video-fuels-fears-of-drug-violence-reaching-mexico-city",
       "category": "world",
       "headline": "Cartel video fuels fears of drug violence reaching Mexico City",
@@ -64,6 +44,26 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/07/17/cartel-video-fuels-fears-of-drug-violence-reaching-mexico-city/227958",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-17-venezuela-s-blessed-town-that-stood-untouched-after-deadly-earthquakes",
+      "category": "world",
+      "headline": "Venezuela’s ‘blessed’ town that stood untouched after deadly earthquakes",
+      "summary": "Key points: Venezuela is struggling to get back on its feet after last month’s devastating earthqu...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-17T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/17/venezuelas-blessed-town-that-stood-untouched-after-deadly-earthquakes/227953",
           "publisher_type": "news"
         }
       ],
@@ -1147,6 +1147,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-07-17-latest-large-scale-solar-programme-to-unlock-rm9-bil-in-epcc-jobs-awards-expected-",
+      "category": "malaysia",
+      "headline": "Latest large-scale solar programme to unlock RM9 bil in EPCC jobs, awards expected by 2H2027 — Maybank - The Edge Malaysia",
+      "summary": "Key points: Latest large-scale solar programme to unlock RM9 bil in EPCC jobs, awards expected by 2H2027 — Maybank The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-17T11:23:09+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16MEVwZ0k0Z1FMTkt6bUJXWEJfWlRwem94eEJPdkxuWFgyTzBZUDBXMmdGclUzeWVjdVB5aUVFN3lYZnJSMEliZ2xJV3JndzY3?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-07-17-finance-ministry-says-national-trust-fund-bill-safeguards-rm22-43b-reserves-ensure",
       "category": "malaysia",
       "headline": "Finance Ministry says National Trust Fund Bill safeguards RM22.43b reserves, ensures growth",
@@ -1197,26 +1227,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/17/coroners-court-marks-first-anniversary-of-zara-qairinas-death-with-minute-of-silence/227929",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-17-driver-survives-but-attendant-dies-as-lorry-carrying-spare-parts-plunges-40-metres",
-      "category": "malaysia",
-      "headline": "Driver survives but attendant dies as lorry carrying spare parts plunges 40 metres into Kapit ravine",
-      "summary": "Key points: A 28-year-old lorry attendant was killed after a 10-tonne lorry carrying vehicle spare parts skid...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-17T10:46:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/17/driver-survives-but-attendant-dies-as-lorry-carrying-spare-parts-plunges-40-metres-into-kapit-ravine/227927",
           "publisher_type": "news"
         }
       ],
