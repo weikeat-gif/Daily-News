@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-07-18T21:10:12+08:00",
+  "generated_at": "2026-07-18T22:50:26+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-07-18-froome-calls-2019-dauphine-crash-a-career-turning-point",
+      "category": "world",
+      "headline": "Froome calls 2019 Dauphine crash a career turning point",
+      "summary": "Key points: CNA Latest reports that Froome calls 2019 Dauphine crash a career turning point.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-18T22:15:37+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/sport/froome-calls-2019-dauphine-crash-career-turning-point-6262851",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-07-18-sacred-ruins-and-siberian-waters-unesco-flags-heritage-at-risk-from-war-and-global",
       "category": "world",
@@ -41,36 +71,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-18-australia-thrash-italy-for-first-nations-championship-win",
-      "category": "world",
-      "headline": "Australia thrash Italy for first Nations Championship win",
-      "summary": "Key points: CNA Latest reports that Australia thrash Italy for first Nations Championship win.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-18T20:17:38+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/australia-thrash-italy-first-nations-championship-win-6262726",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
