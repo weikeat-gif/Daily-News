@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-19T05:48:53+08:00",
+  "generated_at": "2026-07-19T06:46:36+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-19-england-post-statement-away-victory-in-niggly-clash-with-argentina",
+      "id": "2026-07-19-france-s-mbappe-becomes-world-cup-all-time-top-scorer",
       "category": "world",
-      "headline": "England post statement away victory in niggly clash with Argentina",
-      "summary": "Key points: CNA Latest reports that England post statement away victory in niggly clash with Argentina.",
+      "headline": "France's Mbappe becomes World Cup all-time top scorer",
+      "summary": "Key points: CNA Latest reports that France's Mbappe becomes World Cup all-time top scorer.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-19T05:39:40+08:00",
+      "published_at": "2026-07-19T06:37:25+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/england-post-statement-away-victory-in-niggly-clash-argentina-6263211",
+          "url": "https://www.channelnewsasia.com/sport/frances-mbappe-becomes-world-cup-all-time-top-scorer-6263256",
           "publisher_type": "news"
         },
         {
@@ -894,36 +894,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-07-18-nam-news-network-nnn-fans-drive-us-to-want-another-world-cup-triumph-says-argentin",
-      "category": "world",
-      "headline": "Nam News Network (NNN) - Fans Drive Us To Want Another World Cup Triumph, Says Argentina's Scaloni - web29.bernama.com",
-      "summary": "Key points: Nam News Network (NNN) - Fans Drive Us To Want Another World Cup Triumph, Says Argentina's Scaloni web29.bernama.com",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-18T13:09:07+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NaFB1VUFlTGVfNUQ5VS1LRjdJT2N1YVUxdmNMZ3dGTl9BVlpOVUFRMjVoOGFyeTJOOVBnZGw1SFdOSVFCRElrNDRTVmVaVFNvRmxjUm51TUlvcmN4WWc?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-07-18-johor-s-new-exco-line-up-sworn-in-as-onn-hafiz-begins-second-term",
       "category": "malaysia",
       "headline": "Johor’s new exco line-up sworn in as Onn Hafiz begins second term",
@@ -1194,6 +1164,26 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/18/hadi-says-perikatan-and-bn-will-campaign-for-each-other-in-negeri-sembilan-polls/228061",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-18-no-more-heart-skips-sarawak-achieves-first-borneo-valve-implant-breakthrough",
+      "category": "malaysia",
+      "headline": "No more heart skips: Sarawak achieves first Borneo valve implant breakthrough",
+      "summary": "Key points: Sarawak Heart Centre has successfully performed Borneo’s first Transcatheter Pulmonary Va...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-18T11:07:31+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/18/no-more-heart-skips-sarawak-achieves-first-borneo-valve-implant-breakthrough/228060",
           "publisher_type": "news"
         }
       ],
