@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-20T04:06:01+08:00",
+  "generated_at": "2026-07-20T05:50:27+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-20-trump-visit-causes-logistical-delays-ahead-of-world-cup-final",
+      "id": "2026-07-20-world-cup-final-between-10-man-argentina-and-spain-goes-to-extra-time",
       "category": "world",
-      "headline": "Trump visit causes logistical delays ahead of World Cup final",
-      "summary": "Key points: CNA Latest reports that Trump visit causes logistical delays ahead of World Cup final.",
+      "headline": "World Cup final between 10-man Argentina and Spain goes to extra time",
+      "summary": "Key points: CNA Latest reports that World Cup final between 10-man Argentina and Spain goes to extra time.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-20T03:54:48+08:00",
+      "published_at": "2026-07-20T05:19:04+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/trump-visit-causes-logistical-delays-ahead-world-cup-final-6264056",
+          "url": "https://www.channelnewsasia.com/sport/world-cup-final-between-10-man-argentina-and-spain-goes-extra-time-6264121",
           "publisher_type": "news"
         },
         {
@@ -24,6 +24,36 @@
         {
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-20-mbappe-becomes-world-cup-s-all-time-top-scorer-bernama",
+      "category": "world",
+      "headline": "Mbappe Becomes World Cup's All-time Top Scorer - bernama",
+      "summary": "Key points: Mbappe Becomes World Cup's All-time Top Scorer bernama",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-20T04:02:34+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCSkZLZTYwbWxvMVZjTUpQWXJTYWpPUlZhUG01UWVTNU41dzdOalhmTE5pb3FSV3dmazZtNkE1ZWRIeUdubktidElZLVRyU1JnUmh4RktrMGNJLVJsYUE4VFJZVUlFa0l5UGFLOHln?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
           "publisher_type": "social"
         }
       ],
@@ -1187,26 +1217,6 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/07/19/us-launches-retaliatory-strikes-after-first-american-troops-killed-in-iran-conflict/228144",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-19-manosphere-influencers-andrew-and-tristan-tate-detained-in-miami-as-uk-seeks-retur",
-      "category": "world",
-      "headline": "‘Manosphere’ influencers Andrew and Tristan Tate detained in Miami as UK seeks return over rape and trafficking charges",
-      "summary": "Key points: Radical social media influencer Andrew Tate and his brother Tristan were arrested yesterday...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-19T08:47:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/19/influencer-andrew-tate-and-brother-tristan-detained-in-miami-as-uk-seeks-their-return-over-rape-and-trafficking-charges/228142",
           "publisher_type": "news"
         }
       ],
