@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-20T02:01:36+08:00",
+  "generated_at": "2026-07-20T04:06:01+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-20-new-zealand-s-fox-wins-british-open-at-final-hole",
+      "id": "2026-07-20-trump-visit-causes-logistical-delays-ahead-of-world-cup-final",
       "category": "world",
-      "headline": "New Zealand's Fox wins British Open at final hole",
-      "summary": "Key points: CNA Latest reports that New Zealand's Fox wins British Open at final hole.",
+      "headline": "Trump visit causes logistical delays ahead of World Cup final",
+      "summary": "Key points: CNA Latest reports that Trump visit causes logistical delays ahead of World Cup final.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-20T01:47:45+08:00",
+      "published_at": "2026-07-20T03:54:48+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/new-zealands-fox-wins-british-open-final-hole-6263986",
+          "url": "https://www.channelnewsasia.com/world/trump-visit-causes-logistical-delays-ahead-world-cup-final-6264056",
           "publisher_type": "news"
         },
         {
@@ -345,36 +345,6 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/07/19/russia-pounds-kyiv-with-ballistic-missiles-in-escalating-air-war/228219",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-19-world-cup-final-what-favours-argentina-what-favours-spain-bernama",
-      "category": "world",
-      "headline": "World Cup Final: What Favours Argentina, What Favours Spain - bernama",
-      "summary": "Key points: World Cup Final: What Favours Argentina, What Favours Spain bernama",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-19T16:40:04+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wdEJEcXVzYS01b1pfYjlDcmozSk9nMk1aYzRjMmI4dzY4WmtKRG5XcnlJcjZfNkRKVFJKcFJiZVJyM0I1aXh3VS0yeWJ6eFhYU2NVUGdYXzNUSFRK?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1217,6 +1187,26 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/07/19/us-launches-retaliatory-strikes-after-first-american-troops-killed-in-iran-conflict/228144",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-19-manosphere-influencers-andrew-and-tristan-tate-detained-in-miami-as-uk-seeks-retur",
+      "category": "world",
+      "headline": "‘Manosphere’ influencers Andrew and Tristan Tate detained in Miami as UK seeks return over rape and trafficking charges",
+      "summary": "Key points: Radical social media influencer Andrew Tate and his brother Tristan were arrested yesterday...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-19T08:47:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/19/influencer-andrew-tate-and-brother-tristan-detained-in-miami-as-uk-seeks-their-return-over-rape-and-trafficking-charges/228142",
           "publisher_type": "news"
         }
       ],
