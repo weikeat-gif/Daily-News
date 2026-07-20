@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-20T23:10:27+08:00",
+  "generated_at": "2026-07-21T02:00:01+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-20-chelsea-sign-forward-malard-from-manchester-united",
+      "id": "2026-07-21-judge-orders-paramount-to-temporarily-pause-warner-bros-acquisition",
       "category": "world",
-      "headline": "Chelsea sign forward Malard from Manchester United",
-      "summary": "Key points: CNA Latest reports that Chelsea sign forward Malard from Manchester United.",
+      "headline": "Judge orders Paramount to temporarily pause Warner Bros acquisition",
+      "summary": "Key points: CNA Latest reports that Judge orders Paramount to temporarily pause Warner Bros acquisition.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-20T22:52:40+08:00",
+      "published_at": "2026-07-21T01:12:33+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/chelsea-sign-forward-malard-manchester-united-6266086",
+          "url": "https://www.channelnewsasia.com/business/judge-orders-paramount-temporarily-pause-warner-bros-acquisition-6266301",
           "publisher_type": "news"
         },
         {
@@ -51,6 +51,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-20-mui-properties-unit-sells-bandar-springhill-industrial-land-for-rm18-7m-the-edge-m",
+      "category": "malaysia",
+      "headline": "MUI Properties unit sells Bandar Springhill industrial land for RM18.7m - The Edge Malaysia",
+      "summary": "Key points: MUI Properties unit sells Bandar Springhill industrial land for RM18.7m The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-20T20:34:15+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRaDk0Nlh3Q1Z5NW1kUzRWYUNaaVR0UzJvWmNCZGN2VnpFb2l1amNXRHNRMGcwM3A0OXZJWWx0YWEzTG5CQUJHRmdBM09fR2JS?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1187,26 +1217,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/20/zizie-izette-weeps-recalling-late-husband-bung-moktar-as-verdict-delivered-in-court/228299",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-20-after-12-year-old-footballer-s-death-in-jb-johor-moves-to-tighten-checks-on-unsanc",
-      "category": "malaysia",
-      "headline": "After 12-year-old footballer’s death in JB, Johor moves to tighten checks on unsanctioned leagues",
-      "summary": "Key points: KUALA LUMPUR, July 20 — All sports events and league tournaments in Johor must obtain advice and approval from the...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-20T12:11:52+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/20/after-12-year-old-footballers-death-in-jb-johor-moves-to-tighten-checks-on-unsanctioned-leagues/228297",
           "publisher_type": "news"
         }
       ],
