@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-07-20T20:22:23+08:00",
+  "generated_at": "2026-07-20T23:10:27+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-07-20-chelsea-sign-forward-malard-from-manchester-united",
+      "category": "world",
+      "headline": "Chelsea sign forward Malard from Manchester United",
+      "summary": "Key points: CNA Latest reports that Chelsea sign forward Malard from Manchester United.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-20T22:52:40+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/sport/chelsea-sign-forward-malard-manchester-united-6266086",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-20-a-look-at-britain-s-revolving-door-of-leaders-as-it-gets-its-seventh-pm-in-a-decad",
+      "category": "world",
+      "headline": "A look at Britain’s revolving door of leaders as it gets its seventh PM in a decade",
+      "summary": "Key points: Britain today was set to gain its seventh prime minister since the start of 2016 as Andy Burnham...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-20T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/20/a-look-at-britains-revolving-door-of-leaders-as-it-gets-its-seventh-pm-in-a-decade/228374",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-07-20-tamim-dahri-re-arrested-after-two-day-remand-to-be-charged-tomorrow",
       "category": "malaysia",
@@ -21,36 +71,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-20-pap-moved-swiftly-on-faishal-case-but-string-of-indiscretions-could-chip-away-at-p",
-      "category": "world",
-      "headline": "PAP moved swiftly on Faishal case, but string of indiscretions could chip away at party's reputation: Analysts",
-      "summary": "Key points: With the Cabinet now short of two office holders, analysts say the case could speed up Prime Minister Lawrence Wong's plans for a reshuffle.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-20T20:17:37+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/analysts-pap-swift-faishal-ibrahim-partys-reputation-can-be-affected-6265486",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1187,26 +1207,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/20/after-12-year-old-footballers-death-in-jb-johor-moves-to-tighten-checks-on-unsanctioned-leagues/228297",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-20-licensed-hunter-warns-fishermen-after-giant-16-9-foot-crocodile-spotted-during-bin",
-      "category": "malaysia",
-      "headline": "Licensed hunter warns fishermen after giant 16.9‑foot crocodile spotted during Bintulu river operation",
-      "summary": "Key points: Licensed crocodile hunter Juni Kung has advised fishermen and other river users to avoid ventur...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-20T12:10:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/20/licensed-hunter-warns-fishermen-after-giant-169foot-crocodile-spotted-during-bintulu-river-operation/228298",
           "publisher_type": "news"
         }
       ],
