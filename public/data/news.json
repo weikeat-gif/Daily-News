@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-22T05:06:50+08:00",
+  "generated_at": "2026-07-22T06:54:29+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-22-ukraine-s-zelenskyy-sacks-army-chief-syrsky",
-      "category": "world",
-      "headline": "Ukraine's Zelenskyy sacks army chief Syrsky",
-      "summary": "Key points: Oleksandr Syrsky had led Ukraine’s armed forces since 2024 and played a key role in the defence against Russia’s invasion.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-22T04:41:24+08:00",
+      "id": "2026-07-22-singapore-bank-stocks-are-at-record-highs-should-you-buy-hold-or-sell",
+      "category": "markets_investment",
+      "headline": "Singapore bank stocks are at record highs. Should you buy, hold or sell?",
+      "summary": "Key points: Analysts say the decision to buy, hold or sell has less to do with price and more to do with why an investor owns the stock in the first place.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-22T06:00:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/zelesnkyy-syrsky-ukraine-defence-army-chief-sacked-6269091",
+          "url": "https://www.channelnewsasia.com/singapore/dbs-ocbc-uob-bank-stocks-invest-6260561",
           "publisher_type": "news"
         },
         {
@@ -24,36 +24,6 @@
         {
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-bursa-fines-computer-forms-directors-rm2m-for-misleading-disclosures-the-edge-mala",
-      "category": "markets_investment",
-      "headline": "Bursa fines Computer Forms directors RM2m for misleading disclosures - The Edge Malaysia",
-      "summary": "Key points: Bursa fines Computer Forms directors RM2m for misleading disclosures The Edge Malaysia",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-21T20:52:14+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1VXNJcE9YdmlqMXoyc09Ob19SVkx4MXlrOHc5R25DYU9JS2FlSGQzdU1IZVI1UzVseXRjRnNpMEtwRjhlQ092SUxtX2hWWmZi?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
           "publisher_type": "social"
         }
       ],
@@ -235,6 +205,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/21/police-bust-international-scam-syndicate-targeting-us-citizens-in-kuantan-raid/228483",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-21-ajinomoto-malaysia-to-table-rm20-per-share-privatisation-proposal-for-shareholders",
+      "category": "malaysia",
+      "headline": "Ajinomoto Malaysia to table RM20-per-share privatisation proposal for shareholders’ approval - The Edge Malaysia",
+      "summary": "Key points: Ajinomoto Malaysia to table RM20-per-share privatisation proposal for shareholders’ approval The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-21T18:05:39+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GOHZQN3hCakR5WThJV216MWFqVlh3Rm5GcGRDRS1CTDFvSkRRekZlNk05a29zOE90VmtaUUQ2WGJOYnZuSE5RZzAzUFBUTGNG?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
         }
       ],
       "topics": [
