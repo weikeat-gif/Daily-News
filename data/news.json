@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-21T20:23:03+08:00",
+  "generated_at": "2026-07-21T23:02:38+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-21-singapore-warns-technology-becoming-actor-in-its-own-right-as-ai-reshapes-military",
+      "id": "2026-07-21-us-lawmakers-urge-trump-to-act-against-eu-tech-rules-suggest-trade-probes",
       "category": "world",
-      "headline": "Singapore warns technology becoming 'actor in its own right' as AI reshapes military operations",
-      "summary": "Key points: Singapore will also host the inaugural ASEAN Regional Cyber Exercise on the sidelines of the 5th Digital Defence Symposium as part of efforts to strengthen regional cyber cooperation.",
+      "headline": "US lawmakers urge Trump to act against EU tech rules, suggest trade probes",
+      "summary": "Key points: CNA Latest reports that US lawmakers urge Trump to act against EU tech rules, suggest trade probes.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-21T20:15:21+08:00",
+      "published_at": "2026-07-21T22:19:43+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/digital-defence-symposium-technology-tool-actor-agentic-ai-6267791",
+          "url": "https://www.channelnewsasia.com/business/us-lawmakers-urge-trump-act-against-eu-tech-rules-suggest-trade-probes-6268506",
           "publisher_type": "news"
         },
         {
@@ -32,6 +32,46 @@
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-21-pm-anwar-calls-on-immigration-personnel-to-uphold-integrity-reject-corruption",
+      "category": "malaysia",
+      "headline": "PM Anwar calls on immigration personnel to uphold integrity, reject corruption",
+      "summary": "Key points: KUALA LUMPUR, July 21 — Prime Minister Datuk Seri Anwar Ibrahim has called on all personnel of the ...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-21T20:26:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/21/pm-anwar-calls-on-immigration-personnel-to-uphold-integrity-reject-corruption/228495",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-21-sabah-government-says-in-midst-of-proposing-upgrade-of-budi-diesel-subsidy-scheme",
+      "category": "malaysia",
+      "headline": "Sabah government says in midst of proposing upgrade of BUDI diesel subsidy scheme",
+      "summary": "Key points: KOTA KINABALU, July 21— Citing the difficulties it has caused for people in the state, the state government i...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-21T20:12:36+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/21/sabah-government-says-in-midst-of-proposing-upgrade-of-budi-diesel-subsidy-scheme/228493",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "verified"
     },
     {
       "id": "2026-07-21-sabah-govt-says-in-midst-of-proposing-upgrade-of-budi-diesel-subsidy-scheme",
@@ -194,36 +234,6 @@
         {
           "name": "Facebook The Edge Malaysia",
           "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-malaysia-to-strengthen-cooperation-with-australia-to-address-global-economic-uncer",
-      "category": "malaysia",
-      "headline": "Malaysia To Strengthen Cooperation With Australia To Address Global Economic Uncertainty – Mohamad - bernama",
-      "summary": "Key points: Malaysia To Strengthen Cooperation With Australia To Address Global Economic Uncertainty – Mohamad bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-21T18:01:34+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01Tml1TEI1UVM5YWNGWjVXMkM1eEtlVTE3SUtZTEZOQTBxS192REpLRzAzbzBLUGYtNXVkV2xfTFpZTFU4NkRNMkRKVXMtdGhRQ1BOQjVab3c?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
           "publisher_type": "social"
         }
       ],
@@ -491,6 +501,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/21/tamim-dahri-pleads-not-guilty-to-charge-of-damaging-sacred-hindu-object/228465",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-21-malaysia-named-country-coordinator-for-asean-turkiye-relations-mohamad-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia Named Country Coordinator For ASEAN-Turkiye Relations – Mohamad - bernama",
+      "summary": "Key points: Malaysia Named Country Coordinator For ASEAN-Turkiye Relations – Mohamad bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-21T16:00:33+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zS1Q1LWZYQjBiOExxSGRuNFdZdnUxZnRpcndjbXR2RWR3ODdTS180cGZwaFRsZFd2MW5zRDhoOHlCS09ONlBUYzNQXzJUaHpGa09qSnVISzU?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1190,46 +1230,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/21/melaka-proposes-temporary-water-tank-to-ease-kem-terendak-supply-woes/228414",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-man-missing-after-boat-capsizes-in-kelantan-s-sungai-galas-sar-operation-underway",
-      "category": "malaysia",
-      "headline": "Man missing after boat capsizes in Kelantan’s Sungai Galas, SAR operation underway",
-      "summary": "Key points: GUA MUSANG, July 21 — A man went missing after the boat he was travelling in capsized in Sungai Galas near Kampung...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-21T09:33:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/21/man-missing-after-boat-capsizes-in-kelantans-sungai-galas-sar-operation-underway/228413",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-man-found-dead-with-stab-wounds-in-kajang-police-probe-murder",
-      "category": "malaysia",
-      "headline": "Man found dead with stab wounds in Kajang, police probe murder",
-      "summary": "Key points: KUALA LUMPUR, July 21 — A man was found dead with stab wounds to the abdomen in Bandar Mahkota Cheras, Kajang, yes...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-21T09:28:44+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/21/man-found-dead-with-stab-wounds-in-kajang-police-probe-murder/228410",
           "publisher_type": "news"
         }
       ],
