@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-21T23:02:38+08:00",
+  "generated_at": "2026-07-22T01:16:54+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-21-us-lawmakers-urge-trump-to-act-against-eu-tech-rules-suggest-trade-probes",
+      "id": "2026-07-22-murdered-ex-uk-minister-widdecombe-was-struck-on-head-with-hammer-21-times-court-t",
       "category": "world",
-      "headline": "US lawmakers urge Trump to act against EU tech rules, suggest trade probes",
-      "summary": "Key points: CNA Latest reports that US lawmakers urge Trump to act against EU tech rules, suggest trade probes.",
+      "headline": "Murdered ex-UK minister Widdecombe was struck on head with hammer 21 times, court told",
+      "summary": "Key points: Prosecutors told a UK court that the attack was caught on camera from inside Ann Widdecombe's home whilst she was eating her lunch.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-21T22:19:43+08:00",
+      "published_at": "2026-07-22T00:39:01+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/us-lawmakers-urge-trump-act-against-eu-tech-rules-suggest-trade-probes-6268506",
+          "url": "https://www.channelnewsasia.com/world/widdecombe-murder-hammer-uk-minister-court-6268731",
           "publisher_type": "news"
         },
         {
@@ -234,6 +234,36 @@
         {
           "name": "Facebook The Edge Malaysia",
           "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-21-malaysia-to-strengthen-cooperation-with-australia-to-address-global-economic-uncer",
+      "category": "malaysia",
+      "headline": "Malaysia To Strengthen Cooperation With Australia To Address Global Economic Uncertainty – Mohamad - bernama",
+      "summary": "Key points: Malaysia To Strengthen Cooperation With Australia To Address Global Economic Uncertainty – Mohamad bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-21T18:01:34+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01Tml1TEI1UVM5YWNGWjVXMkM1eEtlVTE3SUtZTEZOQTBxS192REpLRzAzbzBLUGYtNXVkV2xfTFpZTFU4NkRNMkRKVXMtdGhRQ1BOQjVab3c?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
           "publisher_type": "social"
         }
       ],
@@ -501,36 +531,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/21/tamim-dahri-pleads-not-guilty-to-charge-of-damaging-sacred-hindu-object/228465",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-malaysia-named-country-coordinator-for-asean-turkiye-relations-mohamad-bernama",
-      "category": "malaysia",
-      "headline": "Malaysia Named Country Coordinator For ASEAN-Turkiye Relations – Mohamad - bernama",
-      "summary": "Key points: Malaysia Named Country Coordinator For ASEAN-Turkiye Relations – Mohamad bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-21T16:00:33+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zS1Q1LWZYQjBiOExxSGRuNFdZdnUxZnRpcndjbXR2RWR3ODdTS180cGZwaFRsZFd2MW5zRDhoOHlCS09ONlBUYzNQXzJUaHpGa09qSnVISzU?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
