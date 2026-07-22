@@ -1,8 +1,198 @@
 {
-  "generated_at": "2026-07-22T13:48:04+08:00",
+  "generated_at": "2026-07-22T16:25:38+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-07-22-category-a-coe-premium-falls-to-s-126-000-category-b-sees-slight-dip",
+      "category": "world",
+      "headline": "Category A COE premium falls to S$126,000; Category B sees slight dip",
+      "summary": "Key points: Category B premiums fell to S$129,890 from S$130,889, while COEs for commercial vehicles also fell.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-22T16:15:00+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/singapore/coe-premiums-prices-july-22-bidding-exercise-6270311",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-22-personal-data-protection-department-investigates-maxis-over-khairul-aming-data-lea",
+      "category": "malaysia",
+      "headline": "Personal Data Protection Department investigates Maxis over Khairul Aming data leak",
+      "summary": "Key points: The Personal Data Protection Department (JPDP) has launched a probe into the unauthorised dis...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-22T16:13:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/22/personal-data-protection-department-investigates-maxis-over-khairul-aming-data-leak/228568",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-22-granddad-s-car-used-as-drug-store-16-year-old-among-eight-arrested-in-jb-raids",
+      "category": "malaysia",
+      "headline": "Granddad’s car used as drug store: 16-year-old among eight arrested in JB raids",
+      "summary": "Key points: JOHOR BAHRU, July 22 — Police have dismantled a synthetic drug ring after arresting eight individuals, including a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-22T15:42:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/22/granddads-car-used-as-drug-store-16-year-old-among-eight-arrested-in-jb-raids/228566",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-22-indonesia-cuts-more-than-us-2b-in-free-meal-budget",
+      "category": "world",
+      "headline": "Indonesia cuts more than US$2b in free meal budget",
+      "summary": "Key points: Indonesia has further cut the budget of President Prabowo Subianto’s flagship free meal p...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-22T15:13:59+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/22/indonesia-cuts-more-than-us2b-in-free-meal-budget/228559",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-22-pdrm-prepares-security-operations-for-negeri-sembilan-state-election",
+      "category": "malaysia",
+      "headline": "PDRM prepares security operations for Negeri Sembilan state election",
+      "summary": "Key points: KUALA LUMPUR, July 22 — The Royal Malaysia Police’s (PDRM) Department of Internal Security and Public Order...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-22T15:10:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/22/pdrm-prepares-security-operations-for-negeri-sembilan-state-election/228562",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-22-defence-weighs-agc-appeal-for-driver-in-fatal-klang-crash",
+      "category": "malaysia",
+      "headline": "Defence weighs AGC appeal for driver in fatal Klang crash",
+      "summary": "Key points: The defence is exploring a formal representation to the Attorney-General’s Chambers (AGC) f...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-22T15:06:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/22/defence-weighs-agc-appeal-for-driver-in-fatal-klang-crash/228561",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-22-us-hits-iran-says-war-cost-at-us-37-5b",
+      "category": "world",
+      "headline": "US hits Iran, says war cost at US$37.5b",
+      "summary": "Key points: Fresh US strikes triggered air defences in Tehran today after President Donald Trump warned he w...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-22T15:03:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/22/us-hits-iran-says-war-cost-at-us375b/228558",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-22-amirudin-pakatan-banks-on-micro-campaign-strategy-to-win-over-negeri-sembilan-vote",
+      "category": "malaysia",
+      "headline": "Amirudin: Pakatan banks on micro-campaign strategy to win over Negeri Sembilan voters",
+      "summary": "Key points: Pakatan Harapan (PH) is focusing on a locality-based micro-campaign strategy to deliver...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-22T14:37:56+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/22/amirudin-pakatan-banks-on-micro-campaign-strategy-to-win-over-negeri-sembilan-voters/228556",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-22-court-of-appeal-rules-children-born-out-of-wedlock-cannot-inherit-malaysian-father",
+      "category": "malaysia",
+      "headline": "Court of Appeal rules children born out of wedlock cannot inherit Malaysian father’s citizenship",
+      "summary": "Key points: KUALA LUMPUR, July 22 — The Court of Appeal today unanimously decided that two persons who were born in Malay...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-22T14:12:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/22/court-of-appeal-rules-children-born-out-of-wedlock-cannot-inherit-malaysian-fathers-citizenship/228554",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-07-22-anwar-hails-federal-state-cooperation-in-driving-sarawak-s-growth-and-development",
       "category": "malaysia",
@@ -21,36 +211,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-22-from-laundry-rooms-to-convenience-stores-humanoids-at-china-s-world-ai-conference",
-      "category": "world",
-      "headline": "From laundry rooms to convenience stores: Humanoids at China's World AI Conference",
-      "summary": "Key points: Larger than before, this year’s annual exhibition showcased China’s AI ambitions, and firms demonstrated how their robots are closer to being used in everyday life.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-22T13:34:41+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/robots-shine-china-world-ai-conference-6265701",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -700,6 +860,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-07-22-suruhanjaya-komunikasi-dan-multimedia-malaysia-bernama",
+      "category": "malaysia",
+      "headline": "SURUHANJAYA KOMUNIKASI DAN MULTIMEDIA MALAYSIA - bernama",
+      "summary": "Key points: SURUHANJAYA KOMUNIKASI DAN MULTIMEDIA MALAYSIA bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-22T03:18:30+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FQjhrVXl3d2ZSaFhseWIyMHd6ZGNVR0ZyQkJRdTExWXlrYUpUQllSbFcxeVJGdk5ZUVN4MFVWWFhDTmd2NnRFMzQzMy02a0oxNEQ5djNWYw?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-07-21-bursa-fines-computer-forms-directors-rm2m-for-misleading-disclosures-the-edge-mala",
       "category": "markets_investment",
       "headline": "Bursa fines Computer Forms directors RM2m for misleading disclosures - The Edge Malaysia",
@@ -910,36 +1100,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-07-21-malaysia-to-strengthen-cooperation-with-australia-to-address-global-economic-uncer",
-      "category": "malaysia",
-      "headline": "Malaysia To Strengthen Cooperation With Australia To Address Global Economic Uncertainty – Mohamad - bernama",
-      "summary": "Key points: Malaysia To Strengthen Cooperation With Australia To Address Global Economic Uncertainty – Mohamad bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-21T18:01:34+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01Tml1TEI1UVM5YWNGWjVXMkM1eEtlVTE3SUtZTEZOQTBxS192REpLRzAzbzBLUGYtNXVkV2xfTFpZTFU4NkRNMkRKVXMtdGhRQ1BOQjVab3c?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-07-21-cimb-malaysia-now-supports-apple-pay-limited-to-credit-cards-get-up-to-rm118-cashb",
       "category": "malaysia",
       "headline": "CIMB Malaysia now supports Apple Pay: Limited to credit cards, get up to RM118 cashback",
@@ -1083,166 +1243,6 @@
         "shares"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-rise-in-social-visit-pass-abuse-triggers-immigration-crackdown",
-      "category": "malaysia",
-      "headline": "Rise in Social Visit Pass abuse triggers immigration crackdown",
-      "summary": "Key points: The Immigration Department (JIM) has stepped up enforcement operations following a rise...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-21T16:28:27+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/21/rise-in-social-visit-pass-abuse-triggers-immigration-crackdown/228468",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-i-have-nothing-to-do-with-it-azam-baki-denies-role-in-rm178m-contract-awarded-to-b",
-      "category": "malaysia",
-      "headline": "‘I have nothing to do with it’: Azam Baki denies role in RM178m contract awarded to brother-linked firm",
-      "summary": "Key points: KUALA LUMPUR, July 21 — Former Malaysian Anti-Corruption Commission (MACC) chief commissioner Tan Sri Azam Baki ha...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-21T16:23:24+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/21/i-have-nothing-to-do-with-it-azam-baki-denies-role-in-rm178m-contract-awarded-to-brother-linked-firm/228470",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-motorists-who-ignore-licence-bans-could-face-three-year-prison-term-says-deputy-tr",
-      "category": "malaysia",
-      "headline": "Motorists who ignore licence bans could face three-year prison term, says deputy transport minister",
-      "summary": "Key points: KUALA LUMPUR, July 21 — Motorists who continue driving despite having their licences suspended or revoked by the c...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-21T16:17:03+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/21/motorists-who-ignore-licence-bans-could-face-three-year-prison-term-says-deputy-transport-minister/228467",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-seventy-year-old-leader-of-indonesia-singapore-baby-trafficking-ring-jailed-for-se",
-      "category": "world",
-      "headline": "Seventy-year-old leader of Indonesia-Singapore baby trafficking ring jailed for seven years",
-      "summary": "Key points: A woman who led a baby trafficking ring in Indonesia was sentenced Tuesday to seven years in pr...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-21T16:16:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/21/seventy-year-old-leader-of-indonesia-singapore-baby-trafficking-ring-jailed-for-seven-years/228469",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-tawau-court-jails-tuition-teacher-105-years-70-strokes-for-repeatedly-raping-daugh",
-      "category": "malaysia",
-      "headline": "Tawau court jails tuition teacher 105 years, 70 strokes for repeatedly raping daughter; total sentence hits 280 years",
-      "summary": "Key points: KUALA LUMPUR, July 21 — A 53‑year‑old tuition teacher from Lahad Datu was sentenced by the Tawau Sessions Court to...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-21T16:10:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/21/tawau-court-jails-tuition-teacher-105-years-70-strokes-for-repeatedly-raping-daughter-total-sentence-hits-280-years/228466",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-tamim-dahri-pleads-not-guilty-to-charge-of-damaging-sacred-hindu-object",
-      "category": "malaysia",
-      "headline": "Tamim Dahri pleads not guilty to charge of damaging sacred Hindu object",
-      "summary": "Key points: An activist pleaded not guilty in the Magistrate’s Court here today to a char...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-21T16:01:24+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/21/tamim-dahri-pleads-not-guilty-to-charge-of-damaging-sacred-hindu-object/228465",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-new-uk-pm-burnham-scraps-starmer-s-rm10b-digital-id-scheme-to-fund-energy-relief",
-      "category": "world",
-      "headline": "New UK PM Burnham scraps Starmer’s RM10b digital ID scheme to fund energy relief",
-      "summary": "Key points: Burnham’s first major policy removes VAT on household electricity bills from October, targeting cost-of-living rel...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-21T15:57:20+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/21/new-uk-pm-burnham-scraps-starmers-rm10b-digital-id-scheme-to-fund-energy-relief/228464",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-21-teen-suffers-fractured-skull-bleeding-in-head-and-ear-after-alleged-assault-in-che",
-      "category": "malaysia",
-      "headline": "Teen suffers fractured skull, bleeding in head and ear after alleged assault in Cheras; four arrested",
-      "summary": "Key points: KUALA LUMPUR, July 21 — A teenage boy suffered serious injuries after he was allegedly assaulted by a group of ind...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-21T15:48:49+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/21/teen-suffers-fractured-skull-bleeding-in-head-and-ear-after-alleged-assault-in-cheras-four-arrested/228462",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
