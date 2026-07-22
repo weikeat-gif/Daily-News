@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-23T03:14:39+08:00",
+  "generated_at": "2026-07-23T05:04:29+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-23-fcc-votes-to-bar-sales-of-devices-with-parts-from-chinese-firms-posing-risks",
+      "id": "2026-07-23-ex-uk-water-boss-charged-in-plot-to-manipulate-test-results",
       "category": "world",
-      "headline": "FCC votes to bar sales of devices with parts from Chinese firms posing risks",
-      "summary": "Key points: CNA Latest reports that FCC votes to bar sales of devices with parts from Chinese firms posing risks.",
+      "headline": "Ex-UK water boss charged in plot to 'manipulate' test results",
+      "summary": "Key points: Former Southern Water CEO Matthew Wright has been charged with conspiring to manipulate water quality tests, with a judge describing the allegations as involving “carefully planned and extensive fraud and dishonesty at a high level.”",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-23T03:01:35+08:00",
+      "published_at": "2026-07-23T04:43:28+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/fcc-votes-bar-sales-devices-parts-chinese-firms-posing-risks-6271751",
+          "url": "https://www.channelnewsasia.com/world/ex-uk-water-boss-charged-in-plot-manipulate-test-results-6271861",
           "publisher_type": "news"
         },
         {
@@ -574,36 +574,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/22/personal-data-protection-department-investigates-maxis-over-khairul-aming-data-leak/228568",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-22-malaysia-all-set-for-five-gold-quest-at-leaner-glasgow-2026-commonwealth-games-ber",
-      "category": "malaysia",
-      "headline": "Malaysia All Set For Five-gold Quest At Leaner Glasgow 2026 Commonwealth Games - bernama",
-      "summary": "Key points: Malaysia All Set For Five-gold Quest At Leaner Glasgow 2026 Commonwealth Games bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-22T16:13:00+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RRTJLTmx4dHNwTVhEU3E1X2dMUmo2WkNVTGZNYmVaa1gxMFNfaFNrTUJES3JJTFVRUk1BYkpwTDVFTUMtdTZFYjBXSEpvcmt0WDdvVWYzcUFjLU5hdE5YdXZBRG5nOWZn?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1246,6 +1216,26 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-22-nearly-100-000-jobs-available-through-myfuturejobs-platform-says-ramanan",
+      "category": "malaysia",
+      "headline": "Nearly 100,000 jobs available through MYFutureJobs platform, says Ramanan",
+      "summary": "Key points: A total of 96,700 job opportunities are still actively offered through the MYFutureJobs...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-22T09:12:54+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/22/nearly-100000-jobs-available-through-myfuturejobs-platform-says-ramanan/228508",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
