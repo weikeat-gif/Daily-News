@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-24T06:54:05+08:00",
+  "generated_at": "2026-07-24T07:58:32+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-24-argentina-defender-otamendi-retires-from-international-football",
-      "category": "world",
-      "headline": "Argentina defender Otamendi retires from international football",
-      "summary": "Key points: CNA Latest reports that Argentina defender Otamendi retires from international football.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-24T06:31:55+08:00",
+      "id": "2026-07-24-japan-june-core-inflation-accelerates-stays-below-boj-target",
+      "category": "markets_investment",
+      "headline": "Japan June core inflation accelerates, stays below BOJ target",
+      "summary": "Key points: CNA Latest reports that Japan June core inflation accelerates, stays below BOJ target.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-24T07:43:25+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/argentina-defender-otamendi-retires-international-football-6274796",
+          "url": "https://www.channelnewsasia.com/business/japan-june-core-inflation-accelerates-stays-below-boj-target-6274861",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,26 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-24-a-decade-before-a-single-brick-is-laid-developer-s-bold-plan-for-sabah-s-mengalum-",
+      "category": "malaysia",
+      "headline": "A decade before a single brick is laid: Developer’s bold plan for Sabah’s Mengalum Island",
+      "summary": "Key points: KOTA KINABALU, July 24 — A Taiwanese developer says it will spend the next decade restoring coral reefs, protectin...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-24T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/24/a-decade-before-a-single-brick-is-laid-developers-bold-plan-for-sabahs-mengalum-island/228474",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1220,29 +1240,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-23-anwar-calls-for-economic-growth-and-tech-progress-that-serve-people-not-just-wealt",
-      "category": "malaysia",
-      "headline": "Anwar calls for economic growth and tech progress that serve people, not just wealth",
-      "summary": "Key points: KUALA LUMPUR, July 23 — Malaysia must remain competitive, productive and open to investments while ensuring its ec...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-23T13:18:55+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/23/anwar-calls-for-economic-growth-and-tech-progress-that-serve-people-not-just-wealth/228661",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "investment"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
