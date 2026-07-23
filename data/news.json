@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-24T03:13:32+08:00",
+  "generated_at": "2026-07-24T05:01:40+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-24-trump-threatens-houthis-with-major-military-punishment",
+      "id": "2026-07-24-intel-sales-profit-forecast-beat-estimates-company-boosts-spending-plans-on-ai-boo",
       "category": "world",
-      "headline": "Trump threatens Houthis with 'major military punishment'",
-      "summary": "Key points: US President Donald Trump warned Iran would be held responsible for any new Houthi attacks on ships in the Red Sea.",
+      "headline": "Intel sales, profit forecast beat estimates; company boosts spending plans on AI boom",
+      "summary": "Key points: CNA Latest reports that Intel sales, profit forecast beat estimates; company boosts spending plans on AI boom.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-24T02:37:01+08:00",
+      "published_at": "2026-07-24T04:03:21+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/houthis-red-sea-attacks-trump-warn-iran-6274446",
+          "url": "https://www.channelnewsasia.com/business/intel-sales-profit-forecast-beat-estimates-company-boosts-spending-plans-ai-boom-6274591",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-24-malaysia-could-join-f1-calendar-this-year-if-conflict-goes-on-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia Could Join F1 Calendar This Year If Conflict Goes On - bernama",
+      "summary": "Key points: Malaysia Could Join F1 Calendar This Year If Conflict Goes On bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-24T03:38:44+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MdllLM1VDc2xSOUVQVmM5bU5fdnduNi1udlJ0eUktTlEzWHQxWnFiZE1LMGt0R1p1V1Z0TXMwZlV0TThEVEtlaUk2UVNmWHc1ZE9LRmRJZ2tXVFJXVktuSkt3?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -65,36 +95,6 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/07/23/is-sudan-setting-itself-up-for-another-militia-crisis/228651",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-23-malaysian-passport-remains-world-s-7th-most-powerful-bernama",
-      "category": "world",
-      "headline": "Malaysian Passport Remains World's 7th Most Powerful - Bernama",
-      "summary": "Key points: Malaysian Passport Remains World's 7th Most Powerful Bernama",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-23T20:49:34+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWb3B4VGVwajhCdkc1TF9XQmd2UzhIVzhyZm9jSmVOTEhpdFpWa3hVRDVxMHVDcWZpT3pOZC1OV3JULVM3OVE1Vm5mT1dGMW9ORGhiRTFHaDI4TFpSZ2kzc2JYMENwV0tu?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
