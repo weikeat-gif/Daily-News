@@ -1,19 +1,49 @@
 {
-  "generated_at": "2026-07-24T21:40:25+08:00",
+  "generated_at": "2026-07-24T23:24:12+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-24-why-singaporeans-should-walk-more-it-s-not-just-for-the-health-benefits",
+      "id": "2026-07-24-malaysia-welcomes-chinese-investment-in-tourism-sector-tiong-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia Welcomes Chinese Investment In Tourism Sector - Tiong - Bernama",
+      "summary": "Key points: Malaysia Welcomes Chinese Investment In Tourism Sector - Tiong Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-24T23:17:09+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sTVRWeVppbmVud3hnXzJNM1ItNUhEN1lUclBnMEUwSFVSYWxJX2xyRlVCUFltOGZrQmtwUDl3MnZINktwRWNCanRKbzZLZUhMU2J6TDgta1M?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-24-at-least-21-killed-in-russian-and-ukrainian-long-range-strikes",
       "category": "world",
-      "headline": "Why Singaporeans should walk more – it's not just for the health benefits",
-      "summary": "Key points: Singaporeans still choose convenience over walking, even for short trips, and getting more people to walk will require more than better infrastructure.",
+      "headline": "At least 21 killed in Russian and Ukrainian long-range strikes",
+      "summary": "Key points: CNA Latest reports that At least 21 killed in Russian and Ukrainian long-range strikes.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-24T21:30:00+08:00",
+      "published_at": "2026-07-24T22:39:48+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/today/big-read/walkability-heat-transport-exercise-urban-design-6272991",
+          "url": "https://www.channelnewsasia.com/world/least-21-killed-in-russian-and-ukrainian-long-range-strikes-6276371",
           "publisher_type": "news"
         },
         {
@@ -830,36 +860,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-24-japanese-chef-spreads-spirit-of-washoku-in-malaysia-bernama",
-      "category": "malaysia",
-      "headline": "Japanese Chef Spreads spirit Of 'Washoku' In Malaysia - Bernama",
-      "summary": "Key points: Japanese Chef Spreads spirit Of 'Washoku' In Malaysia Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-24T11:45:15+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sVGZkWGJNampwTXFfVWpKMmhZSHNKTWtNNkpNZUhGNkpEaVh4MHZkNGdXb2xmVk9YYWFuS0VQOHdOa1ZVNEtxeEVkUUlzNjZHR2trcm5HRFpGSUxBNkNoczZR?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
