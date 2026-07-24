@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-07-24T19:40:10+08:00",
+  "generated_at": "2026-07-24T21:40:25+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-07-24-why-singaporeans-should-walk-more-it-s-not-just-for-the-health-benefits",
+      "category": "world",
+      "headline": "Why Singaporeans should walk more – it's not just for the health benefits",
+      "summary": "Key points: Singaporeans still choose convenience over walking, even for short trips, and getting more people to walk will require more than better infrastructure.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-24T21:30:00+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/today/big-read/walkability-heat-transport-exercise-urban-design-6272991",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-24-where-are-america-s-main-bases-under-fire-in-the-middle-east-war-with-iran",
+      "category": "world",
+      "headline": "Where are America’s main bases under fire in the Middle East war with Iran?",
+      "summary": "Key points: During its war with the United States, Iran has targeted Middle East bases where American tr...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-24T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/24/where-are-americas-main-bases-under-fire-in-the-middle-east-war-with-iran/228807",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-24-eu-warns-tiktok-over-child-safety-lapses-threatens-fines-under-digital-services-ac",
+      "category": "markets_investment",
+      "headline": "EU warns TikTok over child safety lapses, threatens fines under Digital Services Act enforcement",
+      "summary": "Key points: The European Union on Friday accused TikTok of failing to protect children since their account...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-24T20:17:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/24/eu-warns-tiktok-over-child-safety-lapses-threatens-fines-under-digital-services-act-enforcement/228847",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-07-24-malaysia-s-durian-growers-face-oversupply-squeeze-even-as-exports-to-china-hit-rec",
       "category": "malaysia",
@@ -21,36 +91,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-24-asean-sees-progress-on-south-china-sea-code-targets-year-end-conclusion",
-      "category": "world",
-      "headline": "ASEAN sees progress on South China Sea code, targets year-end conclusion",
-      "summary": "Key points: Maritime security concerns – from the Strait of Hormuz to the South China Sea – emerged as dominant issues at this week's ASEAN meetings in the Philippines, alongside discussions on energy security and Myanmar.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-24T19:13:13+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/asean-foreign-ministers-meeting-manila-south-china-sea-code-year-end-6276111",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -793,6 +833,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-07-24-japanese-chef-spreads-spirit-of-washoku-in-malaysia-bernama",
+      "category": "malaysia",
+      "headline": "Japanese Chef Spreads spirit Of 'Washoku' In Malaysia - Bernama",
+      "summary": "Key points: Japanese Chef Spreads spirit Of 'Washoku' In Malaysia Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-24T11:45:15+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sVGZkWGJNampwTXFfVWpKMmhZSHNKTWtNNkpNZUhGNkpEaVh4MHZkNGdXb2xmVk9YYWFuS0VQOHdOa1ZVNEtxeEVkUUlzNjZHR2trcm5HRFpGSUxBNkNoczZR?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-07-24-icc-member-states-to-decide-fate-of-prosecutor-karim-khan-after-malaysian-staffer-",
       "category": "world",
       "headline": "ICC member states to decide fate of prosecutor Karim Khan after Malaysian staffer alleges sexual assault",
@@ -824,36 +894,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/24/police-arrest-man-over-attempted-cash-van-robbery-in-klang-recover-stolen-shotgun/228773",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-24-sunoshini-delivers-on-expectations-crowned-miss-grand-malaysia-2026-bernama",
-      "category": "malaysia",
-      "headline": "Sunoshini Delivers On Expectations, Crowned Miss Grand Malaysia 2026 - Bernama",
-      "summary": "Key points: Sunoshini Delivers On Expectations, Crowned Miss Grand Malaysia 2026 Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-24T11:25:21+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VcXJfNW13TjNGTU5Bd2xJMVZfaFA4REdjNjR0X01ycl9yVmJpcXZwaXdjbW5WRUZwaUV0b01UWW9hZFJpLXBsTURtRGxMa0YwMjJtR1dlX0JmTVpULUJ5VDJR?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1199,46 +1239,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/24/bumiputera-petrol-station-operators-urge-review-of-credit-card-charges-as-fuel-costs-rise/228751",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-24-agricultural-tvet-graduate-employment-rises-to-76pc-still-below-national-average",
-      "category": "malaysia",
-      "headline": "Agricultural TVET graduate employment rises to 76pc, still below national average",
-      "summary": "Key points: The employment rate of Technical and Vocational Education and Training (TVET) graduates in ag...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-24T09:36:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/24/agricultural-tvet-graduate-employment-rises-to-76pc-still-below-national-average/228749",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-24-senate-passes-bill-extending-malaysia-s-reach-over-child-sexual-offences-committed",
-      "category": "malaysia",
-      "headline": "Senate passes Bill extending Malaysia’s reach over child sexual offences committed overseas",
-      "summary": "Key points: KUALA LUMPUR, July 24 — The Dewan Negara yesterday passed the Sexual Offences Against Children (Amendment) Bill 20...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-24T09:32:42+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/24/senate-passes-bill-extending-malaysias-reach-over-child-sexual-offences-committed-overseas/228747",
           "publisher_type": "news"
         }
       ],
