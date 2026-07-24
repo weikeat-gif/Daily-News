@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-25T03:22:13+08:00",
+  "generated_at": "2026-07-25T05:00:47+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-25-tens-of-thousands-flee-forest-infernos-in-france-and-spain",
+      "id": "2026-07-25-russia-hits-arms-expo-near-kyiv-kills-10-officials",
       "category": "world",
-      "headline": "Tens of thousands flee forest infernos in France and Spain",
-      "summary": "Key points: About 44,000 people were evacuated from France's Cap Ferret peninsula, while around 40,000 people in Spain's Madrid region were told to leave or stay indoors as wildfires spread.",
+      "headline": "Russia hits arms expo near Kyiv, kills 10: officials",
+      "summary": "Key points: A Russian strike on an arms exhibition near Kyiv killed at least 10 people and injured around 100.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-25T02:50:47+08:00",
+      "published_at": "2026-07-25T04:34:10+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/spain-france-wildfires-europe-heatwave-6276986",
+          "url": "https://www.channelnewsasia.com/world/russia-kyiv-arms-expo-drone-attack-strike-6277196",
           "publisher_type": "news"
         },
         {
@@ -414,36 +414,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-24-norway-s-norges-bank-becomes-substantial-shareholder-of-unisem-the-edge-malaysia",
-      "category": "markets_investment",
-      "headline": "Norway’s Norges Bank becomes substantial shareholder of Unisem - The Edge Malaysia",
-      "summary": "Key points: Norway’s Norges Bank becomes substantial shareholder of Unisem The Edge Malaysia",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-24T15:54:33+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zN1YtVUUtSDViQWRKRVRPMlpjblZUb2JPVWZIZzBjbUFaT3hGTl9mVVJUVThtTUpzZVhHaFVGUEhucUdudy0xS25sX2o5d3lM?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1239,6 +1209,26 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/24/bumiputera-petrol-station-operators-urge-review-of-credit-card-charges-as-fuel-costs-rise/228751",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-24-agricultural-tvet-graduate-employment-rises-to-76pc-still-below-national-average",
+      "category": "malaysia",
+      "headline": "Agricultural TVET graduate employment rises to 76pc, still below national average",
+      "summary": "Key points: The employment rate of Technical and Vocational Education and Training (TVET) graduates in ag...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-24T09:36:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/24/agricultural-tvet-graduate-employment-rises-to-76pc-still-below-national-average/228749",
           "publisher_type": "news"
         }
       ],
