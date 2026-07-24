@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-25T05:00:47+08:00",
+  "generated_at": "2026-07-25T06:59:11+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-25-russia-hits-arms-expo-near-kyiv-kills-10-officials",
+      "id": "2026-07-25-us-missiles-hit-iran-as-path-towards-de-escalation-uncertain",
       "category": "world",
-      "headline": "Russia hits arms expo near Kyiv, kills 10: officials",
-      "summary": "Key points: A Russian strike on an arms exhibition near Kyiv killed at least 10 people and injured around 100.",
+      "headline": "US missiles hit Iran as path towards de-escalation uncertain",
+      "summary": "Key points: Trump has threatened to expand targets in Iran, though he said he had not yet made a decision for new major strikes.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-25T04:34:10+08:00",
+      "published_at": "2026-07-25T06:44:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/russia-kyiv-arms-expo-drone-attack-strike-6277196",
+          "url": "https://www.channelnewsasia.com/world/us-missiles-iran-war-donald-trump-6277381",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-24-malaysia-welcomes-chinese-investment-in-tourism-sector-tiong-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia Welcomes Chinese Investment In Tourism Sector - Tiong - Bernama",
+      "summary": "Key points: Malaysia Welcomes Chinese Investment In Tourism Sector - Tiong Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-24T23:17:09+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sTVRWeVppbmVud3hnXzJNM1ItNUhEN1lUclBnMEUwSFVSYWxJX2xyRlVCUFltOGZrQmtwUDl3MnZINktwRWNCanRKbzZLZUhMU2J6TDgta1M?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -800,36 +830,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-24-japanese-chef-spreads-spirit-of-washoku-in-malaysia-bernama",
-      "category": "malaysia",
-      "headline": "Japanese Chef Spreads spirit Of 'Washoku' In Malaysia - Bernama",
-      "summary": "Key points: Japanese Chef Spreads spirit Of 'Washoku' In Malaysia Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-24T11:45:15+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sVGZkWGJNampwTXFfVWpKMmhZSHNKTWtNNkpNZUhGNkpEaVh4MHZkNGdXb2xmVk9YYWFuS0VQOHdOa1ZVNEtxeEVkUUlzNjZHR2trcm5HRFpGSUxBNkNoczZR?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
