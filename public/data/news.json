@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-25T06:59:11+08:00",
+  "generated_at": "2026-07-25T08:11:12+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-25-us-missiles-hit-iran-as-path-towards-de-escalation-uncertain",
+      "id": "2026-07-25-nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-partners",
       "category": "world",
-      "headline": "US missiles hit Iran as path towards de-escalation uncertain",
-      "summary": "Key points: Trump has threatened to expand targets in Iran, though he said he had not yet made a decision for new major strikes.",
+      "headline": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
+      "summary": "Key points: CNA Latest reports that Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-25T06:44:00+08:00",
+      "published_at": "2026-07-25T07:53:43+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/us-missiles-iran-war-donald-trump-6277381",
+          "url": "https://www.channelnewsasia.com/business/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-partnership-6277421",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,106 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-25-we-have-raised-the-ceiling-now-we-must-raise-the-floor",
+      "category": "malaysia",
+      "headline": "We have raised the ‘ceiling’; Now we must raise the ‘floor’",
+      "summary": "Key points: JULY 25 — GDP estimates indicated that Malaysia’s economy grew by 5.8 per cent in Q2 2026, from 5.4 pe...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-25T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/25/we-have-raised-the-ceiling-now-we-must-raise-the-floor/228846",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-25-from-wedding-thalis-to-temple-decor-penang-goldsmith-preserves-generations-of-craf",
+      "category": "malaysia",
+      "headline": "From wedding thalis to temple decor, Penang goldsmith preserves generations of craftsmanship",
+      "summary": "Key points: GEORGE TOWN, July 25 — For fourth-generation goldsmith Raju Murugesan, every piece of jewellery he made was f...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-25T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/25/from-wedding-thalis-to-temple-decor-penang-goldsmith-preserves-generations-of-craftsmanship/227995",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-25-from-beethoven-to-storks-ecb-reveals-euro-redesign-citizens-urged-to-shape-currenc",
+      "category": "markets_investment",
+      "headline": "From Beethoven to storks, ECB reveals euro redesign, citizens urged to shape currency’s face",
+      "summary": "Key points: The European Central Bank (ECB) has presented 10 design proposals for a planned new series of...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-25T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/25/from-beethoven-to-storks-ecb-reveals-euro-redesign-citizens-urged-to-shape-currencys-face/228819",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-25-arrests-assassinations-silence-cambodia-s-critics-pay-heavy-price-a-decade-after-k",
+      "category": "world",
+      "headline": "Arrests, assassinations, silence — Cambodia’s critics pay heavy price a decade after Kem Ley",
+      "summary": "Key points: PHNOM PENH, July 25 — Union leader Chhim Sithar served two years in prison after going up against the Cambodian go...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-25T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/25/arrests-assassinations-silence-cambodias-critics-pay-heavy-price-a-decade-after-kem-ley/228814",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-25-who-will-lead-the-un-as-global-crises-mount-and-security-council-divisions-deepen",
+      "category": "world",
+      "headline": "Who will lead the UN as global crises mount and Security Council divisions deepen?",
+      "summary": "Key points: UNITED NATIONS, July 25 — Four women and two men are in the running to succeed Antonio Guterres as leader of the U...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-25T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/25/who-will-lead-the-un-as-global-crises-mount-and-security-council-divisions-deepen/228802",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1129,106 +1229,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/24/never-heard-of-it-sanusi-shrugs-off-hamzahs-pbn-label/228756",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-24-anwar-indian-community-empowerment-must-focus-on-education-skills-and-jobs",
-      "category": "malaysia",
-      "headline": "Anwar: Indian community empowerment must focus on education, skills and jobs",
-      "summary": "Key points: KUALA LUMPUR, July 24 — Efforts to empower the Indian community must prioritise quality education, comprehensive w...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-24T09:55:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/24/anwar-indian-community-empowerment-must-focus-on-education-skills-and-jobs/228755",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-24-oil-passes-us-100-a-barrel-again-why-depleted-reserves-and-conflict-make-this-spik",
-      "category": "markets_investment",
-      "headline": "Oil passes US$100 a barrel again: Why depleted reserves and conflict make this spike more dangerous",
-      "summary": "Key points: Brent crude went back over US$100 (RM409) a barrel yesterday for the first time since May, as the...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-24T09:55:12+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/24/oil-passes-us100-a-barrel-again-why-depleted-reserves-and-conflict-make-this-spike-more-dangerous/228753",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-24-man-shouting-allahu-akbar-stabs-two-in-new-york-police-probe-hate-crime-motive",
-      "category": "world",
-      "headline": "Man shouting ‘Allahu akbar’ stabs two in New York, police probe hate‑crime motive",
-      "summary": "Key points: NEW YORK, July 24 — Two people were stabbed yesterday in New York by a man who shouted “Allahu akbar”...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-24T09:43:09+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/24/man-shouting-allahu-akbar-stabs-two-in-new-york-police-probe-hatecrime-motive/228748",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-24-bumiputera-petrol-station-operators-urge-review-of-credit-card-charges-as-fuel-cos",
-      "category": "malaysia",
-      "headline": "Bumiputera petrol station operators urge review of credit card charges as fuel costs rise",
-      "summary": "Key points: KUALA LUMPUR, July 24 — The Bumiputera Petrol Station Operators Association of Malaysia (Bumipeda) has urged the g...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-24T09:39:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/24/bumiputera-petrol-station-operators-urge-review-of-credit-card-charges-as-fuel-costs-rise/228751",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-24-agricultural-tvet-graduate-employment-rises-to-76pc-still-below-national-average",
-      "category": "malaysia",
-      "headline": "Agricultural TVET graduate employment rises to 76pc, still below national average",
-      "summary": "Key points: The employment rate of Technical and Vocational Education and Training (TVET) graduates in ag...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-24T09:36:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/24/agricultural-tvet-graduate-employment-rises-to-76pc-still-below-national-average/228749",
           "publisher_type": "news"
         }
       ],
