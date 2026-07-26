@@ -1,8 +1,141 @@
 {
-  "generated_at": "2026-07-26T17:11:11+08:00",
+  "generated_at": "2026-07-26T19:17:39+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-07-26-wildfires-overwhelm-exhausted-firefighters-in-france-and-spain",
+      "category": "world",
+      "headline": "Wildfires overwhelm exhausted firefighters in France and Spain",
+      "summary": "Key points: CNA Latest reports that Wildfires overwhelm exhausted firefighters in France and Spain.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-26T19:14:53+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/france-spain-wildfire-heatwave-blaze-evacuation-6278921",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-26-sepang-roars-back-as-malaysia-secures-bahrain-f1-grand-prix-pm-anwar-hails-triumph",
+      "category": "malaysia",
+      "headline": "Sepang roars back as Malaysia secures Bahrain F1 Grand Prix, PM Anwar hails triumph",
+      "summary": "Key points: Malaysia will host the Formula 1 Gulf Air Bahrain Grand Prix at Sepang International Circuit...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-26T19:06:12+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/sepang-roars-back-as-malaysia-secures-bahrain-f1-grand-prix-pm-anwar-hails-triumph/229058",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "putrajaya",
+        "anwar",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-26-france-s-wildfire-front-very-unfavourable-interior-minister-warns-as-blazes-threat",
+      "category": "world",
+      "headline": "France’s wildfire front ‘very unfavourable’, interior minister warns as blazes threaten Unesco‑listed Bordeaux",
+      "summary": "Key points: French Interior Minister Laurent Nunez warned today the wildfire situation in France was “v...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-26T19:02:28+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/26/frances-wildfire-front-very-unfavourable-interior-minister-warns-as-blazes-threaten-unescolisted-bordeaux/229057",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-26-armed-and-dangerous-suspect-on-the-run-after-deadly-berlin-pride-car-ramming-polic",
+      "category": "world",
+      "headline": "Armed and dangerous: Suspect on the run after deadly Berlin Pride car‑ramming, police warn public",
+      "summary": "Key points: German police today were hunting for the prime suspect in a car-ramming attack on the outskirts...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-26T18:33:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/26/armed-and-dangerous-suspect-on-the-run-after-deadly-berlin-pride-carramming-police-warn-public/229054",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-26-palestinians-report-israeli-settlers-set-fire-to-two-mosques-amid-surge-in-west-ba",
+      "category": "markets_investment",
+      "headline": "Palestinians report Israeli settlers set fire to two mosques amid surge in West Bank violence",
+      "summary": "Key points: QUSRA (Palestinian Territories), July 26 — Palestinian officials said Israeli settlers set fire to two mosques in...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-26T18:03:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/26/palestinians-report-israeli-settlers-set-fire-to-two-mosques-amid-surge-in-west-bank-violence/229052",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-26-philippines-considers-australia-style-social-media-ban-for-minors-after-deadly-sch",
+      "category": "world",
+      "headline": "Philippines considers Australia‑style social media ban for minors after deadly school shooting",
+      "summary": "Key points: Philippine National Police (PNP) chief Gen.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-26T17:42:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/26/philippines-considers-australiastyle-social-media-ban-for-minors-after-deadly-school-shooting/229050",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-07-26-pm-anwar-extends-condolences-to-families-of-six-killed-in-bentong-crash",
       "category": "malaysia",
@@ -95,36 +228,6 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/07/26/iran-army-warns-middle-east-war-will-expand-further-if-us-airstrikes-resume/229039",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-chinese-university-investigating-girl-s-death-in-gene-editing-trial",
-      "category": "world",
-      "headline": "Chinese university investigating girl's death in gene-editing trial",
-      "summary": "Key points: The experimental gene therapy was meant to fix a rare genetic condition that caused a delay in cognitive development.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-26T16:11:58+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/east-asia/chinese-university-investigating-girls-death-in-gene-editing-trial-6278826",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -344,6 +447,26 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/07/26/tehran-says-ukraine-attacked-its-ship-in-caspian-sea-killing-sailor-and-vows-it-wont-leave-incident-unanswered/229017",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-26-vietnam-reports-17-missing-after-cargo-ship-sinks-amid-joint-china-vietnam-rescue",
+      "category": "world",
+      "headline": "Vietnam reports 17 missing after cargo ship sinks amid joint China–Vietnam rescue",
+      "summary": "Key points: Rescuers were searching for 17 missing people today after a Vietnamese cargo ship carrying 62 san...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-26T13:18:12+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/26/vietnam-reports-17-missing-after-cargo-ship-sinks-amid-joint-chinavietnam-rescue/229016",
           "publisher_type": "news"
         }
       ],
@@ -1097,126 +1220,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-25-autistic-girl-dies-in-13th-floor-apartment-fall-in-kuala-terengganu",
-      "category": "malaysia",
-      "headline": "Autistic girl dies in 13th-floor apartment fall in Kuala Terengganu",
-      "summary": "Key points: KUALA TERENGGANU, July 25 —A seven-year-old autistic girl died after falling from the 13th floor of the Ladang Tok...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-25T18:36:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/25/autistic-girl-dies-in-13th-floor-apartment-fall-in-kuala-terengganu/228958",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-25-iran-foreign-minister-urges-dialogue-says-yemen-conflict-has-no-military-solution-",
-      "category": "world",
-      "headline": "Iran foreign minister urges dialogue, says Yemen conflict has ‘no military solution’ after renewed Saudi-Houthi clashes",
-      "summary": "Key points: Iran’s Foreign Minister Abbas Araghchi said today there was no military solution to the es...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-25T18:31:51+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/25/iran-foreign-minister-urges-dialogue-says-yemen-conflict-has-no-military-solution-after-renewed-saudi-houthi-clashes/228957",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-25-anwar-says-there-is-a-need-to-reconstruct-history-to-the-malaysian-narrative",
-      "category": "malaysia",
-      "headline": "Anwar says there is a need to reconstruct history to the Malaysian narrative",
-      "summary": "Key points: GEORGE TOWN, July 25 - Prime Minister Datuk Seri Anwar Ibrahim says there is a need to reconstruct the history of the co...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-25T18:22:47+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/25/anwar-says-there-is-a-need-to-reconstruct-history-to-the-malaysian-narrative/228956",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-25-uk-maritime-agency-reports-incident-with-tanker-and-military-forces-in-gulf-of-oma",
-      "category": "world",
-      "headline": "UK maritime agency reports incident with ‘tanker and military forces’ in Gulf of Oman",
-      "summary": "Key points: An incident involving a tanker and unspecified military forces was reported today near the Strait...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-25T18:14:42+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/25/uk-maritime-agency-reports-incident-with-tanker-and-military-forces-in-gulf-of-oman/228955",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-25-education-groups-dong-zong-and-jiao-zong-decry-pas-president-hadi-awang-s-pendatan",
-      "category": "malaysia",
-      "headline": "Education groups Dong Zong and Jiao Zong decry PAS president Hadi Awang’s ‘pendatang’ remarks",
-      "summary": "Key points: KUALA LUMPUR, July 25 — Two of Malaysia’s largest Chinese education advocacy groups, Dong Zong and Jiao...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-25T18:03:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/25/education-groups-dong-zong-and-jiao-zong-decry-pas-president-hadi-awangs-pendatang-remarks/228954",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-25-former-pm-najib-undergoes-coronary-procedure-no-stent-needed-doctors-confirm",
-      "category": "malaysia",
-      "headline": "Former PM Najib undergoes coronary procedure; no stent needed, doctors confirm",
-      "summary": "Key points: KUALA LUMPUR, July 25 — Former Malaysian Prime Minister Datuk Seri Najib Razak is in stable condition and rec...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-25T17:40:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/25/former-pm-najib-undergoes-coronary-procedure-no-stent-needed-doctors-confirm/228953",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
