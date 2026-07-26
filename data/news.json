@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-07-26T21:16:59+08:00",
+  "generated_at": "2026-07-26T23:03:04+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-07-26-courtois-welcomes-van-bommel-s-appointment-as-belgium-coach",
+      "category": "world",
+      "headline": "Courtois welcomes Van Bommel's appointment as Belgium coach",
+      "summary": "Key points: CNA Latest reports that Courtois welcomes Van Bommel's appointment as Belgium coach.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-26T22:44:44+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/sport/courtois-welcomes-van-bommels-appointment-belgium-coach-6279106",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-07-26-close-to-madrid-evacuees-displaced-by-massive-wildfire-worry-what-is-next",
       "category": "world",
@@ -15,36 +45,6 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/07/26/close-to-madrid-evacuees-displaced-by-massive-wildfire-worry-what-is-next/229038",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-southern-china-faces-torrential-rain-floods-after-typhoon-noul-makes-landfall",
-      "category": "world",
-      "headline": "Southern China faces torrential rain, floods after Typhoon Noul makes landfall",
-      "summary": "Key points: Flash floods are expected in parts of Jiangxi, Hunan, Guangdong, Sichuan, Shaanxi, Gansu and southeastern Xinjiang from Sunday evening through Monday evening.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-26T20:33:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/east-asia/southern-china-typhoon-noul-torrential-rain-flood-6278926",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1163,36 +1163,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-07-26-parkwood-s-upcoming-development-plans-the-edge-malaysia",
-      "category": "malaysia",
-      "headline": "Parkwood's upcoming development plans - The Edge Malaysia",
-      "summary": "Key points: Parkwood's upcoming development plans The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T08:30:00+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zSHBfMXlmMjd1REMtcmtCXy1YX3ZFSGNGNWpfMFFvbUxwMnVvX3kwdDFUSW5TVUQ1THNFTkdzN0ZzUE9LcHlkc1VxaHpESlNW?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-07-26-for-nearly-a-century-this-penang-family-in-jelutong-has-let-the-sun-make-its-soy-s",
       "category": "malaysia",
       "headline": "For nearly a century, this Penang family in Jelutong has let the sun make its soy sauce",
@@ -1230,6 +1200,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-26-malaysia-confirmed-as-host-of-bahrain-grand-prix-the-edge-malaysia",
+      "category": "malaysia",
+      "headline": "Malaysia confirmed as host of Bahrain Grand Prix - The Edge Malaysia",
+      "summary": "Key points: Malaysia confirmed as host of Bahrain Grand Prix The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-26T00:18:18+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waHEtdmNwQUVVY2RCVEVwT3liY2FUTXp5U2U5WnVMR3l0R0J0VGRxRkJ4b0ppSTNiQjdfYVlyZHhYLTlmWmhCRW1oZW0xSm5y?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
