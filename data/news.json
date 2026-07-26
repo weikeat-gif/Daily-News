@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-27T02:04:03+08:00",
+  "generated_at": "2026-07-27T04:07:48+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-27-hamilton-questions-costly-ferrari-pitstop-decision",
+      "id": "2026-07-27-israel-to-allow-international-force-into-gaza-official",
       "category": "world",
-      "headline": "Hamilton questions costly Ferrari pitstop decision",
-      "summary": "Key points: CNA Latest reports that Hamilton questions costly Ferrari pitstop decision.",
+      "headline": "Israel to allow international force into Gaza: Official",
+      "summary": "Key points: CNA Latest reports that Israel to allow international force into Gaza: Official.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-27T01:45:48+08:00",
+      "published_at": "2026-07-27T03:32:59+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/hamilton-questions-costly-ferrari-pitstop-decision-6279261",
+          "url": "https://www.channelnewsasia.com/world/israel-allow-international-force-gaza-official-6279381",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-07-26-cramps-fail-to-stop-mohamad-aniq-from-lifting-malaysia-to-first-glasgow-gold-berna",
+      "category": "malaysia",
+      "headline": "Cramps Fail To Stop Mohamad Aniq From Lifting Malaysia To First Glasgow Gold - Bernama",
+      "summary": "Key points: Cramps Fail To Stop Mohamad Aniq From Lifting Malaysia To First Glasgow Gold Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-26T21:33:27+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9udEJJY1BFWWhzZG1KQVYxcW1GcUJlNWhMZjF1bXhVbldFb3pzaHhMLUkxMGtRSjdDMHpQdGJFczhsbHZ2aHozamVhY21LdXVhZmlTc0NzVTVmN3hjdGt0dVZUMUxsRUFu?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1200,36 +1230,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-malaysia-confirmed-as-host-of-bahrain-grand-prix-the-edge-malaysia",
-      "category": "malaysia",
-      "headline": "Malaysia confirmed as host of Bahrain Grand Prix - The Edge Malaysia",
-      "summary": "Key points: Malaysia confirmed as host of Bahrain Grand Prix The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T00:18:18+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waHEtdmNwQUVVY2RCVEVwT3liY2FUTXp5U2U5WnVMR3l0R0J0VGRxRkJ4b0ppSTNiQjdfYVlyZHhYLTlmWmhCRW1oZW0xSm5y?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
