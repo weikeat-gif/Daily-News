@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-07-27T05:57:32+08:00",
+  "generated_at": "2026-07-27T07:01:46+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-27-maebashi-is-quietly-becoming-one-of-japan-s-most-creative-cities",
+      "id": "2026-07-27-survey-malaysian-consumers-moving-away-from-crisis-mode-response-amid-improved-out",
+      "category": "malaysia",
+      "headline": "Survey: Malaysian consumers moving away from crisis-mode response amid improved outlook; fewer plan to cut dining out first",
+      "summary": "Key points: KUALA LUMPUR, July 27 — Malaysians in a survey are now less pessimistic about their household financial...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/survey-malaysian-consumers-moving-away-from-crisis-mode-response-amid-improved-outlook-fewer-plan-to-cut-dining-out-first/228715",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-kim-jong-un-s-sister-blasts-asean-for-urging-north-korea-denuclearisation",
       "category": "world",
-      "headline": "Maebashi is quietly becoming one of Japan’s most creative cities",
-      "summary": "Key points: Just over an hour from Tokyo, the Gunma capital is pairing contemporary art and architecture with a broader effort to revive its city centre.",
+      "headline": "Kim Jong Un's sister blasts ASEAN for urging North Korea denuclearisation",
+      "summary": "Key points: CNA Latest reports that Kim Jong Un's sister blasts ASEAN for urging North Korea denuclearisation.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-27T05:31:00+08:00",
+      "published_at": "2026-07-27T06:53:36+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/remarkable-living/maebashi-japan-travel-guide-6265391",
+          "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-sister-blast-asean-denuclearisation-6279516",
           "publisher_type": "news"
         },
         {
@@ -1200,36 +1220,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-malaysia-confirmed-as-host-of-bahrain-grand-prix-the-edge-malaysia",
-      "category": "malaysia",
-      "headline": "Malaysia confirmed as host of Bahrain Grand Prix - The Edge Malaysia",
-      "summary": "Key points: Malaysia confirmed as host of Bahrain Grand Prix The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T00:18:18+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waHEtdmNwQUVVY2RCVEVwT3liY2FUTXp5U2U5WnVMR3l0R0J0VGRxRkJ4b0ppSTNiQjdfYVlyZHhYLTlmWmhCRW1oZW0xSm5y?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
