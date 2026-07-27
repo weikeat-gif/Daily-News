@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-27T21:37:52+08:00",
+  "generated_at": "2026-07-28T00:16:24+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-27-indonesia-faces-crucial-choice-after-central-bank-chief-s-surprise-resignation",
-      "category": "markets_investment",
-      "headline": "Indonesia faces crucial choice after central bank chief's surprise resignation",
-      "summary": "Key points: While Perry Warjiyo's resignation caught markets by surprise, the appointment of Senior Deputy Governor Destry Damayanti as interim governor sends a positive signal, say analysts.",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-27T21:35:15+08:00",
+      "id": "2026-07-27-openai-s-sam-altman-to-meet-with-senate-intelligence-committee-s-top-democrat",
+      "category": "world",
+      "headline": "OpenAI's Sam Altman to meet with Senate Intelligence Committee's top Democrat",
+      "summary": "Key points: CNA Latest reports that OpenAI's Sam Altman to meet with Senate Intelligence Committee's top Democrat.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-27T23:46:06+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/indonesia-central-bank-governor-perry-warjiyo-surprise-resignation-6280466",
+          "url": "https://www.channelnewsasia.com/business/openais-sam-altman-meet-senate-intelligence-committees-top-democrat-6281256",
           "publisher_type": "news"
         },
         {
@@ -28,12 +28,39 @@
         }
       ],
       "topics": [
-        "market",
-        "markets",
-        "bank",
-        "central bank"
+        "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-dxn-capitaland-malaysia-trust-pgf-capital-bhd-oriental-interest-sns-destini-aemulu",
+      "category": "malaysia",
+      "headline": "DXN, CapitaLand Malaysia Trust, PGF Capital Bhd, Oriental Interest, SNS, Destini, Aemulus, Country Heights, T7 Global - The Edge M",
+      "summary": "Key points: DXN, CapitaLand Malaysia Trust, PGF Capital Bhd, Oriental Interest, SNS, Destini, Aemulus, Country Heights, T7 Global The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T22:54:06+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iUXZfbThLQUp1aTBpbTUyOW1KTnR2ZXFibzBjOHRpU3RJT1VaUDdaNXRlMWhmbWttYVF4Um5uWmdqdTVlWmpRZkRHX3lQS2VL?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -684,36 +711,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/27/palace-says-sultan-ibrahims-friendship-with-bahrain-king-paved-way-for-f1-race/229128",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-27-malaysia-set-for-spending-spree-on-water-infrastructure-maybank-ib-the-edge-malays",
-      "category": "malaysia",
-      "headline": "Malaysia set for spending spree on water infrastructure — Maybank IB - The Edge Malaysia",
-      "summary": "Key points: Malaysia set for spending spree on water infrastructure — Maybank IB The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-27T14:13:03+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wZFFBYUNmRXJJMG9OSXNjQk9OeVprNFdPU25nN05tb3l3b2NZcGhRSEN6aHd4eUZfSXVvc2pCMFdLYjFPckFhN2JFa0FWcW9m?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
