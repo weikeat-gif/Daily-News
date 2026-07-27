@@ -1,8 +1,424 @@
 {
-  "generated_at": "2026-07-27T07:01:46+08:00",
+  "generated_at": "2026-07-27T10:44:17+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-07-27-home-minister-tells-akps-to-fast-track-new-uniforms-ensure-competency-before-jb-si",
+      "category": "malaysia",
+      "headline": "Home Minister tells AKPS to fast-track new uniforms, ensure competency before JB-Singapore RTS Link launch in 2027",
+      "summary": "Key points: Home Minister Datuk Seri Saifuddin Nasution Ismail today instructed the Malaysian Border Cont...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T10:32:22+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/home-minister-tells-akps-to-fast-track-new-uniforms-ensure-competency-before-jb-singapore-rts-link-launch-in-2027/229099",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-indonesia-s-central-bank-governor-resigns-as-economy-enters-tailspin",
+      "category": "markets_investment",
+      "headline": "Indonesia’s central bank governor resigns as economy enters tailspin",
+      "summary": "Key points: Indonesia’s central bank governor has resigned early as the country battles a weakening c...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-27T10:23:59+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/27/indonesias-central-bank-governor-resigns-as-economy-enters-tailspin/229098",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-china-chipmaker-cxmt-s-shares-surge-470-in-shangai-trading-debut",
+      "category": "markets_investment",
+      "headline": "China chipmaker CXMT's shares surge 470% in Shangai trading debut",
+      "summary": "Key points: CNA Latest reports that China chipmaker CXMT's shares surge 470% in Shangai trading debut.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-27T10:09:38+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/china-chipmaker-cxmt-shares-surge-shanghai-trading-debut-6279601",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-ringgit-firms-against-us-dollar-as-election-optimism-meets-fomc-anxiety",
+      "category": "markets_investment",
+      "headline": "Ringgit firms against US dollar as election optimism meets FOMC anxiety",
+      "summary": "Key points: KUALA LUMPUR, July 27 — The ringgit opened higher against the US dollar on Monday, supported by positive domestic...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-27T09:46:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/27/ringgit-firms-against-us-dollar-as-election-optimism-meets-fomc-anxiety/229094",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-door-stuck-open-forces-rapid-kl-to-halt-kelana-jaya-train-at-taman-bahagia-station",
+      "category": "malaysia",
+      "headline": "Door stuck open forces Rapid KL to halt Kelana Jaya train at Taman Bahagia station",
+      "summary": "Key points: PETALING JAYA, 27 July 2026 — Rapid KL has taken immediate action following a technical issue involving one of the...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T09:46:18+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/door-stuck-open-forces-rapid-kl-to-halt-kelana-jaya-train-at-taman-bahagia-station/229085",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-france-and-spain-battle-the-worst-wildfires-in-their-histories-as-heatwave-fuels-c",
+      "category": "world",
+      "headline": "France and Spain battle the worst wildfires in their histories as heatwave fuels crisis",
+      "summary": "Key points: Firefighters faced another day battling massive blazes scorching forests across France and Spa...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-27T09:38:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/27/france-and-spain-battle-the-worst-wildfires-in-their-histories-as-heatwave-fuels-crisis/229091",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-nearly-2-000-dogs-and-cats-neutered-under-perak-initiative-since-2024",
+      "category": "malaysia",
+      "headline": "Nearly 2,000 dogs and cats neutered under Perak initiative since 2024",
+      "summary": "Key points: PARIT BUNTAR, July 27 — A total of 1,935 dogs and cats have been neutered under the Perak Pawsitive Ini...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T09:35:16+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/nearly-2000-dogs-and-cats-neutered-under-perak-initiative-since-2024/229092",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-terengganu-contractor-duped-of-rm152-550-in-non-existent-tender-scam",
+      "category": "malaysia",
+      "headline": "Terengganu contractor duped of RM152,550 in non-existent tender scam",
+      "summary": "Key points: KUALA TERENGGANU, July 27 — A 68-year-old electrical contractor lost RM152,550 after falling victim to...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T09:27:05+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/terengganu-contractor-duped-of-rm152550-in-non-existent-tender-scam/229090",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-stupid-and-foolish-kim-jong-un-s-sister-unleashes-on-asean-over-denuclearisation-c",
+      "category": "world",
+      "headline": "‘Stupid and foolish’: Kim Jong Un’s sister unleashes on Asean over ‘denuclearisation’ call",
+      "summary": "Key points: The powerful sister of North Korean leader Kim Jong Un attacked the bloc of Southeast Asian natio...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-27T09:11:12+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/27/stupid-and-foolish-kim-jong-uns-sister-unleashes-on-asean-over-denuclearisation-call/229088",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-oil-prices-fall-5-5pc-as-us-iran-strike-pause-opens-door-to-talks",
+      "category": "markets_investment",
+      "headline": "Oil prices fall 5.5pc as US-Iran strike pause opens door to talks",
+      "summary": "Key points: Oil prices dropped sharply at Monday’s opening of Asian markets as investors breathed cautious sighs of...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-07-27T09:05:54+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/07/27/oil-prices-fall-55pc-as-us-iran-strike-pause-opens-door-to-talks/229087",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "market",
+        "markets",
+        "oil",
+        "asia"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-two-teenage-girls-killed-after-car-loses-control-and-crashes-into-motorcycle-in-te",
+      "category": "malaysia",
+      "headline": "Two teenage girls killed after car loses control and crashes into motorcycle in Teluk Intan",
+      "summary": "Key points: Two teenage girls were killed after the motorcycle they were riding was involved in a c...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T09:03:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/two-teenage-girls-killed-after-car-loses-control-and-crashes-into-motorcycle-in-teluk-intan/229086",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-man-dies-after-collapsing-during-football-match-in-seremban",
+      "category": "malaysia",
+      "headline": "Man dies after collapsing during football match in Seremban",
+      "summary": "Key points: A local man died after collapsing during a football match held at a field in a resi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T08:46:29+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/man-dies-after-collapsing-during-football-match-in-seremban/229072",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-malaysia-to-strengthen-regional-anti-graft-cooperation-through-asean-pac-meeting",
+      "category": "malaysia",
+      "headline": "Malaysia to strengthen regional anti-graft cooperation through Asean-PAC meeting",
+      "summary": "Key points: KUALA LUMPUR, July 27 — The Malaysian Anti-Corruption Commission (MACC) will host the 22nd Asean P...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T08:46:06+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/malaysia-to-strengthen-regional-anti-graft-cooperation-through-asean-pac-meeting/229071",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-trump-halts-iran-strikes-ahead-of-netanyahu-s-white-house-visit",
+      "category": "world",
+      "headline": "Trump halts Iran strikes ahead of Netanyahu’s White House visit",
+      "summary": "Key points: Iran and the United States held their fire Sunday, handing Gulf shipping and the oil industry a...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-27T08:45:56+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/27/trump-halts-iran-strikes-ahead-of-netanyahus-white-house-visit/229082",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-malaysian-arrested-in-south-korea-over-fatal-stabbing-during-brawl",
+      "category": "malaysia",
+      "headline": "Malaysian arrested in South Korea over fatal stabbing during brawl",
+      "summary": "Key points: KUALA LUMPUR, July 27 — South Korean police have arrested a Malaysian man in connection with the fatal...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T08:45:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/malaysian-arrested-in-south-korea-over-fatal-stabbing-during-brawl/229073",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-police-detain-two-more-over-alleged-abuse-linked-to-penang-boy-s-death",
+      "category": "malaysia",
+      "headline": "Police detain two more over alleged abuse linked to Penang boy’s death",
+      "summary": "Key points: GEORGE TOWN, July 27 — A foreign man and woman have been remanded for seven days to assist investigatio...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T08:44:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/police-detain-two-more-over-alleged-abuse-linked-to-penang-boys-death/229070",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-anwar-congratulates-aniq-kasdan-on-malaysia-s-first-commonwealth-games-gold",
+      "category": "malaysia",
+      "headline": "Anwar congratulates Aniq Kasdan on Malaysia’s first Commonwealth Games gold",
+      "summary": "Key points: KUALA LUMPUR, July 27 —Prime Minister Datuk Seri Anwar Ibrahim congratulated national weightlifter Mohamad Aniq Ka...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T08:44:03+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/anwar-congratulates-aniq-kasdan-on-malaysias-first-commonwealth-games-gold/229074",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "anwar",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-ayob-khan-says-world-class-police-force-needs-independent-law-enforcement",
+      "category": "malaysia",
+      "headline": "Ayob Khan says world-class police force needs independent law enforcement",
+      "summary": "Key points: KUALA LUMPUR, July 27 — The Royal Malaysian Police (PDRM) must be given the space to enforce the law ind...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T08:43:39+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/ayob-khan-says-world-class-police-force-needs-independent-law-enforcement/229069",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-negeri-sembilan-voters-should-judge-manifestos-by-delivery-not-promises-says-tengk",
+      "category": "malaysia",
+      "headline": "Negeri Sembilan voters should judge manifestos by delivery, not promises, says Tengku Zafrul",
+      "summary": "Key points: PORT DICKSON, July 27 — Voters should assess the manifestos of parties contesting the 16th Negeri...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T08:43:18+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/negeri-sembilan-voters-should-judge-manifestos-by-delivery-not-promises-says-tengku-zafrul/229068",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-27-explainer-trump-s-new-10pc-tariffs-on-malaysia-what-s-exempted-and-what-comes-next",
+      "category": "malaysia",
+      "headline": "Explainer: Trump’s new 10pc tariffs on Malaysia, what’s exempted and what comes next",
+      "summary": "Key points: KUALA LUMPUR, July 27 — US President Donald Trump introduced fresh tariffs against Malaysia and dozens of other tr...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-27T08:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/27/explainer-trumps-new-10pc-tariffs-on-malaysia-whats-exempted-and-what-comes-next/229067",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-07-27-survey-malaysian-consumers-moving-away-from-crisis-mode-response-amid-improved-out",
       "category": "malaysia",
@@ -21,36 +437,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-27-kim-jong-un-s-sister-blasts-asean-for-urging-north-korea-denuclearisation",
-      "category": "world",
-      "headline": "Kim Jong Un's sister blasts ASEAN for urging North Korea denuclearisation",
-      "summary": "Key points: CNA Latest reports that Kim Jong Un's sister blasts ASEAN for urging North Korea denuclearisation.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-27T06:53:36+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-sister-blast-asean-denuclearisation-6279516",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -274,6 +660,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-26-malaysia-bag-three-titles-at-malaysia-junior-international-challenge-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia Bag Three Titles At Malaysia Junior International Challenge - bernama",
+      "summary": "Key points: Malaysia Bag Three Titles At Malaysia Junior International Challenge bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-26T16:54:36+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DVDFTekJkVW5iZGpzM1B2SzRZRHF0M1BhUXBQbV8xT1NfOGNSNzFuTG1tM3hXMXNkS2VkQkw1YnJSNXNQS1NTZl80MGp0S1hGTUZGZjA1RjItNjd5ZWNF?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -807,412 +1223,6 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/07/26/two-men-die-as-light-aircraft-crashes-into-house-in-germany/228994",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-housewife-loses-rm119-599-to-facebook-investment-scam",
-      "category": "markets_investment",
-      "headline": "Housewife loses RM119,599 to Facebook investment scam",
-      "summary": "Key points: KOTA TINGGI, July 26 —A housewife lost RM119,599.24 after falling victim to an investment scam on July 19.Kot...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-26T10:37:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/housewife-loses-rm119599-to-facebook-investment-scam/228998",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-german-police-identify-suspect-in-berlin-pride-car-attack-manhunt-underway",
-      "category": "world",
-      "headline": "German police identify suspect in Berlin Pride car attack, manhunt underway",
-      "summary": "Key points: German police searched on Sunday for a suspect believed linked to Islamist circles after a car p...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-26T10:15:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/26/german-police-identify-suspect-in-berlin-pride-car-attack-manhunt-underway/228990",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-with-100-days-to-go-trump-s-republicans-risk-losing-the-house",
-      "category": "world",
-      "headline": "With 100 days to go, Trump’s Republicans risk losing the House",
-      "summary": "Key points: One hundred days before the US midterm elections, President Donald Trump’s Republicans...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-26T10:11:07+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/26/with-100-days-to-go-trumps-republicans-risk-losing-the-house/228989",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-us-fed-tipped-to-hold-rates-as-inflation-iran-war-cloud-outlook",
-      "category": "markets_investment",
-      "headline": "US Fed tipped to hold rates as inflation, Iran war cloud outlook",
-      "summary": "Key points: WASHINGTON July 26 — The US Federal Reserve is set to hold its second meeting under new chairman Kevin Warsh start...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-26T10:02:43+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/26/us-fed-tipped-to-hold-rates-as-inflation-iran-war-cloud-outlook/228988",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "inflation",
-        "rate",
-        "iran",
-        "war"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-iran-says-oil-trade-stayed-afloat-through-war-and-truce-with-us-18b-in-sales",
-      "category": "markets_investment",
-      "headline": "Iran says oil trade stayed afloat through war and truce with US$18b in sales",
-      "summary": "Key points: TEHRAN, July 26 —Iran’s oil ministry on Saturday said it was able to sell a total of US$18 billion (RM73.62...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-26T09:53:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/26/iran-says-oil-trade-stayed-afloat-through-war-and-truce-with-us18b-in-sales/228992",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "oil",
-        "iran",
-        "war",
-        "trade"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-temporary-shelters-house-families-in-flood-stricken-melaka-tengah-and-jasin",
-      "category": "malaysia",
-      "headline": "Temporary shelters house families in flood-stricken Melaka Tengah and Jasin",
-      "summary": "Key points: MELAKA, July 26 —The number of flood victims in Melaka rose to 124 people from 37 families as of 8 am today,...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T09:31:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/temporary-shelters-house-families-in-flood-stricken-melaka-tengah-and-jasin/228986",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-visa-row-erupts-as-brazil-rejects-visit-by-us-officials-before-presidential-vote",
-      "category": "world",
-      "headline": "Visa row erupts as Brazil rejects visit by US officials before presidential vote",
-      "summary": "Key points: SAO PAULO, July 26 — Brazil denied visas for two US officials who sought to meet with Brazilian election authoriti...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-26T09:14:19+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/26/visa-row-erupts-as-brazil-rejects-visit-by-us-officials-before-presidential-vote/228975",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-07-26-scammer-poses-as-government-official-contractor-loses-over-rm50-000",
-      "category": "malaysia",
-      "headline": "Scammer poses as government official, contractor loses over RM50,000",
-      "summary": "Key points: KUALA TERENGGANU, July 26 — A 52-year-old electrical wiring contractor lost RM50,400 after falling victi...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T09:09:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/scammer-poses-as-government-official-contractor-loses-over-rm50000/228982",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-07-26-pm-anwar-attends-citrawarna-2026-launch-and-cultural-parade",
-      "category": "malaysia",
-      "headline": "PM Anwar attends Citrawarna 2026 launch and cultural parade",
-      "summary": "Key points: KUALA LUMPUR, July 26 — Prime Minister Datuk Seri Anwar Ibrahim attended the opening ceremony and parade of Citraw...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T09:02:03+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/pm-anwar-attends-citrawarna-2026-launch-and-cultural-parade/228981",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-german-chancellor-merz-promises-action-after-fatal-car-attack-cuts-berlin-pride-sh",
-      "category": "world",
-      "headline": "German chancellor Merz promises action after fatal car attack cuts Berlin Pride short",
-      "summary": "Key points: German Chancellor Friedrich Merz vowed Sunday to punish those responsible after a car struck peo...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-26T08:59:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/26/german-chancellor-merz-promises-action-after-fatal-car-attack-cuts-berlin-pride-short/228973",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-police-detain-man-for-assaulting-ipoh-officer-issuing-compound-notice",
-      "category": "malaysia",
-      "headline": "Police detain man for assaulting Ipoh officer issuing compound notice",
-      "summary": "Key points: Police have detained a man to assist investigations into an incident in which an Ipoh C...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T08:58:57+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/police-detain-man-for-assaulting-ipoh-officer-issuing-compound-notice/228980",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-car-ploughs-into-berlin-pride-crowd-leaving-at-least-one-dead-and-about-15-hurt",
-      "category": "world",
-      "headline": "Car ploughs into Berlin Pride crowd, leaving at least one dead and about 15 hurt",
-      "summary": "Key points: At least one person was killed and around 15 wounded after a car hit the crowd on the outskirts...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-26T08:45:19+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/26/car-ploughs-into-berlin-pride-crowd-leaving-at-least-one-dead-and-about-15-hurt/228974",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-raja-muda-of-selangor-wife-welcome-first-child-tengku-alia-amira",
-      "category": "malaysia",
-      "headline": "Raja Muda of Selangor, wife, welcome first child, Tengku Alia Amira",
-      "summary": "Key points: SHAH ALAM, July 26 — The Raja Muda of Selangor, Tengku Amir Shah Sultan Sharafuddin Idris Shah and his wife D...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T08:39:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/raja-muda-of-selangor-wife-welcome-first-child-tengku-alia-amira/228971",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-bn-chairman-defends-manifesto-as-original-and-improved-dismisses-copying-accusatio",
-      "category": "malaysia",
-      "headline": "BN chairman defends manifesto as original and improved, dismisses ‘copying’ accusations",
-      "summary": "Key points: PORT DICKSON, July 26 — Barisan Nasional (BN) chairman Datuk Seri Dr Ahmad Zahid Hamidi has rejected allegations t...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T08:39:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/bn-chairman-defends-manifesto-as-original-and-improved-dismisses-copying-accusations/228970",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-third-flood-relief-centre-opens-in-melaka-as-number-of-evacuees-rises",
-      "category": "malaysia",
-      "headline": "Third flood relief centre opens in Melaka as number of evacuees rises",
-      "summary": "Key points: The third temporary relief centre has been opened in Melaka to accommodate the increasing number...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T08:38:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/third-flood-relief-centre-opens-in-melaka-as-number-of-evacuees-rises/228969",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-pm-anwar-demands-swift-action-on-felda-initiatives-amid-settler-frustration",
-      "category": "malaysia",
-      "headline": "PM Anwar demands swift action on Felda initiatives amid settler frustration",
-      "summary": "Key points: KUALA LUMPUR, July 26 — Prime Minister Datuk Seri Anwar Ibrahim wants the seven initiatives announced earlier to h...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T08:38:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/pm-anwar-demands-swift-action-on-felda-initiatives-amid-settler-frustration/228966",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-malaysians-in-qatar-urged-to-follow-security-advisories-avoid-military-areas",
-      "category": "malaysia",
-      "headline": "Malaysians in Qatar urged to follow security advisories, avoid military areas",
-      "summary": "Key points: KUALA LUMPUR, July 26 — Malaysians in Qatar have been advised to follow security instructions issued by the l...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T08:37:54+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/malaysians-in-qatar-urged-to-follow-security-advisories-avoid-military-areas/228968",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-perikatan-launches-negeri-sembilan-election-manifesto-with-six-main-pillars",
-      "category": "malaysia",
-      "headline": "Perikatan launches Negeri Sembilan election manifesto with six main pillars",
-      "summary": "Key points: Perikatan Nasional (PN) today launched its manifesto outlining six main pillars for the 1...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T08:33:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/perikatan-launches-negeri-sembilan-election-manifesto-with-six-main-pillars/228967",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-for-nearly-a-century-this-penang-family-in-jelutong-has-let-the-sun-make-its-soy-s",
-      "category": "malaysia",
-      "headline": "For nearly a century, this Penang family in Jelutong has let the sun make its soy sauce",
-      "summary": "Key points: GEORGE TOWN, July 26 — For nearly a century, the Kam family has relied on sunshine, time and patience to brew trad...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-26T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/26/for-nearly-a-century-this-penang-family-in-jelutong-has-let-the-sun-make-its-soy-sauce/228002",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-26-flavio-bolsonaro-brazil-s-political-heir-still-in-his-father-s-shadow",
-      "category": "world",
-      "headline": "Flavio Bolsonaro: Brazil’s political heir still in his father’s shadow",
-      "summary": "Key points: RIO DE JANEIRO, July 26 — Flavio Bolsonaro inherited his father’s powerful surname and political base, but w...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-26T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/26/flavio-bolsonaro-brazils-political-heir-still-in-his-fathers-shadow/228924",
           "publisher_type": "news"
         }
       ],
