@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-28T23:18:45+08:00",
+  "generated_at": "2026-07-29T01:24:38+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-28-apple-briefly-becomes-second-company-ever-to-notch-5-trillion-market-value",
-      "category": "markets_investment",
-      "headline": "Apple briefly becomes second company ever to notch $5 trillion market value",
-      "summary": "Key points: CNA Latest reports that Apple briefly becomes second company ever to notch $5 trillion market value.",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-28T23:02:53+08:00",
+      "id": "2026-07-29-celtic-sign-denmark-forward-hogh-on-a-four-year-deal",
+      "category": "world",
+      "headline": "Celtic sign Denmark forward Hogh on a four-year deal",
+      "summary": "Key points: CNA Latest reports that Celtic sign Denmark forward Hogh on a four-year deal.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-29T01:04:32+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/apple-briefly-becomes-second-company-ever-notch-5-trillion-market-value-6283756",
+          "url": "https://www.channelnewsasia.com/sport/celtic-sign-denmark-forward-hogh-four-year-deal-6283976",
           "publisher_type": "news"
         },
         {
@@ -91,6 +91,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-28-passive-investing-presents-opportunity-for-malaysia-to-draw-stable-capital-says-ba",
+      "category": "malaysia",
+      "headline": "Passive investing presents opportunity for Malaysia to draw stable capital, says banker - The Edge Malaysia",
+      "summary": "Key points: Passive investing presents opportunity for Malaysia to draw stable capital, says banker The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-28T19:46:33+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EcWdla05sWTQzaGF2VFlSOXF6Nm9HVEs0cWxNZDNGNDZJR3ltbXphcUlaWThOU0JwVndkMDc3eVFlR3B2Qm54Q09LNVBvd0dy?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1184,36 +1214,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/28/negeri-sembilan-early-voter-turnout-reaches-1431pc-as-of-9am/229219",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-28-oecd-urges-malaysia-to-prioritise-capability-over-ownership-in-bumiputera-policy-t",
-      "category": "malaysia",
-      "headline": "OECD urges Malaysia to prioritise capability over ownership in Bumiputera policy - The Edge Malaysia",
-      "summary": "Key points: OECD urges Malaysia to prioritise capability over ownership in Bumiputera policy The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-28T12:25:37+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ubnNrY0QyT3hfUE1ObkRzMF9ncTllelMyOTJIVDZtaGhuSC1TbzA4TE9McVE4Vi1GMzZEQ1Z1cFpreTdFRDZQVnk5dEZhQ1lu?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
