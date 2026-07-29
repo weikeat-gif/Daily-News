@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-30T00:20:11+08:00",
+  "generated_at": "2026-07-30T02:05:18+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-29-apple-says-uk-app-store-proposal-amounts-to-price-regulation",
+      "id": "2026-07-30-harrington-named-vice-captain-for-europe-s-2027-ryder-cup-team",
       "category": "world",
-      "headline": "Apple says UK App Store proposal amounts to price regulation",
-      "summary": "Key points: CNA Latest reports that Apple says UK App Store proposal amounts to price regulation.",
+      "headline": "Harrington named vice captain for Europe's 2027 Ryder Cup team",
+      "summary": "Key points: CNA Latest reports that Harrington named vice captain for Europe's 2027 Ryder Cup team.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-29T23:48:08+08:00",
+      "published_at": "2026-07-30T01:44:06+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/apple-says-uk-app-store-proposal-amounts-price-regulation-6286416",
+          "url": "https://www.channelnewsasia.com/sport/harrington-named-vice-captain-europes-2027-ryder-cup-team-6286576",
           "publisher_type": "news"
         },
         {
@@ -54,26 +54,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-07-29-as-crime-surges-fujimori-loyalists-hope-a-familiar-name-can-restore-order-in-peru",
-      "category": "world",
-      "headline": "As crime surges, Fujimori loyalists hope a familiar name can restore order in Peru",
-      "summary": "Key points: We are offering the following story that has been selected by AFP’s chief editors for re-pub...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-29T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/29/as-crime-surges-fujimori-loyalists-hope-a-familiar-name-can-restore-order-in-peru/229384",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-07-29-india-s-youth-protests-puncture-modi-s-aura-of-political-invincibility",
       "category": "world",
       "headline": "India’s youth protests puncture Modi’s aura of political invincibility",
@@ -84,6 +64,26 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/07/29/indias-youth-protests-puncture-modis-aura-of-political-invincibility/229406",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-29-as-crime-surges-fujimori-loyalists-hope-a-familiar-name-can-restore-order-in-peru",
+      "category": "world",
+      "headline": "As crime surges, Fujimori loyalists hope a familiar name can restore order in Peru",
+      "summary": "Key points: We are offering the following story that has been selected by AFP’s chief editors for re-pub...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-29T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/29/as-crime-surges-fujimori-loyalists-hope-a-familiar-name-can-restore-order-in-peru/229384",
           "publisher_type": "news"
         }
       ],
