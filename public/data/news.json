@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-30T02:05:18+08:00",
+  "generated_at": "2026-07-30T04:11:40+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-30-harrington-named-vice-captain-for-europe-s-2027-ryder-cup-team",
+      "id": "2026-07-30-qualcomm-forecasts-weak-quarterly-profit-expects-apple-revenue-drop-to-accelerate",
       "category": "world",
-      "headline": "Harrington named vice captain for Europe's 2027 Ryder Cup team",
-      "summary": "Key points: CNA Latest reports that Harrington named vice captain for Europe's 2027 Ryder Cup team.",
+      "headline": "Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate",
+      "summary": "Key points: CNA Latest reports that Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-30T01:44:06+08:00",
+      "published_at": "2026-07-30T04:01:52+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/harrington-named-vice-captain-europes-2027-ryder-cup-team-6286576",
+          "url": "https://www.channelnewsasia.com/business/qualcomm-forecasts-weak-quarterly-profit-expects-apple-revenue-drop-accelerate-6286756",
           "publisher_type": "news"
         },
         {
@@ -54,26 +54,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-07-29-india-s-youth-protests-puncture-modi-s-aura-of-political-invincibility",
-      "category": "world",
-      "headline": "India’s youth protests puncture Modi’s aura of political invincibility",
-      "summary": "Key points: Indian Prime Minister Narendra Modi’s carefully built image of invincibility is facing...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-29T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/29/indias-youth-protests-puncture-modis-aura-of-political-invincibility/229406",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-07-29-as-crime-surges-fujimori-loyalists-hope-a-familiar-name-can-restore-order-in-peru",
       "category": "world",
       "headline": "As crime surges, Fujimori loyalists hope a familiar name can restore order in Peru",
@@ -84,6 +64,26 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/07/29/as-crime-surges-fujimori-loyalists-hope-a-familiar-name-can-restore-order-in-peru/229384",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-29-india-s-youth-protests-puncture-modi-s-aura-of-political-invincibility",
+      "category": "world",
+      "headline": "India’s youth protests puncture Modi’s aura of political invincibility",
+      "summary": "Key points: Indian Prime Minister Narendra Modi’s carefully built image of invincibility is facing...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-29T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/29/indias-youth-protests-puncture-modis-aura-of-political-invincibility/229406",
           "publisher_type": "news"
         }
       ],
@@ -1017,6 +1017,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-07-29-cabinet-declassifies-tabung-haji-rci-report-for-public-release-today-the-edge-mala",
+      "category": "malaysia",
+      "headline": "Cabinet declassifies Tabung Haji RCI report for public release today - The Edge Malaysia",
+      "summary": "Key points: Cabinet declassifies Tabung Haji RCI report for public release today The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-29T15:38:07+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qNlN2MUFIZ3lqb3lTTjlXVEFQaVZLS3JSMmFZMW96NC1IMGhVNDFnVUhCaU5HazBGYWw5clBDRlMyamJDbFFNVUdKQTNybGxo?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-07-29-i-may-be-killed-ex-premier-sheikh-hasina-vows-return-to-bangladesh-despite-risks",
       "category": "world",
       "headline": "‘I may be killed’: Ex-premier Sheikh Hasina vows return to Bangladesh despite risks",
@@ -1187,26 +1217,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/29/malaysia-needs-at-least-rm300m-a-year-to-secure-permanent-f1-return-says-sic-ceo/229405",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-29-chow-kon-yeow-penang-to-respond-only-after-kedah-submits-formal-lease-payment-clai",
-      "category": "malaysia",
-      "headline": "Chow Kon Yeow: Penang to respond only after Kedah submits formal lease payment claim",
-      "summary": "Key points: GEORGE TOWN, July 29 — Penang will continue to wait for Kedah to formally submit its claim over the state&rs...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-29T14:05:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/29/chow-kon-yeow-penang-to-respond-only-after-kedah-submits-formal-lease-payment-claim/229402",
           "publisher_type": "news"
         }
       ],
