@@ -1,19 +1,59 @@
 {
-  "generated_at": "2026-07-31T05:07:11+08:00",
+  "generated_at": "2026-07-31T07:04:37+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-07-31-japan-conducts-massive-yen-buying-intervention-nikkei-reports",
+      "id": "2026-07-31-a-fresh-start-teksi-madani-policy-looks-at-uplifting-taxi-drivers",
+      "category": "malaysia",
+      "headline": "A fresh start: Teksi Madani policy looks at uplifting taxi drivers",
+      "summary": "Key points: KUALA LUMPUR, July 31 — For many of Malaysia’s ageing taxi drivers, dwindling passengers are only part of th...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-07-31T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/07/31/a-fresh-start-teksi-madani-policy-looks-at-uplifting-taxi-drivers/229361",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-31-crimea-cliffs-fleets-and-history-collide-in-russia-s-prized-black-sea-peninsula",
       "category": "world",
-      "headline": "Japan conducts massive yen-buying intervention, Nikkei reports",
-      "summary": "Key points: CNA Latest reports that Japan conducts massive yen-buying intervention, Nikkei reports.",
+      "headline": "Crimea: Cliffs, fleets and history collide in Russia’s prized Black Sea peninsula",
+      "summary": "Key points: Ukraine has stepped up its targeting of Crimea, the Black Sea peninsula annexed by Russia from Ukr...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-31T04:53:16+08:00",
+      "published_at": "2026-07-31T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/07/31/crimea-cliffs-fleets-and-history-collide-in-russias-prized-black-sea-peninsula/229582",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-07-31-trump-says-board-of-peace-reaches-gaza-disarmament-deal",
+      "category": "world",
+      "headline": "Trump says 'Board of Peace' reaches Gaza disarmament deal",
+      "summary": "Key points: CNA Latest reports that Trump says 'Board of Peace' reaches Gaza disarmament deal.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-07-31T06:59:41+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/japan-conducts-massive-yen-buying-intervention-nikkei-reports-6289521",
+          "url": "https://www.channelnewsasia.com/world/trump-says-board-peace-reaches-gaza-disarmament-deal-6289696",
           "publisher_type": "news"
         },
         {
@@ -1183,46 +1223,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/07/30/putrajaya-plans-two-new-infertility-clinics-nationwide-yearly-to-help-low-income-couples/229534",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-30-one-twin-dead-one-survives-johor-cops-arrest-college-student-and-boyfriend-over-ne",
-      "category": "malaysia",
-      "headline": "One twin dead, one survives: Johor cops arrest college student and boyfriend over newborn's murder in Kluang toilet",
-      "summary": "Key points: JOHOR BAHRU, July 30 — Police have arrested a 19-year-old college student and her boyfriend of the same age to ass...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-30T13:30:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/30/one-twin-dead-one-survives-johor-cops-arrest-college-student-and-boyfriend-over-newborns-murder-in-kluang-toilet/229535",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-30-penang-cm-sungai-nibong-tod-master-plan-expected-to-be-finalised-in-october",
-      "category": "malaysia",
-      "headline": "Penang CM: Sungai Nibong TOD master plan expected to be finalised in October",
-      "summary": "Key points: GEORGE TOWN, July 30 — The draft Transit-Oriented Development (TOD) Master Plan for Sungai Nibong is expecte...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-30T13:24:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/30/penang-cm-sungai-nibong-tod-master-plan-expected-to-be-finalised-in-october/229540",
           "publisher_type": "news"
         }
       ],
