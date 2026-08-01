@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-08-01T22:58:43+08:00",
+  "generated_at": "2026-08-02T00:06:38+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-01-us-embassies-urge-citizens-to-consider-departing-middle-east",
+      "category": "world",
+      "headline": "US embassies urge citizens to 'consider departing' Middle East",
+      "summary": "Key points: Messages posted on social media by the US missions in the Middle East urged citizens to check flight details and to follow safety advice from local authorities.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-01T23:29:00+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/us-embassies-urge-citizens-consider-departing-middle-east-6292981",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-01-pakatan-blames-racial-politics-after-defeat-to-bn-perikatan-pact-in-negeri-sembila",
       "category": "malaysia",
@@ -24,36 +54,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-01-bournemouth-sign-portugal-centre-back-silva-from-benfica",
-      "category": "world",
-      "headline": "Bournemouth sign Portugal centre-back Silva from Benfica",
-      "summary": "Key points: CNA Latest reports that Bournemouth sign Portugal centre-back Silva from Benfica.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-01T22:20:52+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/bournemouth-sign-portugal-centre-back-silva-benfica-6292921",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-08-01-zahid-bn-and-pn-will-partner-to-establish-negeri-sembilan-administration",
       "category": "malaysia",
       "headline": "Zahid: BN and PN will partner to establish Negeri Sembilan administration",
@@ -65,36 +65,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/01/zahid-bn-and-pn-will-partner-to-establish-negeri-sembilan-administration/229904",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-ph-concedes-defeat-in-negeri-sembilan-with-11-seats-blames-identity-politics-the-e",
-      "category": "malaysia",
-      "headline": "PH concedes defeat in Negeri Sembilan with 11 seats, blames identity politics - The Edge Malaysia",
-      "summary": "Key points: PH concedes defeat in Negeri Sembilan with 11 seats, blames identity politics The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-01T22:09:41+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jZ0lHR1E0dmQ1QThNb01wRGdubF9DLTRsOGFNSW1SRXEydW5Rd284Nk9XS04tXzlUMjhZS1d1R2lxX0F2b3EtVlB6YUFQLTFf?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -401,6 +371,36 @@
         "latest update"
       ],
       "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-n-sembilan-state-election-live-report-unofficial-bn-pn-wins-two-thirds-majority-in",
+      "category": "markets_investment",
+      "headline": "N Sembilan state election live report: Unofficial: BN-PN wins two-thirds majority in N Sembilan - theedgemalaysia.com",
+      "summary": "Key points: N Sembilan state election live report: Unofficial: BN-PN wins two-thirds majority in N Sembilan theedgemalaysia.com",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-01T17:15:12+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XMUgxZ0Uza0JGTmlzRkdHdWg1WXk2ZnBfcDBQQUxIQmh4X1NfM0hiekYtbEpxTFhLZGFEeWJPS1pjM05ueHRJa3dwY0hRSXhp?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1170,10 +1170,10 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-01-the-madani-government-s-vision-for-an-ageing-malaysia-bernama",
+      "id": "2026-08-01-the-madani-government-s-vision-for-an-ageing-malaysia-bernama-com",
       "category": "malaysia",
-      "headline": "- The MADANI Government's Vision For An Ageing Malaysia - Bernama",
-      "summary": "Key points: - The MADANI Government's Vision For An Ageing Malaysia Bernama",
+      "headline": "- The MADANI Government's Vision For An Ageing Malaysia - bernama.com",
+      "summary": "Key points: - The MADANI Government's Vision For An Ageing Malaysia bernama.com",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-08-01T10:27:12+08:00",
       "source_links": [
