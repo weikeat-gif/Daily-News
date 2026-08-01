@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-01T19:15:05+08:00",
+  "generated_at": "2026-08-01T21:16:37+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-01-byd-s-sales-rise-for-third-month-buoyed-by-exports",
+      "id": "2026-08-01-alonso-delighted-at-mudryk-doping-resolution-but-chelsea-lose-to-spurs-in-sydney",
       "category": "world",
-      "headline": "BYD's sales rise for third month, buoyed by exports",
-      "summary": "Key points: CNA Latest reports that BYD's sales rise for third month, buoyed by exports.",
+      "headline": "Alonso delighted at Mudryk doping resolution but Chelsea lose to Spurs in Sydney",
+      "summary": "Key points: CNA Latest reports that Alonso delighted at Mudryk doping resolution but Chelsea lose to Spurs in Sydney.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-01T19:05:25+08:00",
+      "published_at": "2026-08-01T21:05:32+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/byds-sales-rise-third-month-buoyed-exports-6292746",
+          "url": "https://www.channelnewsasia.com/sport/alonso-delighted-mudryk-doping-resolution-chelsea-lose-spurs-in-sydney-6292876",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,126 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-hajiji-sabah-expects-40pc-stake-in-floating-gas-project-20pc-in-sandakan-field-und",
+      "category": "markets_investment",
+      "headline": "Hajiji: Sabah expects 40pc stake in floating gas project, 20pc in Sandakan field under new Petronas deal",
+      "summary": "Key points: The Sabah government is expected to secure a 40 per cent stake in a floating liquefied natural...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-01T20:46:59+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/01/hajiji-sabah-expects-40pc-stake-in-floating-gas-project-20pc-in-sandakan-field-under-new-petronas-deal/229894",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-economy-ministry-eyes-pilot-project-as-malaysia-s-ageing-population-threatens-fisc",
+      "category": "malaysia",
+      "headline": "Economy Ministry eyes pilot project as Malaysia’s ageing population threatens fiscal and care pressures",
+      "summary": "Key points: JOHOR BAHRU, Aug 1 — The Economy Ministry is identifying a pilot project to address challenges arising from Malays...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-01T20:39:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/economy-ministry-eyes-pilot-project-as-malaysias-ageing-population-threatens-fiscal-and-care-pressures/229889",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-myvi-and-saga-collide-near-kelantan-school-80-year-old-woman-dies-four-others-seri",
+      "category": "malaysia",
+      "headline": "Myvi and Saga collide near Kelantan school, 80-year-old woman dies, four others seriously injured",
+      "summary": "Key points: KOTA BHARU, Aug 1 — An 80-year-old woman was killed while four others, including two drivers, were seriously injur...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-01T20:05:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/myvi-and-saga-collide-near-kelantan-school-80-year-old-woman-dies-four-others-seriously-injured/229891",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-penang-port-marks-70-years-by-giving-back-to-those-in-need",
+      "category": "malaysia",
+      "headline": "Penang Port marks 70 years by giving back to those in need",
+      "summary": "Key points: GEORGE TOWN, Aug 1 — The Penang Port Commission (SPPP) reaffirmed its commitment to ensuring that the benefits of...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-01T19:46:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/penang-port-marks-70-years-by-giving-back-to-those-in-need/229887",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-a-paka-r-r-special-terengganu-police-nab-trio-over-alleged-open-sale-of-ketum-wate",
+      "category": "malaysia",
+      "headline": "A Paka R&R special? Terengganu police nab trio over alleged open sale of ketum water, one suspect just 16",
+      "summary": "Key points: KUALA TERENGGANU, Aug 1 — Police have arrested three men to assist in investigations into the open sale of ketum w...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-01T19:38:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/a-paka-rr-special-terengganu-police-nab-trio-over-alleged-open-sale-of-ketum-water-one-suspect-just-16/229888",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-right-after-saying-i-do-this-gen-z-bride-in-negeri-sembilan-says-i-vote",
+      "category": "malaysia",
+      "headline": "Right after saying ‘I do’, this Gen Z bride in Negeri Sembilan says ‘I vote’",
+      "summary": "Key points: Amid the excitement of her wedding day, a bride made an unforgettable stop at a polling station,...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-01T19:13:29+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/right-after-saying-i-do-this-gen-z-bride-in-negeri-sembilan-says-i-vote/229886",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -54,10 +174,10 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-01-negeri-sembilan-polls-pbn-pulls-ahead-in-16-seats-pakatan-lead-in-eight",
+      "id": "2026-08-01-unofficial-negeri-sembilan-polls-pakatan-giants-loke-aminuddin-fall-pbn-claim-supe",
       "category": "malaysia",
-      "headline": "Negeri Sembilan polls: ‘PBN’ pulls ahead in 16 seats, Pakatan lead in eight",
-      "summary": "Key points: KUALA LUMPUR, Aug 1 — Barisan Nasional is ahead in 14 seats, based on early counting, while the allied Perikatan N...",
+      "headline": "(Unofficial) Negeri Sembilan polls: Pakatan giants Loke, Aminuddin fall; ‘PBN’ claim supermajority win",
+      "summary": "Key points: KUALA LUMPUR, Aug 1 — Umno secretary-general Datuk Seri Asyraf Wajdi Dusuki is claiming victory for the Barisan Na...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-08-01T18:00:00+08:00",
       "source_links": [
@@ -1107,126 +1227,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-pm-anwar-no-cabinet-objections-to-programmes-for-malays-islam",
-      "category": "malaysia",
-      "headline": "PM Anwar: No Cabinet objections to programmes for Malays, Islam",
-      "summary": "Key points: Prime Minister Datuk Seri Anwar Ibrahim said the Cabinet has never objected to any proposal to imp...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-01T09:19:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/pm-anwar-no-cabinet-objections-to-programmes-for-malays-islam/229805",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-employment-agent-survives-33rd-floor-fall-in-brickfields-semi-conscious-with-fract",
-      "category": "malaysia",
-      "headline": "Employment agent survives 33rd‑floor fall in Brickfields, semi‑conscious with fractures as police investigate",
-      "summary": "Key points: KUALA LUMPUR, Aug 1 — A man was seriously injured after reportedly falling from the 33rd floor of a building in Br...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-01T09:18:18+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/employment-agent-survives-33rdfloor-fall-in-brickfields-semiconscious-with-fractures-as-police-investigate/229797",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-malaysia-s-fuel-supply-stable-till-september-amid-energy-crisis-says-law-minister",
-      "category": "malaysia",
-      "headline": "Malaysia’s fuel supply stable till September amid energy crisis, says law minister",
-      "summary": "Key points: KUALA LUMPUR, Aug 1 — The supply of fuel (including petrol and diesel) at Petronas gas stations nationwide is expe...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-01T09:12:03+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/malaysias-fuel-supply-stable-till-september-amid-energy-crisis-says-law-minister/229800",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-stable-petrol-supply-till-september-amid-energy-crisis-says-law-minister",
-      "category": "malaysia",
-      "headline": "Stable petrol supply till September amid energy crisis, says law minister",
-      "summary": "Key points: KUALA LUMPUR, Aug 1 — The supply of fuel (including petrol and diesel) at Petronas gas stations nationwide is expe...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-01T09:12:03+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/stable-petrol-supply-till-september-amid-energy-crisis-says-law-minister/229800",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-voting-begins-in-negeri-sembilan-a-decisive-day-for-859-760-voters",
-      "category": "malaysia",
-      "headline": "Voting begins in Negeri Sembilan: A decisive day for 859,760 voters",
-      "summary": "Key points: Voters in Negeri Sembilan will fulfill their democratic rights and civic duty today in the 16th...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-01T08:40:35+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/voting-begins-in-negeri-sembilan-a-decisive-day-for-859760-voters/229795",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-negeri-sembilan-polling-opens-across-401-centres-in-battle-for-36-seats",
-      "category": "malaysia",
-      "headline": "Negeri Sembilan polling opens across 401 centres in battle for 36 seats",
-      "summary": "Key points: A total of 401 polling centres involving 1,668 streams for the 16th Negeri Sembilan state electi...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-01T08:37:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/negeri-sembilan-polling-opens-across-401-centres-in-battle-for-36-seats/229796",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
