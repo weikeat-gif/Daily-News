@@ -1,8 +1,178 @@
 {
-  "generated_at": "2026-08-01T17:04:59+08:00",
+  "generated_at": "2026-08-01T19:15:05+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-01-byd-s-sales-rise-for-third-month-buoyed-by-exports",
+      "category": "world",
+      "headline": "BYD's sales rise for third month, buoyed by exports",
+      "summary": "Key points: CNA Latest reports that BYD's sales rise for third month, buoyed by exports.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-01T19:05:25+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/byds-sales-rise-third-month-buoyed-exports-6292746",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-indonesia-steps-up-screening-for-crew-bags-after-malaysian-pilot-s-drug-arrest-in-",
+      "category": "world",
+      "headline": "Indonesia steps up screening for crew bags after Malaysian pilot’s drug arrest in Jakarta",
+      "summary": "Key points: Indonesia’s Customs and Excise authorities have tightened baggage screening for all flight...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-01T18:05:12+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/01/indonesia-steps-up-screening-for-crew-bags-after-malaysian-pilots-drug-arrest-in-jakarta/229881",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-negeri-sembilan-polls-pbn-pulls-ahead-in-16-seats-pakatan-lead-in-eight",
+      "category": "malaysia",
+      "headline": "Negeri Sembilan polls: ‘PBN’ pulls ahead in 16 seats, Pakatan lead in eight",
+      "summary": "Key points: KUALA LUMPUR, Aug 1 — Barisan Nasional is ahead in 14 seats, based on early counting, while the allied Perikatan N...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-01T18:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/negeri-sembilan-polls-close-race-for-the-state-government-begins/229867",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-08-01-counting-begins-for-nearly-12-000-postal-ballots-as-negeri-sembilan-polls-enter-fi",
+      "category": "malaysia",
+      "headline": "Counting begins for nearly 12,000 postal ballots as Negeri Sembilan polls enter final stretch",
+      "summary": "Key points: Postal vote counting for the 16th Negeri Sembilan state election began at 5pm today.The process...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-01T17:56:06+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/counting-begins-for-nearly-12000-postal-ballots-as-negeri-sembilan-polls-enter-final-stretch/229882",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-merdeka-center-pakatan-s-eight-year-track-record-could-matter-more-than-shifting-a",
+      "category": "malaysia",
+      "headline": "Merdeka Center: Pakatan’s eight-year track record could matter more than shifting alliances in Negeri Sembilan",
+      "summary": "Key points: KUALA LUMPUR, Aug 1 — Pakatan Harapan’s (PH) ability to retain voter support in the Negeri Sembilan state el...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-01T17:48:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/merdeka-center-pakatans-eight-year-track-record-could-matter-more-than-shifting-alliances-in-negeri-sembilan/229880",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-negeri-sembilan-voter-turnout-climbs-to-65-38pc-by-4pm",
+      "category": "malaysia",
+      "headline": "Negeri Sembilan voter turnout climbs to 65.38pc by 4pm",
+      "summary": "Key points: Voter turnout in the 16th Negeri Sembilan state election reached 65.38 per cent, with 562,1...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-01T17:32:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/negeri-sembilan-voter-turnout-climbs-to-6538pc-by-4pm/229879",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-mixing-politics-with-business-destroys-parties-sanusi-warns-pas-members-against-pr",
+      "category": "malaysia",
+      "headline": "Mixing politics with business destroys parties, Sanusi warns PAS members against project‑seeking donors",
+      "summary": "Key points: PAS has reminded its members to steer clear of business figures seeking to approach the party solel...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-01T17:18:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/mixing-politics-with-business-destroys-parties-sanusi-warns-pas-members-against-projectseeking-donors/229877",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-01-stakeholder-feedback-crucial-in-tabung-haji-act-amendments-says-minister",
+      "category": "malaysia",
+      "headline": "Stakeholder feedback crucial in Tabung Haji Act amendments, says minister",
+      "summary": "Key points: KUALA LUMPUR, Aug 1—Engagement sessions with stakeholders are currently underway to gather feedback on the propose...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-01T17:05:22+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/stakeholder-feedback-crucial-in-tabung-haji-act-amendments-says-minister/229875",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-01-metmalaysia-issues-thunderstorm-warning-heavy-rain-and-strong-winds-forecast-acros",
       "category": "malaysia",
@@ -35,36 +205,6 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/01/firefighters-in-greece-battle-to-save-popular-coastal-resort-near-athens-as-raging-winds-hinder-response/229872",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-dogs-allowed-animal-hospital-opens-doors-to-japan-quake-survivors-and-their-pets",
-      "category": "world",
-      "headline": "Dogs allowed: Animal hospital opens doors to Japan quake survivors and their pets",
-      "summary": "Key points: Ryunosuke Animal Hospital in downtown Kumamoto, which was jolted by a powerful earthquake this week, has converted a space into temporary housing for evacuees, with separate rooms for owners of cats and dogs.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-01T16:45:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/east-asia/dogs-allowed-animal-hospital-opens-doors-japan-quake-survivors-and-their-pets-6292486",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1080,146 +1220,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/01/negeri-sembilan-polling-opens-across-401-centres-in-battle-for-36-seats/229796",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-negeri-sembilan-votes-today-10-seats-to-watch-in-pivotal-state-election",
-      "category": "malaysia",
-      "headline": "Negeri Sembilan votes today: 10 seats to watch in pivotal state election",
-      "summary": "Key points: After two weeks of campaigning, Negeri Sembilan voters will head to the polls today to decide wh...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-01T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/negeri-sembilan-votes-today-10-seats-to-watch-in-pivotal-state-election/229606",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-five-minutes-from-the-city-until-the-traffic-arrives-malaysia-s-home-buyers-confro",
-      "category": "malaysia",
-      "headline": "‘Five minutes from the city’ — until the traffic arrives: Malaysia’s home buyers confront gap between brochure and reality",
-      "summary": "Key points: KUALA LUMPUR, Aug 1 — The dream was sold before the keys were handed over — a home “walking distance a...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-01T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/01/five-minutes-from-the-city-until-the-traffic-arrives-malaysias-home-buyers-confront-gap-between-brochure-and-reality/229694",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-for-sarawak-s-fishermen-a-new-bridge-changes-the-economics-of-the-catch",
-      "category": "markets_investment",
-      "headline": "For Sarawak’s fishermen, a new bridge changes the economics of the catch",
-      "summary": "Key points: The opening of the Batang Lupar 1 Bridge has not only shortened travel time between southern, cen...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-01T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/01/for-sarawaks-fishermen-a-new-bridge-changes-the-economics-of-the-catch/229696",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-31-the-ai-gold-rush-is-lifting-india-s-picks-and-shovels-companies",
-      "category": "markets_investment",
-      "headline": "The AI gold rush is lifting India’s ‘picks and shovels’ companies",
-      "summary": "Key points: At a bustling factory in western India, technicians work around the clock to turn glass into hai...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-07-31T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/07/31/the-ai-gold-rush-is-lifting-indias-picks-and-shovels-companies/229680",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-31-berlin-s-september-vote-pits-its-liberal-image-against-a-rightward-shift",
-      "category": "world",
-      "headline": "Berlin’s September vote pits its liberal image against a rightward shift",
-      "summary": "Key points: One recent day in Berlin, a few hundred Pride demonstrators with rainbow flags rallied in easter...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-07-31T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/07/31/berlins-september-vote-pits-its-liberal-image-against-a-rightward-shift/229682",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-31-malaysia-records-2-001-factory-fires-rm4-21b-losses-since-2020-says-fire-dept-d-g",
-      "category": "malaysia",
-      "headline": "Malaysia records 2,001 factory fires, RM4.21b losses since 2020, says Fire Dept D-G",
-      "summary": "Key points: A total of 2,001 factory fire cases with losses amounting to RM4.21 billion have been recorde...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-31T20:27:12+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/31/malaysia-records-2001-factory-fires-rm421b-losses-since-2020-says-fire-dept-d-g/229793",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-07-31-ec-reminds-negeri-sembilan-voters-to-follow-recommended-times-phones-barred-during",
-      "category": "malaysia",
-      "headline": "EC reminds Negeri Sembilan voters to follow recommended times, phones barred during voting",
-      "summary": "Key points: The Election Commission (EC) has reminded voters in Negeri Sembilan to vote early or at their...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-07-31T20:19:43+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/07/31/ec-reminds-negeri-sembilan-voters-to-follow-recommended-times-phones-barred-during-voting/229792",
           "publisher_type": "news"
         }
       ],
