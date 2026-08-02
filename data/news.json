@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-08-02T18:39:10+08:00",
+  "generated_at": "2026-08-02T20:01:33+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-02-bn-thanks-tuanku-muhriz-for-consenting-to-ismail-lasim-s-appointment-as-negeri-sem",
+      "category": "malaysia",
+      "headline": "BN thanks Tuanku Muhriz for consenting to Ismail Lasim’s appointment as Negeri Sembilan MB",
+      "summary": "Key points: KUALA LUMPUR, Aug 2 — Barisan Nasional (BN) has expressed its gratitude to the Yang Dipertuan Besar of Negeri Semb...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-02T19:48:45+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/02/bn-thanks-tuanku-muhriz-for-consenting-to-ismail-lasims-appointment-as-negeri-sembilan-mb/230001",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-02-ceuta-migrant-influx-leaves-72-dead-officials-say",
+      "category": "world",
+      "headline": "Ceuta migrant influx leaves 72 dead, officials say",
+      "summary": "Key points: CEUTA (Spain), Aug 2 — At least 72 people died during the mass influx in recent days of migrants into Spain’...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-02T19:45:56+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/02/ceuta-migrant-influx-leaves-72-dead-officials-say/230005",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-08-02-indonesia-urged-to-play-more-active-role-in-global-climate-diplomacy",
+      "category": "world",
+      "headline": "Indonesia urged to play more active role in global climate diplomacy",
+      "summary": "Key points: Opening the Indonesia Net-Zero Summit (INZS) 2026 at Balai Kartini in Jakarta on Saturday (Aug 1), Dino Patti Djalal, Chairman and Founder of the Foreign Policy Community of Indonesia (FPCI), said that climate change has become \"the greatest blind spot in world...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-02T19:06:00+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/asia/indonesia-climate-diplomacy-biodiversity-cop31-6293596",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-02-indonesia-ferry-blaze-off-surabaya-leaves-five-dead-41-missing",
+      "category": "world",
+      "headline": "Indonesia ferry blaze off Surabaya leaves five dead, 41 missing",
+      "summary": "Key points: An Indonesian ferry caught fire at sea today, killing five people and leaving another 41 missing...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-02T19:00:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/02/indonesia-ferry-blaze-off-surabaya-leaves-five-dead-41-missing/230003",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-02-rescuers-recover-nirmal-purja-famed-climber-killed-in-pakistan-avalanche-says-alpi",
+      "category": "world",
+      "headline": "Rescuers recover Nirmal Purja, famed climber killed in Pakistan avalanche, says Alpine Club",
+      "summary": "Key points: SKARDU (Pakistan), Aug 2 — Rescuers have recovered the body of renowned climber Nirmal Purja, who was killed along...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-02T18:52:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/02/rescuers-recover-nirmal-purja-famed-climber-killed-in-pakistan-avalanche-says-alpine-club/230002",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-02-nothing-but-a-new-lie-iran-media-denies-trump-claim-tehran-asked-us-not-to-strike",
       "category": "world",
@@ -15,36 +125,6 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/02/nothing-but-a-new-lie-iran-media-denies-trump-claim-tehran-asked-us-not-to-strike/230000",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-02-iran-media-denies-trump-claim-that-tehran-asked-us-not-to-strike",
-      "category": "world",
-      "headline": "Iran media denies Trump claim that Tehran asked US not to strike",
-      "summary": "Key points: CNA Latest reports that Iran media denies Trump claim that Tehran asked US not to strike.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-02T18:28:48+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/iran-donald-trump-tehran-war-strike-6293606",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -334,11 +414,11 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-02-tomorrow-declared-public-holiday-in-negeri-sembilan-says-mb-theedgemalaysia-com",
-      "category": "markets_investment",
-      "headline": "Tomorrow declared public holiday in Negeri Sembilan, says MB - theedgemalaysia.com",
-      "summary": "Key points: Tomorrow declared public holiday in Negeri Sembilan, says MB theedgemalaysia.com",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "id": "2026-08-02-aug-3-declared-public-holiday-in-negeri-sembilan-says-mb-the-edge-malaysia",
+      "category": "malaysia",
+      "headline": "Aug 3 declared public holiday in Negeri Sembilan, says MB - The Edge Malaysia",
+      "summary": "Key points: Aug 3 declared public holiday in Negeri Sembilan, says MB The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-08-02T13:53:13+08:00",
       "source_links": [
         {
@@ -360,7 +440,7 @@
       "topics": [
         "latest update"
       ],
-      "importance": 4,
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1151,86 +1231,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-a-ride-cut-short-homeward-bound-varsity-student-dies-on-highway-after-rxz-8-0-gath",
-      "category": "malaysia",
-      "headline": "A ride cut short: Homeward-bound varsity student dies on highway after RXZ 8.0 gathering in Gong Badak",
-      "summary": "Key points: A private university student was killed when the motorcycle he was riding skidded at Kilometre 354...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-01T21:25:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/a-ride-cut-short-homeward-bound-varsity-student-dies-on-highway-after-rxz-80-gathering-in-gong-badak/229897",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-hajiji-sabah-expects-40pc-stake-in-floating-gas-project-20pc-in-sandakan-field-und",
-      "category": "markets_investment",
-      "headline": "Hajiji: Sabah expects 40pc stake in floating gas project, 20pc in Sandakan field under new Petronas deal",
-      "summary": "Key points: The Sabah government is expected to secure a 40 per cent stake in a floating liquefied natural...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-01T20:46:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/01/hajiji-sabah-expects-40pc-stake-in-floating-gas-project-20pc-in-sandakan-field-under-new-petronas-deal/229894",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-economy-ministry-eyes-pilot-project-as-malaysia-s-ageing-population-threatens-fisc",
-      "category": "malaysia",
-      "headline": "Economy Ministry eyes pilot project as Malaysia’s ageing population threatens fiscal and care pressures",
-      "summary": "Key points: JOHOR BAHRU, Aug 1 — The Economy Ministry is identifying a pilot project to address challenges arising from Malays...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-01T20:39:30+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/economy-ministry-eyes-pilot-project-as-malaysias-ageing-population-threatens-fiscal-and-care-pressures/229889",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-01-myvi-and-saga-collide-near-kelantan-school-80-year-old-woman-dies-four-others-seri",
-      "category": "malaysia",
-      "headline": "Myvi and Saga collide near Kelantan school, 80-year-old woman dies, four others seriously injured",
-      "summary": "Key points: KOTA BHARU, Aug 1 — An 80-year-old woman was killed while four others, including two drivers, were seriously injur...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-01T20:05:07+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/01/myvi-and-saga-collide-near-kelantan-school-80-year-old-woman-dies-four-others-seriously-injured/229891",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
