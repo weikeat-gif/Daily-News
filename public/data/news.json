@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-04T06:07:12+08:00",
+  "generated_at": "2026-08-04T08:07:27+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-04-cna-explains-why-did-a-senior-worker-who-was-made-to-retire-win-his-claim-against-",
+      "id": "2026-08-04-death-toll-from-venezuela-quakes-rises-past-6-000",
       "category": "world",
-      "headline": "CNA Explains: Why did a senior worker who was made to retire win his claim against his company?",
-      "summary": "Key points: What happens when a worker reaches retirement age, and what can employees do if they think they've been made to retire?",
+      "headline": "Death toll from Venezuela quakes rises past 6,000",
+      "summary": "Key points: CNA Latest reports that Death toll from Venezuela quakes rises past 6,000.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-04T06:00:00+08:00",
+      "published_at": "2026-08-04T07:57:52+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/retirement-fired-employment-wrongful-dismissal-law-6287916",
+          "url": "https://www.channelnewsasia.com/world/venezuela-earthquake-death-toll-6000-6296411",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,26 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-04-what-is-a-new-born-child-malaysia-s-court-of-appeal-clarifies-citizenship-laws-for",
+      "category": "malaysia",
+      "headline": "What is a ‘new born child’? Malaysia’s Court of Appeal clarifies citizenship laws for abandoned children",
+      "summary": "Key points: KUALA LUMPUR, Aug 4 — Did you know that Malaysia’s laws protect “new born” children that are fou...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-04T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/04/what-is-a-new-born-child-malaysias-court-of-appeal-clarifies-citizenship-laws-for-abandoned-children/229607",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1197,26 +1217,6 @@
         {
           "name": "Malay Mail Money",
           "url": "https://www.malaymail.com/news/money/2026/08/03/perodua-slashes-axia-prices-by-up-to-rm4700-effective-immediately-nationwide/230056",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-03-terengganu-police-chief-five-deaths-1-850-summonses-and-222-motorcycles-seized-dur",
-      "category": "malaysia",
-      "headline": "Terengganu police chief: Five deaths, 1,850 summonses and 222 motorcycles seized during RXZ Members 8.0 gathering",
-      "summary": "Key points: KUALA LUMPUR, Aug 3 — Five people were killed in road accidents during the RXZ Members 8.0 gathering in Terengganu...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-03T12:19:13+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/03/terengganu-police-chief-five-deaths-1850-summonses-and-222-motorcycles-seized-during-rxz-members-80-gathering/230053",
           "publisher_type": "news"
         }
       ],
