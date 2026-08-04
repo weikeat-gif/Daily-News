@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-05T06:09:32+08:00",
+  "generated_at": "2026-08-05T07:59:54+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-05-commentary-has-singapore-reached-a-when-not-if-moment-for-school-attacks",
+      "id": "2026-08-05-ariana-grande-on-decision-to-withdraw-from-the-public-eye-not-a-reactive-or-impuls",
       "category": "world",
-      "headline": "Commentary: Has Singapore reached a ‘when, not if’ moment for school attacks?",
-      "summary": "Key points: Singapore should prepare seriously for the possibility of a school attack, but that does not require turning schools into fortresses, says Kenneth Yeo from the S Rajaratnam School of International Studies.",
+      "headline": "Ariana Grande on decision to withdraw from the public eye: 'Not a reactive or impulsive thing'",
+      "summary": "Key points: While on stage at Chicago’s United Center, Grande told her fans that “things can get a little blown out of proportion”, and that her decision to take a break from public life was one she had \"quietly made a long time ago”, rather than a “reactive or impulsive thing”.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-05T06:00:00+08:00",
+      "published_at": "2026-08-05T07:45:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/commentary/singapore-school-attack-security-isa-radicalised-teen-6297456",
+          "url": "https://www.channelnewsasia.com/entertainment/ariana-grande-decision-withdraw-public-eye-not-reactive-or-impulsive-thing-6298581",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,66 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-05-mediasas-explained-the-rm65-health-insurance-lifeline-coming-to-malaysia-in-2027",
+      "category": "malaysia",
+      "headline": "MediAsas explained: The RM65 health insurance lifeline coming to Malaysia in 2027",
+      "summary": "Key points: KUALA LUMPUR, Aug 5 — Malaysians facing the burden of rising medical insurance premiums will soon have a more affo...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-05T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/05/mediasas-explained-the-rm65-health-insurance-lifeline-coming-to-malaysia-in-2027/230089",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-05-industry-players-malaysia-s-october-mega-sports-weekend-led-by-f1-set-to-boost-spo",
+      "category": "malaysia",
+      "headline": "Industry players: Malaysia’s October ‘mega sports weekend’, led by F1, set to boost sports tourism and economic growth",
+      "summary": "Key points: KUALA LUMPUR, Aug 5 — The convergence of several international sporting events in Malaysia this October, including...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-05T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/05/industry-players-malaysias-october-mega-sports-weekend-led-by-f1-set-to-boost-sports-tourism-and-economic-growth/230173",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-05-warning-to-spain-did-morocco-deliberately-trigger-the-ceuta-migrant-surge",
+      "category": "world",
+      "headline": "‘Warning to Spain’: Did Morocco deliberately trigger the Ceuta migrant surge?",
+      "summary": "Key points: Witnesses and experts have suggested to AFP that an easing of controls by Morocco in the border are...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-05T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/05/warning-to-spain-did-morocco-deliberately-trigger-the-ceuta-migrant-surge/230174",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1157,66 +1217,6 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/04/democratic-led-us-states-sue-in-latest-challenge-to-trumps-tariffs/230152",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-04-dow-hits-fresh-record-as-oil-prices-tumble",
-      "category": "markets_investment",
-      "headline": "Dow hits fresh record as oil prices tumble",
-      "summary": "Key points: NEW YORK, Aug 4 — Oil prices slumped and stocks mostly rose yesterday after US President Donald Trump insisted neg...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-04T09:44:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/04/dow-hits-fresh-record-as-oil-prices-tumble/230148",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-04-former-trump-personal-lawyer-todd-blanche-looks-set-to-become-next-us-attorney-gen",
-      "category": "world",
-      "headline": "Former Trump personal lawyer Todd Blanche looks set to become next US attorney general",
-      "summary": "Key points: President Donald Trump’s former personal lawyer Todd Blanche appeared on track yest...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-04T09:30:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/04/former-trump-personal-lawyer-todd-blanche-looks-set-to-become-next-us-attorney-general/230147",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-04-death-toll-from-venezuela-quakes-rises-past-6-000",
-      "category": "world",
-      "headline": "Death toll from Venezuela quakes rises past 6,000",
-      "summary": "Key points: The twin quakes that shattered Venezuela in June killed 6,125 people, National Assembly Chie...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-04T09:25:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/04/death-toll-from-venezuela-quakes-rises-past-6000/230146",
           "publisher_type": "news"
         }
       ],
