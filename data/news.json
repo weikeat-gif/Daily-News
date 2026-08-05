@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-06T04:25:22+08:00",
+  "generated_at": "2026-08-06T06:11:03+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-06-ebay-forecasts-quarterly-revenue-above-estimates",
+      "id": "2026-08-06-commentary-why-washington-can-no-longer-treat-ukraine-and-iran-as-separate-wars",
       "category": "world",
-      "headline": "EBay forecasts quarterly revenue above estimates",
-      "summary": "Key points: CNA Latest reports that EBay forecasts quarterly revenue above estimates.",
+      "headline": "Commentary: Why Washington can no longer treat Ukraine and Iran as separate wars",
+      "summary": "Key points: As the two wars increasingly collide, what looked like a geopolitical win for Russia has also become an opportunity for Ukraine, says international security professor Stefan Wolff.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-06T04:23:26+08:00",
+      "published_at": "2026-08-06T06:00:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/ebay-forecasts-quarterly-revenue-above-estimates-6302061",
+          "url": "https://www.channelnewsasia.com/commentary/iran-war-us-ukraine-russia-caspian-sea-6301106",
           "publisher_type": "news"
         },
         {
@@ -28,7 +28,10 @@
         }
       ],
       "topics": [
-        "latest update"
+        "rate",
+        "iran",
+        "russia",
+        "war"
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
@@ -54,36 +57,6 @@
         {
           "name": "Facebook BERNAMA",
           "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-05-gamuda-heineken-malaysia-frontken-kelington-nestcon-scib-the-edge-malaysia",
-      "category": "malaysia",
-      "headline": "Gamuda, Heineken Malaysia, Frontken, Kelington, Nestcon & SCIB - The Edge Malaysia",
-      "summary": "Key points: Gamuda, Heineken Malaysia, Frontken, Kelington, Nestcon & SCIB The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-05T22:44:01+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81SmxyRkVQanY5N0UxNlc0TnFDblNMMDZ0YmlJakkyakQ2blBVdXJNV3FvRmJjVTlnbEh2MGtGQzlMT2V5R0RmbGJlaEh5OFoy?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
           "publisher_type": "social"
         }
       ],
@@ -1025,6 +998,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/05/man-found-dead-at-tanjung-rambutan-care-facility-police-launch-murder-probe/230273",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-05-nationgate-tech-stocks-rally-amid-us-plan-to-ban-data-centre-components-from-china",
+      "category": "malaysia",
+      "headline": "NationGate, tech stocks rally amid US plan to ban data centre components from China - The Edge Malaysia",
+      "summary": "Key points: NationGate, tech stocks rally amid US plan to ban data centre components from China The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-05T11:34:17+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xbWZYRm5xbDYxamRaZG91LU1LRzhwQ3hsOTh4aS0zUFNqSi1JLTFVNmpIdzI4QTVXN1pPMEs2UzdkTDl6b2Y4MUNwWmdkQVBU?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
         }
       ],
       "topics": [
