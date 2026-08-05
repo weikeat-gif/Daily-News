@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-06T06:11:03+08:00",
+  "generated_at": "2026-08-06T07:58:41+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-06-commentary-why-washington-can-no-longer-treat-ukraine-and-iran-as-separate-wars",
+      "id": "2026-08-06-from-hdb-flats-to-peranakan-tiles-how-onlewo-turned-singapore-s-everyday-heritage-",
       "category": "world",
-      "headline": "Commentary: Why Washington can no longer treat Ukraine and Iran as separate wars",
-      "summary": "Key points: As the two wars increasingly collide, what looked like a geopolitical win for Russia has also become an opportunity for Ukraine, says international security professor Stefan Wolff.",
+      "headline": "From HDB flats to Peranakan tiles: How Onlewo turned Singapore's everyday heritage into contemporary design",
+      "summary": "Key points: Discover how Onlewo transforms Singapore's architecture, culture and everyday icons into contemporary prints that celebrate heritage with style.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-06T06:00:00+08:00",
+      "published_at": "2026-08-06T07:21:53+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/commentary/iran-war-us-ukraine-russia-caspian-sea-6301106",
+          "url": "https://www.channelnewsasia.com/style-beauty/onlewo-singapore-heritage-designs-6279766",
           "publisher_type": "news"
         },
         {
@@ -28,12 +28,29 @@
         }
       ],
       "topics": [
-        "rate",
-        "iran",
-        "russia",
-        "war"
+        "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-06-court-declares-seremban-born-girl-a-malaysian-rules-anti-statelessness-protection-",
+      "category": "malaysia",
+      "headline": "Court declares Seremban-born girl a Malaysian, rules anti-statelessness protection applies to her",
+      "summary": "Key points: KUALA LUMPUR, Aug 6 — If a baby is left with an adult by an unknown birth mother who then disappears permanently f...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-06T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/06/court-declares-seremban-born-girl-a-malaysian-rules-anti-statelessness-protection-applies-to-her/230316",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1207,26 +1224,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/05/azalina-says-foi-admiralty-bills-review-to-involve-wide-range-of-stakeholders/230251",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-05-malaysia-needs-more-firms-to-grow-into-national-champions-regional-leaders-says-am",
-      "category": "malaysia",
-      "headline": "Malaysia needs more firms to grow into national champions, regional leaders, says Amir Hamzah",
-      "summary": "Key points: KUALA LUMPUR, Aug 5 — Malaysia needs more companies capable of progressing from promising enterprises i...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-05T09:32:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/05/malaysia-needs-more-firms-to-grow-into-national-champions-regional-leaders-says-amir-hamzah/230250",
           "publisher_type": "news"
         }
       ],
