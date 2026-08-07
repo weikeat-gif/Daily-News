@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-07T22:15:01+08:00",
+  "generated_at": "2026-08-07T23:54:01+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-07-thai-students-in-disbelief-after-deadly-school-shooting",
+      "id": "2026-08-07-cambridge-to-review-hiring-process-amid-plagiarism-row",
       "category": "world",
-      "headline": "Thai students in disbelief after deadly school shooting",
-      "summary": "Key points: The boy took his own life after killing a maths teacher, a Thai language teacher, a guidance counsellor, a student affairs administrator and a secretary at the school.",
+      "headline": "Cambridge to review hiring process amid plagiarism row",
+      "summary": "Key points: CNA Latest reports that Cambridge to review hiring process amid plagiarism row.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-07T22:00:00+08:00",
+      "published_at": "2026-08-07T23:12:53+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/thailand-school-shooting-debsirin-nonthaburi-students-6306466",
+          "url": "https://www.channelnewsasia.com/world/cambridge-reviewing-hiring-process-plagiarism-accusations-6306566",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-ioi-properties-gets-sc-nod-for-rm7-58b-reit-listing-the-edge-malaysia",
+      "category": "malaysia",
+      "headline": "IOI Properties gets SC nod for RM7.58b REIT listing - The Edge Malaysia",
+      "summary": "Key points: IOI Properties gets SC nod for RM7.58b REIT listing The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T21:55:27+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOUDNpSG5vOFh2RGtkWmNWR3EyR1NySkxxa1lZY3RrSGE1QW41SFVUd0F2dGxDUzRwcFVIWjFnR3p5WjRXQkx6bEtGa3RTVTBK?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1167,26 +1197,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/07/malaysia-aviation-group-mandates-pilot-drug-tests-after-off-duty-crew-members-drug-arrest/230480",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-perak-authorities-probe-suspected-irrawaddy-dolphin-carcass-washed-ashore-in-ban-p",
-      "category": "malaysia",
-      "headline": "Perak authorities probe suspected Irrawaddy dolphin carcass washed ashore in Ban Pecah",
-      "summary": "Key points: The Perak Fisheries Department will send a team to investigate the authenticity of a viral claim reg...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-07T11:07:08+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/perak-authorities-probe-suspected-irrawaddy-dolphin-carcass-washed-ashore-in-ban-pecah/230479",
           "publisher_type": "news"
         }
       ],
