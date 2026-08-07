@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-07T14:07:39+08:00",
+  "generated_at": "2026-08-07T16:11:29+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-07-lim-tean-arrested-by-malaysian-police-in-johor-bahru",
-      "category": "malaysia",
-      "headline": "Lim Tean arrested by Malaysian police in Johor Bahru",
-      "summary": "Key points: The police are working closely with Malaysian authorities to secure Lim Tean’s return to Singapore.",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-07T14:05:08+08:00",
+      "id": "2026-08-07-ai-slop-or-not-2-singapore-films-set-for-national-day-release-spark-debate",
+      "category": "world",
+      "headline": "'AI slop' or not? 2 Singapore films set for National Day release spark debate",
+      "summary": "Key points: Created using AI, Trace Project and Bersama Majulah tell fictional stories inspired by Singapore and will be released on Sunday (Aug 9).",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-07T16:06:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/lawyer-lim-tean-arrested-johor-bahru-police-6305556",
+          "url": "https://www.channelnewsasia.com/entertainment/trace-project-bersama-majulah-ai-film-national-day-6305191",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,326 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-anwar-says-constituency-funds-belong-to-people-not-exclusive-right-of-elected-mps",
+      "category": "malaysia",
+      "headline": "Anwar says constituency funds belong to people, not exclusive right of elected MPs",
+      "summary": "Key points: ALOR GAJAH, Aug 7 — Government funding allocated to a parliamentary constituency is intended for its constituents...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T16:03:08+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/anwar-says-constituency-funds-belong-to-people-not-exclusive-right-of-elected-mps/230531",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-proton-e-mas-hits-30-000-registrations-as-malaysia-s-ev-push-gathers-pace",
+      "category": "malaysia",
+      "headline": "Proton e.MAS hits 30,000 registrations as Malaysia’s EV push gathers pace",
+      "summary": "Key points: SUBANG JAYA, Aug 7 — Proton e.MAS says it has become the fastest automotive brand in Malaysia to surpass 30,000 el...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T15:57:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/07/proton-emas-hits-30000-registrations-as-malaysias-ev-push-gathers-pace/230530",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-government-prioritises-new-theatres-to-support-surgeries-during-sultanah-aminah-ho",
+      "category": "malaysia",
+      "headline": "Government prioritises new theatres to support surgeries during Sultanah Aminah Hospital upgrades",
+      "summary": "Key points: JOHOR BAHRU, Aug 7 — The Economy Ministry will prioritise building three to four new operating theatres at the Sul...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T15:50:59+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/government-prioritises-new-theatres-to-support-surgeries-during-sultanah-aminah-hospital-upgrades/230528",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-08-07-odds-are-against-you-as-sri-lanka-blocks-nearly-100-more-betting-sites",
+      "category": "markets_investment",
+      "headline": "Odds are against you as Sri Lanka blocks nearly 100 more betting sites",
+      "summary": "Key points: Sri Lanka has added nearly 100 more online betting sites to its growing blacklist as authorities...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-07T15:49:12+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/07/odds-are-against-you-as-sri-lanka-blocks-nearly-100-more-betting-sites/230520",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-a-year-on-beijing-confirms-two-chinese-sailors-died-in-south-china-sea-friendly-fi",
+      "category": "world",
+      "headline": "A year on, Beijing confirms two Chinese sailors died in South China Sea friendly fire ship collision, calls them ‘martyrs’",
+      "summary": "Key points: Beijing has quietly confirmed that two Chinese sailors died in a collision in the disputed South...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-07T15:42:42+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/07/a-year-on-beijing-confirms-two-chinese-sailors-died-in-south-china-sea-friendly-fire-ship-collision-calls-them-martyrs/230522",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-agc-nicky-liow-made-rm10m-payment-to-compound-26-money-laundering-charges",
+      "category": "malaysia",
+      "headline": "AGC: Nicky Liow made RM10m payment to compound 26 money laundering charges",
+      "summary": "Key points: Businessman Liow Soon Hee, better known as Nicky Liow, paid RM10 million to settle money launde...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T15:38:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/agc-drops-26-moneylaundering-charges-after-nicky-liow-settles-with-rm10m-compound/230527",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-one-monkey-18-human-victims-sumatra-finally-catches-attacker-after-two-week-rampag",
+      "category": "world",
+      "headline": "One monkey, 18 human victims: Sumatra finally catches attacker after two-week rampage forced island-wide school shutdown",
+      "summary": "Key points: Animal trappers have captured a rogue monkey that attacked 18 people during a two-week rampage in...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-07T15:21:49+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/07/one-monkey-18-human-victims-sumatra-finally-catches-attacker-after-two-week-rampage-forced-island-wide-school-shutdown/230521",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-premises-raided-as-irb-investigates-individuals-named-in-tabung-haji-rci-report-di",
+      "category": "malaysia",
+      "headline": "Premises raided as IRB investigates individuals named in Tabung Haji RCI report, discrepancies found",
+      "summary": "Key points: The Inland Revenue Board (IRB) has opened investigations into individuals identified in the Roy...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T15:20:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/premises-raided-as-irb-investigates-individuals-named-in-tabung-haji-rci-report-discrepancies-found/230524",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-four-charged-in-shah-alam-court-over-false-perkeso-daya-kerjaya-2-0-applications",
+      "category": "malaysia",
+      "headline": "Four charged in Shah Alam court over false Perkeso Daya Kerjaya 2.0 applications",
+      "summary": "Key points: SHAH ALAM, Aug 7 — Four individuals were charged in the Sessions Court here today over false statements in applica...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T15:13:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/four-charged-in-shah-alam-court-over-false-perkeso-daya-kerjaya-20-applications/230518",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-grandparents-first-then-classmates-and-teachers-teen-shooter-s-deadly-rampage-ends",
+      "category": "world",
+      "headline": "Grandparents first, then classmates and teachers: Teen shooter’s deadly rampage ends at elite Thai school",
+      "summary": "Key points: A school shooting that shocked Thailand today began not in a classroom but at a family home, where a te...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-07T14:54:31+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/07/grandparents-first-then-classmates-and-teachers-teen-shooters-deadly-rampage-ends-at-elite-thai-school/230517",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-perikatan-and-bn-in-negotiations-for-melaka-hadi-says-goal-remains-to-unite-and-sa",
+      "category": "malaysia",
+      "headline": "Perikatan and BN in negotiations for Melaka, Hadi says goal remains to ‘unite and save the Malays’",
+      "summary": "Key points: PETALING JAYA, Aug 7 — PAS president Tan Sri Abdul Hadi Awang today confirmed that preliminary discussions have be...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T14:52:53+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/perikatan-and-bn-negotiations-for-melaka-hadi-says-goal-remains-to-unite-and-save-the-malays/230516",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-anwar-extends-condolences-to-family-of-former-cj-mohamed-eusoff-chin",
+      "category": "malaysia",
+      "headline": "Anwar extends condolences to family of former CJ Mohamed Eusoff Chin",
+      "summary": "Key points: KUALA LUMPUR, Aug 7 — Prime Minister Datuk Seri Anwar Ibrahim has extended his condolences to the entire family of...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T14:41:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/anwar-extends-condolences-to-family-of-former-cj-mohamed-eusoff-chin/230513",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-hannah-yeoh-kl-mayor-sample-kuching-s-culinary-scene",
+      "category": "malaysia",
+      "headline": "Hannah Yeoh, KL mayor sample Kuching’s culinary scene",
+      "summary": "Key points: Minister in the Prime Minister’s Department (Federal Territories) Hannah Yeoh and Kuala Lum...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T14:32:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/hannah-yeoh-kl-mayor-sample-kuchings-culinary-scene/230512",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-sarawak-implements-education-ministry-s-child-protection-policy-parents-among-thos",
+      "category": "malaysia",
+      "headline": "Sarawak implements Education Ministry’s Child Protection Policy, parents among those required to sign compliance pledge",
+      "summary": "Key points: Sarawak began implementing the Ministry of Education’s (MoE) Child Protection Policy (CPP)...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T14:28:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/sarawak-implements-education-ministrys-child-protection-policy-parents-among-those-required-to-sign-compliance-pledge/230511",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-n-sembilan-mb-ismail-lasim-helms-finance-security-and-investment-portfolios",
+      "category": "markets_investment",
+      "headline": "N. Sembilan MB Ismail Lasim helms finance, security and investment portfolios",
+      "summary": "Key points: KUALA PILAH, Aug 7 — Negeri Sembilan Menteri Besar Datuk Ismail Lasim will lead three major portfolios in the stat...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-07T14:25:33+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/n-sembilan-mb-ismail-lasim-helms-finance-security-and-investment-portfolios/230510",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-three-men-arrested-after-leading-police-on-car-chase-in-sibu",
+      "category": "malaysia",
+      "headline": "Three men arrested after leading police on car chase in Sibu",
+      "summary": "Key points: Three local men were arrested after allegedly leading police on a chase before being detained in Sun...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T14:07:22+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/three-men-arrested-after-leading-police-on-car-chase-in-sibu/230509",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -356,7 +676,7 @@
     {
       "id": "2026-08-07-locked-room-in-south-jakarta-school-hid-hundreds-of-guns-drugs-and-porn-videos-and",
       "category": "world",
-      "headline": "Locked room in South Jakarta school hid hundreds of guns, drugs and porn videos — and only its ousted foundation chief had the key",
+      "headline": "Locked room in south Jakarta school hid hundreds of guns, drugs and porn videos — and only its ousted foundation chief had the key",
       "summary": "Key points: Nearly 1,000 firearms and airsoft guns, along with ammunition, suspected narcotics, and pornograp...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
       "published_at": "2026-08-07T11:23:53+08:00",
@@ -734,6 +1054,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-08-07-bangladesh-seeks-to-buy-gas-from-malaysia-other-sources-the-edge-malaysia",
+      "category": "markets_investment",
+      "headline": "Bangladesh seeks to buy gas from Malaysia, other sources - The Edge Malaysia",
+      "summary": "Key points: Bangladesh seeks to buy gas from Malaysia, other sources The Edge Malaysia",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-07T09:14:09+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rSHVtcURxMlNSeVJEUm1yenRHWGhKR0lLOWZESlo0R3dGamdhVlVWeFo4bkRRenFtT0l5QzR4LVpZalNKVXZLUzJEQkhnVV9w?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-08-07-oil-rally-resumes-as-hormuz-uncertainty-weighs-on-global-markets",
       "category": "markets_investment",
       "headline": "Oil rally resumes as Hormuz uncertainty weighs on global markets",
@@ -874,359 +1224,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-end-of-lane-hoggers-malaysia-trials-minimum-speed-limits-to-combat-highway-congest",
-      "category": "malaysia",
-      "headline": "End of lane hoggers? Malaysia trials minimum speed limits to combat highway congestion",
-      "summary": "Key points: KUALA LUMPUR, Aug 7 — We are all familiar with maximum speed limits designed to keep us safe.",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-07T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/end-of-lane-hoggers-malaysia-trials-minimum-speed-limits-to-combat-highway-congestion/230297",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-former-pm-ismail-sabri-to-be-charged-at-kl-sessions-court",
-      "category": "malaysia",
-      "headline": "Former PM Ismail Sabri to be charged at KL Sessions Court",
-      "summary": "Key points: KUALA LUMPUR, Aug 6 — Former Prime Minister Datuk Seri Ismail Sabri Yaakob will be charged tomorrow at the Kuala L...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-06T21:35:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/06/former-pm-ismail-sabri-to-be-charged-tomorrow-at-kl-sessions-court/230444",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-pacific-islands-alarmed-by-trump-backed-push-for-deep-sea-mining",
-      "category": "world",
-      "headline": "Pacific islands alarmed by Trump-backed push for deep-sea mining",
-      "summary": "Key points: A Pacific island leader says there were “no consultations” before the US announced swa...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-06T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/07/pacific-islands-alarmed-by-trump-backed-push-for-deep-sea-mining/230427",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-macc-questions-former-cfo-for-third-day-over-rm370m-share-deal-flagged-in-tabung-h",
-      "category": "malaysia",
-      "headline": "MACC questions former CFO for third day over RM370m share deal flagged in Tabung Haji RCI",
-      "summary": "Key points: KUALA LUMPUR, Aug 6 — The Malaysian Anti-Corruption Commission (MACC) today continued recording the statement of a...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-06T20:49:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/06/macc-questions-former-cfo-for-third-day-over-rm370m-share-deal-flagged-in-tabung-haji-rci/230441",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-us-seeks-extradition-of-filipino-pastor-over-sex-trafficking-charges",
-      "category": "world",
-      "headline": "US seeks extradition of Filipino pastor over sex-trafficking charges",
-      "summary": "Key points: The US has formally requested the extradition of a Filipino pastor wanted on sex-trafficking charg...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-06T20:29:50+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/06/us-seeks-extradition-of-filipino-pastor-over-sex-trafficking-charges/230440",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-joachim-gunsalam-elected-pbs-president-unopposed-as-party-sees-record-nominations",
-      "category": "malaysia",
-      "headline": "Joachim Gunsalam elected PBS president unopposed as party sees record nominations",
-      "summary": "Key points: KOTA KINABALU, Aug 6 — Deputy Chief Minister I Datuk Seri Joachim Gunsalam has been elected as the new Parti...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-06T20:00:56+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/06/joachim-gunsalam-elected-pbs-president-unopposed-as-party-sees-record-nominations/230439",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-ringgit-closes-higher-but-gains-capped-ahead-of-us-payrolls-report",
-      "category": "markets_investment",
-      "headline": "Ringgit closes higher, but gains capped ahead of US payrolls report",
-      "summary": "Key points: KUALA LUMPUR, Aug 6 — The ringgit closed higher against the US dollar today, although gains were capped by a broad...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-06T19:45:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/06/ringgit-closes-higher-but-gains-capped-ahead-of-us-payrolls-report/230438",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-pkr-gives-nurul-izzah-temporary-leave-from-deputy-president-duties-after-congress",
-      "category": "malaysia",
-      "headline": "PKR gives Nurul Izzah temporary leave from deputy president duties after congress",
-      "summary": "Key points: KUALA LUMPUR, Aug 6 — Former Permatang Pauh MP Nurul Izzah Anwar will take temporary leave from her duties as PKR...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-06T19:32:35+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/06/pkr-gives-nurul-izzah-temporary-leave-from-deputy-president-duties-after-congress/230435",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-ahmad-maslan-says-modular-system-will-ensure-cakna-madani-classrooms-completed-bef",
-      "category": "malaysia",
-      "headline": "Ahmad Maslan says modular system will ensure Cakna Madani classrooms completed before 2027 school term",
-      "summary": "Key points: ALOR GAJAH, Aug 6 — The construction of additional classrooms using the Modular Precast System (MPS) under t...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-06T19:14:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/06/ahmad-maslan-says-modular-system-will-ensure-cakna-madani-classrooms-completed-before-2027-school-term/230434",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-1mdb-audit-excluded-najib-s-personal-bank-accounts-tony-pua-tells-court",
-      "category": "malaysia",
-      "headline": "1MDB audit excluded Najib’s personal bank accounts, Tony Pua tells court",
-      "summary": "Key points: KUALA LUMPUR, Aug 6 — The High Court here today heard that the Auditor-General’s interim report s...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-06T19:09:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/06/1mdb-audit-excluded-najibs-personal-bank-accounts-tony-pua-tells-court/230433",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-desmond-lim-and-wife-transfer-all-their-units-in-pavilion-reit-to-vehicle-the-edge",
-      "category": "malaysia",
-      "headline": "Desmond Lim and wife transfer all their units in Pavilion REIT to vehicle - The Edge Malaysia",
-      "summary": "Key points: Desmond Lim and wife transfer all their units in Pavilion REIT to vehicle The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-06T19:07:41+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84WmZJX2Q0M1p0ZHpJdE5KbkYyV0Y1ajVHeHVoYlB5cGtKd0M1dmNHSFllZkx3eko2U2xLWmhieVZCM2c1WDZlRmNEYll3Vmxa?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-mpv-driver-calls-for-improved-lpt2-safety-measures-after-elephant-collision",
-      "category": "malaysia",
-      "headline": "MPV driver calls for improved LPT2 safety measures after elephant collision",
-      "summary": "Key points: The driver of a multi-purpose vehicle (MPV) that collided with a herd of wild elephants at Kilomet...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-06T18:41:44+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/06/mpv-driver-calls-for-improved-lpt2-safety-measures-after-elephant-collision/230432",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-bursa-malaysia-closes-lower-as-investors-take-profit-after-market-rebound",
-      "category": "markets_investment",
-      "headline": "Bursa Malaysia closes lower as investors take profit after market rebound",
-      "summary": "Key points: KUALA LUMPUR, Aug 6 — Bursa Malaysia closed lower as investors took profits following the recent rebound, with tel...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-06T18:36:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/06/bursa-malaysia-closes-lower-as-investors-take-profit-after-market-rebound/230430",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "bursa",
-        "market"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-akmal-nasrullah-kl-s-rising-startup-ranking-just-the-beginning-as-malaysia-eyes-la",
-      "category": "malaysia",
-      "headline": "Akmal Nasrullah: KL’s rising startup ranking just the beginning as Malaysia eyes lasting growth",
-      "summary": "Key points: KUALA LUMPUR, Aug 6 — Malaysia’s startup ecosystem has climbed into the world’s 31st to 40th bra...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-06T18:29:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/06/akmal-kls-rising-startup-ranking-just-the-beginning-as-malaysia-eyes-lasting-growth/230431",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-kuala-lumpur-police-reshuffle-six-senior-positions-including-cid-narcotics-and-dis",
-      "category": "malaysia",
-      "headline": "Kuala Lumpur police reshuffle six senior positions including CID, narcotics and district chiefs",
-      "summary": "Key points: KUALA LUMPUR, Aug 6 — Kuala Lumpur police chief Datuk Fadil Marsus today witnessed a handover of duties ceremony i...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-06T18:12:47+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/06/kuala-lumpur-police-reshuffle-six-senior-positions-including-cid-narcotics-and-district-chiefs/230428",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-kl20-summit-goes-nationwide-with-penang-johor-stops-as-malaysia-ramps-up-startup-a",
-      "category": "malaysia",
-      "headline": "KL20 Summit goes nationwide with Penang, Johor stops as Malaysia ramps up startup ambitions",
-      "summary": "Key points: KUALA LUMPUR, Aug 6 — The KL20 Summit will expand beyond the capital this year, with events scheduled in Pen...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-06T18:11:49+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/06/kl20-summit-goes-nationwide-with-penang-johor-stops-as-malaysia-ramps-up-startup-ambitions/230429",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-06-actress-business-owners-among-17-facing-charges-over-alleged-perkeso-claims-scam",
-      "category": "malaysia",
-      "headline": "Actress, business owners among 17 facing charges over alleged Perkeso claims scam",
-      "summary": "Key points: KUALA LUMPUR, Aug 6 —Seventeen individuals, including company directors and an actress, pleaded not guilty in the Sess...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-06T17:26:27+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/06/actress-business-owners-among-17-facing-charges-over-alleged-perkeso-claims-scam/230423",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
