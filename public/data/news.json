@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-08-08T06:32:32+08:00",
+  "generated_at": "2026-08-08T07:31:29+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-08-data-center-firm-switch-confidentially-files-for-us-ipo-bloomberg-news-reports",
-      "category": "world",
-      "headline": "Data center firm Switch confidentially files for US IPO, Bloomberg News reports",
-      "summary": "Key points: CNA Latest reports that Data center firm Switch confidentially files for US IPO, Bloomberg News reports.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-08T06:11:51+08:00",
+      "id": "2026-08-08-stay-or-go-dap-faces-catch-22-as-crucial-congress-vote-looms",
+      "category": "malaysia",
+      "headline": "Stay or go? DAP faces catch-22 as crucial congress vote looms",
+      "summary": "Key points: KUALA LUMPUR, Aug 8 — DAP delegates will gather on August 16 for the party’s national congress, where they w...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-08T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/08/stay-or-go-dap-faces-catch-22-as-crucial-congress-vote-looms/230442",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-08-us-regulator-rejects-dutch-fintech-bunq-s-application-for-national-bank-charter",
+      "category": "markets_investment",
+      "headline": "US regulator rejects Dutch fintech Bunq's application for national bank charter",
+      "summary": "Key points: CNA Latest reports that US regulator rejects Dutch fintech Bunq's application for national bank charter.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-08T06:40:25+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/data-center-firm-switch-confidentially-files-us-ipo-bloomberg-news-reports-6307066",
+          "url": "https://www.channelnewsasia.com/business/us-regulator-rejects-dutch-fintech-bunqs-application-national-bank-charter-6307101",
           "publisher_type": "news"
         },
         {
@@ -31,7 +51,7 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
+      "confidence": "verified"
     },
     {
       "id": "2026-08-07-how-social-media-disinformation-fuelled-spain-s-deadly-ceuta-migrant-rush",
@@ -1194,26 +1214,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-ringgit-edges-higher-at-market-open-but-hormuz-tensions-keep-gains-in-check",
-      "category": "markets_investment",
-      "headline": "Ringgit edges higher at market open, but Hormuz tensions keep gains in check",
-      "summary": "Key points: KUALA LUMPUR, Aug 7 — The ringgit opened mostly higher against other major currencies, and was almost unchanged ve...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-07T09:17:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/07/ringgit-edges-higher-at-market-open-but-hormuz-tensions-keep-gains-in-check/230459",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
