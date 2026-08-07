@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-07T19:00:31+08:00",
+  "generated_at": "2026-08-07T22:15:01+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-07-nparks-sterilising-long-tailed-macaques-at-maju-forest-to-manage-population",
+      "id": "2026-08-07-thai-students-in-disbelief-after-deadly-school-shooting",
       "category": "world",
-      "headline": "NParks sterilising long-tailed macaques at Maju Forest to manage population",
-      "summary": "Key points: The programme began in June following feedback from residents about macaques entering homes, alongside other measures such as monkey guarding patrols.",
+      "headline": "Thai students in disbelief after deadly school shooting",
+      "summary": "Key points: The boy took his own life after killing a maths teacher, a Thai language teacher, a guidance counsellor, a student affairs administrator and a secretary at the school.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-07T18:47:56+08:00",
+      "published_at": "2026-08-07T22:00:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/nparks-sterilising-long-tailed-macaques-maju-forest-6305651",
+          "url": "https://www.channelnewsasia.com/asia/thailand-school-shooting-debsirin-nonthaburi-students-6306466",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,166 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-how-social-media-disinformation-fuelled-spain-s-deadly-ceuta-migrant-rush",
+      "category": "world",
+      "headline": "How social media disinformation fuelled Spain’s deadly Ceuta migrant rush",
+      "summary": "Key points: A wave of disinformation on social media drove the deadly rush of tens of thousands of...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-07T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/07/how-social-media-disinformation-fuelled-spains-deadly-ceuta-migrant-rush/230505",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-anwar-questions-rm330m-gap-in-proposed-felda-hotel-sale-orders-full-report",
+      "category": "malaysia",
+      "headline": "Anwar questions RM330m gap in proposed Felda hotel sale, orders full report",
+      "summary": "Key points: Prime Minister Datuk Seri Anwar Ibrahim has directed the management of the Federal Land Developmen...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T20:34:59+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/anwar-questions-rm330m-gap-in-proposed-felda-hotel-sale-orders-full-report/230560",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-anwar-govt-to-cut-red-tape-in-military-police-promotion-process",
+      "category": "malaysia",
+      "headline": "Anwar: Govt to cut red tape in military, police promotion process",
+      "summary": "Key points: The government has, in principle, agreed to reduce bureaucratic hurdles and expedite the promotion...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T20:31:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/anwar-govt-to-cut-red-tape-in-military-police-promotion-process/230561",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-malaysia-and-singapore-to-deepen-labour-cooperation-boost-protection-for-gig-worke",
+      "category": "malaysia",
+      "headline": "Malaysia and Singapore to deepen labour cooperation, boost protection for gig workers",
+      "summary": "Key points: KUALA LUMPUR, Aug 7 — Malaysia and Singapore will continue to strengthen cooperation in the labour sector, includi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T20:25:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/malaysia-and-singapore-to-deepen-labour-cooperation-boost-protection-for-gig-workers/230559",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-woman-hurt-after-suv-crashes-into-kkia-departure-hall",
+      "category": "malaysia",
+      "headline": "Woman hurt after SUV crashes into KKIA departure hall",
+      "summary": "Key points: KOTA KINABALU, Aug 7 — A woman was injured after the sport utility vehicle (SUV) she was driving reportedly lost c...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T20:00:29+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/woman-hurt-after-suv-crashes-into-kkia-departure-hall/230557",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-thirteen-children-injured-after-car-crashes-into-thailand-child-development-centre",
+      "category": "world",
+      "headline": "Thirteen children injured after car crashes into Thailand child development centre",
+      "summary": "Key points: Thirteen children were injured after debris from a collapsed wall fell on them when a car c...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-07T19:49:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/07/thirteen-children-injured-after-car-crashes-into-thailand-child-development-centre/230558",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-boy-who-killed-grandparents-before-thailand-school-shooting-described-as-troubled-",
+      "category": "world",
+      "headline": "Boy who killed grandparents before Thailand school shooting described as ‘troubled’ and bullied",
+      "summary": "Key points: A 14-year-old boy in Thailand, described as “troubled” and “bullied&rd...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-07T19:42:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/07/boy-who-killed-grandparents-before-thailand-school-shooting-described-as-troubled-and-bullied/230556",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-07-ismail-sabri-stable-after-successful-pacemaker-implantation-at-ijn",
+      "category": "malaysia",
+      "headline": "Ismail Sabri stable after successful pacemaker implantation at IJN",
+      "summary": "Key points: KUALA LUMPUR, Aug 7 — Former prime minister Datuk Seri Ismail Sabri Yaakob’s pacemaker implantation procedur...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-07T19:19:22+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/ismail-sabri-stable-after-successful-pacemaker-procedure-says-lawyer/230555",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1034,166 +1194,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-home-minister-orders-immediate-probe-into-deaths-of-three-cops-in-beaufort-electri",
-      "category": "malaysia",
-      "headline": "Home minister orders immediate probe into deaths of three cops in Beaufort electric shock tragedy",
-      "summary": "Key points: KOTA KINABALU, Aug 7 — A comprehensive and transparent investigation has been ordered immediately to determine the...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-07T11:01:21+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/home-minister-orders-immediate-probe-into-deaths-of-three-cops-in-beaufort-electric-shock-tragedy/230477",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-if-the-head-is-gone-the-tail-will-follow-bersatu-leaders-resign-in-terengganu",
-      "category": "malaysia",
-      "headline": "‘If the head is gone, the tail will follow’: Bersatu leaders resign in Terengganu",
-      "summary": "Key points: Terengganu Bersatu was left reeling after Datuk Razali Idris announced his resignation as state ch...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-07T10:44:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/if-the-head-is-gone-the-tail-will-follow-bersatu-leaders-resign-in-terengganu/230472",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-former-chief-justice-mohamed-eusoff-chin-dies-at-91",
-      "category": "malaysia",
-      "headline": "Former Chief Justice Mohamed Eusoff Chin dies at 91",
-      "summary": "Key points: KUALA LUMPUR, Aug 7 — Former Chief Justice Tun Mohamed Eusoff Chin passed away today at the age of 91.The matter w...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-07T10:11:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/former-chief-justice-mohamed-eusoff-chin-dies-at-91/230469",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-ex-pm-ismail-sabri-in-ijn-corruption-charge-postponed-to-aug-27",
-      "category": "malaysia",
-      "headline": "Ex‑PM Ismail Sabri in IJN, corruption charge postponed to Aug 27",
-      "summary": "Key points: KUALA LUMPUR, Aug 7 — Former prime minister Datuk Seri Ismail Sabri Yaakob will not be charged at the Sessions Cou...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-07T10:08:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/expm-ismail-sabri-in-ijn-corruption-charge-postponed-to-aug-27/230465",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-malaysia-thailand-border-smuggling-drops-after-illegal-jetty-crackdown",
-      "category": "malaysia",
-      "headline": "Malaysia-Thailand border smuggling drops after illegal jetty crackdown",
-      "summary": "Key points: KOTA BHARU, Aug 7 — The closure of illegal bases along the Malaysia-Thailand border has disrupted the movement and...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-07T10:03:24+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/malaysia-thailand-border-smuggling-drops-after-illegal-jetty-crackdown/230468",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-man-found-dead-in-gua-musang-cave",
-      "category": "malaysia",
-      "headline": "Man found dead in Gua Musang cave",
-      "summary": "Key points: GUA MUSANG, Aug 7 — An elderly man was found dead in a cave near a resort in Kampung Pulai, here, last night.Gua M...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-07T10:00:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/man-found-dead-in-gua-musang-cave/230467",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-lim-guan-eng-slams-reezal-s-cordial-ties-claim-says-umno-acting-as-enemy-within",
-      "category": "malaysia",
-      "headline": "Lim Guan Eng slams Reezal’s ‘cordial ties’ claim, says Umno acting as enemy within",
-      "summary": "Key points: KUALA LUMPUR, Aug 7 — Lim Guan Eng has hit back at Umno Supreme Council member Datuk Seri Reezal Merican Naina Mer...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-07T09:53:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/lim-guan-eng-slams-reezals-cordial-ties-claim-says-umno-acting-as-enemy-within/230464",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-measles-scare-prompts-warning-for-thousands-who-visited-universal-studios-hollywoo",
-      "category": "world",
-      "headline": "Measles scare prompts warning for thousands who visited Universal Studios Hollywood",
-      "summary": "Key points: LOS ANGELES, Aug 7 — Recent visitors to the popular Universal Studios theme park in California may have been expos...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-07T09:49:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/07/measles-scare-prompts-warning-for-thousands-who-visited-universal-studios-hollywood/230452",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
