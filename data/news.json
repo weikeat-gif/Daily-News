@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-08-08T14:48:48+08:00",
+  "generated_at": "2026-08-08T15:47:35+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-08-typhoon-dolphin-hits-japan-s-okinawa-china-shuts-ports-ahead-of-landfall",
+      "category": "world",
+      "headline": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall",
+      "summary": "Key points: The typhoon recorded maximum sustained winds of 162kmh with gusts reaching 216kmh.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-08T15:40:43+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/east-asia/typhoon-dolphin-japan-okinawa-china-6307336",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-08-macc-police-and-irb-ramp-up-investigations-into-alleged-tabung-haji-irregularities",
+      "category": "malaysia",
+      "headline": "MACC, police and IRB ramp up investigations into alleged Tabung Haji irregularities after RCI report",
+      "summary": "Key points: KUALA LUMPUR, Aug 8 — Enforcement agencies have stepped up action following the release of the Royal Commiss...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-08T14:53:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/08/macc-police-and-irb-ramp-up-investigations-into-alleged-tabung-haji-irregularities-after-rci-report/230614",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-08-malaysia-s-interfaith-approach-offers-lessons-for-peace-social-harmony-says-aaron",
+      "category": "malaysia",
+      "headline": "Malaysia’s interfaith approach offers lessons for peace, social harmony, says Aaron",
+      "summary": "Key points: Malaysia’s experience in managing religious, cultural and ethnic diversity can of...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-08T14:49:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/08/malaysias-interfaith-approach-offers-lessons-for-peace-social-harmony-says-aaron/230613",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-08-two-killed-in-separate-perak-accidents-involving-lorry-three-vehicles-and-family-c",
       "category": "malaysia",
@@ -81,36 +151,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-08-newcastle-did-not-want-to-sell-guimaraes-says-sporting-director-wilson",
-      "category": "world",
-      "headline": "Newcastle did not want to sell Guimaraes, says sporting director Wilson",
-      "summary": "Key points: CNA Latest reports that Newcastle did not want to sell Guimaraes, says sporting director Wilson.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-08T14:13:27+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/newcastle-did-not-want-sell-guimaraes-says-sporting-director-wilson-6307416",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1117,26 +1157,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-07-government-prioritises-new-theatres-to-support-surgeries-during-sultanah-aminah-ho",
-      "category": "malaysia",
-      "headline": "Government prioritises new theatres to support surgeries during Sultanah Aminah Hospital upgrades",
-      "summary": "Key points: JOHOR BAHRU, Aug 7 — The Economy Ministry will prioritise building three to four new operating theatres at the Sul...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-07T15:50:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/07/government-prioritises-new-theatres-to-support-surgeries-during-sultanah-aminah-hospital-upgrades/230528",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
       "id": "2026-08-07-odds-are-against-you-as-sri-lanka-blocks-nearly-100-more-betting-sites",
       "category": "markets_investment",
       "headline": "Odds are against you as Sri Lanka blocks nearly 100 more betting sites",
@@ -1147,26 +1167,6 @@
         {
           "name": "Malay Mail Money",
           "url": "https://www.malaymail.com/news/money/2026/08/07/odds-are-against-you-as-sri-lanka-blocks-nearly-100-more-betting-sites/230520",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-a-year-on-beijing-confirms-two-chinese-sailors-died-in-south-china-sea-friendly-fi",
-      "category": "world",
-      "headline": "A year on, Beijing confirms two Chinese sailors died in South China Sea friendly fire ship collision, calls them ‘martyrs’",
-      "summary": "Key points: Beijing has quietly confirmed that two Chinese sailors died in a collision in the disputed South...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-07T15:42:42+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/07/a-year-on-beijing-confirms-two-chinese-sailors-died-in-south-china-sea-friendly-fire-ship-collision-calls-them-martyrs/230522",
           "publisher_type": "news"
         }
       ],
