@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-08-08T15:47:35+08:00",
+  "generated_at": "2026-08-08T16:37:55+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-08-typhoon-dolphin-hits-japan-s-okinawa-china-shuts-ports-ahead-of-landfall",
+      "id": "2026-08-08-fire-crews-tame-rotterdam-waste-plant-blaze",
       "category": "world",
-      "headline": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall",
-      "summary": "Key points: The typhoon recorded maximum sustained winds of 162kmh with gusts reaching 216kmh.",
+      "headline": "Fire crews tame Rotterdam waste plant blaze",
+      "summary": "Key points: THE HAGUE, Aug 8 — A fire broke out last night at a recycling plant near the port of Rotterdam, spewing thick smok...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-08T15:40:43+08:00",
+      "published_at": "2026-08-08T16:30:42+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/08/fire-crews-tame-rotterdam-waste-plant-blaze/230617",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-08-houthis-strike-marib-again-as-un-warns-yemen-nearing-wider-conflict",
+      "category": "world",
+      "headline": "Houthis strike Marib again as UN warns Yemen nearing wider conflict",
+      "summary": "Key points: Yemen's army said that it had responded against Houthi forces on several fronts along the lines of contact, adding that it would respond to any further targeting of its units with “necessary military measures”.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-08T16:01:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/east-asia/typhoon-dolphin-japan-okinawa-china-6307336",
+          "url": "https://www.channelnewsasia.com/world/houthis-strike-yemen-wider-conflict-un-6307021",
           "publisher_type": "news"
         },
         {
@@ -1127,26 +1147,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/07/anwar-says-constituency-funds-belong-to-people-not-exclusive-right-of-elected-mps/230531",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-07-proton-e-mas-hits-30-000-registrations-as-malaysia-s-ev-push-gathers-pace",
-      "category": "malaysia",
-      "headline": "Proton e.MAS hits 30,000 registrations as Malaysia’s EV push gathers pace",
-      "summary": "Key points: SUBANG JAYA, Aug 7 — Proton e.MAS says it has become the fastest automotive brand in Malaysia to surpass 30,000 el...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-07T15:57:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/07/proton-emas-hits-30000-registrations-as-malaysias-ev-push-gathers-pace/230530",
           "publisher_type": "news"
         }
       ],
