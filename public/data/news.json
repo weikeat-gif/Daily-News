@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-08-09T16:39:32+08:00",
+  "generated_at": "2026-08-09T17:36:46+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-09-carrick-cautious-after-mount-s-injury-scare-in-psg-friendly",
+      "id": "2026-08-09-military-veterans-need-more-second-career-opportunities-says-dr-wan-azizah",
+      "category": "malaysia",
+      "headline": "Military veterans need more second-career opportunities, says Dr Wan Azizah",
+      "summary": "Key points: SERI KEMBANGAN, Aug 9 — The private sector needs to expand second-career opportunities for military veterans as pa...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-09T17:13:55+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/military-veterans-need-more-second-career-opportunities-says-dr-wan-azizah/230723",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-09-ndp-2026-kicks-off-at-national-stadium-as-singapore-marks-61st-birthday",
       "category": "world",
-      "headline": "Carrick cautious after Mount's injury scare in PSG friendly",
-      "summary": "Key points: CNA Latest reports that Carrick cautious after Mount's injury scare in PSG friendly.",
+      "headline": "NDP 2026 kicks off at National Stadium as Singapore marks 61st birthday",
+      "summary": "Key points: Watch the parade live on CNA and follow our blog for real-time updates, highlights and key moments.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-09T16:16:34+08:00",
+      "published_at": "2026-08-09T17:00:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/carrick-cautious-after-mounts-injury-scare-in-psg-friendly-6308316",
+          "url": "https://www.channelnewsasia.com/singapore/ndp-2026-national-stadium-watch-live-6300301",
           "publisher_type": "news"
         },
         {
@@ -31,6 +51,26 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-09-melaka-seat-swaps-on-the-table-for-perikatan-samsuri-tells-bn",
+      "category": "malaysia",
+      "headline": "Melaka seat swaps on the table for Perikatan, Samsuri tells BN",
+      "summary": "Key points: Perikatan Nasional (PN) is open to talks with Barisan Nasional (BN), including possible seat swap...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-09T16:52:32+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/melaka-seat-swaps-on-the-table-for-perikatan-samsuri-tells-bn/230717",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1184,46 +1224,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-08-aadk-backs-mandatory-drug-screening-for-all-malaysia-airlines-pilots-cabin-crew",
-      "category": "malaysia",
-      "headline": "AADK backs mandatory drug screening for all Malaysia Airlines pilots, cabin crew",
-      "summary": "Key points: The National Anti-Drug Agency (AADK) supports the move by Malaysia Aviation Group (MAG)...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-08T16:51:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/08/aadk-backs-mandatory-drug-screening-for-all-malaysia-airlines-pilots-cabin-crew/230620",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-08-tabung-haji-recovery-plan-addressed-rm12-6b-losses-but-further-reforms-needed-says",
-      "category": "malaysia",
-      "headline": "Tabung Haji recovery plan addressed RM12.6b losses but further reforms needed, says RCI",
-      "summary": "Key points: KUALA LUMPUR, Aug 8 — Lembaga Tabung Haji’s (TH) restructuring and recovery plan successfully res...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-08T16:47:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/08/tabung-haji-recovery-plan-addressed-rm126b-losses-but-further-reforms-needed-says-rci/230619",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
