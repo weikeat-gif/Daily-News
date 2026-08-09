@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-08-09T21:47:54+08:00",
+  "generated_at": "2026-08-09T22:31:53+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-09-air-india-pilot-undergoes-confirmatory-drug-test-after-flight-plunge",
+      "category": "world",
+      "headline": "Air India pilot undergoes 'confirmatory' drug test after flight plunge",
+      "summary": "Key points: CNA Latest reports that Air India pilot undergoes 'confirmatory' drug test after flight plunge.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-09T22:28:38+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/asia/air-india-pilot-undergoes-confirmatory-drug-test-after-flight-plunge-6308501",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-09-afghanistan-s-gold-rush-upends-lives-and-landscapes",
       "category": "world",
@@ -15,36 +45,6 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/09/afghanistans-gold-rush-upends-lives-and-landscapes/230693",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-fernandez-secures-dominant-british-motogp-victory-martin-extends-championship-lead",
-      "category": "world",
-      "headline": "Fernandez secures dominant British MotoGP victory, Martin extends championship lead",
-      "summary": "Key points: CNA Latest reports that Fernandez secures dominant British MotoGP victory, Martin extends championship lead.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-09T20:56:25+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/fernandez-secures-dominant-british-motogp-victory-martin-extends-championship-lead-6308441",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
