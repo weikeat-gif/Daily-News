@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-08-09T20:44:27+08:00",
+  "generated_at": "2026-08-09T21:47:54+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-09-afghanistan-s-gold-rush-upends-lives-and-landscapes",
+      "category": "world",
+      "headline": "Afghanistan’s gold rush upends lives and landscapes",
+      "summary": "Key points: In Afghanistan’s northeastern Badakhshan province, dozens of excavators operate day and night...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-09T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/09/afghanistans-gold-rush-upends-lives-and-landscapes/230693",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-09-fernandez-secures-dominant-british-motogp-victory-martin-extends-championship-lead",
+      "category": "world",
+      "headline": "Fernandez secures dominant British MotoGP victory, Martin extends championship lead",
+      "summary": "Key points: CNA Latest reports that Fernandez secures dominant British MotoGP victory, Martin extends championship lead.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-09T20:56:25+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/sport/fernandez-secures-dominant-british-motogp-victory-martin-extends-championship-lead-6308441",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-09-national-unity-minister-says-orang-asal-heritage-part-of-malaysia-s-national-ident",
       "category": "malaysia",
@@ -164,36 +214,6 @@
         {
           "name": "Facebook BERNAMA",
           "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-three-in-five-americans-favor-stronger-oversight-of-social-media-companies-reuters",
-      "category": "world",
-      "headline": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds",
-      "summary": "Key points: CNA Latest reports that Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-09T18:03:30+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/three-in-five-americans-favor-stronger-oversight-social-media-companies-reutersipsos-poll-finds-6308356",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
         }
       ],
@@ -1214,26 +1234,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-08-fadhlina-hails-nadi-mahir-school-uniform-instalment-plan-easing-parents-burden-emp",
-      "category": "malaysia",
-      "headline": "Fadhlina hails Nadi Mahir school uniform instalment plan easing parents’ burden, empowering entrepreneurs",
-      "summary": "Key points: NIBONG TEBAL, Aug 8 — The National Information Dissemination Centre (Nadi) Mahir initiative, enabling parents to p...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-08T20:32:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/08/fadhlina-hails-nadi-mahir-school-uniform-instalment-plan-easing-parents-burden-empowering-entrepreneurs/230634",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
