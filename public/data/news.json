@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-08-09T14:52:39+08:00",
+  "generated_at": "2026-08-09T15:52:19+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-09-accused-thai-school-shooter-had-watched-violent-content-online-police",
+      "id": "2026-08-09-samsuri-says-bersatu-remains-in-perikatan-despite-hadi-s-claim",
+      "category": "malaysia",
+      "headline": "Samsuri says Bersatu remains in Perikatan despite Hadi’s claim",
+      "summary": "Key points: Bersatu remains a member of Perikatan Nasional (PN) despite claims that its membership had automa...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-09T15:36:39+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/samsuri-says-bersatu-remains-in-perikatan-despite-hadis-claim/230711",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-09-dry-conditions-expected-to-continue-next-week-raising-haze-risk-if-hotspots-in-the",
       "category": "world",
-      "headline": "Accused Thai school shooter had watched violent content online: Police",
-      "summary": "Key points: Police said the 14-year-old boy had used social media to learn how to use a firearm, before turning a gun on his grandparents, schoolmates and then himself.",
+      "headline": "Dry conditions expected to continue next week, raising haze risk if hotspots in the region persist: NEA",
+      "summary": "Key points: The 28 public agencies that make up the Haze Task Force are ready to roll out their respective action plans if air quality deteriorates into the unhealthy range, said the National Environment Agency.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-09T14:49:47+08:00",
+      "published_at": "2026-08-09T15:30:15+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/accused-thai-school-shooter-had-watched-violent-content-online-police-6308256",
+          "url": "https://www.channelnewsasia.com/singapore/haze-psi-dry-conditions-expected-continue-nea-6308236",
           "publisher_type": "news"
         },
         {
@@ -25,6 +45,106 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-09-football-vs-wall-street-inside-the-fight-for-the-world-cup-s-soul",
+      "category": "world",
+      "headline": "Football vs Wall Street: Inside the fight for the World Cup's soul",
+      "summary": "Key points: What does artificial intelligence (AI) have to do with the World Cup?Quite a lot, according to the...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-09T15:26:40+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/09/football-vs-wall-street-inside-the-fight-for-the-world-cups-soul/230709",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-09-umno-pas-pact-not-for-sabah-salleh-keruak-says-politics-driven-by-autonomy-rights",
+      "category": "malaysia",
+      "headline": "Umno‑PAS pact not for Sabah, Salleh Keruak says politics driven by autonomy rights",
+      "summary": "Key points: KOTA KINABALU, Aug 9 — Any political understanding between Umno and PAS that may work in Peninsular Malaysia may n...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-09T15:23:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/umnopas-pact-not-for-sabah-salleh-keruak-says-politics-driven-by-autonomy-rights/230707",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-09-prasarana-to-run-24-hour-public-transport-services-for-national-day-says-fahmi",
+      "category": "malaysia",
+      "headline": "Prasarana to run 24-hour public transport services for National Day, says Fahmi",
+      "summary": "Key points: KUALA LUMPUR, Aug 9 — Prasarana Malaysia Berhad will operate public transport services around the clock from the n...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-09T15:15:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/prasarana-to-run-24-hour-public-transport-services-for-national-day-says-fahmi/230686",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-09-dap-congress-set-for-aug-16-showdown-stalled-reforms-and-grassroots-frustration-to",
+      "category": "malaysia",
+      "headline": "DAP congress set for Aug 16 showdown, stalled reforms and grassroots frustration to dominate agenda",
+      "summary": "Key points: KOTA KINABALU, Aug 9 — National DAP organising secretary Datuk Chan Foong Hin said concerns over the lack of progr...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-09T15:05:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/dap-congress-set-for-aug-16-showdown-stalled-reforms-and-grassroots-frustration-to-dominate-agenda/230705",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-09-indonesian-firefighters-take-to-the-skies-as-mount-bromo-wildfire-forces-park-clos",
+      "category": "world",
+      "headline": "Indonesian firefighters take to the skies as Mount Bromo wildfire forces park closure, fifth in 2026",
+      "summary": "Key points: Indonesian authorities have closed access to a national park on Java island as firefighters battl...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-09T14:59:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/09/indonesian-firefighters-take-to-the-skies-as-mount-bromo-wildfire-forces-park-closure-fifth-in-2026/230706",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -677,11 +797,11 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-09-perak-based-asiabina-group-to-launch-first-klang-valley-project-next-month-the-edg",
-      "category": "malaysia",
-      "headline": "Perak-based Asiabina Group to launch first Klang Valley project next month - The Edge Malaysia",
-      "summary": "Key points: Perak-based Asiabina Group to launch first Klang Valley project next month The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "id": "2026-08-09-perak-based-asiabina-group-to-launch-first-klang-valley-project-next-month-theedge",
+      "category": "markets_investment",
+      "headline": "Perak-based Asiabina Group to launch first Klang Valley project next month - theedgemalaysia.com",
+      "summary": "Key points: Perak-based Asiabina Group to launch first Klang Valley project next month theedgemalaysia.com",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
       "published_at": "2026-08-09T08:30:00+08:00",
       "source_links": [
         {
@@ -703,7 +823,7 @@
       "topics": [
         "latest update"
       ],
-      "importance": 3,
+      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1104,136 +1224,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-08-malaysia-s-interfaith-approach-offers-lessons-for-peace-social-harmony-says-aaron",
-      "category": "malaysia",
-      "headline": "Malaysia’s interfaith approach offers lessons for peace, social harmony, says Aaron",
-      "summary": "Key points: Malaysia’s experience in managing religious, cultural and ethnic diversity can of...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-08T14:49:57+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/08/malaysias-interfaith-approach-offers-lessons-for-peace-social-harmony-says-aaron/230613",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-08-two-killed-in-separate-perak-accidents-involving-lorry-three-vehicles-and-family-c",
-      "category": "malaysia",
-      "headline": "Two killed in separate Perak accidents involving lorry, three vehicles and family car",
-      "summary": "Key points: Two people were killed in separate accidents, one near the West Coast Expressway (WCE) to...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-08T14:47:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/08/two-killed-in-separate-perak-accidents-involving-lorry-three-vehicles-and-family-car/230612",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-08-irb-urged-to-probe-possible-tax-evasion-involving-tabung-haji-group-subsidiaries",
-      "category": "malaysia",
-      "headline": "IRB urged to probe possible tax evasion involving Tabung Haji group, subsidiaries",
-      "summary": "Key points: KUALA LUMPUR, Aug 8 — The Inland Revenue Board (IRB) should look into possible tax evasion involving th...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-08T14:44:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/08/irb-urged-to-probe-possible-tax-evasion-involving-tabung-haji-group-subsidiaries/230610",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-08-gobind-urges-fail-safe-layers-says-unchecked-ai-could-jeopardise-trust-and-nationa",
-      "category": "malaysia",
-      "headline": "Gobind urges fail‑safe layers, says unchecked AI could jeopardise trust and national security",
-      "summary": "Key points: PETALING JAYA, Aug 8 — Safety and security assessments must precede the adoption and deployment of new technologie...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-08T14:35:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/08/gobind-urges-failsafe-layers-says-unchecked-ai-could-jeopardise-trust-and-national-security/230608",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-08-pulau-redang-must-be-protected-terengganu-mulls-heavier-penalties-for-violating-bo",
-      "category": "malaysia",
-      "headline": "Pulau Redang must be protected, Terengganu mulls heavier penalties for violating boat operators",
-      "summary": "Key points: KUALA TERENGGANU, Aug 8 — The state government will hold an engagement session with tourism operators and relevant...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-08T14:15:44+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/08/pulau-redang-must-be-protected-terengganu-mulls-heavier-penalties-for-violating-boat-operators/230607",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-08-beauty-queen-taanusiya-eyes-miss-world-crown-bernama",
-      "category": "world",
-      "headline": "Beauty Queen Taanusiya Eyes Miss World Crown - Bernama",
-      "summary": "Key points: Beauty Queen Taanusiya Eyes Miss World Crown Bernama",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-08T13:49:48+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16WjRiTVh1ZVctb2Y5MWZ6NUNvWGwyRzhzX3FKOTdUalVZWm9qdkttX0F6MTdJWGRqTkRuU29yQU02V3h1X096bWxBZ0dqeXRlR05Jb2NRMHFTYUlBNmJ5T3RR?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
