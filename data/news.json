@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-08-10T21:02:23+08:00",
+  "generated_at": "2026-08-10T22:56:16+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-10-uk-and-france-prepare-for-another-heatwave-as-western-europe-sets-new-temperature-",
+      "category": "world",
+      "headline": "UK and France prepare for another heatwave as western Europe sets new temperature record",
+      "summary": "Key points: French weather agency Météo-France is warning about temperatures approaching 40°C from Tuesday onward in southeastern France.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-10T22:27:00+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/uk-france-heatwave-western-europe-temperature-record-6310131",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-10-decades-on-merdeka-spirit-still-burns-bright-among-older-malaysians",
       "category": "malaysia",
@@ -35,36 +65,6 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/10/bodies-hanging-from-bridge-revive-violence-in-once-calm-town-in-mexico/230810",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-10-springboks-call-up-evergreen-utility-forward-fourie-for-all-blacks-series",
-      "category": "world",
-      "headline": "Springboks call up evergreen utility forward Fourie for All Blacks series",
-      "summary": "Key points: CNA Latest reports that Springboks call up evergreen utility forward Fourie for All Blacks series.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-10T20:37:03+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/springboks-call-up-evergreen-utility-forward-fourie-all-blacks-series-6309921",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
