@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-11T01:01:58+08:00",
+  "generated_at": "2026-08-11T02:54:21+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-11-forest-owner-marinakis-sues-crystal-palace-after-provocative-fan-banner",
+      "id": "2026-08-11-german-killer-nurse-probed-over-dozens-more-deaths",
       "category": "world",
-      "headline": "Forest owner Marinakis sues Crystal Palace after provocative fan banner",
-      "summary": "Key points: CNA Latest reports that Forest owner Marinakis sues Crystal Palace after provocative fan banner.",
+      "headline": "German killer nurse probed over dozens more deaths",
+      "summary": "Key points: A nurse already serving a life sentence for murdering 10 patients and attempting to murder 27 others is being investigated in connection with 139 additional suspected cases dating back to 2010.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-11T00:57:25+08:00",
+      "published_at": "2026-08-11T02:47:56+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/forest-owner-marinakis-sues-crystal-palace-after-provocative-fan-banner-6310346",
+          "url": "https://www.channelnewsasia.com/world/germany-nurse-murder-investigation-ulrich-6310431",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-malaysia-ready-to-strengthen-defence-cooperation-with-iran-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia Ready To Strengthen Defence Cooperation With Iran - Bernama",
+      "summary": "Key points: Malaysia Ready To Strengthen Defence Cooperation With Iran Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-10T23:13:21+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKSGljbUMyaVVaamwtdnlLTS1PUG5MRnpnM1U5dDBLWjFEMlNFN3JaYXZNQjdxQVJJaW9hMnlKenFHQ2VzM19Ka0FPZXhOVnIzZE1Tck9zay03QzlhTTQxeU5aSWk?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1200,26 +1230,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/10/akmal-nasrullah-unveils-rm123m-penang-stem-programme-targeting-100000-students-by-2030/230801",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-10-malaysia-s-construction-material-prices-creep-higher-except-sand-which-jumps-nearl",
-      "category": "malaysia",
-      "headline": "Malaysia’s construction material prices creep higher — except sand, which jumps nearly 15pc, DOSM says",
-      "summary": "Key points: KUALA LUMPUR, Aug 10 — The unit price index of sand increased in July 2026, ranging from 0.1 per cent to 14.9 per...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-10T12:53:05+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/10/malaysias-construction-material-prices-creep-higher-except-sand-which-jumps-nearly-15pc-dosm-says/230799",
           "publisher_type": "news"
         }
       ],
