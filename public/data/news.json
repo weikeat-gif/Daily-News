@@ -1,8 +1,408 @@
 {
-  "generated_at": "2026-08-10T13:24:48+08:00",
+  "generated_at": "2026-08-10T15:28:19+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-10-ex-thai-mp-accused-of-shooting-local-official-and-driver-police",
+      "category": "world",
+      "headline": "Ex-Thai MP accused of shooting local official and driver: Police",
+      "summary": "Key points: Former Thai MP Chalong Riewrang was arrested and taken to the police station, said the Nonthaburi police chief.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-10T15:20:00+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/asia/thailand-ex-mp-shooting-gun-chalong-riewrang-north-bangkok-6309301",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-free-deepseek-with-your-beer-beijing-bar-captures-china-s-ai-boom",
+      "category": "world",
+      "headline": "Free DeepSeek with your beer? Beijing bar captures China’s AI boom",
+      "summary": "Key points: Artificial intelligence users are shopping around as US giants face fierce competition from Chin...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-10T15:09:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/10/free-deepseek-with-your-beer-beijing-bar-captures-chinas-ai-boom/230826",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-selangor-govt-to-local-councils-don-t-let-land-go-idle-put-it-to-use-for-urban-far",
+      "category": "malaysia",
+      "headline": "Selangor govt to local councils: Don’t let land go idle, put it to use for urban farming",
+      "summary": "Key points: SHAH ALAM, Aug 10 — Local authorities in Selangor have been urged to identify vacant plots of land to prevent them...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-10T15:01:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/10/selangor-govt-to-local-councils-dont-let-land-go-idle-put-it-to-use-for-urban-farming/230825",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-sarawak-schools-told-to-suspend-outdoor-activities-if-api-exceeds-100",
+      "category": "malaysia",
+      "headline": "Sarawak schools told to suspend outdoor activities if API exceeds 100",
+      "summary": "Key points: All schools in Sarawak have been urged to continuously monitor Air Pollutant Index (API) reading...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-10T14:55:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/10/sarawak-schools-told-to-suspend-outdoor-activities-if-api-exceeds-100/230824",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-alleged-gun-threat-by-sacked-teacher-forces-thai-school-with-3-600-pupils-to-close",
+      "category": "world",
+      "headline": "Alleged gun threat by sacked teacher forces Thai school with 3,600 pupils to close",
+      "summary": "Key points: HAT YAI, Aug 10 — A secondary school in southern Thailand with about 3,600 students has been forced to close for t...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-10T14:48:31+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/10/alleged-gun-threat-by-sacked-teacher-forces-thai-school-with-3600-pupils-to-close/230823",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-five-men-remanded-another-week-over-murder-of-batu-pahat-businessman-found-in-fish",
+      "category": "malaysia",
+      "headline": "Five men remanded another week over murder of Batu Pahat businessman found in fishing net",
+      "summary": "Key points: BATU PAHAT, Aug 10 — Five men, who are being investigated in connection with the murder of a businessman here, hav...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-10T14:47:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/10/five-men-remanded-another-week-over-murder-of-batu-pahat-businessman-found-in-fishing-net/230822",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-after-delhi-s-cockroach-revolt-exam-protests-spread-to-jharkhand",
+      "category": "world",
+      "headline": "After Delhi’s ‘Cockroach’ revolt, exam protests spread to Jharkhand",
+      "summary": "Key points: NEW DELHI, Aug 10 — Indian students marched towards the state assembly in Jharkhand today, escalating protests ove...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-10T14:34:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/10/after-delhis-cockroach-revolt-exam-protests-spread-to-jharkhand/230821",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-terengganu-mb-says-jalur-gemilang-flown-without-crescent-moon-and-star-was-uninten",
+      "category": "malaysia",
+      "headline": "Terengganu MB says Jalur Gemilang flown without crescent moon and star was ‘unintentional’, ‘isolated’ incident",
+      "summary": "Key points: KUALA TERENGGANU, Aug 10 — Terengganu Menteri Besar Datuk Seri Dr Ahmad Samsuri Mokhtar said the display of a Jalu...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-10T14:32:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/10/terengganu-mb-says-jalur-gemilang-flown-without-crescent-moon-and-star-was-unintentional-isolated-incident/230818",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-mystery-corpse-with-bruises-and-nose-piercing-in-australia-turns-out-to-be-a-sex-d",
+      "category": "world",
+      "headline": "Mystery ‘corpse’ with bruises and nose piercing in Australia turns out to be a sex doll",
+      "summary": "Key points: A lifelike sex doll was briefly “mistaken” for a murder victim after it was found ins...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-10T14:24:25+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/10/mystery-corpse-with-bruises-and-nose-piercing-in-australia-turns-out-to-be-a-sex-doll/230820",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-bangkok-bar-owner-faces-up-to-10-years-over-negligence-charge-after-fire-kills-37",
+      "category": "world",
+      "headline": "Bangkok bar owner faces up to 10 years over negligence charge after fire kills 37",
+      "summary": "Key points: Thai police intend to charge the owner of a Bangkok bar with six offences, including negligence,...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-10T14:19:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/10/bangkok-bar-owner-faces-up-to-10-years-over-negligence-charge-after-fire-kills-37/230819",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-indonesia-clerics-warn-men-against-wearing-dresses-for-independence-day-games",
+      "category": "world",
+      "headline": "Indonesia clerics warn men against wearing dresses for Independence Day games",
+      "summary": "Key points: Indonesia’s top Islamic clerical body has warned men not to wear “women’s clot...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-10T14:14:16+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/10/indonesia-clerics-warn-men-against-wearing-dresses-for-independence-day-games/230817",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-chief-secretary-to-govt-wishes-anwar-happy-79th-birthday",
+      "category": "malaysia",
+      "headline": "Chief secretary to govt wishes Anwar happy 79th birthday",
+      "summary": "Key points: KUALA LUMPUR, Aug 10 — Chief Secretary to the Government (KSN) Tan Sri Shamsul Azri Abu Bakar today wished Prime M...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-10T14:13:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/10/govt-chief-secretary-wishes-anwar-happy-79th-birthday/230816",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-bukit-aman-busts-violent-kidnapping-syndicate-preying-on-foreigners-discovers-unkn",
+      "category": "malaysia",
+      "headline": "Bukit Aman busts violent kidnapping syndicate preying on foreigners, discovers unknown victim after shootout",
+      "summary": "Key points: KUALA LUMPUR, Aug 10 — Bukit Aman Criminal Investigation Department said today it succeeded in taking down a viole...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-10T14:09:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/10/bukit-aman-busts-violent-kidnapping-syndicate-preying-on-foreigners-discovers-unknown-victim-after-shootout/230814",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-govt-unveils-housing-policy-shift-big-data-to-cut-oversupply-and-drive-affordable-",
+      "category": "malaysia",
+      "headline": "Govt unveils housing policy shift, big data to cut oversupply and drive affordable homes",
+      "summary": "Key points: KUALA LUMPUR, Aug 10 — Housing development will be planned according to local needs and market demand starting nex...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-10T14:09:08+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/10/govt-unveils-housing-policy-shift-big-data-to-cut-oversupply-and-drive-affordable-homes/230812",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-penang-court-acquits-four-men-over-iron-rod-attack-on-lawyer",
+      "category": "malaysia",
+      "headline": "Penang court acquits four men over iron rod attack on lawyer",
+      "summary": "Key points: GEORGE TOWN, Aug 10 — The Magistrate’s Court here today acquitted and discharged four men of a charge of abe...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-10T14:03:36+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/10/penang-court-acquits-four-men-over-iron-rod-attack-on-lawyer/230787",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-former-thai-mp-surrenders-after-allegedly-shooting-nonthaburi-council-chief-four-t",
+      "category": "world",
+      "headline": "Former Thai MP surrenders after allegedly shooting Nonthaburi council chief four times",
+      "summary": "Key points: A former Thai MP has surrendered to police after allegedly approaching a senior local government...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-10T13:57:51+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/10/former-thai-mp-surrenders-after-allegedly-shooting-nonthaburi-council-chief-four-times/230813",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-sanusi-says-kedah-may-hold-penang-lease-claim-until-perikatan-takes-putrajaya",
+      "category": "malaysia",
+      "headline": "Sanusi says Kedah may hold Penang ‘lease’ claim until Perikatan takes Putrajaya",
+      "summary": "Key points: ALOR SETAR, Aug 10 — Kedah Menteri Besar Datuk Seri Muhammad Sanusi Md Nor reportedly said the state is consi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-10T13:52:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/10/sanusi-says-kedah-may-hold-penang-lease-claim-until-perikatan-takes-putrajaya/230811",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-penang-grants-jelutong-landfill-extension-until-oct-2026-project-faces-scrutiny-ov",
+      "category": "malaysia",
+      "headline": "Penang grants Jelutong landfill extension until Oct 2026, project faces scrutiny over EIA concerns",
+      "summary": "Key points: GEORGE TOWN, Aug 10 — The Penang state government has granted PLB Engineering Berhad (PLBE) an extension of time (...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-10T13:41:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/10/penang-grants-jelutong-landfill-extension-until-oct-2026-project-faces-scrutiny-over-eia-concerns/230808",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-10-semiconductor-stocks-rally-as-bursa-technology-index-hits-two-year-high-the-edge-m",
+      "category": "markets_investment",
+      "headline": "Semiconductor stocks rally as Bursa Technology Index hits two-year high - The Edge Malaysia",
+      "summary": "Key points: Semiconductor stocks rally as Bursa Technology Index hits two-year high The Edge Malaysia",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-10T13:35:27+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jNWJDajZDbWt1X25Fdl85WklaTFRLVzBGdTczZS1pNUFRa19jUGNJRGJSN1RZOXdGNkxVblA3VDgtWGdKRWw4aFVkY1ViaDlt?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-10-high-court-requests-decision-on-venue-for-judicial-review-involving-negeri-sembila",
       "category": "malaysia",
@@ -61,36 +461,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-10-jeongyeon-becomes-first-member-of-twice-to-officially-leave-longtime-agency-jyp-en",
-      "category": "world",
-      "headline": "Jeongyeon becomes first member of Twice to officially leave longtime agency JYP Entertainment",
-      "summary": "Key points: Jeongyeon made the announcement on Monday (Aug 10).",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-10T12:58:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/entertainment/jeongyeon-leaves-jyp-entertainment-6309161",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -294,9 +664,9 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-10-melaka-election-is-change-for-pkr-to-rebuild-says-adam-adli",
+      "id": "2026-08-10-melaka-election-is-chance-for-pkr-to-rebuild-says-adam-adli",
       "category": "malaysia",
-      "headline": "Melaka election is change for PKR to rebuild, says Adam Adli",
+      "headline": "Melaka election is chance for PKR to rebuild, says Adam Adli",
       "summary": "Key points: Parti Keadilan Rakyat (PKR) views the Melaka state election as a “new platform” to re...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-08-10T11:49:02+08:00",
@@ -332,36 +702,6 @@
       ],
       "importance": 3,
       "confidence": "verified"
-    },
-    {
-      "id": "2026-08-10-telekom-malaysia-could-pay-12-20-sen-special-dividends-amid-gearing-up-plan-cimb-s",
-      "category": "malaysia",
-      "headline": "Telekom Malaysia could pay 12–20 sen special dividends amid gearing-up plan — CIMB Securities - The Edge Malaysia",
-      "summary": "Key points: Telekom Malaysia could pay 12–20 sen special dividends amid gearing-up plan — CIMB Securities The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-10T11:40:56+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TQlk0RW5MbkoxTHE3ZTRlNWhjUWRzbVBsbTA0Y1hWN1BROWdhQmFzTTBWcGdxOVo3S3hFQUFVRlhobGhzZDBKRmlXNU1Nb0xU?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
     },
     {
       "id": "2026-08-10-tech-leads-asian-rally-as-trump-plays-chess-game-with-iran-and-oil-spikes",
@@ -507,36 +847,6 @@
         "bank"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-10-is-malaysia-ready-for-the-next-digital-decade-bernama",
-      "category": "malaysia",
-      "headline": "Is Malaysia Ready For The Next Digital Decade? - Bernama",
-      "summary": "Key points: Is Malaysia Ready For The Next Digital Decade?",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-10T10:18:05+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QNEZ6YmRqQ05RRTQyQ3F5WEtTZ0RiZ2R2TWNsaW9YNVB5cmFwTHNhQlNManlGVVc0MTVFYkVMc2d4Rkw5bDA5SWVwWnQyb181YUdNX1VIZw?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -917,326 +1227,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-10-pulau-tuba-s-authentic-village-life-pitched-as-langkawi-s-next-big-tourism-secret",
-      "category": "malaysia",
-      "headline": "Pulau Tuba’s authentic village life pitched as Langkawi’s next big tourism secret",
-      "summary": "Key points: Pulau Tuba has the potential to attract more domestic and international tourists with its authe...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-10T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/10/pulau-tubas-authentic-village-life-pitched-as-langkawis-next-big-tourism-secret/230710",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-10-zxmoto-leads-china-s-charge-to-dominate-the-global-motorbike-market",
-      "category": "markets_investment",
-      "headline": "ZXMoto leads China’s charge to dominate the global motorbike market",
-      "summary": "Key points: Zhang Xue wept with joy and furiously waved a Chinese flag as he watched his company&rsqu...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-10T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/10/zxmoto-leads-chinas-charge-to-dominate-the-global-motorbike-market/230692",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-afghanistan-s-gold-rush-upends-lives-and-landscapes",
-      "category": "world",
-      "headline": "Afghanistan’s gold rush upends lives and landscapes",
-      "summary": "Key points: In Afghanistan’s northeastern Badakhshan province, dozens of excavators operate day and night...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-09T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/09/afghanistans-gold-rush-upends-lives-and-landscapes/230693",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-national-unity-minister-says-orang-asal-heritage-part-of-malaysia-s-national-ident",
-      "category": "malaysia",
-      "headline": "National unity minister says Orang Asal heritage part of Malaysia’s national identity, not separate",
-      "summary": "Key points: KUALA LUMPUR, Aug 9 — The heritage of Malaysia’s indigenous peoples (Orang Asal) is part of the country&rsqu...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-09T20:08:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/national-unity-minister-says-orang-asal-heritage-part-of-malaysias-national-identity-not-separate/230732",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-mbpp-blames-root-rot-and-trunk-cavity-for-angsana-collapse-in-george-town",
-      "category": "malaysia",
-      "headline": "MBPP blames root rot and trunk cavity for Angsana collapse in George Town",
-      "summary": "Key points: GEORGE TOWN, Aug 9 — Root rot and a cavity in the base of a 90-year-old Angsana tree, compounded by chronic soil c...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-09T19:41:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/root-rot-and-trunk-cavity-blamed-for-angsana-tree-collapse-in-george-town/230731",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-thailand-teen-shooter-once-brought-bb-gun-to-school-say-police",
-      "category": "world",
-      "headline": "Thailand teen shooter once brought BB gun to school, say police",
-      "summary": "Key points: A 14-year-old boy who shot dead the grandparents who raised him before killing six others at...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-09T19:03:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/09/thailand-teen-shooter-once-brought-bb-gun-to-school-say-police/230728",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-sarawak-chokes-under-haze-blanket-as-hot-weather-grips-state-until-aug-14",
-      "category": "malaysia",
-      "headline": "Sarawak chokes under haze blanket as hot weather grips state until Aug 14",
-      "summary": "Key points: Most parts of Sarawak will be experiencing hot weather and reduced rainfall until August 14, said...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-09T19:03:35+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/sarawak-chokes-under-haze-blanket-as-hot-weather-grips-state-until-aug-14/230730",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-so-hot-hong-kong-weather-observatory-posts-record-high-temperature",
-      "category": "world",
-      "headline": "So hot: Hong Kong weather observatory posts record high temperature",
-      "summary": "Key points: HONG KONG, Aug 9 — Hong Kong’s weather observatory posted a record high temperature of 36.9 degrees Cel...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-09T19:01:24+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/09/so-hot-hong-kong-weather-observatory-posts-record-high-temperature/230729",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-malaysian-tahfiz-student-killed-friend-injured-after-motorcycle-crashes-into-pole-",
-      "category": "malaysia",
-      "headline": "Malaysian tahfiz student killed, friend injured after motorcycle crashes into pole in Yala",
-      "summary": "Key points: A Malaysian man was killed while his friend was seriously injured after the motorcycle they were rid...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-09T18:40:26+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/malaysian-tahfiz-student-killed-friend-injured-after-motorcycle-crashes-into-pole-in-yala/230725",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-terengganu-police-arrest-three-myanmar-men-over-sexual-offence-against-disabled-wo",
-      "category": "malaysia",
-      "headline": "Terengganu police arrest three Myanmar men over sexual offence against disabled woman",
-      "summary": "Key points: Three Myanmar male refugees working as construction and cleaning workers were detained in connecti...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-09T18:20:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/terengganu-police-arrest-three-myanmar-men-over-sexual-offence-against-disabled-woman/230727",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-police-lodge-report-after-fake-statement-linked-to-deputy-igp-spreads-on-facebook",
-      "category": "malaysia",
-      "headline": "Police lodge report after fake statement linked to deputy IGP spreads on Facebook",
-      "summary": "Key points: PETALING JAYA, Aug 9 — The Royal Malaysia Police (PDRM) has denied a viral social media post falsely linked t...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-09T17:41:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/police-lodge-report-after-fake-statement-linked-to-deputy-igp-spreads-on-facebook/230724",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-military-veterans-need-more-second-career-opportunities-says-dr-wan-azizah",
-      "category": "malaysia",
-      "headline": "Military veterans need more second-career opportunities, says Dr Wan Azizah",
-      "summary": "Key points: SERI KEMBANGAN, Aug 9 — The private sector needs to expand second-career opportunities for military veterans as pa...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-09T17:13:55+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/military-veterans-need-more-second-career-opportunities-says-dr-wan-azizah/230723",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-melaka-seat-swaps-on-the-table-for-perikatan-samsuri-tells-bn",
-      "category": "malaysia",
-      "headline": "Melaka seat swaps on the table for Perikatan, Samsuri tells BN",
-      "summary": "Key points: Perikatan Nasional (PN) is open to talks with Barisan Nasional (BN), including possible seat swap...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-09T16:52:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/melaka-seat-swaps-on-the-table-for-perikatan-samsuri-tells-bn/230717",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-melaka-pakatan-open-to-talks-coalition-welcomes-negotiations-ahead-state-election",
-      "category": "malaysia",
-      "headline": "Melaka Pakatan open to talks, coalition welcomes negotiations ahead state election",
-      "summary": "Key points: Melaka Pakatan Harapan (PH) is open to negotiations with any party for the upcoming Melaka State E...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-09T16:10:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/melaka-pakatan-open-to-talks-coalition-welcomes-negotiations-ahead-state-election/230716",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-driver-forgot-to-put-suv-in-park-before-crashing-into-kkia-departure-hall-police-s",
-      "category": "malaysia",
-      "headline": "Driver forgot to put SUV in park before crashing into KKIA departure hall, police say",
-      "summary": "Key points: KOTA KINABALU, Aug 9 — Police said preliminary investigations indicate that a 66-year-old woman forgot to put her...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-09T16:06:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/09/driver-forgot-to-put-suv-in-park-before-crashing-at-kkia-police-say/230715",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-09-houthis-claim-drone-strike-on-saudi-oil-refinery-in-latest-red-sea-flare-up",
-      "category": "markets_investment",
-      "headline": "Houthis claim drone strike on Saudi oil refinery in latest Red Sea flare-up",
-      "summary": "Key points: Yemen’s Iran-backed Houthi rebels said on Sunday they had struck an oil facility on Saudi Ara...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-09T15:56:43+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/09/houthis-claim-drone-strike-on-saudi-oil-refinery-in-latest-red-sea-flare-up/230714",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
