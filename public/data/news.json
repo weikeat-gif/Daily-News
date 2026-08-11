@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-11T20:58:53+08:00",
+  "generated_at": "2026-08-11T22:22:21+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-11-lim-tean-arrested-after-being-handed-over-to-singapore-police-by-malaysian-authori",
-      "category": "malaysia",
-      "headline": "Lim Tean arrested after being handed over to Singapore police by Malaysian authorities",
-      "summary": "Key points: The lawyer was arrested in Malaysia last week and handed over to Singapore on Tuesday (Aug 11) after failing to surrender to the Singapore courts to begin serving his jail term.",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-11T20:46:00+08:00",
+      "id": "2026-08-11-air-india-captain-tests-positive-for-marijuana-reports",
+      "category": "world",
+      "headline": "Air India captain tests positive for marijuana: Reports",
+      "summary": "Key points: An Air India Phuket-Delhi flight last week suddenly lost about 300 feet of altitude, injuring 13 passengers and four crew members.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-11T22:06:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/lim-team-arrest-malaysia-return-6312281",
+          "url": "https://www.channelnewsasia.com/asia/air-india-captain-drug-test-positive-marijuana-6312461",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,26 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-11-beyond-rockets-mysa-wants-malaysians-to-see-how-space-tech-shapes-daily-life",
+      "category": "malaysia",
+      "headline": "Beyond rockets: MYSA wants Malaysians to see how space tech shapes daily life",
+      "summary": "Key points: Space technology must be made accessible so that the public understands its applications go be...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-11T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/12/beyond-rockets-mysa-wants-malaysians-to-see-how-space-tech-shapes-daily-life/230962",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1197,26 +1217,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/11/akmal-nasrullah-malaysias-renewable-energy-transition-to-catalyse-rm43b-investment-create-7738-jobs/230908",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-opposition-walks-out-after-speaker-rejects-deferment-of-special-tabung-haji-rci-si",
-      "category": "malaysia",
-      "headline": "Opposition walks out after Speaker rejects deferment of special Tabung Haji RCI sitting",
-      "summary": "Key points: KUALA LUMPUR, Aug 11 — Opposition lawmakers walked out almost immediately after today’s special parliam...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-11T11:07:26+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/11/opposition-walks-out-after-speaker-rejects-deferment-of-special-tabung-haji-rci-sitting/230907",
           "publisher_type": "news"
         }
       ],
