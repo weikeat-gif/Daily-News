@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-11T22:22:21+08:00",
+  "generated_at": "2026-08-11T23:59:00+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-11-air-india-captain-tests-positive-for-marijuana-reports",
+      "id": "2026-08-11-sunderland-to-set-off-on-19-day-record-bid-a-year-later-than-planned",
       "category": "world",
-      "headline": "Air India captain tests positive for marijuana: Reports",
-      "summary": "Key points: An Air India Phuket-Delhi flight last week suddenly lost about 300 feet of altitude, injuring 13 passengers and four crew members.",
+      "headline": "Sunderland to set off on 19-day record bid a year later than planned",
+      "summary": "Key points: CNA Latest reports that Sunderland to set off on 19-day record bid a year later than planned.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-11T22:06:00+08:00",
+      "published_at": "2026-08-11T23:43:25+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/air-india-captain-drug-test-positive-marijuana-6312461",
+          "url": "https://www.channelnewsasia.com/sport/sunderland-set-19-day-record-bid-year-later-planned-6312671",
           "publisher_type": "news"
         },
         {
@@ -45,6 +45,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/12/beyond-rockets-mysa-wants-malaysians-to-see-how-space-tech-shapes-daily-life/230962",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-11-malaysia-fiji-to-strengthen-bilateral-cooperation-fm-mohamad-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia, Fiji To Strengthen Bilateral Cooperation - FM Mohamad - bernama",
+      "summary": "Key points: Malaysia, Fiji To Strengthen Bilateral Cooperation - FM Mohamad bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-11T20:43:00+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fZVdTYkJFTG9mR19DejJhUW8wQVpCYTEwRkpxQ2Q3STZuMm9XY0tvcnhYUWR6ZHp2aDFvbnlPMlBrWnN3VUxGRmhfUlltRzRPMlgxVlRSWUtISDA?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1204,26 +1234,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-akmal-nasrullah-malaysia-s-renewable-energy-transition-to-catalyse-rm4-3b-investme",
-      "category": "malaysia",
-      "headline": "Akmal Nasrullah: Malaysia’s renewable energy transition to catalyse RM4.3b investment, create 7,738 jobs",
-      "summary": "Key points: KUALA LUMPUR, Aug 11 — Malaysia’s renewable energy transition is expected to catalyse about RM4.3 bill...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-11T11:22:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/11/akmal-nasrullah-malaysias-renewable-energy-transition-to-catalyse-rm43b-investment-create-7738-jobs/230908",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
