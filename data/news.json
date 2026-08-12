@@ -1,8 +1,278 @@
 {
-  "generated_at": "2026-08-12T12:05:19+08:00",
+  "generated_at": "2026-08-12T14:12:12+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-12-japan-fund-managers-chase-retail-cash-as-jgb-yields-surge",
+      "category": "world",
+      "headline": "Japan fund managers chase retail cash as JGB yields surge",
+      "summary": "Key points: CNA Latest reports that Japan fund managers chase retail cash as JGB yields surge.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-12T14:07:54+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/japan-fund-managers-chase-retail-cash-jgb-yields-surge-6314151",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-12-more-than-nine-tenths-of-kelantan-land-remains-malay-reserve-top-in-peninsula-says",
+      "category": "malaysia",
+      "headline": "More than nine-tenths of Kelantan land remains Malay reserve, top in peninsula, says MB",
+      "summary": "Key points: KOTA BHARU, Aug 12 — The total area of Malay reserve land in Kelantan is recorded at 526,083 hectares (ha) or 91.5...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-12T14:06:08+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/12/more-than-nine-tenths-of-kelantan-land-remains-malay-reserve-top-in-peninsula-says-mb/231061",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-12-minister-zulkifli-hasan-tabung-haji-to-face-tougher-oversight-as-govt-acts-on-rci-",
+      "category": "malaysia",
+      "headline": "Minister Zulkifli Hasan: Tabung Haji to face tougher oversight as govt acts on RCI findings",
+      "summary": "Key points: KUALA LUMPUR, Aug 12 — The government’s pledge to leave no stone unturned in strengthening Lembaga Tabung Ha...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-12T13:58:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/12/minister-zulkifli-hasan-tabung-haji-to-face-tougher-oversight-as-govt-acts-on-rci-findings/231062",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-12-pmx-expected-home-today-after-hernia-procedure-says-wife",
+      "category": "malaysia",
+      "headline": "PMX expected home today after hernia procedure, says wife",
+      "summary": "Key points: KUALA LUMPUR, Aug 12 — Prime Minister Datuk Seri Anwar Ibrahim is expected to be discharged from hospital today af...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-12T13:53:16+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/12/pmx-expected-home-today-after-hernia-procedure-says-wife/231063",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-12-taiwan-condemns-china-s-plan-for-navy-drill-with-indonesia-off-island-s-east",
+      "category": "world",
+      "headline": "Taiwan condemns China's plan for navy drill with Indonesia off island's east",
+      "summary": "Key points: Taiwan has condemned China’s plan to hold a navy drill with Indonesia this month off the de...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-12T13:14:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/12/taiwan-condemns-chinas-plan-for-navy-drill-with-indonesia-off-islands-east/231057",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-12-six-schools-in-sarawak-shift-to-online-learning-as-haze-hits-very-unhealthy-levels",
+      "category": "malaysia",
+      "headline": "Six schools in Sarawak shift to online learning as haze hits ‘very unhealthy’ levels",
+      "summary": "Key points: Six schools in the Tebedu district have been ordered to temporarily close after the Air Pollutan...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-12T12:57:49+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/12/six-schools-in-sarawak-shift-to-online-learning-as-haze-hits-very-unhealthy-levels/231056",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-12-one-of-two-boys-missing-after-river-dip-in-kuala-krai-found-dead-search-continues-",
+      "category": "malaysia",
+      "headline": "One of two boys missing after river dip in Kuala Krai found dead, search continues for second 14-year-old (VIDEO)",
+      "summary": "Key points: KOTA BHARU, Aug 12 — The body of one of two 14-year-old boys who went missing while bathing in a river in Kampung...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-12T12:45:22+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/12/one-of-two-boys-missing-after-river-dip-in-kuala-krai-found-dead-search-continues-for-second-14-year-old-video/231047",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-12-new-zealand-pm-luxon-survives-second-leadership-challenge-ahead-of-election",
+      "category": "world",
+      "headline": "New Zealand PM Luxon survives second leadership challenge ahead of election",
+      "summary": "Key points: New Zealand Prime Minister Christopher Luxon said he had the “full support&...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-12T12:45:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/12/new-zealand-pm-luxon-survives-second-leadership-challenge-ahead-of-election/231054",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-12-colombian-rescuers-pull-woman-alive-from-quake-rubble-as-death-toll-hits-216",
+      "category": "world",
+      "headline": "Colombian rescuers pull woman alive from quake rubble as death toll hits 216",
+      "summary": "Key points: Colombian rescuers pulled a 32-year-old woman alive from the rubble of a collapsed building yest...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-12T12:40:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/12/colombian-rescuers-pull-woman-alive-from-quake-rubble-as-death-toll-hits-216/231052",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-12-selangor-rail-line-still-in-planning-stage-completion-targeted-for-2060",
+      "category": "malaysia",
+      "headline": "Selangor Rail Line still in planning stage, completion targeted for 2060",
+      "summary": "Key points: SHAH ALAM, Aug 12 — The Selangor government is still in the discussion stage with various parties including the pr...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-12T12:35:45+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/12/selangor-rail-line-still-in-planning-stage-completion-targeted-for-2060/231046",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-12-mef-urges-govt-to-act-faster-before-msme-cash-crunch-turns-into-job-losses",
+      "category": "malaysia",
+      "headline": "MEF urges govt to act faster before MSME cash crunch turns into job losses",
+      "summary": "Key points: KUALA LUMPUR, Aug 12 — The Malaysian Employers Federation (MEF) is calling on the government to strengthen assista...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-12T12:27:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/12/mef-urges-govt-to-act-faster-before-msme-cash-crunch-turns-into-job-losses/231048",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-12-wong-chen-joins-bersama-after-resigning-as-subang-mp",
+      "category": "malaysia",
+      "headline": "Wong Chen joins Bersama after resigning as Subang MP",
+      "summary": "Key points: KUALA LUMPUR, Aug 12 — Former Subang MP Wong Chen has joined Bersama, days after resigning from his parliamentary...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-12T12:24:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/12/wong-chen-joins-bersama-after-resigning-as-subang-mp/231051",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-12-waiting-for-your-university-offer-upuonline-results-out-aug-14-noon",
+      "category": "malaysia",
+      "headline": "Waiting for your university offer? UPUOnline results out Aug 14 noon",
+      "summary": "Key points: The results of applications for further studies at public universities (UA) via UPUOnline®...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-12T12:20:16+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/12/waiting-for-your-university-offer-upuonline-results-out-aug-14-noon/231049",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-12-kedah-fails-to-overturn-ruling-against-refusal-to-renew-pool-betting-lottery-licen",
       "category": "malaysia",
@@ -67,7 +337,7 @@
       "id": "2026-08-12-high-court-orders-rosmah-to-pay-rm67-4m-into-stakeholder-account-pending-appeal-in",
       "category": "malaysia",
       "headline": "High Court orders Rosmah to pay RM67.4m into stakeholder account pending appeal in missing jewellery suit",
-      "summary": "Key points: KUALA LUMPUR, Aug 12 — Datin Seri Rosmah Mansor was today ordered by the High Court to pay RM67.4 million in...",
+      "summary": "Key points: KUALA LUMPUR, Aug 12 — Datin Seri Rosmah Mansor was today ordered by the High Court to pay RM67.4 mill...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-08-12T11:42:58+08:00",
       "source_links": [
@@ -181,36 +451,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-12-out-of-season-out-of-the-ordinary-australia-meet-bangladesh-in-rare-home-winter-te",
-      "category": "world",
-      "headline": "Out of season, out of the ordinary: Australia meet Bangladesh in rare home winter tests",
-      "summary": "Key points: CNA Latest reports that Out of season, out of the ordinary: Australia meet Bangladesh in rare home winter tests.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-12T11:03:07+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/out-season-out-ordinary-australia-meet-bangladesh-in-rare-home-winter-tests-6313756",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -777,9 +1017,9 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-11-former-high-court-judge-s-driver-jailed-three-after-pleading-guilty-to-criminal-in",
+      "id": "2026-08-11-former-high-court-judge-s-driver-jailed-three-years-after-pleading-guilty-to-crimi",
       "category": "malaysia",
-      "headline": "Former High Court judge’s driver jailed three after pleading guilty to criminal intimidation",
+      "headline": "Former High Court judge’s driver jailed three years after pleading guilty to criminal intimidation",
       "summary": "Key points: KUALA LUMPUR, Aug 11 — The former driver of a Kuala Lumpur High Court judge was sentenced to three months’ j...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-08-11T19:41:25+08:00",
@@ -987,246 +1227,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/11/five-motorcycles-seized-after-man-repeatedly-caught-for-extreme-modifications/230973",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-muhyiddin-urges-govt-to-complete-forensic-audit-of-tabung-haji-funds-within-a-year",
-      "category": "malaysia",
-      "headline": "Muhyiddin urges govt to complete forensic audit of Tabung Haji funds within a year",
-      "summary": "Key points: KUALA LUMPUR, Aug 11 — Pagoh MP Tan Sri Muhyiddin Yassin has urged the government to immediately conduct a c...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-11T17:17:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/11/muhyiddin-urges-govt-to-complete-forensic-audit-of-tabung-haji-funds-within-a-year/230972",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-bukit-aman-sends-narcotics-team-to-jakarta-to-question-malaysian-pilot-held-with-2",
-      "category": "malaysia",
-      "headline": "Bukit Aman sends narcotics team to Jakarta to question Malaysian pilot held with 26kg ecstasy",
-      "summary": "Key points: SHAH ALAM, Aug 11 — A team of officers from the Narcotics Crime Investigation Department has arrived in Indonesia...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-11T17:04:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/11/bukit-aman-sends-narcotics-team-to-jakarta-to-question-malaysian-pilot-held-with-26kg-ecstasy/230970",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-oil-prices-jump-further-as-hopes-for-hormuz-deal-fade",
-      "category": "markets_investment",
-      "headline": "Oil prices jump further as hopes for Hormuz deal fade",
-      "summary": "Key points: HONG KONG, Aug 11 — Oil prices extended a strong rally today as hopes for a reopening of the Strait of Hormuz...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-11T16:53:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/11/oil-prices-jump-further-as-hopes-for-hormuz-deal-fade/230968",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-police-detain-eight-over-suspected-murder-of-man-at-kuala-langat-oil-palm-plantati",
-      "category": "markets_investment",
-      "headline": "Police detain eight over suspected murder of man at Kuala Langat oil palm plantation",
-      "summary": "Key points: KUALA LANGAT, Aug 11 — Police are investigating the death of a man believed to have been murdered at an...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-11T16:53:42+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/11/police-detain-eight-over-suspected-murder-of-man-at-kuala-langat-oil-palm-plantation/230967",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-igp-police-officers-must-keep-evolving-as-security-landscape-grows-more-dynamic",
-      "category": "malaysia",
-      "headline": "IGP: Police officers must keep evolving as security landscape grows more dynamic",
-      "summary": "Key points: KUALA LUMPUR, Aug 11 — Inspector-General of Police Tan Sri Mohd Khalid Ismail has urged all police offi...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-11T16:47:49+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/11/igp-police-officers-must-keep-evolving-as-security-landscape-grows-more-dynamic/230966",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-johor-police-bust-drug-syndicate-supplying-local-market-seize-rm8-49m-worth-of-dru",
-      "category": "malaysia",
-      "headline": "Johor police bust drug syndicate supplying local market, seize RM8.49m worth of drugs",
-      "summary": "Key points: JOHOR BAHRU, Aug 11 — Johor police have busted a drug trafficking syndicate following the arrest of two men...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-11T16:45:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/11/johor-police-bust-drug-syndicate-supplying-local-market-seize-rm849m-worth-of-drugs/230963",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-pas-deputy-president-tuan-ibrahim-says-lawyers-handling-anwar-s-defamation-suit",
-      "category": "malaysia",
-      "headline": "PAS deputy president Tuan Ibrahim says lawyers handling Anwar’s defamation suit",
-      "summary": "Key points: KOTA BARU, Aug 11 — PAS deputy president Datuk Seri Tuan Ibrahim Tuan Man said he would leave it to his lawyers to...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-11T16:44:30+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/11/pas-deputy-president-tuan-ibrahim-says-lawyers-handling-anwars-defamation-suit/230964",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-four-month-old-baby-girl-s-death-in-johor-probed-as-murder-investigation-papers-se",
-      "category": "malaysia",
-      "headline": "Four-month-old baby girl’s death in Johor probed as murder, investigation papers sent to prosecution",
-      "summary": "Key points: KUALA LUMPUR, Aug 11 — Police have reclassified the death of a four-month-old baby girl in Taman Sri Saujana in Jo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-11T16:33:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/11/four-month-old-baby-girls-death-in-johor-probed-as-murder-investigation-papers-sent-to-prosecution/230961",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-sarawak-orders-schools-to-halt-outdoor-activities-amid-unhealthy-api-readings",
-      "category": "malaysia",
-      "headline": "Sarawak orders schools to halt outdoor activities amid unhealthy API readings",
-      "summary": "Key points: KUALA LUMPUR, Aug 11 — Schools in Sarawak have been ordered to immediately halt all outdoor activities involving p...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-11T16:21:48+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/11/sarawak-orders-schools-to-halt-outdoor-activities-amid-unhealthy-api-readings/230959",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-ai-s-hunger-for-power-sparks-us-private-gas-plant-boom",
-      "category": "markets_investment",
-      "headline": "AI’s hunger for power sparks US private gas plant boom",
-      "summary": "Key points: As US tech companies race to build the data centres fueling the AI boom, they are increa...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-11T16:19:36+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/11/ais-hunger-for-power-sparks-us-private-gas-plant-boom/230957",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-australia-to-vaccinate-birds-against-h5-avian-influenza",
-      "category": "world",
-      "headline": "Australia to vaccinate birds against H5 avian influenza",
-      "summary": "Key points: Australian authorities said today they would vaccinate bird species deemed to be especially vulne...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-11T16:17:26+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/11/australia-to-vaccinate-birds-against-h5-avian-influenza/230956",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-11-woman-78-believed-killed-in-crocodile-attack-while-collecting-river-snails-in-batu",
-      "category": "malaysia",
-      "headline": "Woman, 78, believed killed in crocodile attack while collecting river snails in Batu Niah",
-      "summary": "Key points: A 78-year-old woman was killed after it was believed that she was snatched from her boat by a cr...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-11T16:13:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/11/woman-78-believed-killed-in-crocodile-attack-while-collecting-river-snails-in-batu-niah/230958",
           "publisher_type": "news"
         }
       ],
