@@ -1,19 +1,59 @@
 {
-  "generated_at": "2026-08-13T19:43:06+08:00",
+  "generated_at": "2026-08-13T21:04:54+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-13-sk-hynix-s-korean-workers-launch-unified-union-amid-stalled-wage-talks",
+      "id": "2026-08-13-nigel-farage-uk-hard-right-figurehead-gambling-with-snap-vote",
       "category": "world",
-      "headline": "SK Hynix's Korean workers launch unified union amid stalled wage talks",
-      "summary": "Key points: CNA Latest reports that SK Hynix's Korean workers launch unified union amid stalled wage talks.",
+      "headline": "Nigel Farage: UK hard-right figurehead gambling with snap vote",
+      "summary": "Key points: Nigel Farage — bidding Thursday to remain an MP in a bizarre by-election he triggered &mdas...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-13T19:33:19+08:00",
+      "published_at": "2026-08-13T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/13/nigel-farage-uk-hard-right-figurehead-gambling-with-snap-vote/231176",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-13-pharmaniaga-q2-net-profit-jumps-to-rm12-49m-on-interest-savings-stronger-sales",
+      "category": "malaysia",
+      "headline": "Pharmaniaga Q2 net profit jumps to RM12.49m on interest savings, stronger sales",
+      "summary": "Key points: KUALA LUMPUR, Aug 13 — Pharmaniaga Bhd’s net profit for the second quarter ended June 30, 2026 (2Q 2026) ros...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-13T20:31:25+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/13/pharmaniaga-q2-net-profit-jumps-to-rm1249m-on-interest-savings-stronger-sales/231270",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-13-defence-appeals-rape-conviction-of-ex-wah-banana-actor-alleging-woman-fabricated-e",
+      "category": "world",
+      "headline": "Defence appeals rape conviction of ex-Wah!Banana actor, alleging woman fabricated evidence",
+      "summary": "Key points: Defence lawyers for Lev Panfilov argued that the woman's accounts were inconsistent and urged the court to acquit the Russian man of all charges.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-13T20:22:33+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks-6317496",
+          "url": "https://www.channelnewsasia.com/singapore/wah-banana-lev-panfilov-appeal-conviction-rape-6317211",
           "publisher_type": "news"
         },
         {
@@ -31,6 +71,116 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-13-no-tyre-marks-no-crushed-bones-defence-challenges-eyewitness-accounts-in-murder-tr",
+      "category": "malaysia",
+      "headline": "No tyre marks, no crushed bones: Defence challenges eyewitness accounts in murder trial of senior cop accused of running down teen",
+      "summary": "Key points: The High Court here today heard that 17-year-old Muhammad Zaharif Affendi Muhd Zamrie was not run o...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-13T20:12:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/no-tyre-marks-no-crushed-bones-defence-challenges-eyewitness-accounts-in-murder-trial-of-senior-cop-accused-of-running-down-teen-with-ativa/231267",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-13-singapore-data-centre-operator-secures-rm5-6b-green-financing-for-johor-campus",
+      "category": "malaysia",
+      "headline": "Singapore data centre operator secures RM5.6b green financing for Johor campus",
+      "summary": "Key points: KUALA LUMPUR, Aug 13 — ST Telemedia Global Data Centres (STT GDC) has secured a green financing facility of up to...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-13T20:04:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/13/singapore-data-centre-operator-secures-rm56b-green-financing-for-johor-campus/231266",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-13-airasia-group-cuts-seats-as-fuel-costs-drive-rm527m-quarterly-loss",
+      "category": "malaysia",
+      "headline": "AirAsia Group cuts seats as fuel costs drive RM527m quarterly loss",
+      "summary": "Key points: KUALA LUMPUR, Aug 13 — AirAsia Group Bhd, formerly known as AirAsia X Bhd, posted a net loss of RM527.16 million f...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-13T19:48:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/13/airasia-group-cuts-seats-as-fuel-costs-drive-rm527m-quarterly-loss/231265",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-13-i-m-still-in-the-unity-govt-lahad-datu-mp-yusof-apdal-says-viral-resignation-claim",
+      "category": "malaysia",
+      "headline": "‘I’m still in the Unity Govt’: Lahad Datu MP Yusof Apdal says viral resignation claim ‘untrue and malicious’",
+      "summary": "Key points: LAHAD DATU, Aug 13 — Deputy Science, Technology and Innovation Minister Datuk Dr Mohammad Yusof Apdal today denied...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-13T19:42:49+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/im-still-in-the-unity-govt-lahad-datu-mp-yusof-apdal-says-viral-resignation-claim-untrue-and-malicious/231268",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-13-russia-sees-prospects-for-space-partnership-with-malaysia-science-minister-bernama",
+      "category": "malaysia",
+      "headline": "Russia Sees Prospects For Space Partnership With Malaysia - Science Minister - Bernama",
+      "summary": "Key points: Russia Sees Prospects For Space Partnership With Malaysia - Science Minister Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-13T19:39:34+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RZHdIbFFmMEpCdndadURlR2Z0LWZ4T3NGMEVrWDF2YkRSa3JtNmQ0YjlIXzdYUW9nZjBOd1NacXlNamxOaEpId2U1dV91WDhpQ2tCRlhjd1psZjg?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -220,6 +370,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-08-13-zus-coffee-said-to-explore-ipo-to-raise-at-least-rm1-bil-bloomberg-the-edge-malays",
+      "category": "malaysia",
+      "headline": "ZUS Coffee said to explore IPO to raise at least RM1 bil — Bloomberg - The Edge Malaysia",
+      "summary": "Key points: ZUS Coffee said to explore IPO to raise at least RM1 bil — Bloomberg The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-13T17:40:41+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WYjd4MWVIR2lQUVdEdG9PemNLektGRnB1RHhXSnBQT0JhblFBLTZsOW16dy1hY29xVFlxZnhfak01VnFmeTNSQTc4dWRBNUha?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-08-13-fake-names-dead-phone-numbers-how-customs-unravelled-a-rm1m-cannabis-export-plot-a",
       "category": "malaysia",
       "headline": "Fake names, dead phone numbers: How Customs unravelled a RM1m cannabis export plot at KLIA",
@@ -231,36 +411,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/13/fake-names-dead-phone-numbers-how-customs-unravelled-a-rm1m-cannabis-export-plot-at-klia/231247",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-malaysia-russia-sign-cooperation-agreements-within-joint-economic-scientific-commi",
-      "category": "malaysia",
-      "headline": "Malaysia, Russia Sign Cooperation Agreements Within Joint Economic, Scientific Commission - Bernama",
-      "summary": "Key points: Malaysia, Russia Sign Cooperation Agreements Within Joint Economic, Scientific Commission Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T17:11:14+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkbzRhNHBFX0diSEJIUDlpaVI3cmFtd2cxNDI0RHh6RWRIcWQ2dE1IekJ2dmpsOG5SdjJsM1puV1NyRlExR0xzVTdrSDBPaElFczR0OHFvNFJDclJOMXpTU0lB?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1050,36 +1200,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-13-gamuda-secures-rm1-6-bil-worth-of-solar-and-battery-hybrid-projects-in-australia-t",
-      "category": "malaysia",
-      "headline": "Gamuda secures RM1.6 bil worth of solar and battery hybrid projects in Australia - The Edge Malaysia",
-      "summary": "Key points: Gamuda secures RM1.6 bil worth of solar and battery hybrid projects in Australia The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T12:57:24+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yN3N0aWllci1vZjBDZ1A3Y0xlSnRPRWxOTERTRUJKRmRCX3poeVVqbzg0Mndhcjl6SUxUeF9JOTQ2X2ZvamJJX1F4cXJEc2VX?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-08-13-kelana-jaya-lrt-services-fully-restored-after-power-outage-near-university-station",
       "category": "malaysia",
       "headline": "Kelana Jaya LRT services fully restored after power outage near University station",
@@ -1117,126 +1237,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-malaysia-s-natural-rubber-output-surges-31-5pc-to-26-553-tonnes-in-june",
-      "category": "malaysia",
-      "headline": "Malaysia’s natural rubber output surges 31.5pc to 26,553 tonnes in June",
-      "summary": "Key points: KUALA LUMPUR, Aug 13 — Malaysia’s natural rubber (NR) production increased by 31.5 per cent to 26,553 tonnes...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T12:50:19+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/13/malaysias-natural-rubber-output-surges-315pc-to-26553-tonnes-in-june/231186",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-jpj-taps-boboiboy-papazola-to-help-push-road-safety-campaigns-to-gen-z-and-younger",
-      "category": "malaysia",
-      "headline": "JPJ taps BoBoiBoy, PapaZola to help push road safety campaigns to Gen Z and younger audiences",
-      "summary": "Key points: KUALA LUMPUR, Aug 13 — The Road Transport Department (JPJ) is teaming up with local animation studio Monsta Studio...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T12:40:36+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/jpj-taps-boboiboy-papazola-to-help-push-road-safety-campaigns-to-gen-z-and-younger-audiences/231182",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-penang-pakatan-sticking-with-bn-umno-despite-criticism-says-chow-kon-yeow",
-      "category": "malaysia",
-      "headline": "Penang Pakatan sticking with BN, Umno despite criticism, says Chow Kon Yeow",
-      "summary": "Key points: GEORGE TOWN, Aug 13 — Penang Pakatan Harapan (PH) is sticking with its decision to continue working with Barisan N...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T12:35:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/penang-pakatan-sticking-with-bn-umno-despite-criticism-says-chow-kon-yeow/231183",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-penang-may-advise-schools-to-suspend-outdoor-activities-if-air-quality-worsens-say",
-      "category": "malaysia",
-      "headline": "Penang may advise schools to suspend outdoor activities if air quality worsens, says CM",
-      "summary": "Key points: GEORGE TOWN, Aug 13 — The Penang government may advise schools to suspend or postpone outdoor activities if air qu...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T12:15:30+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/penang-may-advise-schools-to-suspend-outdoor-activities-if-air-quality-worsens-says-cm/231181",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-medan-pasar-set-for-climate-resilient-revamp-under-kl-sponge-city-push-says-hannah",
-      "category": "malaysia",
-      "headline": "Medan Pasar set for climate-resilient revamp under KL ‘sponge city’ push, says Hannah Yeoh",
-      "summary": "Key points: KUALA LUMPUR, Aug 13 — Historic Medan Pasar in downtown Kuala Lumpur is set for a revamp aimed at improving rainwa...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T12:04:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/medan-pasar-set-for-climate-resilient-revamp-under-kl-sponge-city-push-says-hannah-yeoh/231177",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-seoul-leads-asian-stocks-higher-as-easing-us-inflation-revives-tech-rally",
-      "category": "markets_investment",
-      "headline": "Seoul leads Asian stocks higher as easing US inflation revives tech rally",
-      "summary": "Key points: HONG KONG, Aug 13 — Seoul led gainers in Asian stocks Thursday as investors continued to push back into tech firms...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-13T12:03:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/13/seoul-leads-asian-stocks-higher-as-easing-us-inflation-revives-tech-rally/231178",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
