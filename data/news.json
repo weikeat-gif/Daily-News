@@ -1,19 +1,79 @@
 {
-  "generated_at": "2026-08-14T09:46:15+08:00",
+  "generated_at": "2026-08-14T12:06:33+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-14-oil-steadies-after-us-threatens-to-blockade-iran-indefinitely",
-      "category": "markets_investment",
-      "headline": "Oil steadies after US threatens to blockade Iran indefinitely",
-      "summary": "Key points: CNA Latest reports that Oil steadies after US threatens to blockade Iran indefinitely.",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-14T09:36:00+08:00",
+      "id": "2026-08-14-malaysia-may-one-day-vote-online-ec-says-trust-and-security-top-priorities",
+      "category": "malaysia",
+      "headline": "Malaysia may one day vote online, EC says trust and security top priorities",
+      "summary": "Key points: PETALING JAYA, Aug 14 — The Election Commission (EC) has not ruled out the possibility of introducing online or el...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-14T11:56:04+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/14/malaysia-may-one-day-vote-online-ec-says-trust-and-security-top-priorities/231312",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-us-shifts-iran-war-focus-to-oil-prices-as-tehran-tightens-grip-on-strait-of-hormuz",
+      "category": "world",
+      "headline": "US shifts Iran war focus to oil prices as Tehran tightens grip on Strait of Hormuz",
+      "summary": "Key points: The top US priority now in the Iran war is no longer its nuclear program but to bring g...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-14T11:49:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/14/us-shifts-iran-war-focus-to-oil-prices-as-tehran-tightens-grip-on-strait-of-hormuz/231310",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-sydney-airport-rocked-by-three-near-misses-in-less-than-two-weeks-probe-launched",
+      "category": "world",
+      "headline": "Sydney Airport rocked by three near-misses in less than two weeks, probe launched",
+      "summary": "Key points: Australia’s transport authorities said today they were investigating what went w...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-14T11:45:35+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/14/sydney-airport-rocked-by-three-near-misses-in-less-than-two-weeks-probe-launched/231309",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-australia-probes-three-near-misses-at-sydney-airport",
+      "category": "world",
+      "headline": "Australia probes three near-misses at Sydney Airport",
+      "summary": "Key points: Australian authorities are investigating three near-misses in less than two weeks at Sydney Airport, including two on the same day.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-14T11:28:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/oil-steadies-after-us-threatens-blockade-iran-indefinitely-6318766",
+          "url": "https://www.channelnewsasia.com/world/sydney-airport-australia-near-misses-6318966",
           "publisher_type": "news"
         },
         {
@@ -31,6 +91,266 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-no-water-no-stay-kk-hotels-hit-by-cancellations-amid-supply-cuts-since-aug-8",
+      "category": "malaysia",
+      "headline": "No water, no stay: KK hotels hit by cancellations amid supply cuts since Aug 8",
+      "summary": "Key points: KOTA KINABLAU, Aug 14 — A water supply disruption in the State Capital has affected 14 hotels since Wednesday (Aug...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-14T11:26:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/14/no-water-no-stay-kk-hotels-hit-by-cancellations-amid-supply-cuts-since-aug-8/231307",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-paid-to-remove-bad-luck-lost-a-fortune-instead-police-say-ritual-scam-cost-sabah-v",
+      "category": "malaysia",
+      "headline": "Paid to remove bad luck, lost a fortune instead: Police say ritual scam cost Sabah victims RM600,000",
+      "summary": "Key points: KOTA KINABALU, Aug 14 — Police have detained 12 people, including seven Chinese women, over an alleged “Chin...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-14T11:16:53+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/14/paid-to-remove-bad-luck-lost-a-fortune-instead-police-say-ritual-scam-cost-sabah-victims-rm600000/231306",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-party-within-the-party-nurul-izzah-says-pkr-unity-threatened-by-internal-clashes",
+      "category": "malaysia",
+      "headline": "‘Party within the party’: Nurul Izzah says PKR unity threatened by internal clashes",
+      "summary": "Key points: PKR’s deputy president Nurul Izzah Anwar has cautioned that the party cannot remain strong...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-14T11:14:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/14/party-within-the-party-nurul-izzah-says-pkr-unity-threatened-by-internal-clashes/231305",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-sri-muda-petrol-station-brawl-sees-man-slashed-with-machete-police-confirm-investi",
+      "category": "malaysia",
+      "headline": "Sri Muda petrol station brawl sees man slashed with machete, police confirm investigation underway",
+      "summary": "Key points: SHAH ALAM, Aug 14 — A man was left with serious injuries to his left hand following an alleged machete attack duri...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-14T10:58:22+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/14/sri-muda-petrol-station-brawl-sees-man-slashed-with-machete-police-confirm-investigation-underway/231300",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-serian-has-malaysia-s-worst-air-quality-with-api-at-183-kuching-and-samarahan-tie-",
+      "category": "malaysia",
+      "headline": "Serian has Malaysia’s worst air quality with API at 183, Kuching and Samarahan tie at 171 while Cheras chokes in the peninsula",
+      "summary": "Key points: KUALA LUMPUR, Aug 14 — As of 10am today, 10 locations across Malaysia recorded unhealthy air quality levels, with...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-14T10:56:43+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/14/serian-has-malaysias-worst-air-quality-with-api-at-183-kuching-and-samarahan-tie-at-171-while-cheras-chokes-in-the-peninsula/231303",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-shein-loses-uk-copyright-lawsuit-against-rival-temu-over-clothing-photos",
+      "category": "markets_investment",
+      "headline": "Shein loses UK copyright lawsuit against rival Temu over clothing photos",
+      "summary": "Key points: Online fast-fashion giant Shein lost a lawsuit against Chinese e-commerce platform Temu after acc...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-14T10:54:25+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/14/shein-loses-uk-copyright-lawsuit-against-rival-temu-over-clothing-photos/231304",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-somebody-has-to-pay-serian-chief-says-sarawakians-are-fed-up-with-yearly-haze-from",
+      "category": "malaysia",
+      "headline": "‘Somebody has to pay’: Serian chief says Sarawakians are fed up with yearly haze from Kalimantan Barat",
+      "summary": "Key points: Serian District Council chairman Dato Peter Minos has voiced his frustration over the worsening h...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-14T10:44:53+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/14/somebody-has-to-pay-serian-chief-says-sarawakians-are-fed-up-with-yearly-haze-from-kalimantan-barat/231301",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-porsche-to-phase-out-electric-taycan-as-sales-fall-short-of-expectations",
+      "category": "markets_investment",
+      "headline": "Porsche to phase out electric Taycan as sales fall short of expectations",
+      "summary": "Key points: Struggling German sports car maker Porsche plans to end production of the Taycan, its flagship...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-14T10:39:12+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/14/porsche-to-phase-out-electric-taycan-by-2030-as-sales-fall-short-of-expectations/231286",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-valve-fault-delays-water-supply-recovery-for-15-000-sibu-consumers",
+      "category": "malaysia",
+      "headline": "Valve fault delays water supply recovery for 15,000 Sibu consumers",
+      "summary": "Key points: Repair works on the 1,000mm-diameter main pipeline near Lorong Kiew Nang 1 in Sibu were complete...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-14T10:31:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/14/valve-fault-delays-water-supply-recovery-for-15000-sibu-consumers/231298",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-four-dead-thousands-stranded-as-unprecedented-rain-hits-eastern-japan",
+      "category": "world",
+      "headline": "Four dead, thousands stranded as ‘unprecedented’ rain hits eastern Japan",
+      "summary": "Key points: At least four people died in eastern Japan after “unprecedented” heavy rain...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-14T10:28:42+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/14/four-dead-thousands-stranded-as-unprecedented-rain-hits-eastern-japan/231296",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-i-will-continue-saving-tabung-haji-depositors-stand-by-institution-despite-rci-spo",
+      "category": "malaysia",
+      "headline": "‘I will continue saving’: Tabung Haji depositors stand by institution despite RCI spotlight",
+      "summary": "Key points: KUALA LUMPUR, Aug 14 — Although Lembaga Tabung Haji (TH) has come under the spotlight again following the release...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-14T10:09:19+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/14/i-will-continue-saving-tabung-haji-depositors-stand-by-institution-despite-rci-spotlight/231291",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-police-investigate-pasir-mas-classroom-clash-as-teacher-allegedly-hits-pupil-and-m",
+      "category": "malaysia",
+      "headline": "Police investigate Pasir Mas classroom clash as teacher allegedly hits pupil and mother with cane",
+      "summary": "Key points: PASIR MAS, Aug 14 — Police have detained a 54 year old teacher accused of assaulting a pupil and the boy’s m...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-14T10:00:35+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/14/police-investigate-pasir-mas-classroom-clash-as-teacher-allegedly-hits-pupil-and-mother-with-cane/231293",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-toyota-van-driver-dead-five-passengers-injured-after-collision-with-lorry-on-north",
+      "category": "malaysia",
+      "headline": "Toyota van driver dead, five passengers injured after collision with lorry on North-South highway near Kluang",
+      "summary": "Key points: A woman was killed while five others were injured in an accident involving a van and a lorry at K...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-14T09:58:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/14/toyota-van-driver-dead-five-passengers-injured-after-collision-with-lorry-on-north-south-highway-near-kluang/231292",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -296,8 +616,8 @@
     {
       "id": "2026-08-14-malaysia-russia-agree-to-finalise-2027-joint-action-plan-by-year-end-zambry-bernam",
       "category": "malaysia",
-      "headline": "Malaysia-Russia Agree To Finalise 2027 Joint Action Plan By Year-end - Zambry - Bernama",
-      "summary": "Key points: Malaysia-Russia Agree To Finalise 2027 Joint Action Plan By Year-end - Zambry Bernama",
+      "headline": "Malaysia-Russia Agree To Finalise 2027 Joint Action Plan By Year-end - Zambry - bernama.com",
+      "summary": "Key points: Malaysia-Russia Agree To Finalise 2027 Joint Action Plan By Year-end - Zambry bernama.com",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-08-14T02:42:31+08:00",
       "source_links": [
@@ -630,6 +950,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-08-13-zus-coffee-said-to-explore-ipo-to-raise-at-least-rm1-bil-bloomberg-the-edge-malays",
+      "category": "malaysia",
+      "headline": "ZUS Coffee said to explore IPO to raise at least RM1 bil — Bloomberg - The Edge Malaysia",
+      "summary": "Key points: ZUS Coffee said to explore IPO to raise at least RM1 bil — Bloomberg The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-13T17:40:41+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WYjd4MWVIR2lQUVdEdG9PemNLektGRnB1RHhXSnBQT0JhblFBLTZsOW16dy1hY29xVFlxZnhfak01VnFmeTNSQTc4dWRBNUha?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-08-13-fake-names-dead-phone-numbers-how-customs-unravelled-a-rm1m-cannabis-export-plot-a",
       "category": "malaysia",
       "headline": "Fake names, dead phone numbers: How Customs unravelled a RM1m cannabis export plot at KLIA",
@@ -880,346 +1230,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/13/rehda-institute-one-size-fits-all-rm300000-housing-cap-needs-rethink/231230",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-bandar-utama-murder-trial-teen-in-dock-says-sorry-in-court-over-schoolmate-s-death",
-      "category": "malaysia",
-      "headline": "Bandar Utama murder trial: Teen in dock says sorry in court over schoolmate’s death",
-      "summary": "Key points: SHAH ALAM, Aug 13 — A 15-year-old boy, on trial for the murder of a female student at a secondary school in Bandar...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T15:57:42+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/bandar-utama-murder-trial-teen-in-dock-says-sorry-in-court-over-schoolmates-death/231231",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-no-excuse-for-thuggish-behaviour-us-envoy-blasts-israeli-settler-siege-in-west-ban",
-      "category": "markets_investment",
-      "headline": "‘No excuse for thuggish behaviour’: US envoy blasts Israeli settler siege in West Bank, calls it ‘terror’",
-      "summary": "Key points: The US ambassador to Israel, a staunch supporter of West Bank settlements, on Thursday denounc...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-13T15:57:02+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/13/no-excuse-for-thuggish-behaviour-us-envoy-blasts-israeli-settler-siege-in-west-bank-calls-it-terror/231232",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-motorcycle-theft-row-ends-in-gunfire-at-thailand-shopping-fair-six-hurt-one-in-com",
-      "category": "world",
-      "headline": "Motorcycle theft row ends in gunfire at Thailand shopping fair, six hurt, one in coma",
-      "summary": "Key points: Six people were injured after a gunman opened fire at a shopping event in Dan Khun Thot district...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-13T15:51:30+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/13/motorcycle-theft-row-ends-in-gunfire-at-thailand-shopping-fair-six-hurt-one-in-coma/231228",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-two-weeks-of-beatings-29-injuries-top-court-upholds-death-sentence-for-man-who-kil",
-      "category": "malaysia",
-      "headline": "Two weeks of beatings, 29 injuries: Top court upholds death sentence for man who killed four-year-old stepson in Klang",
-      "summary": "Key points: The Federal Court today upheld the death sentence imposed on a former chef for the murder of h...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T15:50:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/two-weeks-of-beatings-29-injuries-top-court-upholds-death-sentence-for-man-who-killed-four-year-old-stepson-in-klang/231214",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-after-calling-in-115-witnesses-and-detaining-seven-suspects-macc-now-weighs-foreig",
-      "category": "malaysia",
-      "headline": "After calling in 115 witnesses and detaining seven suspects, MACC now weighs foreign forensic help to untangle Tabung Haji probe",
-      "summary": "Key points: The Malaysian Anti-Corruption Commission (MACC) is considering engaging foreign forensic experts...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T15:37:08+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/after-calling-in-115-witnesses-and-detaining-seven-suspects-macc-now-weighs-foreign-forensic-help-to-untangle-tabung-haji-probe/231218",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-hoping-for-a-downpour-to-wash-away-the-smog-metmalaysia-says-it-won-t-be-enough-fo",
-      "category": "malaysia",
-      "headline": "Hoping for a downpour to wash away the smog? MetMalaysia says it won’t be enough for the next five days",
-      "summary": "Key points: KUALA LUMPUR, Aug 13 — The haze situation currently affecting the country is not expected to show any significant...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T15:25:16+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/hoping-for-a-downpour-to-wash-away-the-smog-metmalaysia-says-it-wont-be-enough-for-the-next-five-days/231220",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-malaysia-s-cocoa-industry-sees-sweet-recovery-as-grinding-jumps-29pc",
-      "category": "malaysia",
-      "headline": "Malaysia’s cocoa industry sees sweet recovery as grinding jumps 29pc",
-      "summary": "Key points: KUALA LUMPUR, Aug 13 — Malaysia’s cocoa industry is seeing signs of recovery, with cocoa grinding rising 29...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T15:19:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/13/malaysias-cocoa-industry-sees-sweet-recovery-as-grinding-jumps-29pc/231224",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-prima-facie-proven-court-says-bandar-utama-boy-must-enter-defence-in-schoolmate-s-",
-      "category": "malaysia",
-      "headline": "Prima facie proven: Court says Bandar Utama boy must enter defence in schoolmate’s murder",
-      "summary": "Key points: SHAH ALAM, Aug 13 — The High Court today ordered a 15-year-old boy to enter his defence on a charge of murdering a...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T15:14:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/prima-facie-proven-court-says-bandar-utama-boy-must-enter-defence-in-schoolmates-murder/231221",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-us-busts-sham-marriage-ring-behind-1-000-fake-unions-arrests-11",
-      "category": "world",
-      "headline": "US busts sham marriage ring behind 1,000 fake unions, arrests 11",
-      "summary": "Key points: Eleven people were arrested on Wednesday for allegedly organising hundreds of sham marriages...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-13T15:00:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/13/us-busts-sham-marriage-ring-behind-1000-fake-unions-arrests-11/231215",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-johor-to-add-5-000-smart-cctvs-across-greater-johor-bahru-in-five-years",
-      "category": "malaysia",
-      "headline": "Johor to add 5,000 smart CCTVs across Greater Johor Bahru in five years",
-      "summary": "Key points: PASIR GUDANG, Aug 13 – The Johor government plans to install 5,000 more smart closed-circuit television (CCTV) cam...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T14:57:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/johor-to-add-5000-smart-cctvs-across-greater-johor-bahru-in-five-years/231213",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-rescuers-scour-bali-waters-for-five-missing-after-ferry-fire-sends-dozens-scrambli",
-      "category": "world",
-      "headline": "Rescuers scour Bali waters for five missing after ferry fire sends dozens scrambling overboard",
-      "summary": "Key points: Rescuers combed the Lombok Strait off Indonesia’s Bali island on Thursday for five people...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-13T14:51:49+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/13/rescuers-scour-bali-waters-for-five-missing-after-ferry-fire-sends-dozens-scrambling-overboard/231211",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-russia-keen-to-get-direct-flights-to-malaysia-back-on-track",
-      "category": "malaysia",
-      "headline": "Russia keen to get direct flights to Malaysia back on track",
-      "summary": "Key points: Resuming direct air travel remains a priority in cooperation between Russia and Malaysia, Ru...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T14:46:03+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/russia-keen-to-get-direct-flights-to-malaysia-back-on-track/231189",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-construction-sector-sustains-growth-as-2q-work-value-hits-rm47-8b-says-stats-dept",
-      "category": "malaysia",
-      "headline": "Construction sector sustains growth as 2Q work value hits RM47.8b, says Stats Dept",
-      "summary": "Key points: KUALA LUMPUR, Aug 13 — The value of work done in the construction sector rose by 8.8 per cent year-on-year to RM47...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T14:44:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/13/construction-sector-sustains-growth-as-2q-work-value-hits-rm478b-says-stats-dept/231209",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-tabung-haji-reforms-must-go-beyond-rci-findings-says-bn-sec-gen",
-      "category": "malaysia",
-      "headline": "Tabung Haji reforms must go beyond RCI findings, says BN sec-gen",
-      "summary": "Key points: KUALA LUMPUR, Aug 13 — Barisan Nasional (BN) wants all recommendations in the Royal Commission of Inquiry (RCI) re...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T14:38:21+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/tabung-haji-reforms-must-go-beyond-rci-findings-says-bn-sec-gen/231190",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-brazil-orders-discord-to-suspend-livestreams-after-teen-s-suicide",
-      "category": "world",
-      "headline": "Brazil orders Discord to suspend livestreams after teen’s suicide",
-      "summary": "Key points: SAO PAULO, Aug 13 — Brazil’s data protection agency on Wednesday ordered Discord to suspend livestreams, acc...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-13T14:37:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/13/brazil-orders-discord-to-suspend-livestreams-after-teens-suicide/231208",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-johor-wants-to-give-stray-dogs-a-better-shot-at-life-netherlands-style",
-      "category": "malaysia",
-      "headline": "Johor wants to give stray dogs a better shot at life, Netherlands-style",
-      "summary": "Key points: PASIR GUDANG, Aug 13 — The Johor government plans to adopt the Netherlands’ widely cited approach to managin...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T14:30:55+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/johor-wants-to-give-stray-dogs-a-better-shot-at-life-netherlands-style/231206",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-13-someone-left-two-suitcases-at-klia-s-lost-and-found-customs-found-rm3-8m-in-cannab",
-      "category": "malaysia",
-      "headline": "Someone left two suitcases at KLIA’s Lost and Found, Customs found RM3.8m in cannabis — and more hidden in toy boxes",
-      "summary": "Key points: Kuala Lumpur International Airport (KLIA) Customs foiled four smuggling cases last month, seizing...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-13T14:22:48+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/13/someone-left-two-suitcases-at-klias-lost-and-found-customs-found-rm38m-in-cannabis-and-more-hidden-in-toy-boxes/231191",
           "publisher_type": "news"
         }
       ],
