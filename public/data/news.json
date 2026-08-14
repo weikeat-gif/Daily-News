@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-15T03:46:07+08:00",
+  "generated_at": "2026-08-15T04:28:15+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-15-romero-bids-farewell-to-spurs-ahead-of-atletico-move",
-      "category": "world",
-      "headline": "Romero bids farewell to Spurs ahead of Atletico move",
-      "summary": "Key points: CNA Latest reports that Romero bids farewell to Spurs ahead of Atletico move.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-15T03:12:43+08:00",
+      "id": "2026-08-15-us-regulator-approves-bank-charter-for-trump-backed-crypto-company-world-liberty-f",
+      "category": "markets_investment",
+      "headline": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",
+      "summary": "Key points: CNA Latest reports that US regulator approves bank charter for Trump-backed crypto company World Liberty Financial.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-15T04:05:28+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/romero-bids-farewell-spurs-ahead-atletico-move-6320541",
+          "url": "https://www.channelnewsasia.com/business/us-regulator-approves-bank-charter-trump-backed-crypto-company-world-liberty-financial-6320586",
           "publisher_type": "news"
         },
         {
@@ -31,7 +31,7 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
+      "confidence": "verified"
     },
     {
       "id": "2026-08-14-kerjaya-prospek-destini-pos-malaysia-celcomdigi-maxis-hextar-global-ocean-vantage-",
@@ -693,36 +693,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-14-malaysia-heritage-studios-brings-heritage-to-life-bernama",
-      "category": "malaysia",
-      "headline": "Malaysia Heritage Studios Brings Heritage To Life - Bernama",
-      "summary": "Key points: Malaysia Heritage Studios Brings Heritage To Life Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-14T16:21:00+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80R2VWLWNWZ2VSbktQa0JQb25KeDNoREppcExkT21xOTJBV0RsMUZHTm9NcFB1YlU2UkFOMm9ianZ0NDc0WjVyWEtwazd1UFh3SVpkb0xvSnFPQ2JMX1BmU25B?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-08-14-three-months-jail-for-man-pleading-guilty-to-offensive-x-posts-against-terengganu-",
       "category": "malaysia",
       "headline": "Three months’ jail for man pleading guilty to offensive X posts against Terengganu royalty",
@@ -1245,6 +1215,26 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/14/landfill-lunches-sabah-group-asks-kota-kinabalu-city-hall-to-clarify-packed-food-claims/231322",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-14-in-johor-police-probe-claim-of-suspected-toyota-hilux-following-student-walking-ho",
+      "category": "malaysia",
+      "headline": "In Johor, police probe claim of suspected Toyota Hilux following student walking home",
+      "summary": "Key points: JOHOR BAHRU, Aug 14 — Police are investigating a report that a Toyota Hilux followed a food trader’s 12-year...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-14T12:22:47+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/14/in-johor-police-probe-claim-of-suspected-toyota-hilux-following-student-walking-home/231315",
           "publisher_type": "news"
         }
       ],
