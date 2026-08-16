@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-08-16T17:24:55+08:00",
+  "generated_at": "2026-08-16T18:20:28+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-16-sarawak-education-department-says-serian-schools-reopen-tomorrow",
+      "category": "malaysia",
+      "headline": "Sarawak Education Department says Serian schools reopen tomorrow",
+      "summary": "Key points: All primary and secondary schools under the Serian District Education Office (PPD) will operate...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-16T18:12:12+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/16/sarawak-education-department-says-serian-schools-reopen-tomorrow/231600",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-16-belgium-counts-on-air-support-as-record-wildfire-jumps-in-size",
+      "category": "world",
+      "headline": "Belgium counts on air support as record wildfire jumps in size",
+      "summary": "Key points: CNA Latest reports that Belgium counts on air support as record wildfire jumps in size.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-16T17:30:00+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/belgium-wildfire-record-size-air-support-6322246",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-16-saifuddin-end-identity-politics-focus-on-performance-and-economic-recovery",
       "category": "malaysia",
@@ -42,36 +92,6 @@
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-16-malaysia-s-dap-votes-overwhelmingly-to-stay-on-in-cabinet-offering-reprieve-to-pm-",
-      "category": "malaysia",
-      "headline": "Malaysia’s DAP votes overwhelmingly to stay on in Cabinet, offering reprieve to PM Anwar",
-      "summary": "Key points: Nearly nine in 10 voted at the Democratic Action Party’s congress for its ministers to stay on in the Cabinet.",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-16T17:14:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/malaysia-dap-congress-anthony-loke-government-6322111",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "verified"
     },
     {
       "id": "2026-08-16-status-quo-for-now-dap-delegates-vote-to-stay-in-govt",
@@ -1167,26 +1187,6 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/16/together-its-not-so-scary-ukrainian-women-find-refuge-amid-war-and-abuse/231439",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-16-after-colombia-s-strongest-quake-in-decades-survivors-face-the-long-road-back",
-      "category": "world",
-      "headline": "After Colombia’s strongest quake in decades, survivors face the long road back",
-      "summary": "Key points: PEREIRA, Aug 16— Nine-year-old Sebastian paints a portrait of his family home, unable to comprehend that it n...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-16T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/15/after-colombias-strongest-quake-in-decades-survivors-face-the-long-road-back/231447",
           "publisher_type": "news"
         }
       ],
