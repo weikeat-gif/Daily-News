@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T03:19:13+08:00",
+  "generated_at": "2026-08-17T04:18:56+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
@@ -997,6 +997,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-08-16-is-malaysia-really-ready-for-battery-ev-transition-bernama",
+      "category": "malaysia",
+      "headline": "Is Malaysia Really Ready For Battery EV Transition? - bernama",
+      "summary": "Key points: Is Malaysia Really Ready For Battery EV Transition?",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-16T10:33:52+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSUx2SGZJZ0tZZ3NwT1VLVks5dkNBNzFJYVVCOUR5eDZJZ2ZTNXlYMVlvSmdmM2dPRlFnSVM4LUd5enNnQk5hVklsQ3hZZTJFdFFRRjV0WE5VS1E?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-08-16-metmalaysia-warns-of-thunderstorms-heavy-rain-strong-winds-in-perlis-melaka-sarawa",
       "category": "malaysia",
       "headline": "MetMalaysia warns of thunderstorms, heavy rain, strong winds in Perlis, Melaka, Sarawak, other areas",
@@ -1134,26 +1164,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-16-sultan-nazrin-graces-perak-merdeka-month-programme-with-214-095-student-entries",
-      "category": "malaysia",
-      "headline": "Sultan Nazrin graces Perak Merdeka Month programme with 214,095 student entries",
-      "summary": "Key points: The Sultan of Perak, Sultan Nazrin Shah, today graced a programme to instil the spirit o...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-16T08:53:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/16/sultan-nazrin-graces-perak-merdeka-month-programme-with-214095-student-entries/231522",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
