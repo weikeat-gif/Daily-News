@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-18T06:21:05+08:00",
+  "generated_at": "2026-08-18T07:20:00+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-18-explainer-what-makes-a-by-election-necessary-in-malaysia-and-when-it-is-not",
+      "category": "malaysia",
+      "headline": "Explainer: What makes a by-election necessary in Malaysia, and when it is not?",
+      "summary": "Key points: KUALA LUMPUR, Aug 18 — The Election Commission (EC) has said there will not be a by-election held in the Subang pa...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-18T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/edited-explainer-what-makes-a-by-election-necessary-in-malaysia-and-when-it-is-not/231321",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-18-sabbath-cafe-clash-lays-bare-israel-faultlines",
+      "category": "world",
+      "headline": "Sabbath cafe clash lays bare Israel faultlines",
+      "summary": "Key points: Alma Ronen has been fighting in the Israeli military nearly constantly for more than two...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-18T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/18/sabbath-cafe-clash-lays-bare-israel-faultlines/231659",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-18-commentary-what-sti-s-record-run-doesn-t-say-about-the-singapore-stock-market",
       "category": "markets_investment",
@@ -1177,46 +1217,6 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/17/trump-hails-saudi-arabia-turkey-pakistan-defence-pact-as-big-bold-step/231619",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-17-wildfires-sweep-europe-as-greece-spain-report-deaths-and-belgium-tackles-record-bl",
-      "category": "world",
-      "headline": "Wildfires sweep Europe as Greece, Spain report deaths and Belgium tackles record blaze",
-      "summary": "Key points: Two people died when fires broke out on a Greek island and a soldier died fighting a fire in...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-17T08:41:57+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/17/wildfires-sweep-europe-as-greece-spain-report-deaths-and-belgium-tackles-record-blaze/231618",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-17-trump-says-us-south-korea-war-games-to-be-substantially-reduced",
-      "category": "world",
-      "headline": "Trump says US-South Korea war games to be ‘substantially reduced’",
-      "summary": "Key points: US President Donald Trump said he was “not happy” about US participati...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-17T08:41:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/17/trump-says-us-south-korea-war-games-to-be-substantially-reduced/231617",
           "publisher_type": "news"
         }
       ],
