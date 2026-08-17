@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-08-17T17:38:28+08:00",
+  "generated_at": "2026-08-17T18:29:36+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-17-4am-liquor-sales-in-boat-quay-clarke-quay-to-continue-following-year-long-trial",
+      "id": "2026-08-17-1mdb-ex-ceo-shahrol-says-no-deal-to-escape-us-5-64b-civil-suit-says-no-explanation",
+      "category": "malaysia",
+      "headline": "1MDB ex-CEO Shahrol says no deal to escape US$5.64b civil suit, says no explanation given too",
+      "summary": "Key points: KUALA LUMPUR, Aug 17 — Former 1Malaysia Development Berhad (1MDB) chief executive officer (CEO) Datuk Shahrol Azra...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-17T18:24:35+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/17/1mdb-ex-ceo-shahrol-says-no-deal-to-escape-us564b-civil-suit-says-no-explanation-given-too/231699",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-17-apple-to-change-app-data-consent-rules-german-regulator-says",
       "category": "world",
-      "headline": "4am liquor sales in Boat Quay, Clarke Quay to continue following year-long trial",
-      "summary": "Key points: The police approved 92 applications from establishments at Boat Quay, Clarke Quay and Upper Circular Road to extend their liquor trading hours.",
+      "headline": "Apple to change app data consent rules, German regulator says",
+      "summary": "Key points: CNA Latest reports that Apple to change app data consent rules, German regulator says.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-17T17:31:22+08:00",
+      "published_at": "2026-08-17T18:23:03+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/boat-clarke-quay-alcohol-liquor-hours-4am-6323531",
+          "url": "https://www.channelnewsasia.com/business/apple-change-app-data-consent-rules-german-regulator-says-6323721",
           "publisher_type": "news"
         },
         {
@@ -25,6 +45,26 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-08-17-bursa-malaysia-ends-lower-amid-geopolitical-global-growth-concerns",
+      "category": "markets_investment",
+      "headline": "Bursa Malaysia ends lower amid geopolitical, global growth concerns",
+      "summary": "Key points: KUALA LUMPUR, Aug 17 — Bursa Malaysia ended lower on Monday as investor sentiment weakened amid renewed conce...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-17T18:11:55+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/17/bursa-malaysia-ends-lower-amid-geopolitical-global-growth-concerns/231705",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1181,46 +1221,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-16-saifuddin-nasution-warns-poverty-and-drugs-not-racial-fears-are-malays-real-enemie",
-      "category": "malaysia",
-      "headline": "Saifuddin Nasution warns poverty and drugs, not racial fears, are Malays’ real enemies",
-      "summary": "Key points: The position of Malays in the country is not threatened by the existence of other races, but by p...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-16T18:39:30+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/16/saifuddin-nasution-warns-poverty-and-drugs-not-racial-fears-are-malays-real-enemies/231606",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-16-markets-shrug-off-climate-risks-as-europe-s-heatwaves-pile-up-economic-costs",
-      "category": "markets_investment",
-      "headline": "Markets shrug off climate risks as Europe’s heatwaves pile up economic costs",
-      "summary": "Key points: The heatwaves pummelling Europe this summer will have costly impacts on industries...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-16T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/16/markets-shrug-off-climate-risks-as-europes-heatwaves-pile-up-economic-costs/231444",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
