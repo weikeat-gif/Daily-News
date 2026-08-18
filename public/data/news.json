@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-19T00:28:36+08:00",
+  "generated_at": "2026-08-19T01:23:56+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-19-apple-changes-fees-for-alternative-app-stores-in-eu",
+      "id": "2026-08-19-venus-williams-receives-us-open-wildcard",
       "category": "world",
-      "headline": "Apple changes fees for alternative app stores in EU",
-      "summary": "Key points: CNA Latest reports that Apple changes fees for alternative app stores in EU.",
+      "headline": "Venus Williams receives US Open wildcard",
+      "summary": "Key points: CNA Latest reports that Venus Williams receives US Open wildcard.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-19T00:03:07+08:00",
+      "published_at": "2026-08-19T01:15:53+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/apple-changes-fees-alternative-app-stores-in-eu-6326421",
+          "url": "https://www.channelnewsasia.com/sport/venus-williams-receives-us-open-wildcard-6326566",
           "publisher_type": "news"
         },
         {
@@ -24,36 +24,6 @@
         {
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-world-badminton-championships-aaron-wooi-yik-set-up-last-16-clash-with-wei-chong-k",
-      "category": "world",
-      "headline": "World Badminton Championships: Aaron-Wooi Yik Set Up Last-16 Clash With Wei Chong-Kai Wun - bernama",
-      "summary": "Key points: World Badminton Championships: Aaron-Wooi Yik Set Up Last-16 Clash With Wei Chong-Kai Wun bernama",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-18T23:10:15+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwclg1V2JpZUlGZEFVM3lkdnVxMjR4azQ1MlVjcC02czhWQnM1RlhmWnRNYllhcmE0RS1zS3FBMno1cTdNVDRJeTU4cHZZcUdiME9KVUoxd1hEMFE?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
           "publisher_type": "social"
         }
       ],
@@ -934,6 +904,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-18-malaysia-and-indonesia-pledge-closer-cooperation-to-tackle-transboundary-haze-bern",
+      "category": "malaysia",
+      "headline": "Malaysia And Indonesia Pledge Closer Cooperation To Tackle Transboundary Haze - bernama",
+      "summary": "Key points: Malaysia And Indonesia Pledge Closer Cooperation To Tackle Transboundary Haze bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-18T12:45:26+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vZWZQWm1wMVdOTGtsN0RZR21EVW9QOFFSZWVTQmdYZ1ZxRS1nNEhKWVd4NW9xcHlrc09EWDY0UThxQmpXTXJYX0FCRHc0amx2dVhGMVNtdmM?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
