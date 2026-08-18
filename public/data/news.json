@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-08-18T23:28:31+08:00",
+  "generated_at": "2026-08-19T00:28:36+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-19-apple-changes-fees-for-alternative-app-stores-in-eu",
+      "category": "world",
+      "headline": "Apple changes fees for alternative app stores in EU",
+      "summary": "Key points: CNA Latest reports that Apple changes fees for alternative app stores in EU.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-19T00:03:07+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/apple-changes-fees-alternative-app-stores-in-eu-6326421",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-18-world-badminton-championships-aaron-wooi-yik-set-up-last-16-clash-with-wei-chong-k",
       "category": "world",
@@ -24,36 +54,6 @@
         {
           "name": "Facebook BERNAMA",
           "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-stocks-slide-yields-elevated-as-mideast-conflict-fears-grow",
-      "category": "world",
-      "headline": "Stocks slide, yields elevated as Mideast conflict fears grow",
-      "summary": "Key points: CNA Latest reports that Stocks slide, yields elevated as Mideast conflict fears grow.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-18T23:09:28+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/stocks-slide-yields-elevated-mideast-conflict-fears-grow-6326331",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
         }
       ],
@@ -547,10 +547,10 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-18-korean-parent-to-dispose-of-malaysia-listed-lotte-chemical-titan-report-theedgemal",
+      "id": "2026-08-18-korean-parent-to-dispose-of-malaysia-listed-lotte-chemical-titan-report-the-edge-m",
       "category": "malaysia",
-      "headline": "Korean parent to dispose of Malaysia-listed Lotte Chemical Titan — report - theedgemalaysia.com",
-      "summary": "Key points: Korean parent to dispose of Malaysia-listed Lotte Chemical Titan — report theedgemalaysia.com",
+      "headline": "Korean parent to dispose of Malaysia-listed Lotte Chemical Titan — report - The Edge Malaysia",
+      "summary": "Key points: Korean parent to dispose of Malaysia-listed Lotte Chemical Titan — report The Edge Malaysia",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-08-18T16:08:53+08:00",
       "source_links": [
