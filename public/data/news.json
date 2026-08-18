@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-08-18T20:40:08+08:00",
+  "generated_at": "2026-08-18T21:40:00+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-18-comcast-expands-xfinity-security-offerings-to-deepen-broadband-customer-ties",
+      "category": "world",
+      "headline": "Comcast expands Xfinity security offerings to deepen broadband customer ties",
+      "summary": "Key points: CNA Latest reports that Comcast expands Xfinity security offerings to deepen broadband customer ties.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-18T21:33:18+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/comcast-expands-xfinity-security-offerings-deepen-broadband-customer-ties-6326126",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-18-havana-hollowed-by-blackouts-hunger-and-mass-exodus-amid-us-fuel-embargo-on-cuba",
+      "category": "world",
+      "headline": "Havana hollowed by blackouts, hunger, and mass exodus amid US fuel embargo on Cuba",
+      "summary": "Key points: Once a byword for joyful excess, Havana has been hollowed by blackouts, departures and deep uncer...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-18T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/18/havana-hollowed-by-blackouts-hunger-and-mass-exodus-amid-us-fuel-embargo-on-cuba/231783",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-18-sarawak-eyes-direct-kuching-jeju-flights-as-airborneo-expands-regional-tourism-lin",
       "category": "malaysia",
@@ -21,36 +71,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-chip-designer-velaura-ai-valued-at-more-than-1-billion-after-funding-round",
-      "category": "world",
-      "headline": "Chip designer Velaura AI valued at more than $1 billion after funding round",
-      "summary": "Key points: CNA Latest reports that Chip designer Velaura AI valued at more than $1 billion after funding round.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-18T20:01:12+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/chip-designer-velaura-ai-valued-more-1-billion-after-funding-round-6325976",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1214,26 +1234,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-change-must-come-from-the-top-ex-deputy-igp-says-it-is-up-to-leaders-to-combat-cor",
-      "category": "malaysia",
-      "headline": "‘Change must come from the top’: Ex-deputy IGP says it is up to leaders to combat corruption",
-      "summary": "Key points: KUALA LUMPUR, Aug 18 — Efforts to combat corruption and strengthen integrity comprehensively require st...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-18T10:21:50+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/change-must-come-from-the-top-ex-deputy-igp-says-it-is-up-to-leaders-to-combat-corruption/231751",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
