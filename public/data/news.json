@@ -1,8 +1,101 @@
 {
-  "generated_at": "2026-08-18T18:24:53+08:00",
+  "generated_at": "2026-08-18T19:22:35+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-18-openai-introduces-chatgpt-for-teens-amid-legal-pressure",
+      "category": "world",
+      "headline": "OpenAI introduces 'ChatGPT for Teens' amid legal pressure",
+      "summary": "Key points: CNA Latest reports that OpenAI introduces 'ChatGPT for Teens' amid legal pressure.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-18T19:13:41+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/openai-introduces-chatgpt-teens-amid-legal-pressure-6325876",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-18-court-adjourns-pulau-batu-puteh-appeal-dr-mahathir-s-lawyer-seeks-to-add-rci-repor",
+      "category": "malaysia",
+      "headline": "Court adjourns Pulau Batu Puteh appeal, Dr Mahathir’s lawyer seeks to add RCI report",
+      "summary": "Key points: The Court of Appeal here today adjourned the hearing of former prime minister Tun Dr Mahathir...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-18T19:02:39+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/court-adjourns-pulau-batu-puteh-appeal-dr-mahathirs-lawyer-seeks-to-add-rci-report/231827",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-18-ringgit-closes-higher-on-falling-us-rate-hike-odds-and-strong-malaysia-gdp-data",
+      "category": "markets_investment",
+      "headline": "Ringgit closes higher on falling US rate hike odds and strong Malaysia GDP data",
+      "summary": "Key points: KUALA LUMPUR, Aug 18 — The ringgit extended its gains to close higher against major and regional currencies on Tue...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-18T18:44:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/18/ringgit-closes-higher-on-falling-us-rate-hike-odds-and-strong-malaysia-gdp-data/231825",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "ringgit",
+        "rate"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-18-sabah-fire-dept-issues-stern-warning-as-eight-areas-hit-by-12-day-dry-spell",
+      "category": "malaysia",
+      "headline": "Sabah Fire Dept issues stern warning as eight areas hit by 12‑day dry spell",
+      "summary": "Key points: KOTA KINABALU, Aug 18 — Eight areas across seven districts in Sabah are experiencing a prolonged dry spell, with b...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-18T18:39:04+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/sabah-fire-dept-issues-stern-warning-as-eight-areas-hit-by-12day-dry-spell/231826",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-18-high-court-to-deliver-aug-24-ruling-on-negeri-sembilan-undang-eviction-summons",
       "category": "malaysia",
@@ -21,36 +114,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-why-states-fought-to-present-a-united-case-against-meta-over-youth-social-media-ha",
-      "category": "world",
-      "headline": "Why states fought to present a united case against Meta over youth social media harms",
-      "summary": "Key points: CNA Latest reports that Why states fought to present a united case against Meta over youth social media harms.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-18T18:15:15+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/why-states-fought-present-united-case-against-meta-over-youth-social-media-harms-6325756",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -746,8 +809,8 @@
     {
       "id": "2026-08-18-malaysia-and-indonesia-pledge-closer-cooperation-to-tackle-transboundary-haze-asea",
       "category": "malaysia",
-      "headline": "Malaysia And Indonesia Pledge Closer Cooperation To Tackle Transboundary Haze - ASEAN - BERNAMA",
-      "summary": "Key points: Malaysia And Indonesia Pledge Closer Cooperation To Tackle Transboundary Haze ASEAN - BERNAMA",
+      "headline": "Malaysia And Indonesia Pledge Closer Cooperation To Tackle Transboundary Haze - asean.bernama.com",
+      "summary": "Key points: Malaysia And Indonesia Pledge Closer Cooperation To Tackle Transboundary Haze asean.bernama.com",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-08-18T12:45:26+08:00",
       "source_links": [
@@ -1171,66 +1234,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-ringgit-starts-stronger-as-inflation-stays-in-check-tipped-to-stay-within-4-06-4-0",
-      "category": "markets_investment",
-      "headline": "Ringgit starts stronger as inflation stays in check, tipped to stay within 4.06-4.08 range today",
-      "summary": "Key points: KUALA LUMPUR, Aug 18 — The ringgit opened higher against major currencies but was little changed against the US do...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-18T09:24:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/18/ringgit-starts-stronger-as-inflation-stays-in-check-tipped-to-stay-within-406-408-range-today/231743",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-trump-s-us-1-7b-border-wall-hits-a-roadblock-in-texas-national-park",
-      "category": "world",
-      "headline": "Trump’s US$1.7b border wall hits a roadblock in Texas national park",
-      "summary": "Key points: President Donald Trump’s administration said Monday it had paused construction on a US$1.7...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-18T09:18:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/18/trumps-us17b-border-wall-hits-a-roadblock-in-texas-national-park/231725",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-trump-scales-back-drills-with-model-ally-south-korea-as-us-military-strains-allies",
-      "category": "world",
-      "headline": "Trump scales back drills with ‘model ally’ South Korea as US military strains, allies wonder where the US is headed",
-      "summary": "Key points: President Donald Trump’s decision to scale back military drills with close ally South K...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-18T09:07:44+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/18/trump-scales-back-drills-with-model-ally-south-korea-as-us-military-strains-allies-wonder-where-the-us-is-headed/231724",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
