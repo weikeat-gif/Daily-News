@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-08-18T19:22:35+08:00",
+  "generated_at": "2026-08-18T20:40:08+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-18-openai-introduces-chatgpt-for-teens-amid-legal-pressure",
+      "id": "2026-08-18-sarawak-eyes-direct-kuching-jeju-flights-as-airborneo-expands-regional-tourism-lin",
+      "category": "malaysia",
+      "headline": "Sarawak eyes direct Kuching–Jeju flights as AirBorneo expands regional tourism links",
+      "summary": "Key points: Sarawak is seeking to establish direct AirBorneo Airways (AirBorneo) connectivity between Kuchin...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-18T20:31:47+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/sarawak-eyes-direct-kuchingjeju-flights-as-airborneo-expands-regional-tourism-links/231833",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-18-chip-designer-velaura-ai-valued-at-more-than-1-billion-after-funding-round",
       "category": "world",
-      "headline": "OpenAI introduces 'ChatGPT for Teens' amid legal pressure",
-      "summary": "Key points: CNA Latest reports that OpenAI introduces 'ChatGPT for Teens' amid legal pressure.",
+      "headline": "Chip designer Velaura AI valued at more than $1 billion after funding round",
+      "summary": "Key points: CNA Latest reports that Chip designer Velaura AI valued at more than $1 billion after funding round.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-18T19:13:41+08:00",
+      "published_at": "2026-08-18T20:01:12+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/openai-introduces-chatgpt-teens-amid-legal-pressure-6325876",
+          "url": "https://www.channelnewsasia.com/business/chip-designer-velaura-ai-valued-more-1-billion-after-funding-round-6325976",
           "publisher_type": "news"
         },
         {
@@ -31,6 +51,66 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-18-kuala-pilah-school-lab-roof-collapse-prompts-chemical-removal-jkr-to-assess-safety",
+      "category": "malaysia",
+      "headline": "Kuala Pilah school lab roof collapse prompts chemical removal, JKR to assess safety",
+      "summary": "Key points: KUALA PILAH, Aug 18 — The roof of a laboratory at Sekolah Menengah Kebangsaan (SMK) Juasseh here suddenly collapse...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-18T20:00:27+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/kuala-pilah-school-lab-roof-collapse-prompts-chemical-removal-jkr-to-assess-safety/231832",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-18-1mdb-civil-trial-shahrol-azral-denies-jho-low-acted-as-pm-insists-najib-briefed-in",
+      "category": "malaysia",
+      "headline": "1MDB civil trial: Shahrol Azral denies Jho Low acted as PM, insists Najib briefed indirectly",
+      "summary": "Key points: KUALA LUMPUR, Aug 18 — Former 1Malaysia Development Berhad (1MDB) chief executive officer (CEO) Datuk Shahrol Azra...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-18T19:49:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/1mdb-civil-trial-shahrol-azral-denies-jho-low-acted-as-pm-insists-najib-briefed-indirectly/231831",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-18-heavy-rain-strong-winds-forecast-in-multiple-states-metmalaysia-issues-evening-ale",
+      "category": "malaysia",
+      "headline": "Heavy rain, strong winds forecast in multiple states, MetMalaysia issues evening alert",
+      "summary": "Key points: KUALA LUMPUR, Aug 18 — The Malaysian Meteorological Department (MetMalaysia) has issued a warning for thunderstorm...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-18T19:30:36+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/heavy-rain-strong-winds-forecast-in-multiple-states-metmalaysia-issues-evening-alert/231830",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -807,10 +887,10 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-18-malaysia-and-indonesia-pledge-closer-cooperation-to-tackle-transboundary-haze-asea",
+      "id": "2026-08-18-malaysia-and-indonesia-pledge-closer-cooperation-to-tackle-transboundary-haze-bern",
       "category": "malaysia",
-      "headline": "Malaysia And Indonesia Pledge Closer Cooperation To Tackle Transboundary Haze - asean.bernama.com",
-      "summary": "Key points: Malaysia And Indonesia Pledge Closer Cooperation To Tackle Transboundary Haze asean.bernama.com",
+      "headline": "Malaysia And Indonesia Pledge Closer Cooperation To Tackle Transboundary Haze - bernama",
+      "summary": "Key points: Malaysia And Indonesia Pledge Closer Cooperation To Tackle Transboundary Haze bernama",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-08-18T12:45:26+08:00",
       "source_links": [
@@ -1147,86 +1227,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/18/change-must-come-from-the-top-ex-deputy-igp-says-it-is-up-to-leaders-to-combat-corruption/231751",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-tabung-haji-backs-law-amendments-to-boost-governance-and-preserve-depositor-trust",
-      "category": "malaysia",
-      "headline": "Tabung Haji backs law amendments to boost governance and preserve depositor trust",
-      "summary": "Key points: KUALA LUMPUR, Aug 18 —The Tabung Haji (TH) Board welcomes the government’s move to amend the Tabung Haji Act...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-18T10:16:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/tabung-haji-backs-law-amendments-to-boost-governance-and-preserve-depositor-trust/231749",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-unhealthy-air-alert-johan-setia-in-klang-hits-api-157",
-      "category": "malaysia",
-      "headline": "Unhealthy air alert: Johan Setia in Klang hits API 157",
-      "summary": "Key points: KUALA LUMPUR, Aug 18 — Air quality in Johan Setia, Klang dipped to an unhealthy level this morning, with the area...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-18T09:49:12+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/unhealthy-air-alert-johan-setia-klang-hits-api-157/231747",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-indonesia-rolls-out-new-qris-credit-option-with-cimb-niaga-on-board",
-      "category": "markets_investment",
-      "headline": "Indonesia rolls out new QRIS credit option with CIMB Niaga on board",
-      "summary": "Key points: CIMB Niaga is among eight payment service providers participating in Bank Indonesia’s (BI)...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-18T09:45:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/18/indonesia-rolls-out-new-qris-credit-option-with-cimb-niaga-on-board/231734",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-driver-in-fuel-tanker-crash-that-killed-two-to-be-charged-in-temerloh-today",
-      "category": "malaysia",
-      "headline": "Driver in fuel tanker crash that killed two to be charged in Temerloh today",
-      "summary": "Key points: Aug 18 — The driver of a fuel tanker involved in a horrific crash that killed a mother and her 12‑year‑o...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-18T09:45:12+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/driver-in-fuel-tanker-crash-that-killed-two-to-be-charged-today/231746",
           "publisher_type": "news"
         }
       ],
