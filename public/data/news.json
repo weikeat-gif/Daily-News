@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-08-19T07:19:39+08:00",
+  "generated_at": "2026-08-19T09:06:32+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-19-can-you-make-scars-fade-doctors-explain-why-they-form-and-what-works-from-silicone",
+      "id": "2026-08-19-police-arrest-man-suspected-of-setting-62-year-old-kepong-lottery-shop-worker-on-f",
+      "category": "malaysia",
+      "headline": "Police arrest man suspected of setting 62-year-old Kepong lottery shop worker on fire",
+      "summary": "Key points: KUALA LUMPUR, Aug 19 — Police have arrested a suspect in connection with the Aug 9 attack on an elderly woman who...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-19T09:03:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/police-arrest-man-suspected-of-setting-62-year-old-kepong-lottery-shop-worker-on-fire/231844",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-19-australian-mushroom-murderer-erin-patterson-begins-appeal-against-sentence",
       "category": "world",
-      "headline": "Can you make scars fade? Doctors explain why they form and what works – from silicone sheets to Vitamin E",
-      "summary": "Key points: Dermatologists explain why certain wounds leave more noticeable marks, when scars are easiest to treat, and which over-the-counter remedies actually help.",
+      "headline": "Australian mushroom murderer Erin Patterson begins appeal against sentence",
+      "summary": "Key points: CNA Latest reports that Australian mushroom murderer Erin Patterson begins appeal against sentence.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-19T07:10:22+08:00",
+      "published_at": "2026-08-19T08:52:03+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/wellness/scar-treatment-explained-6316871",
+          "url": "https://www.channelnewsasia.com/world/australian-mushroom-murderer-erin-patterson-begins-appeal-against-sentence-6327221",
           "publisher_type": "news"
         },
         {
@@ -31,6 +51,86 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-19-former-investment-bank-ceo-among-three-to-face-macc-charges-involving-over-rm136m",
+      "category": "markets_investment",
+      "headline": "Former investment bank CEO among three to face MACC charges involving over RM136m",
+      "summary": "Key points: KUALA LUMPUR, Aug 19 — Three individuals, including a former chief executive officer (CEO) of an investment bank,...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-19T08:50:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/former-investment-bank-ceo-among-three-to-face-macc-charges-involving-over-rm136m/231843",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-19-ringgit-rallies-against-us-dollar-as-fed-rate-hike-hopes-dims",
+      "category": "markets_investment",
+      "headline": "Ringgit rallies against US dollar as Fed rate hike hopes dims",
+      "summary": "Key points: KUALA LUMPUR, Aug 19 — The ringgit opened higher against the US dollar, supported by expectations that the possibi...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-19T08:47:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/19/ringgit-rallies-against-us-dollar-as-fed-rate-hike-hopes-dims/231840",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-19-us-sanctions-icc-president-tomoko-akane-over-claims-of-politicised-court",
+      "category": "world",
+      "headline": "US sanctions ICC President Tomoko Akane over claims of ‘politicised’ court",
+      "summary": "Key points: The United States on Tuesday imposed sanctions against International Criminal Court President...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-19T08:43:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/19/us-sanctions-icc-president-tomoko-akane-over-claims-of-politicised-court/231837",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-19-syed-saddiq-bella-astillah-to-wed-on-oct-10-in-all-white-ceremony-at-menara-merdek",
+      "category": "malaysia",
+      "headline": "Syed Saddiq, Bella Astillah to wed on Oct 10 in all-white ceremony at Menara Merdeka Maybank (VIDEO)",
+      "summary": "Key points: KUALA LUMPUR, Aug 19 — Muar MP Syed Saddiq Syed Abdul Rahman and his fiancée, singer-actress Bella Astillah...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-19T08:42:59+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/syed-saddiq-bella-astillah-to-wed-on-oct-10-in-all-white-ceremony-at-menara-merdeka-maybank-video/231836",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1127,106 +1227,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/18/rts-link-aims-to-fast-track-immigration-clearance-in-a-matter-of-seconds/231760",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-finance-ministry-says-e-invoices-though-unpopular-are-necessary-to-rein-in-shadow-",
-      "category": "malaysia",
-      "headline": "Finance Ministry says e-invoices, though unpopular, are necessary to rein in shadow economy",
-      "summary": "Key points: The Ministry of Finance today admitted that some of its policies are unpopular but defended th...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-18T11:23:36+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/finance-ministry-says-e-invoices-though-unpopular-are-necessary-to-rein-in-shadow-economy/231758",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-rm23-000-cash-prizes-up-for-grabs-in-malaysia-day-competitions",
-      "category": "malaysia",
-      "headline": "RM23,000 cash prizes up for grabs in Malaysia Day competitions",
-      "summary": "Key points: KUALA LUMPUR, Aug 18 — Total cash prizes of RM23,000 are among the main attractions of a series of competitions he...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-18T11:01:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/rm23000-cash-prizes-up-for-grabs-in-malaysia-day-competitions/231756",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-abolition-of-uuca-will-foster-critical-thinking-in-universities-says-g25-civil-soc",
-      "category": "malaysia",
-      "headline": "Abolition of UUCA will foster critical thinking in universities, says G25 civil society group",
-      "summary": "Key points: KUALA LUMPUR, Aug 18 — The proposed abolition of the Universities and University Colleges Act 1971 (UUCA) wou...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-18T10:58:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/abolition-of-auku-will-foster-critical-thinking-in-universities-says-g25-civil-society-group/231755",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-get-ready-students-2026-spm-schedule-to-be-announced-today",
-      "category": "malaysia",
-      "headline": "Get ready, students: 2026 SPM schedule to be announced today",
-      "summary": "Key points: KOTA BHARU, Aug 18 —The 2026 Sijil Pelajaran Malaysia (SPM) examination schedule is expected to be announced this...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-18T10:53:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/get-ready-students-2026-spm-schedule-to-be-announced-today/231754",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-18-fahmi-urges-malaysians-to-embrace-aku-berjanji-strengthen-spirit-of-patriotism",
-      "category": "malaysia",
-      "headline": "Fahmi urges Malaysians to embrace ‘Aku Berjanji’, strengthen spirit of patriotism",
-      "summary": "Key points: KUALA LUMPUR, Aug 18 — Communications Minister Datuk Seri Fahmi Fadzil has urged all Malaysians to listen to...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-18T10:51:33+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/18/fahmi-urges-malaysians-to-embrace-aku-berjanji-strengthen-spirit-of-patriotism/231753",
           "publisher_type": "news"
         }
       ],
