@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-08-19T21:41:43+08:00",
+  "generated_at": "2026-08-19T22:30:36+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-19-woodland-named-us-captain-s-assistant-for-presidents-cup",
+      "category": "world",
+      "headline": "Woodland named US captain's assistant for Presidents Cup",
+      "summary": "Key points: CNA Latest reports that Woodland named US captain's assistant for Presidents Cup.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-19T22:21:08+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/sport/woodland-named-us-captains-assistant-presidents-cup-6329031",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-19-iss-hosts-first-spacewalk-by-a-frenchwoman",
       "category": "world",
@@ -15,36 +45,6 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/19/iss-hosts-first-spacewalk-by-a-frenchwoman/231912",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-trump-to-host-crypto-executives-as-sec-considers-regulations",
-      "category": "world",
-      "headline": "Trump to host crypto executives as SEC considers regulations",
-      "summary": "Key points: CNA Latest reports that Trump to host crypto executives as SEC considers regulations.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-19T20:57:06+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/trump-host-crypto-executives-sec-considers-regulations-6328821",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
