@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-08-20T12:34:21+08:00",
+  "generated_at": "2026-08-20T13:27:43+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-20-banker-turned-hawker-sells-s-7-nyc-levain-style-cookies-at-golden-mile-food-centre",
+      "id": "2026-08-20-johor-police-cripple-drug-ring-seize-rm7-93m-drugs-from-repository-homes",
+      "category": "malaysia",
+      "headline": "Johor police cripple drug ring, seize RM7.93m drugs from ‘repository’ homes",
+      "summary": "Key points: JOHOR BAHRU, Aug 20 — A drug trafficking syndicate, believed to be using houses in secure gated residences as a st...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T13:24:18+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/johor-police-cripple-drug-ring-seize-rm793m-drugs-from-repository-homes/232021",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-south-korea-estimates-north-korea-has-up-to-120-nuclear-warheads-far-above-trump-s",
       "category": "world",
-      "headline": "Banker-turned-hawker sells S$7 NYC Levain-style cookies at Golden Mile Food Centre",
-      "summary": "Key points: The self-taught baker invested S$40,000 into his solo venture, Ate Cookies.",
+      "headline": "South Korea estimates North Korea has up to 120 nuclear warheads, far above Trump's figure",
+      "summary": "Key points: CNA Latest reports that South Korea estimates North Korea has up to 120 nuclear warheads, far above Trump's figure.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-20T12:18:00+08:00",
+      "published_at": "2026-08-20T13:24:09+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/dining/ate-cookies-levain-style-hawker-golden-mile-6330061",
+          "url": "https://www.channelnewsasia.com/east-asia/north-korea-south-120-nuclear-warheads-trump-6330321",
           "publisher_type": "news"
         },
         {
@@ -31,6 +51,146 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-myborderpass-down-at-ksab-bus-and-motorcycle-lanes-travellers-advised-to-switch-to",
+      "category": "malaysia",
+      "headline": "MyBorderPass down at KSAB bus and motorcycle lanes, travellers advised to switch to Immigration counters or MyNIISe",
+      "summary": "Key points: JOHOR BAHRU, Aug 20 — The MyBorderPass application is experiencing a system access disruption at the entry and exi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T13:23:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/myborderpass-down-at-ksab-bus-and-motorcycle-lanes-travellers-advised-to-switch-to-immigration-counters-or-myniise/232020",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-kl-karak-expansion-on-track-for-early-2029-completion-says-nanta",
+      "category": "malaysia",
+      "headline": "KL-Karak expansion on track for early 2029 completion, says Nanta",
+      "summary": "Key points: The RM2.1 billion Kuala Lumpur-Karak Expressway (KLK) expansion project, including a new 999-metr...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T13:01:28+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/kl-karak-expansion-on-track-for-early-2029-completion-says-nanta/232019",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-netanyahu-turns-sights-on-turkey-ahead-of-israel-s-election",
+      "category": "world",
+      "headline": "Netanyahu turns sights on Turkey ahead of Israel’s election",
+      "summary": "Key points: After more than two years of ordering on Israel’s enemies across the Middle East, Prime...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-20T12:57:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/20/netanyahu-turns-sights-on-turkey-ahead-of-israels-election/232017",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-johor-police-arrest-five-open-three-investigation-papers-over-upside-down-flags",
+      "category": "malaysia",
+      "headline": "Johor police arrest five, open three investigation papers over upside-down flags",
+      "summary": "Key points: JOHOR BAHRU, Aug 20 – Police have arrested five individuals, while three investigation papers opened following sev...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T12:55:10+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/johor-police-arrest-five-open-three-investigation-papers-over-upside-down-flags/232018",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-portugal-bans-face-coverings-in-public-amid-criticism-it-discriminates-against-mus",
+      "category": "world",
+      "headline": "Portugal bans face coverings in public amid criticism it discriminates against Muslim women",
+      "summary": "Key points: Portugal has banned face coverings in public spaces after President Antonio Jose Seguro signed a...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-20T12:43:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/20/portugal-bans-face-coverings-in-public-amid-criticism-it-discriminates-against-muslim-women/232014",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-govt-approves-17-measures-to-tighten-security-at-klia-international-entry-points",
+      "category": "malaysia",
+      "headline": "Govt approves 17 measures to tighten security at KLIA, international entry points",
+      "summary": "Key points: The Cabinet has approved 17 recommendations to strengthen security controls, screening and ris...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T12:43:04+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/govt-approves-17-measures-to-tighten-security-at-klia-international-entry-points/232016",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-black-smoke-seen-as-malaysia-airlines-flight-to-kl-aborts-takeoff-at-japan-s-narit",
+      "category": "malaysia",
+      "headline": "Black smoke seen as Malaysia Airlines flight to KL aborts takeoff at Japan’s Narita airport",
+      "summary": "Key points: A Malaysian Airlines plane bound for Kuala Lumpur aborted takeoff Thursday morning at Narita airpo...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T12:37:05+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/malaysia-airlines-flight-bound-for-kl-aborts-takeoff-at-japans-narita-airport/232015",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1078,166 +1238,6 @@
         "kuala lumpur",
         "anwar",
         "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-iran-threatens-gulf-states-helping-the-us-military-makes-you-a-participant",
-      "category": "world",
-      "headline": "Iran threatens Gulf states: ‘Helping the US military makes you a participant’",
-      "summary": "Key points: Iran’s armed forces warned Gulf countries against assisting the US military on Wednesday, h...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-19T17:26:35+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/19/iran-threatens-gulf-states-helping-the-us-military-makes-you-a-participant/231944",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-serian-tops-sarawak-s-unhealthy-api-readings-as-seven-areas-exceed-100-at-4pm",
-      "category": "malaysia",
-      "headline": "Serian tops Sarawak’s unhealthy API readings as seven areas exceed 100 at 4pm",
-      "summary": "Key points: KUALA LUMPUR, Aug 19 — Seven areas in Sarawak recorded unhealthy Air Pollutant Index (API) readings as of 4pm toda...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T17:24:07+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/serian-tops-sarawaks-unhealthy-api-readings-as-seven-areas-exceed-100-at-4pm/231941",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-anwar-orders-full-study-of-hybrid-sst-gst-system-report-to-go-to-cabinet",
-      "category": "malaysia",
-      "headline": "Anwar orders full study of hybrid SST-GST system, report to go to Cabinet",
-      "summary": "Key points: KUALA LUMPUR, Aug 19 — Prime Minister Datuk Seri Anwar Ibrahim has directed the Finance Ministry to conduct a...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T17:19:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/anwar-orders-full-study-of-hybrid-sst-gst-system-report-to-go-to-cabinet/231938",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-family-of-victims-wants-full-probe-justice-after-father-and-two-daughters-killed-i",
-      "category": "malaysia",
-      "headline": "Family of victims wants full probe, justice after father and two daughters killed in Maju Junction crash in KL",
-      "summary": "Key points: A family member of the victims involved in the early morning crash involving a Malaysian Immigrat...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T17:16:52+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/family-of-victims-wants-full-probe-justice-after-father-and-two-daughters-killed-in-maju-junction-crash-in-kl/231940",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-fahmi-new-legislation-to-replace-uuca-will-exclude-provisions-affecting-student-fr",
-      "category": "malaysia",
-      "headline": "Fahmi: New legislation to replace UUCA will exclude provisions affecting student freedom",
-      "summary": "Key points: KUALA LUMPUR, Aug 19 — The new legislation that will replace the Universities and University Colleges Act (UUCA) 1...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T16:58:13+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/fahmi-new-legislation-to-replace-uuca-will-exclude-provisions-affecting-student-freedom/231935",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-finance-ministry-witness-says-pmo-involved-in-jana-wibawa-procurement-process-but-",
-      "category": "malaysia",
-      "headline": "Finance Ministry witness says PMO involved in Jana Wibawa procurement process, but no order to select KCJ Engineering",
-      "summary": "Key points: KUALA LUMPUR, Aug 19 — The Prime Minister’s Office (PMO) was involved in the government’s procurement...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T16:55:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/finance-ministry-witness-says-pmo-involved-in-jana-wibawa-procurement-process-but-no-order-to-select-kcj-engineering/231934",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-run-hide-fight-thai-schools-launch-active-shooter-drills-after-deadly-attack",
-      "category": "world",
-      "headline": "‘Run, hide, fight’: Thai schools launch active shooter drills after deadly attack",
-      "summary": "Key points: Thai schools conducted active shooter drills on Wednesday as authorities moved to tighten securi...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-19T16:49:27+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/19/run-hide-fight-thai-schools-launch-active-shooter-drills-after-deadly-attack/231936",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-police-probe-whether-stress-played-role-in-hulu-selangor-teacher-s-death",
-      "category": "malaysia",
-      "headline": "Police probe whether stress played role in Hulu Selangor teacher’s death",
-      "summary": "Key points: SHAH ALAM, Aug 19 — Police are continuing investigations into the death of a female teacher who was found unconsci...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T16:28:24+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/police-probe-whether-stress-played-role-in-hulu-selangor-teachers-death/231933",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
