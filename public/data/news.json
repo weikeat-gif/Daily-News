@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-21T06:24:33+08:00",
+  "generated_at": "2026-08-21T07:23:05+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-21-us-judge-rejects-disney-bid-for-quick-hearing-in-fcc-lawsuit",
+      "id": "2026-08-21-ai-reshapes-india-s-it-services-sector-contracts-as-clients-demand-more-for-less",
       "category": "world",
-      "headline": "US judge rejects Disney bid for quick hearing in FCC lawsuit",
-      "summary": "Key points: CNA Latest reports that US judge rejects Disney bid for quick hearing in FCC lawsuit.",
+      "headline": "AI reshapes India's IT services sector contracts as clients demand more for less",
+      "summary": "Key points: CNA Latest reports that AI reshapes India's IT services sector contracts as clients demand more for less.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-21T06:14:43+08:00",
+      "published_at": "2026-08-21T07:02:47+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/us-judge-rejects-disney-bid-quick-hearing-in-fcc-lawsuit-6331771",
+          "url": "https://www.channelnewsasia.com/business/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-6332256",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,46 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-21-haze-staying-indoors-cuts-exposure-but-won-t-make-your-home-pollution-free-experts",
+      "category": "malaysia",
+      "headline": "Haze: Staying indoors cuts exposure but won’t make your home pollution-free, experts say",
+      "summary": "Key points: KUALA LUMPUR, Aug 21 — As the haze returns to Malaysia, staying indoors is often the simplest way to reduce exposu...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-21T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/21/haze-staying-indoors-cuts-exposure-but-wont-make-your-home-pollution-free-experts-say/231949",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-21-iran-s-new-security-team-points-to-more-confrontational-stance-towards-us",
+      "category": "world",
+      "headline": "Iran’s new security team points to more confrontational stance towards US",
+      "summary": "Key points: Earlier this month Iranian supreme leader Mojtaba Khamenei reshuffled Tehran’s top security...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-21T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/21/irans-new-security-team-points-to-more-confrontational-stance-towards-us/232062",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1189,46 +1229,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/20/fahmi-calls-for-stronger-online-antifraud-outreach-in-rural-areas-amid-rising-cyber-threats/232029",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-20-man-detained-after-viral-video-shows-kitten-hit-with-broomstick-in-batu-gajah",
-      "category": "malaysia",
-      "headline": "Man detained after viral video shows kitten hit with broomstick in Batu Gajah",
-      "summary": "Key points: Police have detained a man after a video showing him abusing a kitten with an aluminium broomstick...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-20T14:08:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/man-detained-after-viral-video-shows-kitten-hit-with-broomstick-in-batu-gajah/232028",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-20-immigration-black-maria-driver-pleads-not-guilty-to-five-charges-over-fatal-maju-j",
-      "category": "malaysia",
-      "headline": "Immigration ‘Black Maria’ driver pleads not guilty to five charges over fatal Maju Junction crash that killed three",
-      "summary": "Key points: KUALA LUMPUR, Aug 20 — An Immigration Department ‘Black Maria’ lorry driver was charged in the Magistr...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-20T14:05:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/immigration-black-maria-driver-pleads-not-guilty-to-five-charges-over-fatal-maju-junction-crash-that-killed-three/232027",
           "publisher_type": "news"
         }
       ],
