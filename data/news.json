@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-21T03:28:48+08:00",
+  "generated_at": "2026-08-21T04:25:31+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-21-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
-      "category": "markets_investment",
-      "headline": "Key European leaders demand Israel halt West Bank settlement project",
-      "summary": "Key points: France, Italy, Britain and Germany criticised Israel’s plan to build more than 1,200 homes in the West Bank, calling for the plans to be withdrawn and settlement expansion to end.",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-21T03:11:01+08:00",
+      "id": "2026-08-21-pegula-downs-anisimova-to-advance-to-cincinnati-open-semi-finals",
+      "category": "world",
+      "headline": "Pegula downs Anisimova to advance to Cincinnati Open semi-finals",
+      "summary": "Key points: CNA Latest reports that Pegula downs Anisimova to advance to Cincinnati Open semi-finals.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-21T04:00:55+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/israel-west-blank-european-leaders-6331936",
+          "url": "https://www.channelnewsasia.com/sport/pegula-downs-anisimova-advance-cincinnati-open-semi-finals-6332031",
           "publisher_type": "news"
         },
         {
@@ -64,26 +64,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-20-kyiv-flea-market-vendors-sell-salvaged-goods-after-russian-strike-destroys-market",
-      "category": "markets_investment",
-      "headline": "Kyiv flea market vendors sell salvaged goods after Russian strike destroys market",
-      "summary": "Key points: On the scorching asphalt besides what was once a bustling Kyiv flea market, vendors were trying to...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-20T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/20/kyiv-flea-market-vendors-sell-salvaged-goods-after-russian-strike-destroys-market/232060",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-08-20-ray-of-hope-gaza-seed-bank-rebuilds-stocks-destroyed-by-war-in-bid-to-revive-farmi",
       "category": "markets_investment",
       "headline": "‘Ray of hope’: Gaza seed bank rebuilds stocks destroyed by war in bid to revive farming",
@@ -94,6 +74,26 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/20/ray-of-hope-gaza-seed-bank-rebuilds-stocks-destroyed-by-war-in-bid-to-revive-farming/232061",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-kyiv-flea-market-vendors-sell-salvaged-goods-after-russian-strike-destroys-market",
+      "category": "markets_investment",
+      "headline": "Kyiv flea market vendors sell salvaged goods after Russian strike destroys market",
+      "summary": "Key points: On the scorching asphalt besides what was once a bustling Kyiv flea market, vendors were trying to...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-20T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/20/kyiv-flea-market-vendors-sell-salvaged-goods-after-russian-strike-destroys-market/232060",
           "publisher_type": "news"
         }
       ],
