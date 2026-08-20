@@ -1,12 +1,365 @@
 {
-  "generated_at": "2026-08-20T09:05:50+08:00",
+  "generated_at": "2026-08-20T10:54:21+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-20-trump-vows-tremendous-economic-costs-on-iran-partners",
+      "id": "2026-08-20-bonds-steady-after-us-treasury-comes-to-the-rescue",
       "category": "world",
-      "headline": "Trump vows 'tremendous' economic costs on Iran partners",
+      "headline": "Bonds steady after US Treasury comes to the rescue",
+      "summary": "Key points: CNA Latest reports that Bonds steady after US Treasury comes to the rescue.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-20T10:49:42+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/bonds-steady-after-us-treasury-comes-rescue-6329931",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-thunderstorm-warning-in-effect-for-sarawak-sabah-and-labuan",
+      "category": "malaysia",
+      "headline": "Thunderstorm warning in effect for Sarawak, Sabah, and Labuan",
+      "summary": "Key points: KUALA LUMPUR, Aug 20 — The Malaysian Meteorological Department (MetMalaysia) has issued a warning of thunderstorms...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T10:45:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/thunderstorm-warning-in-effect-for-sarawak-sabah-and-labuan/232007",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-rocky-case-owner-also-hit-with-animal-cruelty-charge-over-dog-s-death",
+      "category": "malaysia",
+      "headline": "Rocky case: Owner also hit with animal cruelty charge over dog’s death",
+      "summary": "Key points: The owner of the dog named Rocky has also been charged in the Sessions Court here with cruelty aga...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T10:41:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/rocky-case-owner-also-hit-with-animal-cruelty-charge-over-dogs-death/232006",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-rocky-case-klang-council-volunteer-claims-trial-over-alleged-animal-cruelty-in-dog",
+      "category": "malaysia",
+      "headline": "Rocky case: Klang council volunteer claims trial over alleged animal cruelty in dog’s death",
+      "summary": "Key points: A volunteer with the Klang city council claimed trial in the Sessions Court today for allegedly co...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T10:33:42+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/rocky-case-klang-council-volunteer-claims-trial-over-alleged-animal-cruelty-in-dogs-death/232004",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-six-including-two-children-survive-falling-tree-crash-in-melaka",
+      "category": "malaysia",
+      "headline": "Six including two children survive falling tree crash in Melaka",
+      "summary": "Key points: Six individuals including two children had a narrow escape when the vehicle they were travelling i...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T10:23:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/six-including-two-children-survive-falling-tree-crash-in-melaka/232001",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-six-sarawak-areas-hit-unhealthy-air-levels-as-api-readings-spike",
+      "category": "malaysia",
+      "headline": "Six Sarawak areas hit ‘Unhealthy’ air levels as API readings spike",
+      "summary": "Key points: KUALA LUMPUR, Aug 20 — Six areas in Sarawak recorded Air Pollutant Index (API) readings at an unhealthy level as o...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T10:17:03+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/six-sarawak-areas-hit-unhealthy-air-levels-as-api-readings-spike/232002",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-nrd-quashes-claims-of-rohingya-getting-mykad-says-non-citizens-also-have-legal-mat",
+      "category": "malaysia",
+      "headline": "NRD quashes claims of Rohingya getting MyKad, says non-citizens also have legal matters at its premises",
+      "summary": "Key points: KUALA LUMPUR, Aug 20 — The National Registration Department (NRD) has moved to quell social media speculation afte...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T10:13:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/nrd-quashes-claims-of-rohingya-getting-mykad-says-non-citizens-also-have-legal-matters-at-its-premises/231999",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-un-condemns-russia-for-barring-anti-war-party-from-elections-imprisoning-deputy-ch",
+      "category": "world",
+      "headline": "UN condemns Russia for barring anti-war party from elections, imprisoning deputy chair",
+      "summary": "Key points: The UN decried yesterday a Russian decision to bar the country’s only anti-war party from r...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-20T09:58:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/20/un-condemns-russia-for-barring-anti-war-party-from-elections-imprisoning-deputy-chair/231996",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-australia-outraged-over-israel-decision-to-close-probe-into-aid-worker-killings",
+      "category": "world",
+      "headline": "Australia ‘outraged’ over Israel decision to close probe into aid worker killings",
+      "summary": "Key points: Australia’s top diplomat said today she was “outraged” by Israel’s decisi...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-20T09:42:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/20/australia-outraged-over-israel-decision-to-close-probe-into-aid-worker-killings/231995",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-one-thing-i-know-how-to-do-is-build-trump-unveils-giant-white-house-helipad",
+      "category": "world",
+      "headline": "‘One thing I know how to do is build’: Trump unveils giant White House helipad",
+      "summary": "Key points: US President Donald Trump showed off a giant new helicopter landing pad at the White House ye...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-20T09:38:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/20/one-thing-i-know-how-to-do-is-build-trump-unveils-giant-white-house-helipad/231994",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-police-examine-cctv-dashcam-footage-to-reconstruct-deadly-immigration-lorry-crash-",
+      "category": "malaysia",
+      "headline": "Police examine CCTV, dashcam footage to reconstruct deadly Immigration lorry crash on Jalan Sultan Ismail",
+      "summary": "Key points: KUALA LUMPUR, Aug 20 — Police are reviewing dashcam and closed-circuit television (CCTV) footage to reconstruct a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T09:35:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/police-examine-cctv-dashcam-footage-to-reconstruct-deadly-immigration-lorry-crash-on-jalan-sultan-ismail/231992",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-israeli-military-admits-firing-on-car-carrying-five-year-old-hind-rajab-orders-cri",
+      "category": "world",
+      "headline": "Israeli military admits firing on car carrying five-year-old Hind Rajab, orders criminal investigation",
+      "summary": "Key points: The Israeli military yesterday admitted its troops fired on a car carrying five-year-old Hind...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-20T09:32:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/20/israeli-military-admits-firing-on-car-carrying-five-year-old-hind-rajab-orders-criminal-investigation/231993",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-bursa-malaysia-opens-higher-as-regional-markets-track-wall-street-rebound",
+      "category": "markets_investment",
+      "headline": "Bursa Malaysia opens higher as regional markets track Wall Street rebound",
+      "summary": "Key points: KUALA LUMPUR, Aug 20 — Bursa Malaysia opened higher today, in line with positive regional markets, tracking Wall S...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-20T09:29:31+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/20/bursa-malaysia-opens-higher-as-regional-markets-track-wall-street-rebound/231991",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "bursa",
+        "market"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-port-klang-dog-death-man-and-woman-to-be-charged-over-alleged-abuse-of-rocky",
+      "category": "malaysia",
+      "headline": "Port Klang dog death: Man and woman to be charged over alleged abuse of Rocky",
+      "summary": "Key points: A man and a woman linked to the death of a dog named Rocky are scheduled to appear in court today....",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T09:26:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/port-klang-dog-death-man-and-woman-to-be-charged-over-alleged-abuse-of-rocky/231990",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-us-national-debt-tops-us-40t-for-first-time-exceeds-expectations",
+      "category": "world",
+      "headline": "US national debt tops US$40t for first time, exceeds expectations",
+      "summary": "Key points: The US gross national debt has surged past US$40 trillion (RM161 trillion) for the first time...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-20T09:24:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/20/us-national-debt-tops-us40-trillion-for-first-time-exceeds-expectations/231989",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-pdrm-raids-puchong-diesel-syndicate-makes-rm919-022-seizure",
+      "category": "malaysia",
+      "headline": "PDRM raids Puchong diesel syndicate, makes RM919,022 seizure",
+      "summary": "Key points: KUALA LUMPUR, Aug 20 — The Royal Malaysia Police (PDRM) cracked down on subsidised diesel misappropriation in a ra...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T09:10:32+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/pdrm-raids-puchong-diesel-syndicate-makes-rm919022-seizure/231984",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-zayn-rayyan-s-mother-to-learn-appeal-outcome-on-sept-28-as-court-reserves-decision",
+      "category": "malaysia",
+      "headline": "Zayn Rayyan’s mother to learn appeal outcome on Sept 28 as court reserves decision",
+      "summary": "Key points: SHAH ALAM, Aug 20 — The High Court here yesterday fixed Sept 28 for its decision on Ismanira Abdul Manaf’s a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T09:04:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/zayn-rayyans-mother-to-learn-appeal-outcome-on-sept-28-as-court-reserves-decision/231982",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-trump-threatens-tremendous-consequences-for-countries-aiding-iran",
+      "category": "world",
+      "headline": "Trump threatens ‘tremendous’ consequences for countries aiding Iran",
       "summary": "Key points: US President Donald Trump said yesterday he was launching a major new campaign to target Iran...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
       "published_at": "2026-08-20T09:00:22+08:00",
@@ -84,36 +437,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-20-japan-s-exports-jump-23-to-monthly-record-in-july",
-      "category": "world",
-      "headline": "Japan's exports jump 23% to monthly record in July",
-      "summary": "Key points: CNA Latest reports that Japan's exports jump 23% to monthly record in July.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-20T08:53:07+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/japans-exports-jump-23-monthly-record-in-july-6329831",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-08-20-dbkl-to-resurface-59km-of-kl-roads-in-rm100m-project",
       "category": "malaysia",
       "headline": "DBKL to resurface 59km of KL roads in RM100m project",
@@ -124,6 +447,26 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/20/dbkl-to-resurface-59km-of-kl-roads-in-rm100m-project/231974",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-beyond-the-naked-eye-what-pm2-5-haze-s-invisible-threat-means-for-your-health",
+      "category": "malaysia",
+      "headline": "Beyond the naked eye: What PM2.5, haze’s invisible threat, means for your health",
+      "summary": "Key points: PETALING JAYA, Aug 20 — As Malaysians once again experience a resurgence in haze pollution and deteriorating air q...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/beyond-the-naked-eye-what-pm25-hazes-invisible-threat-means-for-your-health/231763",
           "publisher_type": "news"
         }
       ],
@@ -151,26 +494,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-20-beyond-the-naked-eye-what-pm2-5-haze-s-invisible-threat-means-for-your-health",
-      "category": "malaysia",
-      "headline": "Beyond the naked eye: What PM2.5, haze’s invisible threat, means for your health",
-      "summary": "Key points: PETALING JAYA, Aug 20 — As Malaysians once again experience a resurgence in haze pollution and deteriorating air q...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-20T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/beyond-the-naked-eye-what-pm25-hazes-invisible-threat-means-for-your-health/231763",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -557,10 +880,10 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-19-malaysia-s-defence-spending-driven-by-new-threats-not-just-regional-dynamics-asean",
+      "id": "2026-08-19-malaysia-s-defence-spending-driven-by-new-threats-not-just-regional-dynamics-berna",
       "category": "malaysia",
-      "headline": "Malaysia’s Defence Spending Driven By New Threats, Not Just Regional Dynamics - asean.bernama.com",
-      "summary": "Key points: Malaysia’s Defence Spending Driven By New Threats, Not Just Regional Dynamics asean.bernama.com",
+      "headline": "Malaysia’s Defence Spending Driven By New Threats, Not Just Regional Dynamics - Bernama",
+      "summary": "Key points: Malaysia’s Defence Spending Driven By New Threats, Not Just Regional Dynamics Bernama",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-08-19T18:06:14+08:00",
       "source_links": [
@@ -907,329 +1230,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-no-need-to-escalate-selangor-police-urge-public-against-gathering-at-court-over-ro",
-      "category": "malaysia",
-      "headline": "‘No need to escalate’: Selangor police urge public against gathering at court over Rocky case",
-      "summary": "Key points: SHAH ALAM, Aug 19 — Selangor police chief Datuk Shazeli Kahar today reportedly urged the public not to hold a...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T15:23:24+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/no-need-to-escalate-selangor-police-urge-public-against-gathering-at-court-over-rocky-case/231922",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-xavier-jayakumar-corruption-probe-closed-in-2024-due-to-insufficient-evidence-says",
-      "category": "malaysia",
-      "headline": "Xavier Jayakumar corruption probe closed in 2024 due to insufficient evidence, says MACC",
-      "summary": "Key points: A corruption investigation involving former minister Datuk Dr Xavier Jayakumar reportedly was...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T15:18:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/xavier-jayakumar-corruption-probe-closed-in-2024-due-to-insufficient-evidence-says-macc/231904",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-kl-police-identify-father-and-two-daughters-killed-in-maju-junction-crash-nephew-s",
-      "category": "malaysia",
-      "headline": "KL police identify father and two daughters killed in Maju Junction crash; nephew says family was visiting relatives",
-      "summary": "Key points: KUALA LUMPUR, Aug 19 — Police have identified the three family members killed in the early morning crash involving...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T15:14:56+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/kl-police-identify-three-killed-in-maju-junction-crash-father-and-two-daughters-had-travelled-to-the-city-to-visit-family/231921",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-ahead-of-budget-2027-higher-education-students-call-for-expanded-assistance-to-man",
-      "category": "malaysia",
-      "headline": "Ahead of Budget 2027, higher education students call for expanded assistance to manage rising living expenses",
-      "summary": "Key points: KUALA LUMPUR, Aug 19 — Ahead of the tabling of Budget 2027, higher education students are hoping the government wi...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T15:04:48+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/ahead-of-budget-2027-higher-education-students-call-for-expanded-assistance-to-manage-rising-living-expenses/231918",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-shah-alam-police-receive-report-on-form-three-student-at-risk-of-hearing-loss-afte",
-      "category": "malaysia",
-      "headline": "Shah Alam police receive report on Form Three student at risk of hearing loss after alleged bullying",
-      "summary": "Key points: SHAH ALAM, Aug 19 — Police have confirmed receiving a report regarding an incident involving a Form Three student...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T14:52:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/shah-alam-police-receive-report-on-form-three-student-at-risk-of-hearing-loss-after-alleged-bullying/231911",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-indonesia-makes-2-6-tonne-liquid-meth-seizure-from-tanzanian-ship-in-riau",
-      "category": "world",
-      "headline": "Indonesia makes 2.6-tonne liquid meth seizure from Tanzanian ship in Riau",
-      "summary": "Key points: Indonesia has seized 2.6 tonnes of liquid methamphetamine hidden on a Tanzanian-flagged vessel i...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-19T14:47:09+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/19/indonesia-makes-26-tonne-liquid-meth-seizure-from-tanzanian-ship-in-riau/231907",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-quizzed-on-china-taiwan-relations-anwar-says-he-would-use-force-if-needed-to-preve",
-      "category": "malaysia",
-      "headline": "Quizzed on China-Taiwan relations, Anwar says he would use force if needed to prevent Malaysia from breaking up (VIDEO)",
-      "summary": "Key points: Prime Minister Datuk Seri Anwar Ibrahim believes he would use force to prevent any province from...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T14:43:35+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/quizzed-on-china-taiwan-relations-anwar-says-he-would-use-force-if-needed-to-prevent-malaysia-from-breaking-up-video/231905",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "anwar",
-        "china",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-melaka-sentral-refutes-claim-terminal-has-been-without-air-conditioning-for-months",
-      "category": "malaysia",
-      "headline": "Melaka Sentral refutes claim terminal has been without air‑conditioning for months",
-      "summary": "Key points: Melaka Sentral Sdn Bhd (MSSB) has denied claims that the terminal has been operating without air-...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T14:31:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/melaka-sentral-refutes-claim-terminal-has-been-without-airconditioning-for-months/231903",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-kl-police-say-personal-grudge-behind-petrol-attack-on-woman-at-kepong-lottery-outl",
-      "category": "malaysia",
-      "headline": "KL police say personal grudge behind petrol attack on woman at Kepong lottery outlet",
-      "summary": "Key points: KUALA LUMPUR, Aug 19 — Police believe a personal grudge was behind an incident in which a man allegedly poured pet...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T14:14:50+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/kl-police-say-personal-grudge-behind-petrol-attack-on-woman-at-kepong-lottery-outlet/231902",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-works-ministry-seeks-bigger-2027-development-budget-to-bolster-infrastructure-plan",
-      "category": "malaysia",
-      "headline": "Works Ministry seeks bigger 2027 development budget to bolster infrastructure plans, says Ahmad Maslan",
-      "summary": "Key points: KUALA LUMPUR, Aug 19 — The Ministry of Works (KKR) is seeking a higher allocation in the 2027 Budget compared with...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T13:58:31+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/works-ministry-seeks-bigger-2027-development-budget-to-bolster-infrastructure-plans-says-ahmad-maslan/231901",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-consular-assistance-to-malaysians-detained-abroad-does-not-grant-immunity-says-leg",
-      "category": "malaysia",
-      "headline": "Consular assistance to Malaysians detained abroad does not grant immunity, says legal expert",
-      "summary": "Key points: KUALA LUMPUR, Aug 19 — Malaysians are reminded that consular assistance provided by Malaysian embassies or High Co...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T13:51:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/consular-assistance-to-malaysians-detained-abroad-does-not-grant-immunity-says-legal-expert/231899",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-kl-police-dispose-of-rm15m-in-seized-drugs-to-ensure-integrity-of-case-exhibits",
-      "category": "malaysia",
-      "headline": "KL police dispose of RM15m in seized drugs to ensure integrity of case exhibits",
-      "summary": "Key points: KUALA LUMPUR, Aug 19 — The Kuala Lumpur police today disposed of various types of drugs worth over RM15 million se...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T13:38:20+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/kl-police-dispose-of-rm15m-in-seized-drugs-to-ensure-integrity-of-case-exhibits/231897",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-firefighters-save-162-homes-after-blaze-destroys-28-stilt-houses-at-pulau-nunuyan-",
-      "category": "malaysia",
-      "headline": "Firefighters save 162 homes after blaze destroys 28 stilt houses at Pulau Nunuyan Laut in Sandakan",
-      "summary": "Key points: A total of 28 non-permanent stilt houses were destroyed in a fire at Kampung Nunuyan Laut, Nunu...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T13:23:35+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/firefighters-save-162-homes-after-blaze-destroys-28-stilt-houses-at-pulau-nunuyan-laut-in-sandakan/231896",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-ac-explosion-suspected-as-nine-die-in-latest-india-hotel-fire-disaster",
-      "category": "world",
-      "headline": "AC explosion suspected as nine die in latest India hotel fire disaster",
-      "summary": "Key points: At least nine people were killed and several others injured in a fire at a hotel in the Indian c...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-19T13:05:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/19/ac-explosion-suspected-as-nine-die-in-latest-india-hotel-fire-disaster/231893",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-police-receive-375-tactical-e-bikes-worth-rm8m-for-faster-quieter-border-patrols",
-      "category": "malaysia",
-      "headline": "Police receive 375 tactical e‑bikes worth RM8m for faster, quieter border patrols",
-      "summary": "Key points: KUALA LUMPUR, Aug 19 — The Royal Malaysia Police (PDRM) has received 375 All Terrain Tactical Assault E-Bikes (ATE...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T13:05:03+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/police-receive-375-tactical-ebikes-worth-rm8m-for-faster-quieter-border-patrols/231892",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-19-malaysians-among-applicants-affected-as-australia-slows-work-and-holiday-visa-proc",
-      "category": "malaysia",
-      "headline": "Malaysians among applicants affected as Australia slows Work and Holiday visa processing",
-      "summary": "Key points: KUALA LUMPUR, Aug 19 — Australia has temporarily paused applications from Malaysians seeking their first Work and...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-19T13:04:12+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/19/malaysians-among-applicants-affected-as-australia-slows-work-and-holiday-visa-processing/231891",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
