@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-21T01:26:15+08:00",
+  "generated_at": "2026-08-21T02:35:39+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-21-yemen-s-houthis-say-targeted-saudi-airport-aramco-facility",
+      "id": "2026-08-21-twg-global-says-cadillac-f1-team-and-motorsport-interests-not-for-sale",
       "category": "world",
-      "headline": "Yemen's Houthis say targeted Saudi airport, Aramco facility",
-      "summary": "Key points: The Houthi spokesman said the Iran-backed group had “successfully carried out two military operations” using drones against an airport and an Aramco facility in southern Saudi Arabia.",
+      "headline": "TWG Global says Cadillac F1 team and motorsport interests not for sale",
+      "summary": "Key points: CNA Latest reports that TWG Global says Cadillac F1 team and motorsport interests not for sale.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-21T01:02:28+08:00",
+      "published_at": "2026-08-21T02:04:41+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/yemen-houthi-rebels-attack-saudi-airport-aramco-6331696",
+          "url": "https://www.channelnewsasia.com/sport/twg-global-says-cadillac-f1-team-and-motorsport-interests-not-sale-6331886",
           "publisher_type": "news"
         },
         {
@@ -36,8 +36,8 @@
     {
       "id": "2026-08-20-malaysia-s-everest-legacy-gathering-to-explore-new-route-marathon-collaboration-be",
       "category": "malaysia",
-      "headline": "Malaysia’s Everest Legacy Gathering To Explore New Route, Marathon Collaboration - Bernama",
-      "summary": "Key points: Malaysia’s Everest Legacy Gathering To Explore New Route, Marathon Collaboration Bernama",
+      "headline": "Malaysia’s Everest Legacy Gathering To Explore New Route, Marathon Collaboration - bernama",
+      "summary": "Key points: Malaysia’s Everest Legacy Gathering To Explore New Route, Marathon Collaboration bernama",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-08-20T23:29:40+08:00",
       "source_links": [
@@ -61,36 +61,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-20-hua-yang-reprimanded-by-bursa-malaysia-over-share-buyback-breach-the-edge-malaysia",
-      "category": "markets_investment",
-      "headline": "Hua Yang reprimanded by Bursa Malaysia over share buyback breach - The Edge Malaysia",
-      "summary": "Key points: Hua Yang reprimanded by Bursa Malaysia over share buyback breach The Edge Malaysia",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-20T22:18:25+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82c1BtYks1dU9DNjNWU0NvbnY1dmFwQUZxUWdIakhNY2t1bUVaT2lCUmpYTDE3WXl6T09kbjY1TjlUUk9Xc1FmYXRMY3pMUGUw?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1239,6 +1209,26 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/20/man-detained-after-viral-video-shows-kitten-hit-with-broomstick-in-batu-gajah/232028",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-immigration-black-maria-driver-pleads-not-guilty-to-five-charges-over-fatal-maju-j",
+      "category": "malaysia",
+      "headline": "Immigration ‘Black Maria’ driver pleads not guilty to five charges over fatal Maju Junction crash that killed three",
+      "summary": "Key points: KUALA LUMPUR, Aug 20 — An Immigration Department ‘Black Maria’ lorry driver was charged in the Magistr...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T14:05:06+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/immigration-black-maria-driver-pleads-not-guilty-to-five-charges-over-fatal-maju-junction-crash-that-killed-three/232027",
           "publisher_type": "news"
         }
       ],
