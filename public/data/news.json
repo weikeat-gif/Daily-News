@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-21T05:25:05+08:00",
+  "generated_at": "2026-08-21T06:24:33+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-21-pakistan-may-consider-private-hospital-treatment-for-imprisoned-ex-pm-khan-ministe",
+      "id": "2026-08-21-us-judge-rejects-disney-bid-for-quick-hearing-in-fcc-lawsuit",
       "category": "world",
-      "headline": "Pakistan may consider private hospital treatment for imprisoned ex-PM Khan, minister says",
-      "summary": "Key points: Local media reported that former Pakistani Prime Minister Imran Khan was taken from prison to a hospital under tight security, after the government said it would comply with the Supreme Court order.",
+      "headline": "US judge rejects Disney bid for quick hearing in FCC lawsuit",
+      "summary": "Key points: CNA Latest reports that US judge rejects Disney bid for quick hearing in FCC lawsuit.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-21T05:15:42+08:00",
+      "published_at": "2026-08-21T06:14:43+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/pakistan-khan-hospital-prison-care-6332131",
+          "url": "https://www.channelnewsasia.com/business/us-judge-rejects-disney-bid-quick-hearing-in-fcc-lawsuit-6331771",
           "publisher_type": "news"
         },
         {
@@ -36,8 +36,8 @@
     {
       "id": "2026-08-20-dengue-cases-rise-across-nepal-as-it-marks-world-mosquito-day-bernama",
       "category": "world",
-      "headline": "Dengue Cases Rise Across Nepal As It Marks World Mosquito Day - bernama",
-      "summary": "Key points: Dengue Cases Rise Across Nepal As It Marks World Mosquito Day bernama",
+      "headline": "Dengue Cases Rise Across Nepal As It Marks World Mosquito Day - Bernama",
+      "summary": "Key points: Dengue Cases Rise Across Nepal As It Marks World Mosquito Day Bernama",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
       "published_at": "2026-08-20T21:09:12+08:00",
       "source_links": [
@@ -64,26 +64,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-20-ray-of-hope-gaza-seed-bank-rebuilds-stocks-destroyed-by-war-in-bid-to-revive-farmi",
-      "category": "markets_investment",
-      "headline": "‘Ray of hope’: Gaza seed bank rebuilds stocks destroyed by war in bid to revive farming",
-      "summary": "Key points: DEIR EL-BALAH, Aug 20 — From a small makeshift tent in the central Gaza Strip, a dedicated team works to carefully...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-20T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/20/ray-of-hope-gaza-seed-bank-rebuilds-stocks-destroyed-by-war-in-bid-to-revive-farming/232061",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-08-20-kyiv-flea-market-vendors-sell-salvaged-goods-after-russian-strike-destroys-market",
       "category": "markets_investment",
       "headline": "Kyiv flea market vendors sell salvaged goods after Russian strike destroys market",
@@ -94,6 +74,26 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/20/kyiv-flea-market-vendors-sell-salvaged-goods-after-russian-strike-destroys-market/232060",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-ray-of-hope-gaza-seed-bank-rebuilds-stocks-destroyed-by-war-in-bid-to-revive-farmi",
+      "category": "markets_investment",
+      "headline": "‘Ray of hope’: Gaza seed bank rebuilds stocks destroyed by war in bid to revive farming",
+      "summary": "Key points: DEIR EL-BALAH, Aug 20 — From a small makeshift tent in the central Gaza Strip, a dedicated team works to carefully...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-20T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/20/ray-of-hope-gaza-seed-bank-rebuilds-stocks-destroyed-by-war-in-bid-to-revive-farming/232061",
           "publisher_type": "news"
         }
       ],
