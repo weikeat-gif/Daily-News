@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-20T22:33:39+08:00",
+  "generated_at": "2026-08-20T23:31:06+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-20-world-athletics-unveils-lane-draft-jump-offs-for-new-ultimate-championship",
+      "id": "2026-08-20-us-open-announces-record-108-million-prize-purse",
       "category": "world",
-      "headline": "World Athletics unveils lane draft, jump-offs for new Ultimate Championship",
-      "summary": "Key points: CNA Latest reports that World Athletics unveils lane draft, jump-offs for new Ultimate Championship.",
+      "headline": "US Open announces record $108 million prize purse",
+      "summary": "Key points: CNA Latest reports that US Open announces record $108 million prize purse.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-20T22:18:26+08:00",
+      "published_at": "2026-08-20T23:13:20+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/world-athletics-unveils-lane-draft-jump-offs-new-ultimate-championship-6331496",
+          "url": "https://www.channelnewsasia.com/sport/us-open-announces-record-108-million-prize-purse-6331616",
           "publisher_type": "news"
         },
         {
@@ -24,6 +24,36 @@
         {
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-dengue-cases-rise-across-nepal-as-it-marks-world-mosquito-day-bernama",
+      "category": "world",
+      "headline": "Dengue Cases Rise Across Nepal As It Marks World Mosquito Day - Bernama",
+      "summary": "Key points: Dengue Cases Rise Across Nepal As It Marks World Mosquito Day Bernama",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-20T21:09:12+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GdDYwNWtacE5YaDV0bkQ2Vi03NW5iaVZHcE5uU18yS2ZRUUowR0c1NHE5RUNVRHRhNTE0NHRtdy1FUG5QUjJpMTAtV1N4LS13ZWxlRjZJd0haMzkwOWZ6QmFn?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
           "publisher_type": "social"
         }
       ],
@@ -1199,26 +1229,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/20/immigration-black-maria-driver-pleads-not-guilty-to-five-charges-over-fatal-maju-junction-crash-that-killed-three/232027",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-20-immigration-suspends-driver-after-fatal-maju-junction-crash-that-killed-three-pede",
-      "category": "malaysia",
-      "headline": "Immigration suspends driver after fatal Maju Junction crash that killed three pedestrians",
-      "summary": "Key points: KUALA LUMPUR, Aug 20 — The Malaysian Immigration Department (JIM) has suspended the duties of the department&rsquo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-20T13:52:18+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/immigration-suspends-driver-after-fatal-maju-junction-crash-that-killed-three-pedestrians/232026",
           "publisher_type": "news"
         }
       ],
