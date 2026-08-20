@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-21T00:31:53+08:00",
+  "generated_at": "2026-08-21T01:26:15+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-21-heatwave-damaged-parc-des-princes-pitch-forces-psg-fixture-switch",
+      "id": "2026-08-21-yemen-s-houthis-say-targeted-saudi-airport-aramco-facility",
       "category": "world",
-      "headline": "Heatwave-damaged Parc des Princes pitch forces PSG fixture switch",
-      "summary": "Key points: CNA Latest reports that Heatwave-damaged Parc des Princes pitch forces PSG fixture switch.",
+      "headline": "Yemen's Houthis say targeted Saudi airport, Aramco facility",
+      "summary": "Key points: The Houthi spokesman said the Iran-backed group had “successfully carried out two military operations” using drones against an airport and an Aramco facility in southern Saudi Arabia.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-21T00:09:52+08:00",
+      "published_at": "2026-08-21T01:02:28+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/heatwave-damaged-parc-des-princes-pitch-forces-psg-fixture-switch-6331726",
+          "url": "https://www.channelnewsasia.com/world/yemen-houthi-rebels-attack-saudi-airport-aramco-6331696",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-malaysia-s-everest-legacy-gathering-to-explore-new-route-marathon-collaboration-be",
+      "category": "malaysia",
+      "headline": "Malaysia’s Everest Legacy Gathering To Explore New Route, Marathon Collaboration - Bernama",
+      "summary": "Key points: Malaysia’s Everest Legacy Gathering To Explore New Route, Marathon Collaboration Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-20T23:29:40+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16U2pLaW5tZjFpZmdsZGpuS3MtUUNPREFyT1M2dGNOSkhyaU51aGxkZVJhelozYkw4WVZCRkE2Y1otSWh2di1PR0YwWGxsVU1VbzNLbXo1VnNRR2c5Mmx2bEg4ZG8?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -64,26 +94,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-20-ray-of-hope-gaza-seed-bank-rebuilds-stocks-destroyed-by-war-in-bid-to-revive-farmi",
-      "category": "markets_investment",
-      "headline": "‘Ray of hope’: Gaza seed bank rebuilds stocks destroyed by war in bid to revive farming",
-      "summary": "Key points: DEIR EL-BALAH, Aug 20 — From a small makeshift tent in the central Gaza Strip, a dedicated team works to carefully...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-20T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/20/ray-of-hope-gaza-seed-bank-rebuilds-stocks-destroyed-by-war-in-bid-to-revive-farming/232061",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-08-20-kyiv-flea-market-vendors-sell-salvaged-goods-after-russian-strike-destroys-market",
       "category": "markets_investment",
       "headline": "Kyiv flea market vendors sell salvaged goods after Russian strike destroys market",
@@ -94,6 +104,26 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/20/kyiv-flea-market-vendors-sell-salvaged-goods-after-russian-strike-destroys-market/232060",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-20-ray-of-hope-gaza-seed-bank-rebuilds-stocks-destroyed-by-war-in-bid-to-revive-farmi",
+      "category": "markets_investment",
+      "headline": "‘Ray of hope’: Gaza seed bank rebuilds stocks destroyed by war in bid to revive farming",
+      "summary": "Key points: DEIR EL-BALAH, Aug 20 — From a small makeshift tent in the central Gaza Strip, a dedicated team works to carefully...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-20T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/20/ray-of-hope-gaza-seed-bank-rebuilds-stocks-destroyed-by-war-in-bid-to-revive-farming/232061",
           "publisher_type": "news"
         }
       ],
@@ -1209,26 +1239,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/20/man-detained-after-viral-video-shows-kitten-hit-with-broomstick-in-batu-gajah/232028",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-20-immigration-black-maria-driver-pleads-not-guilty-to-five-charges-over-fatal-maju-j",
-      "category": "malaysia",
-      "headline": "Immigration ‘Black Maria’ driver pleads not guilty to five charges over fatal Maju Junction crash that killed three",
-      "summary": "Key points: KUALA LUMPUR, Aug 20 — An Immigration Department ‘Black Maria’ lorry driver was charged in the Magistr...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-20T14:05:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/20/immigration-black-maria-driver-pleads-not-guilty-to-five-charges-over-fatal-maju-junction-crash-that-killed-three/232027",
           "publisher_type": "news"
         }
       ],
