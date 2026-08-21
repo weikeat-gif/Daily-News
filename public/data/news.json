@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-22T03:24:05+08:00",
+  "generated_at": "2026-08-22T04:22:49+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-22-inter-milan-bring-in-midfielder-jones-from-liverpool",
+      "id": "2026-08-22-werro-wins-in-lausanne-as-tebogo-wanyonyi-lay-down-markers-for-budapest",
       "category": "world",
-      "headline": "Inter Milan bring in midfielder Jones from Liverpool",
-      "summary": "Key points: CNA Latest reports that Inter Milan bring in midfielder Jones from Liverpool.",
+      "headline": "Werro wins in Lausanne as Tebogo, Wanyonyi lay down markers for Budapest",
+      "summary": "Key points: CNA Latest reports that Werro wins in Lausanne as Tebogo, Wanyonyi lay down markers for Budapest.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-22T02:58:19+08:00",
+      "published_at": "2026-08-22T04:15:29+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/inter-milan-bring-in-midfielder-jones-liverpool-6334106",
+          "url": "https://www.channelnewsasia.com/sport/werro-wins-in-lausanne-tebogo-wanyonyi-lay-down-markers-budapest-6334186",
           "publisher_type": "news"
         },
         {
@@ -61,6 +61,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-21-havi-to-open-malaysia-techhub-in-november-its-first-in-asia-pacific-bernama",
+      "category": "malaysia",
+      "headline": "HAVI To Open Malaysia TechHUB In November, Its First In Asia-Pacific - bernama",
+      "summary": "Key points: HAVI To Open Malaysia TechHUB In November, Its First In Asia-Pacific bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-21T23:09:41+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkdHlNaEdhVHFleV9IeFJSSGNVT1hXWUFCN0FZNHBMR19sWDUxZzRFV2pzLWhLQ3BPSi1SQ1Z4WjMzNnVhS2VSY1J0NE1LSlhxVUFHYzZObTlMMTNxZFYyQzVYT3JZS2s?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1201,29 +1231,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-asian-markets-extend-rally-as-traders-assess-us-treasuries-pledge",
-      "category": "markets_investment",
-      "headline": "Asian markets extend rally as traders assess US Treasuries pledge",
-      "summary": "Key points: HONG KONG, Aug 21 — Asian stocks edged higher today as investors assessed the US Treasury’s move to push dow...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-21T11:31:09+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/21/asian-markets-extend-rally-as-traders-assess-us-treasuries-pledge/232156",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "market",
-        "markets",
-        "stock",
-        "asia"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
