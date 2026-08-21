@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-22T00:30:51+08:00",
+  "generated_at": "2026-08-22T01:26:12+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-22-shakhtar-to-play-champions-league-home-games-at-chelsea-s-stamford-bridge",
+      "id": "2026-08-22-root-disappointed-over-headingley-missing-out-on-ashes-test",
       "category": "world",
-      "headline": "Shakhtar to play Champions League home games at Chelsea's Stamford Bridge",
-      "summary": "Key points: CNA Latest reports that Shakhtar to play Champions League home games at Chelsea's Stamford Bridge.",
+      "headline": "Root disappointed over Headingley missing out on Ashes test",
+      "summary": "Key points: CNA Latest reports that Root disappointed over Headingley missing out on Ashes test.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-22T00:12:32+08:00",
+      "published_at": "2026-08-22T00:57:13+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/shakhtar-play-champions-league-home-games-chelseas-stamford-bridge-6333961",
+          "url": "https://www.channelnewsasia.com/sport/root-disappointed-over-headingley-missing-out-ashes-test-6334001",
           "publisher_type": "news"
         },
         {
@@ -61,6 +61,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-21-havi-to-open-malaysia-techhub-in-november-its-first-in-asia-pacific-bernama",
+      "category": "malaysia",
+      "headline": "HAVI To Open Malaysia TechHUB In November, Its First In Asia-Pacific - bernama",
+      "summary": "Key points: HAVI To Open Malaysia TechHUB In November, Its First In Asia-Pacific bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-21T23:09:41+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkdHlNaEdhVHFleV9IeFJSSGNVT1hXWUFCN0FZNHBMR19sWDUxZzRFV2pzLWhLQ3BPSi1SQ1Z4WjMzNnVhS2VSY1J0NE1LSlhxVUFHYzZObTlMMTNxZFYyQzVYT3JZS2s?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1075,36 +1105,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/21/tiktoker-under-police-probe-after-allegedly-stepping-on-sarawak-flag/232173",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-automotive-e-e-among-potential-sectors-for-malaysia-south-africa-cooperation-berna",
-      "category": "malaysia",
-      "headline": "Automotive, E&E Among Potential Sectors For Malaysia-South Africa Cooperation - bernama",
-      "summary": "Key points: Automotive, E&E Among Potential Sectors For Malaysia-South Africa Cooperation bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-21T12:40:32+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WTkRBTV83MkdHeWlKcEFTZll2alRUTjRfS0RkNThfMFlWNk4tclZDUmNYNjdoUE1lcXkxRng3RkRqR19qX3lOYTctQ05DYkkwMENVNG5aLXY?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
