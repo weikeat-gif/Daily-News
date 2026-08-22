@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-08-22T11:39:34+08:00",
+  "generated_at": "2026-08-22T12:30:19+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-22-us-canada-deepen-trade-war-as-sides-fail-to-reach-tariff-deal",
+      "category": "world",
+      "headline": "US, Canada deepen trade war as sides fail to reach tariff deal",
+      "summary": "Key points: Canada would match US tariffs \"dollar for dollar\", says Prime Minister Mark Carney.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-22T12:22:00+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/us-canada-trade-war-failed-tariff-deal-6334641",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-22-dad-tells-tired-seven-year-old-son-to-wait-here-on-mt-fuji-then-keeps-climbing-for",
+      "category": "world",
+      "headline": "Dad tells tired seven-year-old son, to ‘wait here’ on Mt Fuji — then keeps climbing for eight hours",
+      "summary": "Key points: A man left his seven-year-old son alone on Mount Fuji for hours while continuing his climb, prompt...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-22T11:52:10+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/22/dad-tells-tired-seven-year-old-son-to-wait-here-on-mt-fuji-then-keeps-climbing-for-eight-hours/232286",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-22-ice-geopolitics-and-a-7-000km-shortcut-south-korea-sails-into-the-arctic-shipping-",
       "category": "world",
@@ -61,36 +111,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-22-pre-peak-discount-issue-that-affected-210-000-journeys-a-day-on-aug-20-and-21-fixe",
-      "category": "markets_investment",
-      "headline": "Pre-peak discount issue that affected 210,000 journeys a day on Aug 20 and 21 fixed: SimplyGo",
-      "summary": "Key points: The discount was not activated for SimplyGo EZ-Link and bank card transactions on both days because of a configuration error, the company said.",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-22T11:13:41+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/simplygo-fixed-pre-peak-discount-issue-6334516",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1220,26 +1240,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-moh-bans-three-batches-of-chomel-hand-sanitiser-over-excessive-methanol-content",
-      "category": "malaysia",
-      "headline": "MOH bans three batches of Chomel hand sanitiser over excessive methanol content",
-      "summary": "Key points: The Ministry of Health (MOH) has banned the sale of Chomel Hand Sanitizer after three batches...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-21T16:22:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/21/moh-bans-three-batches-of-chomel-hand-sanitiser-over-excessive-methanol-content/232208",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
