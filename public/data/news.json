@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-08-22T21:29:23+08:00",
+  "generated_at": "2026-08-22T22:18:48+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-22-hull-stun-manchester-united-2-0-on-premier-league-return",
+      "category": "world",
+      "headline": "Hull stun Manchester United 2-0 on Premier League return",
+      "summary": "Key points: CNA Latest reports that Hull stun Manchester United 2-0 on Premier League return.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-22T21:37:08+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/sport/hull-stun-manchester-united-2-0-premier-league-return-6334946",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-22-police-seven-men-arrested-after-viral-car-park-fight-in-front-of-bintulu-grocery-s",
       "category": "malaysia",
@@ -81,36 +111,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-22-swedish-police-probe-online-networks-after-teenage-girl-killed-in-school-sword-att",
-      "category": "world",
-      "headline": "Swedish police probe online networks after teenage girl killed in school sword attack",
-      "summary": "Key points: \"The investigators are looking into various online communities which might have egged on the suspect to carry out the attack,\" said a police source.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-22T20:08:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/sweden-school-sword-attack-police-online-networks-6334841",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
