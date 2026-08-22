@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-08-22T17:24:27+08:00",
+  "generated_at": "2026-08-22T18:20:30+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-22-metmalaysia-warns-thunderstorms-heavy-rain-and-strong-winds-in-kelantan-sarawak-sa",
+      "category": "malaysia",
+      "headline": "MetMalaysia warns thunderstorms, heavy rain and strong winds in Kelantan, Sarawak, Sabah until 7pm",
+      "summary": "Key points: KUALA LUMPUR, Aug 22 — The Malaysian Meteorological Department (MetMalaysia) has issued a warning of thunderstorms...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-22T17:49:12+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/22/metmalaysia-warns-thunderstorms-heavy-rain-and-strong-winds-in-kelantan-sarawak-sabah-until-7pm/232325",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-22-south-africa-s-former-world-boxing-champion-tete-shot-dead-outside-his-home",
+      "category": "world",
+      "headline": "South Africa's former world boxing champion Tete shot dead outside his home",
+      "summary": "Key points: CNA Latest reports that South Africa's former world boxing champion Tete shot dead outside his home.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-22T17:31:04+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/sport/south-africas-former-world-boxing-champion-tete-shot-dead-outside-his-home-6334781",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-22-myanmar-airstrike-hits-monastery-in-myaung-killing-14-people-on-buddhist-retreat",
       "category": "world",
@@ -15,36 +65,6 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/22/myanmar-airstrike-hits-monastery-in-myaung-killing-14-people-on-buddhist-retreat/232324",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-22-japan-dad-ditches-7-year-old-for-hours-to-climb-mt-fuji",
-      "category": "world",
-      "headline": "Japan dad ditches 7-year-old for hours to climb Mt Fuji",
-      "summary": "Key points: The child told his father he was tired at the sixth station of the mountain, which is located at an altitude of more than 2,000m, local SBS TV reported.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-22T17:03:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/east-asia/mt-fuji-climb-japan-dad-ditch-child-6334761",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1220,26 +1240,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-court-of-appeal-spares-two-men-gallows-orders-30-years-jail-plus-12-rotan-strokes",
-      "category": "malaysia",
-      "headline": "Court of Appeal spares two men gallows, orders 30 years jail plus 12 rotan strokes",
-      "summary": "Key points: Two men escaped the gallows after the Court of Appeal substituted their death sentences with 3...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-21T19:42:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/21/court-of-appeal-spares-two-men-gallows-orders-30-years-jail-plus-12-rotan-strokes/232243",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
