@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-22T22:18:48+08:00",
+  "generated_at": "2026-08-22T23:18:02+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-22-hull-stun-manchester-united-2-0-on-premier-league-return",
+      "id": "2026-08-22-norris-puts-mclaren-on-pole-at-zandvoort",
       "category": "world",
-      "headline": "Hull stun Manchester United 2-0 on Premier League return",
-      "summary": "Key points: CNA Latest reports that Hull stun Manchester United 2-0 on Premier League return.",
+      "headline": "Norris puts McLaren on pole at Zandvoort",
+      "summary": "Key points: CNA Latest reports that Norris puts McLaren on pole at Zandvoort.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-22T21:37:08+08:00",
+      "published_at": "2026-08-22T23:12:53+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/hull-stun-manchester-united-2-0-premier-league-return-6334946",
+          "url": "https://www.channelnewsasia.com/sport/norris-puts-mclaren-pole-zandvoort-6335021",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,26 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-22-arctic-shortcut-lures-global-shippers-yet-seasonal-ice-and-costly-vessels-blunt-co",
+      "category": "markets_investment",
+      "headline": "Arctic shortcut lures global shippers, yet seasonal ice and costly vessels blunt commercial allure",
+      "summary": "Key points: With Gulf turmoil slashing Suez Canal traffic, shipping firms are tempted to try the Arctic for qu...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-22T23:01:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/22/arctic-shortcut-lures-global-shippers-yet-seasonal-ice-and-costly-vessels-blunt-commercial-allure/232313",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1213,26 +1233,6 @@
         {
           "name": "Malay Mail Money",
           "url": "https://www.malaymail.com/news/money/2026/08/21/global-shipping-gridlock-looms-as-panama-canal-slashes-transits-amid-worst-el-nino-drought/232162",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-why-did-uae-cut-iran-trade-and-how-exposed-is-tehran-s-us-21b-import-lifeline",
-      "category": "world",
-      "headline": "Why did UAE cut Iran trade, and how exposed is Tehran’s US$21b import lifeline?",
-      "summary": "Key points: The UAE this week announced it was suspending trade with Iran, heaping pressure on its major tradi...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-21T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/21/why-did-uae-cut-iran-trade-and-how-exposed-is-tehrans-us21b-import-lifeline/232203",
           "publisher_type": "news"
         }
       ],
