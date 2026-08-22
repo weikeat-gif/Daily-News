@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-23T05:19:08+08:00",
+  "generated_at": "2026-08-23T06:19:20+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-23-tottenham-s-expensive-rebuild-begins-with-familiar-collapse",
+      "id": "2026-08-23-commentary-trump-s-south-korea-defence-flip-reminds-japan-it-has-no-plan-b",
       "category": "world",
-      "headline": "Tottenham's expensive rebuild begins with familiar collapse",
-      "summary": "Key points: CNA Latest reports that Tottenham's expensive rebuild begins with familiar collapse.",
+      "headline": "Commentary: Trump’s South Korea defence flip reminds Japan it has no Plan B",
+      "summary": "Key points: While alarming for Seoul, an abandonment of US guarantees could be disastrous for Tokyo, says Leo Lewis for The Financial Times.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-23T05:02:13+08:00",
+      "published_at": "2026-08-23T06:00:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/tottenhams-expensive-rebuild-begins-familiar-collapse-6335316",
+          "url": "https://www.channelnewsasia.com/commentary/trump-south-korea-japan-military-defence-6333256",
           "publisher_type": "news"
         },
         {
@@ -245,6 +245,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/22/metmalaysia-warns-thunderstorms-heavy-rain-and-strong-winds-in-kelantan-sarawak-sabah-until-7pm/232325",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-22-malaysia-brunei-agree-to-use-asean-mechanism-to-tackle-transboundary-haze-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia, Brunei Agree To Use Asean Mechanism To Tackle Transboundary Haze - bernama",
+      "summary": "Key points: Malaysia, Brunei Agree To Use Asean Mechanism To Tackle Transboundary Haze bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-22T17:26:00+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYMmJzUU90a29yZjFvYjFGLVpac3lZTTRsbENTR01CQWZNYmk3S0ZvTGRpZURUZ0NoOWprQk5OYmtTOTVsY3NTWUZicFBaMHExWE9IdE9uOE0?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -625,36 +655,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/22/penang-launches-onemap-to-track-cctvs-aeds-and-ev-chargers-across-the-state/232297",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-22-malaysia-urges-asean-collective-action-over-transboundary-haze-risk-bernama",
-      "category": "malaysia",
-      "headline": "Malaysia Urges ASEAN Collective Action Over Transboundary Haze Risk - bernama",
-      "summary": "Key points: Malaysia Urges ASEAN Collective Action Over Transboundary Haze Risk bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-22T12:02:03+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RaUE3RkhVQVE5RFZ1T1VlR0NMMTR2RUo1RUNSdjhiZ21JTUNjSXdQT0U2cExYa1l6M3NwOXhBV29mM3FuRlRrSDVYLVpQaDFQYkF6VUlBS0w?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
