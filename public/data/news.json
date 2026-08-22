@@ -1,19 +1,59 @@
 {
-  "generated_at": "2026-08-22T15:29:19+08:00",
+  "generated_at": "2026-08-22T16:26:37+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-22-south-korea-container-ship-sets-sail-to-test-arctic-commercial-route-amid-western-",
+      "id": "2026-08-22-sarawak-confirms-26-rabies-cases-this-year-including-three-cats",
+      "category": "malaysia",
+      "headline": "Sarawak confirms 26 rabies cases this year, including three cats",
+      "summary": "Key points: KOTA SAMARAHAN, Aug 22 — Three cats were among 26 animals confirmed positive for rabies in Sarawak so far this yea...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-22T16:23:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/22/sarawak-confirms-26-rabies-cases-this-year-including-three-cats/232318",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-22-renault-captur-gutted-by-fire-after-crashing-into-honda-city-on-spe",
+      "category": "malaysia",
+      "headline": "Renault Captur gutted by fire after crashing into Honda City on SPE",
+      "summary": "Key points: KUALA LUMPUR — A Renault Captur sports utility vehicle (SUV) was completely destroyed by fire after colliding with...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-22T16:15:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/22/renault-captur-gutted-by-fire-after-crashing-into-honda-city-on-spe/232317",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-22-five-children-two-sets-of-twins-ease-maddison-s-injury-recovery",
       "category": "world",
-      "headline": "South Korea container ship sets sail to test Arctic commercial route amid Western concerns",
-      "summary": "Key points: President Lee Jae Myung has made Arctic shipping a priority for South Korea, a shipping powerhouse.",
+      "headline": "Five children, two sets of twins ease Maddison's injury recovery",
+      "summary": "Key points: CNA Latest reports that Five children, two sets of twins ease Maddison's injury recovery.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-22T15:11:46+08:00",
+      "published_at": "2026-08-22T15:55:59+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/south-korea-ship-arctic-commercial-route-western-russia-6334686",
+          "url": "https://www.channelnewsasia.com/sport/five-children-two-sets-twins-ease-maddisons-injury-recovery-6334711",
           "publisher_type": "news"
         },
         {
@@ -1193,46 +1233,6 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/08/21/indian-tycoons-giant-vantara-zoo-announces-reset-rethinks-imports/232229",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-chow-says-penang-awaits-dap-leadership-call-before-equal-constituency-law-move",
-      "category": "malaysia",
-      "headline": "Chow says Penang awaits DAP leadership call before equal constituency law move",
-      "summary": "Key points: BATU KAWAN, Aug 21 — Penang will await a decision from DAP’s national leadership before considering any move...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-21T19:05:44+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/21/chow-says-penang-awaits-dap-leadership-call-before-equal-constituency-law-move/232236",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-bursa-malaysia-ends-little-changed-as-bond-yields-geopolitical-tensions-weigh-on-s",
-      "category": "markets_investment",
-      "headline": "Bursa Malaysia ends little changed as bond yields, geopolitical tensions weigh on sentiment",
-      "summary": "Key points: KUALA LUMPUR, Aug 21 — Bursa Malaysia ended little changed on Friday, as investors remained cautious amid renewed...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-21T18:42:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/21/bursa-malaysia-ends-little-changed-as-bond-yields-geopolitical-tensions-weigh-on-sentiment/232235",
           "publisher_type": "news"
         }
       ],
