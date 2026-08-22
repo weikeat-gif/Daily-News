@@ -1,19 +1,142 @@
 {
-  "generated_at": "2026-08-22T07:21:16+08:00",
+  "generated_at": "2026-08-22T09:05:39+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-22-is-it-true-love-or-love-bombing-when-intense-affection-turns-into-emotional-contro",
+      "id": "2026-08-22-sword-attack-puts-swedish-school-on-lockdown-at-least-two-teens-seriously-hurt",
       "category": "world",
-      "headline": "Is it true love or 'love bombing'? When intense affection turns into emotional control",
-      "summary": "Key points: Sometimes over-the-top affection in a new romance can be a precursor to emotional abuse.",
+      "headline": "Sword attack puts Swedish school on lockdown, at least two teens seriously hurt",
+      "summary": "Key points: At least two teenagers were seriously wounded after a sword-wielding attacker entered a high s...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-22T07:11:36+08:00",
+      "published_at": "2026-08-22T09:00:33+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/22/sword-attack-puts-swedish-school-on-lockdown-at-least-two-teens-seriously-hurt/232259",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-22-thai-police-detain-two-kelantan-men-for-possession-of-1-560-epam-pills",
+      "category": "malaysia",
+      "headline": "Thai police detain two Kelantan men for possession of 1,560 Epam pills",
+      "summary": "Key points: Two Malaysians were detained by Thai police in Sungai Kolok here on Thursday night after auth...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-22T08:56:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/22/thai-police-detain-two-kelantan-men-for-possession-of-1560-epam-pills/232261",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-22-tiktok-to-pay-us-400m-to-settle-us-kids-data-privacy-suit",
+      "category": "markets_investment",
+      "headline": "TikTok to pay US$400m to settle US kids’ data privacy suit",
+      "summary": "Key points: SAN FRANCISCO, Aug 22 — TikTok has agreed to pay US$400 million (RM1.57 billion) to settle a lawsuit with the...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-22T08:54:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/22/tiktok-to-pay-us400m-to-settle-us-kids-data-privacy-suit/232253",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-22-penang-hospital-acts-to-cut-emergency-wait-times-after-viral-video-shows-overcrowd",
+      "category": "malaysia",
+      "headline": "Penang Hospital acts to cut emergency wait times after viral video shows overcrowding",
+      "summary": "Key points: GEORGE TOWN, Aug 22 — The Penang Health Department (JKNPP) is implementing several measures to reduce congestion a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-22T08:53:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/22/penang-hospital-acts-to-cut-emergency-wait-times-after-viral-video-shows-overcrowding/232260",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-22-malaysia-pakistan-strengthen-legal-ties-with-new-prisoner-transfer-treaty",
+      "category": "malaysia",
+      "headline": "Malaysia, Pakistan strengthen legal ties with new prisoner transfer treaty",
+      "summary": "Key points: KUALA LUMPUR, Aug 22 — Malaysia and Pakistan yesterday signed the International Transfer of Prisoners (ITOP) Treat...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-22T08:47:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/22/malaysia-pakistan-strengthen-legal-ties-with-new-prisoner-transfer-treaty/232258",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-22-anwar-and-pakistans-s-shehbaz-call-for-diplomacy-in-iran-us-tensions",
+      "category": "malaysia",
+      "headline": "Anwar and Pakistans’s Shehbaz call for diplomacy in Iran-US tensions",
+      "summary": "Key points: KUALA LUMPUR, Aug 22 — Prime Minister Datuk Seri Anwar Ibrahim and his Pakistani counterpart Shehbaz Sharif have a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-22T08:41:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/22/anwar-and-pakistanss-shehbaz-call-for-diplomacy-in-iran-us-tensions/232252",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "kuala lumpur",
+        "anwar",
+        "iran",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-22-the-debate-on-traditional-gender-roles-has-taken-a-turn",
+      "category": "world",
+      "headline": "The debate on traditional gender roles has taken a turn",
+      "summary": "Key points: A new study suggests that a larger proportion of younger men in Singapore hold traditional views of masculinity than older generations. CNA TODAY looks into what is shaping these beliefs and what this means for men and women alike.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-22T08:00:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/wellness/love-bombing-abuse-6315161",
+          "url": "https://www.channelnewsasia.com/today/big-read/masculinity-traditional-norms-household-responsibilities-sexual-consent-6330311",
           "publisher_type": "news"
         },
         {
@@ -81,36 +204,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-sme-malaysia-calls-for-outcome-driven-budget-2027-to-build-global-malaysian-compan",
-      "category": "malaysia",
-      "headline": "SME Malaysia Calls For Outcome-driven Budget 2027 To Build Global Malaysian Companies - bernama",
-      "summary": "Key points: SME Malaysia Calls For Outcome-driven Budget 2027 To Build Global Malaysian Companies bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-21T22:51:06+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGaFJGSXVCNEtyUFRvWEpJNU1CdDlFNXo2UUhlSmV3ZnZCUURERzczVjgzMnhQcGloMDZVQ1J5aUQ5MVhSR29yQlRieW5oUEszZFVnLUdoQ3NaeldGTmdiUG1IRVBEQQ?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1124,106 +1217,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/21/tiktoker-under-police-probe-after-allegedly-stepping-on-sarawak-flag/232173",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-former-tabung-haji-ceo-remanded-seven-days-in-macc-probe-linked-to-rci-findings",
-      "category": "malaysia",
-      "headline": "Former Tabung Haji CEO remanded seven days in MACC probe linked to RCI findings",
-      "summary": "Key points: A former Lembaga Tabung Haji (TH) chief executive officer has reportedly been remanded for sev...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-21T12:21:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/21/former-tabung-haji-ceo-remanded-seven-days-in-macc-probe-linked-to-rci-findings/232150",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-i-am-in-jail-please-take-me-out-indian-captain-in-uk-case-over-russia-s-shadow-fle",
-      "category": "markets_investment",
-      "headline": "‘I am in jail, please take me out’: Indian captain in UK case over Russia’s shadow fleet made ‘scapegoat’, wife says",
-      "summary": "Key points: RAMNAGAR (India), Aug 21 — The Indian captain of an alleged Russian shadow fleet oil vessel seized by British comm...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-21T12:10:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/21/i-am-in-jail-please-take-me-out-indian-captain-in-uk-case-over-russias-shadow-fleet-made-scapegoat-wife-says/232166",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-japan-executes-man-convicted-of-pachinko-parlour-arson-that-killed-five-in-2009",
-      "category": "world",
-      "headline": "Japan executes man convicted of pachinko parlour arson that killed five in 2009",
-      "summary": "Key points: Japan executed today a man convicted of an arson attack on a pachinko parlour in 2009 that killed...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-21T11:59:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/21/japan-executes-man-convicted-of-pachinko-parlour-arson-that-killed-five-in-2009/232164",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-putrajaya-gears-up-for-national-day-bash-expects-80-000-visitors",
-      "category": "malaysia",
-      "headline": "Putrajaya gears up for National Day bash, expects 80,000 visitors",
-      "summary": "Key points: More than 80,000 visitors are expected to flood Dataran Putrajaya in conjunction with National...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-21T11:55:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/21/putrajaya-gears-up-for-national-day-bash-expects-80000-visitors/232159",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-21-tabung-haji-rci-probe-former-ceo-arrives-in-putrajaya-magistrate-s-court-for-reman",
-      "category": "malaysia",
-      "headline": "Tabung Haji RCI probe: Former CEO arrives in Putrajaya Magistrate’s Court for remand",
-      "summary": "Key points: A former chief executive officer of Lembaga Tabung Haji (TH) has arrived at the Magistrate&rsq...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-21T11:49:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/21/tabung-haji-rci-probe-former-ceo-arrives-in-putrajaya-magistrates-court-for-remand/232158",
           "publisher_type": "news"
         }
       ],
