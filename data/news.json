@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-08-23T14:36:50+08:00",
+  "generated_at": "2026-08-23T15:31:10+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-23-keep-up-the-spirit-indonesian-teenage-superman-joins-wildfire-fight",
+      "category": "world",
+      "headline": "'Keep up the spirit': Indonesian teenage 'Superman' joins wildfire fight",
+      "summary": "Key points: Fires between January and July burned more than 200,000 hectares of land - an area three times the size of the capital Jakarta, the Indonesian government said this week.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-23T15:16:37+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/asia/indonesia-kalimantan-forest-fire-superman-teenager-6335686",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-23-sabah-searchers-find-body-of-one-boy-after-two-teens-swept-away-in-keningau-river",
+      "category": "malaysia",
+      "headline": "Sabah searchers find body of one boy after two teens swept away in Keningau river",
+      "summary": "Key points: KOTA KINABALU, Aug 23 — A recreational outing turned tragic when a 16-year-old boy was found dead in Sungai Pegala...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-23T15:09:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/23/sabah-searchers-find-body-of-one-boy-after-two-teens-swept-away-in-keningau-river/232409",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-23-health-ministry-reports-surge-in-respiratory-illnesses-as-several-areas-hit-unheal",
+      "category": "malaysia",
+      "headline": "Health Ministry reports surge in respiratory illnesses as several areas hit unhealthy API levels",
+      "summary": "Key points: KUALA SELANGOR, Aug 23 — The Ministry of Health (MOH) has recorded a sharp increase in asthma and upper respirator...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-23T14:48:49+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/23/health-ministry-reports-surge-in-respiratory-illnesses-as-several-areas-hit-unhealthy-api-levels/232408",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-23-neighbourly-row-lands-80-year-old-man-in-penang-hospital-62-year-old-man-in-police",
+      "category": "malaysia",
+      "headline": "Neighbourly row lands 80-year-old man in Penang Hospital, 62-year-old man in police custody",
+      "summary": "Key points: GEORGE TOWN, Aug 23 — A dispute between neighbours turned violent this morning when a 62-year-old man allegedly at...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-23T14:48:28+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/23/neighbourly-row-lands-80-year-old-man-in-penang-hospital-62-year-old-man-in-police-custody/232407",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-23-police-launch-lockdown-operation-after-ten-migrants-escape-tanah-merah-immigration",
+      "category": "malaysia",
+      "headline": "Police launch lockdown operation after ten migrants escape Tanah Merah Immigration Depot",
+      "summary": "Key points: KOTA BHARU, Aug 23 — Ten undocumented migrants escaped from the Tanah Merah Immigration Depot early this morning,...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-23T14:41:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/23/police-launch-lockdown-operation-after-ten-migrants-escape-tanah-merah-immigration-depot/232406",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-23-twenty-two-crew-missing-after-singapore-bound-bulk-carrier-sinks-off-eastern-india",
       "category": "world",
@@ -121,36 +231,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-23-two-rescued-after-bulk-carrier-sinks-off-india",
-      "category": "world",
-      "headline": "Two rescued after bulk carrier sinks off India",
-      "summary": "Key points: The Panama-flagged bulk carrier MV Ocean Winner was headed to Singapore from Paradip port in India's Odisha state, according to MarineTraffic.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-23T13:16:06+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/india-bulk-carrier-mv-ocean-winner-panana-flagged-singapore-6335636",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1144,86 +1224,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-22-fahmi-pm-s-remarks-on-china-and-taiwan-consistent-with-malaysia-s-policy-since-tun",
-      "category": "malaysia",
-      "headline": "Fahmi: PM’s remarks on China and Taiwan consistent with Malaysia’s policy since Tun Razak’s time",
-      "summary": "Key points: KUALA LUMPUR, Aug 22 — Malaysia’s position on the China-Taiwan issue remains consistent and has never change...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-22T16:30:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/22/fahmi-pms-remarks-on-china-and-taiwan-consistent-with-malaysias-policy-since-tun-razaks-time/232319",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-22-sarawak-confirms-26-rabies-cases-this-year-including-three-cats",
-      "category": "malaysia",
-      "headline": "Sarawak confirms 26 rabies cases this year, including three cats",
-      "summary": "Key points: KOTA SAMARAHAN, Aug 22 — Three cats were among 26 animals confirmed positive for rabies in Sarawak so far this yea...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-22T16:23:30+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/22/sarawak-confirms-26-rabies-cases-this-year-including-three-cats/232318",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-22-renault-captur-gutted-by-fire-after-crashing-into-honda-city-on-spe",
-      "category": "malaysia",
-      "headline": "Renault Captur gutted by fire after crashing into Honda City on SPE",
-      "summary": "Key points: KUALA LUMPUR — A Renault Captur sports utility vehicle (SUV) was completely destroyed by fire after colliding with...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-22T16:15:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/22/renault-captur-gutted-by-fire-after-crashing-into-honda-city-on-spe/232317",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-22-canada-plots-economic-plan-b-as-trump-s-50pc-tariffs-bite",
-      "category": "markets_investment",
-      "headline": "Canada plots economic Plan B as Trump’s 50pc tariffs bite",
-      "summary": "Key points: US President Donald Trump’s 50-per cent tariffs on certain Canadian goods which took effe...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-22T15:06:28+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/22/canada-plots-economic-plan-b-as-trumps-50pc-tariffs-bite/232312",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
