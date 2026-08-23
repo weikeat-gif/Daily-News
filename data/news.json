@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-23T19:18:39+08:00",
+  "generated_at": "2026-08-23T20:35:09+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-23-ndr-2026-new-committee-set-up-to-help-malay-muslim-community-seize-economic-opport",
+      "id": "2026-08-23-ndr-2026-pm-wong-flags-unsettling-ai-risks-says-singapore-ready-to-put-in-safeguar",
       "category": "world",
-      "headline": "NDR 2026: New committee set up to help Malay-Muslim community seize economic opportunities, develop skills",
-      "summary": "Key points: One key area under consideration by the committee includes mental health support for workers navigating career transitions.",
+      "headline": "NDR 2026: PM Wong flags 'unsettling' AI risks, says Singapore ready to put in safeguards",
+      "summary": "Key points: Social media platforms will have to verify users’ ages more robustly, with further restrictions possible if safeguards fall short, Mr Wong says.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-23T19:01:00+08:00",
+      "published_at": "2026-08-23T20:28:51+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/national-day-rally-2026-malay-muslim-community-economic-resilience-committee-6335806",
+          "url": "https://www.channelnewsasia.com/singapore/national-day-rally-2026-ai-safeguards-social-media-children-6335871",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,46 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-23-tiktok-star-doctor-food-detained-in-lebanon-faces-new-drug-trafficking-trial",
+      "category": "world",
+      "headline": "TikTok star ‘Doctor Food’ detained in Lebanon, faces new drug trafficking trial",
+      "summary": "Key points: Lebanon on Sunday arrested an online influencer known for his videos about food who had been hand...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-23T19:50:59+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/23/tiktok-star-doctor-food-detained-in-lebanon-faces-new-drug-trafficking-trial/232435",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-23-two-boys-13-and-16-found-dead-after-being-swept-away-by-strong-currents-in-sabah",
+      "category": "malaysia",
+      "headline": "Two boys, 13 and 16, found dead after being swept away by strong currents in Sabah",
+      "summary": "Key points: Two teenage boys who were reported missing after being swept away by strong currents in Sungai...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-23T19:23:33+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/23/two-boys-13-and-16-found-dead-after-being-swept-away-by-strong-currents-in-sabah/232438",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1164,46 +1204,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/23/armizan-says-new-ecommerce-bill-will-tighten-platform-and-seller-accountability/232353",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-23-man-suffers-burns-as-fire-destroys-hotel-restaurant-in-semporna",
-      "category": "malaysia",
-      "headline": "Man suffers burns as fire destroys hotel restaurant in Semporna",
-      "summary": "Key points: A man suffered burns to his arm while a hotel restaurant here was completely destroyed in a fir...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-23T09:36:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/23/man-suffers-burns-as-fire-destroys-hotel-restaurant-in-semporna/232347",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-23-breathe-easy-not-today-as-sarawak-chokes-and-selangor-perak-and-kedah-cough",
-      "category": "malaysia",
-      "headline": "Breathe easy? Not today as Sarawak chokes and Selangor, Perak and Kedah cough",
-      "summary": "Key points: KUALA LUMPUR, Aug 23 — Malaysia woke up to hazy skies again this morning, with Sarawak bearing the brunt of the sm...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-23T09:34:16+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/23/breathe-easy-not-today-as-sarawak-chokes-and-selangor-perak-and-kedah-cough/232350",
           "publisher_type": "news"
         }
       ],
