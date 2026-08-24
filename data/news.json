@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-25T04:27:27+08:00",
+  "generated_at": "2026-08-25T05:26:09+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-25-dollar-higher-after-iran-sanctions-loonie-drops-after-us-announces-tariff-increase",
+      "id": "2026-08-25-former-nba-players-not-eligible-for-wnba-sources-say",
       "category": "world",
-      "headline": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
-      "summary": "Key points: CNA Latest reports that Dollar higher after Iran sanctions, loonie drops after US announces tariff increases.",
+      "headline": "Former NBA players not eligible for WNBA, sources say",
+      "summary": "Key points: CNA Latest reports that Former NBA players not eligible for WNBA, sources say.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T03:16:04+08:00",
+      "published_at": "2026-08-25T05:20:50+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/dollar-higher-after-iran-sanctions-loonie-drops-after-us-announces-tariff-increases-6336766",
+          "url": "https://www.channelnewsasia.com/sport/former-nba-players-not-eligible-wnba-sources-say-6338661",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-25-pakistan-president-pm-call-for-stronger-ties-with-malaysia-bernama",
+      "category": "malaysia",
+      "headline": "Pakistan President, PM Call For Stronger Ties With Malaysia - Bernama",
+      "summary": "Key points: Pakistan President, PM Call For Stronger Ties With Malaysia Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-25T00:44:24+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEdjhjSTVqODlaQ0pKYy1maFI2d3dfUE9Qa3JFazNjVG5wMzlFZVRiMUNNNGpsc3U0OS1hWjRCUndIbEd1cXlJWGdUaWQyblhHMDVkdHZ1SXRtWVhRUThqNDF3?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -314,36 +344,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/24/high-court-dismisses-bid-to-forfeit-rm21m-gold-bar-seized-from-aman-palestin/227450",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-bursa-malaysia-turns-lower-at-mid-morning-bernama",
-      "category": "malaysia",
-      "headline": "Bursa Malaysia Turns Lower At Mid-Morning - bernama",
-      "summary": "Key points: Bursa Malaysia Turns Lower At Mid-Morning bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-24T17:18:10+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UM3lYZENRc0VzZTFBcGtnUXJzT29DWkwtNHE0WDVHQkMwMk51dDN2YXlJcDBiM1Y2VDFtM1V2b3FEb1lTdndOM1lPR0ZMWTFNbHRaZ2hTN1VWWG52bTNQR21Jbw?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
