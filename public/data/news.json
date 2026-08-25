@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-26T05:25:30+08:00",
+  "generated_at": "2026-08-26T06:24:05+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-26-spain-plans-new-stricter-data-centres-rules-sources-say",
-      "category": "world",
-      "headline": "Spain plans new, stricter data centres rules, sources say",
-      "summary": "Key points: CNA Latest reports that Spain plans new, stricter data centres rules, sources say.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-26T05:03:32+08:00",
+      "id": "2026-08-26-boj-to-speed-up-its-tightening-campaign-raise-key-rate-to-1-25-in-september-reuter",
+      "category": "markets_investment",
+      "headline": "BOJ to speed up its tightening campaign, raise key rate to 1.25% in September: Reuters poll",
+      "summary": "Key points: CNA Latest reports that BOJ to speed up its tightening campaign, raise key rate to 1.25% in September: Reuters poll.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-26T06:03:27+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/spain-plans-new-stricter-data-centres-rules-sources-say-6340946",
+          "url": "https://www.channelnewsasia.com/business/boj-speed-up-its-tightening-campaign-raise-key-rate-125-in-september-reuters-poll-6341016",
           "publisher_type": "news"
         },
         {
@@ -1223,27 +1223,24 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-24-ringgit-slips-as-markets-weigh-us-economic-d-day-threat-and-jackson-hole-risks",
-      "category": "markets_investment",
-      "headline": "Ringgit slips as markets weigh US ‘economic D‑Day’ threat and Jackson Hole risks",
-      "summary": "Key points: KUALA LUMPUR, Aug 24 — The ringgit ended lower against the greenback today as the threat of an “economic D-D...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-24T19:52:37+08:00",
+      "id": "2026-08-24-high-court-dismisses-negeri-sembilan-state-government-s-bid-to-evict-undangs-from-",
+      "category": "malaysia",
+      "headline": "High Court dismisses Negeri Sembilan state government’s bid to evict Undangs from official halls, residences",
+      "summary": "Key points: SEREMBAN, Aug 24 —The High Court here today dismissed two applications by the Negeri Sembilan government seeking a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-24T20:12:46+08:00",
       "source_links": [
         {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/24/ringgit-slips-as-markets-weigh-us-economic-dday-threat-and-jackson-hole-risks/232528",
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/24/high-court-dismisses-negeri-sembilan-state-governments-bid-to-evict-undangs-from-official-halls-residences/232530",
           "publisher_type": "news"
         }
       ],
       "topics": [
-        "kuala lumpur",
-        "ringgit",
-        "market",
-        "markets"
+        "latest update"
       ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
+      "importance": 3,
+      "confidence": "verified"
     }
   ]
 }
