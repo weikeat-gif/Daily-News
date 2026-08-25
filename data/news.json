@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-08-25T17:33:08+08:00",
+  "generated_at": "2026-08-25T18:30:21+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-25-malaysia-records-unhealthy-air-quality-in-around-30-areas-as-haze-spreads",
+      "category": "malaysia",
+      "headline": "Malaysia records unhealthy air quality in around 30 areas as haze spreads",
+      "summary": "Key points: Much of the west coast of Peninsular Malaysia and parts of Sarawak were affected on Tuesday (Aug 25), with authorities saying haze was moving in “from various directions”.",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-25T18:14:07+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/asia/malaysia-haze-unhealthy-air-quality-sarawak-selangor-johor-perak-6339811",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-25-yayasan-tunku-abdul-rahman-marks-60-years-with-rm96-6m-poured-into-youth-empowerme",
       "category": "malaysia",
@@ -21,36 +51,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-pub-trial-aims-to-halve-energy-used-to-pre-treat-seawater-for-desalination",
-      "category": "world",
-      "headline": "PUB trial aims to halve energy used to pre-treat seawater for desalination",
-      "summary": "Key points: The trial is assessing whether ceramic membrane technology developed by Japanese firm Meiden can replace the three-stage pre-treatment process currently used to remove contaminants from seawater.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T17:24:09+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/pub-seawater-desalination-ceramic-membrane-technology-trial-meiden-6338876",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -285,6 +285,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/25/prime-minister-urges-muslims-to-reflect-prophets-values-not-limit-maulidur-rasul-to-celebrations/232581",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-25-brokers-digest-local-equities-eco-shop-marketing-bhd-mn-holdings-bhd-hup-seng-indu",
+      "category": "malaysia",
+      "headline": "Brokers Digest: Local Equities - Eco-Shop Marketing Bhd, MN Holdings Bhd, Hup Seng Industries Bhd, Econpile Holdings Bhd - The Edg",
+      "summary": "Key points: Brokers Digest: Local Equities - Eco-Shop Marketing Bhd, MN Holdings Bhd, Hup Seng Industries Bhd, Econpile Holdings Bhd The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-25T14:30:00+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zd1hHalNieEF6M3ZvSHRRcnJyOE42bS1nSjhFcmY5bEMzX0ZtVWxIejFKbzE4c2xyX3NBcGFKZEZsODY4VUl5RjZYN2lTckNJ?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1209,26 +1239,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/24/metmalaysia-warns-of-evening-storms-across-peninsula-sabah-sarawak/232511",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-malaysia-airlines-retimes-klia-flights-as-airspace-closes-for-national-day-flypast",
-      "category": "malaysia",
-      "headline": "Malaysia Airlines retimes KLIA flights as airspace closes for National Day flypast rehearsals",
-      "summary": "Key points: KUALA LUMPUR, Aug 24 — Malaysia Airlines Bhd will retime selected flights arriving at and departing from KL Intern...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-24T16:56:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/24/malaysia-airlines-retimes-klia-flights-as-airspace-closes-for-national-day-flypast-rehearsals/232510",
           "publisher_type": "news"
         }
       ],
