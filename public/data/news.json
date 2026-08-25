@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-26T06:24:05+08:00",
+  "generated_at": "2026-08-26T07:23:00+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-26-boj-to-speed-up-its-tightening-campaign-raise-key-rate-to-1-25-in-september-reuter",
+      "id": "2026-08-26-us-oil-prices-extend-losses-on-hopes-of-iran-oman-talks-on-strait-of-hormuz",
       "category": "markets_investment",
-      "headline": "BOJ to speed up its tightening campaign, raise key rate to 1.25% in September: Reuters poll",
-      "summary": "Key points: CNA Latest reports that BOJ to speed up its tightening campaign, raise key rate to 1.25% in September: Reuters poll.",
+      "headline": "US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz",
+      "summary": "Key points: CNA Latest reports that US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz.",
       "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-26T06:03:27+08:00",
+      "published_at": "2026-08-26T07:02:25+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/boj-speed-up-its-tightening-campaign-raise-key-rate-125-in-september-reuters-poll-6341016",
+          "url": "https://www.channelnewsasia.com/business/us-oil-prices-extend-losses-hopes-iran-oman-talks-strait-hormuz-6341076",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,46 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-buying-strata-new-housing-policy-proposes-showing-long-term-maintenance-costs-upfr",
+      "category": "malaysia",
+      "headline": "Buying strata? New housing policy proposes showing long-term maintenance costs upfront, tighter management rules",
+      "summary": "Key points: KUALA LUMPUR, Aug 26 — Buying a strata property could eventually involve more than knowing the purchase price, mon...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/national-housing-policy-clearer-long-term-maintenance-costs-for-strata-properties-stronger-management-rules/231691",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-six-months-on-grief-still-raw-for-iran-school-parents",
+      "category": "world",
+      "headline": "Six months on, grief still raw for Iran school parents",
+      "summary": "Key points: MINAB (Iran), Aug 26 — For months, Masoumeh Zakeri has endlessly replayed the last night she spent with her n...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/26/six-months-on-grief-still-raw-for-iran-school-parents/232568",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1201,46 +1241,6 @@
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-language-barriers-hinder-quake-relief-for-kumamoto-s-foreign-residents",
-      "category": "world",
-      "headline": "Language barriers hinder quake relief for Kumamoto’s foreign residents",
-      "summary": "Key points: KUMAMOTO (Japan), Aug 24 — Many foreigners in Kumamoto Prefecture may have had difficulty in obtaining information...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-24T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/24/language-barriers-hinder-quake-relief-for-kumamotos-foreign-residents/232485",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-high-court-dismisses-negeri-sembilan-state-government-s-bid-to-evict-undangs-from-",
-      "category": "malaysia",
-      "headline": "High Court dismisses Negeri Sembilan state government’s bid to evict Undangs from official halls, residences",
-      "summary": "Key points: SEREMBAN, Aug 24 —The High Court here today dismissed two applications by the Negeri Sembilan government seeking a...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-24T20:12:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/24/high-court-dismisses-negeri-sembilan-state-governments-bid-to-evict-undangs-from-official-halls-residences/232530",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "verified"
     }
   ]
 }
