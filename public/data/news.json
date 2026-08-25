@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-26T00:34:31+08:00",
+  "generated_at": "2026-08-26T01:29:29+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-26-spacex-to-build-starship-spaceport-in-louisiana",
+      "id": "2026-08-26-india-police-clash-with-protestors-over-jobs-and-exam-transparency",
       "category": "world",
-      "headline": "SpaceX to build Starship spaceport in Louisiana",
-      "summary": "Key points: CNA Latest reports that SpaceX to build Starship spaceport in Louisiana.",
+      "headline": "India police clash with protestors over jobs and exam transparency",
+      "summary": "Key points: The protests, which began last week over unemployment, later included demands for education reforms and fairer exams.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-26T00:28:11+08:00",
+      "published_at": "2026-08-26T01:12:06+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/spacex-build-starship-spaceport-in-louisiana-6340591",
+          "url": "https://www.channelnewsasia.com/world/india-protests-jobs-exams-police-6340631",
           "publisher_type": "news"
         },
         {
@@ -1133,36 +1133,16 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-25-worth-the-bargain-malaysian-consumers-win-big-on-pinduoduo-as-local-sellers-cry-fo",
+      "id": "2026-08-25-us-insurer-chubb-scraps-ipo-of-malaysian-unit-the-edge-malaysia",
       "category": "malaysia",
-      "headline": "Worth the bargain? Malaysian consumers win big on Pinduoduo as local sellers cry foul",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 —Inside the sprawling digital storefront of Chinese e-commerce titan Pinduoduo, Shaun Kong ro...",
+      "headline": "US insurer Chubb scraps IPO of Malaysian unit - The Edge Malaysia",
+      "summary": "Key points: US insurer Chubb scraps IPO of Malaysian unit The Edge Malaysia",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/worth-the-bargain-malaysian-consumers-win-big-on-pinduoduo-as-local-sellers-cry-foul/231930",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-klk-batu-kawan-khee-san-foodie-media-sime-darby-property-wce-holdings-sunway-const",
-      "category": "malaysia",
-      "headline": "KLK, Batu Kawan, Khee San, Foodie Media, Sime Darby Property, WCE Holdings, Sunway Construction, Zetrix AI, Guan Chong, Cahya Mata",
-      "summary": "Key points: KLK, Batu Kawan, Khee San, Foodie Media, Sime Darby Property, WCE Holdings, Sunway Construction, Zetrix AI, Guan Chong, Cahya Mata Sarawak, Ajinomoto, Pestec The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-24T23:00:18+08:00",
+      "published_at": "2026-08-25T08:00:00+08:00",
       "source_links": [
         {
           "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lWHRJUTc5Q2d5c21jNTB0QVZqVXFGOW54MjVheXVuSGVEWHVMXzhONlhyQzRYbTBfWXd4ak1KdHpvalFqVGJrSUpJc2JiYV83?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Vd3puaGtJbmdOWklRMjRjRkpJV2laTjdqWUpmaXl3YzV0NWt0QkRWOHZVLW9kUHRUblNOemZVOXVvVXVraGFoYV9PS0lSVTRq?oc=5",
           "publisher_type": "news"
         },
         {
@@ -1174,6 +1154,26 @@
           "name": "Facebook The Edge Malaysia",
           "url": "https://www.facebook.com/theedgemalaysia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-25-worth-the-bargain-malaysian-consumers-win-big-on-pinduoduo-as-local-sellers-cry-fo",
+      "category": "malaysia",
+      "headline": "Worth the bargain? Malaysian consumers win big on Pinduoduo as local sellers cry foul",
+      "summary": "Key points: KUALA LUMPUR, Aug 25 —Inside the sprawling digital storefront of Chinese e-commerce titan Pinduoduo, Shaun Kong ro...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-25T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/worth-the-bargain-malaysian-consumers-win-big-on-pinduoduo-as-local-sellers-cry-foul/231930",
+          "publisher_type": "news"
         }
       ],
       "topics": [
