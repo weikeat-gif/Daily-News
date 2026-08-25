@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-08-25T11:49:04+08:00",
+  "generated_at": "2026-08-25T12:36:11+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-25-prime-minister-confirms-felda-forensic-audit-proposal-will-be-tabled-at-cabinet-me",
+      "category": "malaysia",
+      "headline": "Prime Minister confirms Felda forensic audit proposal will be tabled at Cabinet meeting soon",
+      "summary": "Key points: A proposal for a forensic audit to be conducted into the management of the Federal Land Consolid...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-25T12:35:28+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/prime-minister-confirms-felda-forensic-audit-proposal-will-be-tabled-at-cabinet-meeting-soon/232572",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-25-pakistan-and-iran-made-significant-progress-in-talks-on-conflict-minister-says",
+      "category": "world",
+      "headline": "Pakistan and Iran made 'significant progress' in talks on conflict, minister says",
+      "summary": "Key points: CNA Latest reports that Pakistan and Iran made 'significant progress' in talks on conflict, minister says.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-25T12:31:18+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/asia/pakistan-and-iran-made-significant-progress-in-talks-conflict-minister-says-6339106",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-25-immigration-lodges-police-report-after-viral-utc-pudu-post-found-inconsistent-with",
+      "category": "malaysia",
+      "headline": "Immigration lodges police report after viral UTC Pudu post found inconsistent with CCTV records",
+      "summary": "Key points: The Immigration Department of Malaysia (JIM) has lodged a police report over a viral post conc...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-25T12:29:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/immigration-lodges-police-report-after-viral-utc-pudu-post-found-inconsistent-with-cctv-records/232564",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-25-haze-alert-penang-health-exco-advises-face-masks-as-api-levels-spike",
+      "category": "malaysia",
+      "headline": "Haze alert: Penang health exco advises face masks as API levels spike",
+      "summary": "Key points: GEORGE TOWN, Aug 25 — Residents of Penang are urged to limit outdoor activities as air quality deteriorated today,...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-25T12:17:04+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/haze-alert-penang-health-exco-advises-face-masks-as-api-levels-spike/232566",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-25-macc-probes-rm80m-felda-palong-7-oil-palm-replanting-scheme-after-settlers-raise-c",
+      "category": "malaysia",
+      "headline": "MACC probes RM80m Felda Palong 7 oil palm replanting scheme after settlers raise concerns",
+      "summary": "Key points: KUALA LUMPUR, Aug 25 — The Malaysian Anti-Corruption Commission (MACC) is examining information related to the imp...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-25T11:59:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/macc-probes-rm80m-felda-palong-7-oil-palm-replanting-scheme-after-settlers-raise-concerns/232563",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-25-metmalaysia-warns-of-thunderstorms-heavy-rain-and-strong-winds-across-four-states-",
       "category": "malaysia",
@@ -21,36 +131,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-canada-to-announce-response-to-trump-s-new-tariffs",
-      "category": "world",
-      "headline": "Canada to announce response to Trump's new tariffs",
-      "summary": "Key points: After rejecting what he called a \"bad deal\", Canadian Prime Minister Mark Carney announced retaliatory tariffs effective on Sep 8.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T11:37:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/canada-carney-trump-tariffs-response-6339096",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1149,86 +1229,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/24/penang-land-sale-probe-macc-extends-remand-for-agency-chief-and-company-director/232480",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-fmm-dismisses-mtuc-s-rm3-100-minimum-wage-proposal-as-unrealistic-for-businesses",
-      "category": "malaysia",
-      "headline": "FMM dismisses MTUC’s RM3,100 minimum wage proposal as unrealistic for businesses",
-      "summary": "Key points: KUALA LUMPUR, Aug 24 — The Federation of Malaysian Manufacturers (FMM) has rejected a proposal by the Malaysian Tr...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-24T12:59:57+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/24/fmm-dismisses-mtucs-rm3100-minimum-wage-proposal-as-unrealistic-for-businesses/232479",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-e-hailing-driver-charged-with-attempted-murder-after-setting-woman-on-fire-in-kepo",
-      "category": "malaysia",
-      "headline": "E-hailing driver charged with attempted murder after setting woman on fire in Kepong",
-      "summary": "Key points: KUALA LUMPUR, Aug 24 — An e-hailing driver has claimed trial at the Sessions Court here to an attempted murder cha...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-24T12:38:50+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/24/e-hailing-driver-charged-with-attempted-murder-after-setting-woman-on-fire-in-kepong/232476",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-court-of-appeal-dismisses-indira-gandhi-s-rm100m-suit-despite-flagging-police-shor",
-      "category": "malaysia",
-      "headline": "Court of Appeal dismisses Indira Gandhi’s RM100m suit despite flagging police shortcomings",
-      "summary": "Key points: The Court of Appeal today dismissed Hindu mother M. Indira Gandhi’s appeal to reinstate...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-24T12:08:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/24/court-of-appeal-dismisses-indira-gandhis-rm100m-suit-despite-flagging-police-shortcomings/232472",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-sarawak-leads-haze-misery-as-serian-hits-194-unhealthy-api-spreads-to-selangor-ked",
-      "category": "malaysia",
-      "headline": "Sarawak leads haze misery as Serian hits 194, unhealthy API spreads to Selangor, Kedah, Penang",
-      "summary": "Key points: KUALA LUMPUR, Aug 24 — Ten areas in four states recorded unhealthy Air Pollutant Index (API) readings as of 10am t...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-24T11:47:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/24/sarawak-leads-haze-misery-as-serian-hits-194-unhealthy-api-spreads-to-selangor-kedah-penang/232470",
           "publisher_type": "news"
         }
       ],
