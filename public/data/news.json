@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-08-25T12:36:11+08:00",
+  "generated_at": "2026-08-25T13:29:04+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-25-washington-post-ordered-to-rehire-columnist-fired-after-charlie-kirk-posts",
+      "category": "world",
+      "headline": "Washington Post ordered to rehire columnist fired after Charlie Kirk posts",
+      "summary": "Key points: CNA Latest reports that Washington Post ordered to rehire columnist fired after Charlie Kirk posts.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-25T13:10:15+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/washington-post-ordered-rehire-columnist-fired-after-charlie-kirk-posts-6338276",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-25-canada-set-to-announce-response-to-trump-tariffs-as-trade-war-with-us-escalates",
+      "category": "world",
+      "headline": "Canada set to announce response to Trump tariffs as trade war with US escalates",
+      "summary": "Key points: Canada said it will announce today its response to President Donald Trump&rsq...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-25T13:08:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/25/canada-set-to-announce-response-to-trump-tariffs-as-trade-war-with-us-escalates/232575",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-25-malaysia-carves-premium-niche-in-asia-s-digital-infra-race-economist-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia Carves Premium Niche In Asia's Digital-Infra Race - Economist - Bernama",
+      "summary": "Key points: Malaysia Carves Premium Niche In Asia's Digital-Infra Race - Economist Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-25T13:02:23+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkcE9Ma2h2U0RkZ3FWWENSa0JScXZGcHN2OExKZlVUQkJoR3IzOUtJSng0M0lDZUpaWnhoRzgtN1ZnaHNhQkZzNUR0R1N6TUJ4TElleVpxVmg?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-25-sultan-nazrin-calls-for-less-political-rivalry-among-malaysia-s-muslim-leaders",
+      "category": "malaysia",
+      "headline": "Sultan Nazrin calls for less political rivalry among Malaysia’s Muslim leaders",
+      "summary": "Key points: The unity of Muslims is facing growing challenges due to differences in politics, religious schools of th...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-25T12:59:54+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/sultan-nazrin-calls-for-less-political-rivalry-among-malaysias-muslim-leaders/232574",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-25-trump-vows-to-double-tariffs-on-canadian-vehicles-to-50pc-as-trade-war-deepens",
+      "category": "world",
+      "headline": "Trump vows to double tariffs on Canadian vehicles to 50pc as trade war deepens",
+      "summary": "Key points: US President Donald Trump vowed today to double tariffs on Canadian vehicles beginning next y...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-25T12:57:42+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/25/trump-vows-to-double-tariffs-on-canadian-vehicles-to-50pc-as-trade-war-deepens/232573",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-25-prime-minister-confirms-felda-forensic-audit-proposal-will-be-tabled-at-cabinet-me",
       "category": "malaysia",
@@ -21,36 +141,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-pakistan-and-iran-made-significant-progress-in-talks-on-conflict-minister-says",
-      "category": "world",
-      "headline": "Pakistan and Iran made 'significant progress' in talks on conflict, minister says",
-      "summary": "Key points: CNA Latest reports that Pakistan and Iran made 'significant progress' in talks on conflict, minister says.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T12:31:18+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/pakistan-and-iran-made-significant-progress-in-talks-conflict-minister-says-6339106",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -451,36 +541,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/25/worth-the-bargain-malaysian-consumers-win-big-on-pinduoduo-as-local-sellers-cry-foul/231930",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-pakistan-president-pm-call-for-stronger-ties-with-malaysia-bernama",
-      "category": "malaysia",
-      "headline": "Pakistan President, PM Call For Stronger Ties With Malaysia - Bernama",
-      "summary": "Key points: Pakistan President, PM Call For Stronger Ties With Malaysia Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T00:44:24+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEdjhjSTVqODlaQ0pKYy1maFI2d3dfUE9Qa3JFazNjVG5wMzlFZVRiMUNNNGpsc3U0OS1hWjRCUndIbEd1cXlJWGdUaWQyblhHMDVkdHZ1SXRtWVhRUThqNDF3?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1169,66 +1229,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/24/pm-anwar-to-deliver-national-day-amanat-perdana-at-dataran-merdeka/232477",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-education-minister-fadhlina-sidek-among-top-honourees-at-melaka-s-state-awards",
-      "category": "malaysia",
-      "headline": "Education Minister Fadhlina Sidek among top honourees at Melaka’s state awards",
-      "summary": "Key points: Education Minister Datuk Seri Fadhlina Sidek led the list of 1,328 recipients of awards in conjun...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-24T13:43:05+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/24/education-minister-fadhlina-sidek-among-top-honourees-at-melakas-state-awards/232481",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-linkedua-shutdown-eight-including-motoring-influencer-held-after-staging-illegal-r",
-      "category": "malaysia",
-      "headline": "Linkedua shutdown: Eight including motoring influencer held after staging illegal race on Malaysia-Singapore link",
-      "summary": "Key points: A motoring influencer was among eight local men remanded for four days to assist investigations in...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-24T13:27:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/24/linkedua-shutdown-eight-including-motoring-influencer-held-after-staging-illegal-race-on-malaysia-singapore-link/232482",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-penang-land-sale-probe-macc-extends-remand-for-agency-chief-and-company-director",
-      "category": "malaysia",
-      "headline": "Penang land sale probe: MACC extends remand for agency chief and company director",
-      "summary": "Key points: GEORGE TOWN, Aug 24 — The remand period for a government agency chairman and a company director has been extended...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-24T13:14:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/24/penang-land-sale-probe-macc-extends-remand-for-agency-chief-and-company-director/232480",
           "publisher_type": "news"
         }
       ],
