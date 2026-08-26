@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-27T00:15:58+08:00",
+  "generated_at": "2026-08-27T02:58:38+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-27-wawrinka-handed-us-open-wildcard-after-fan-outcry",
+      "id": "2026-08-27-what-could-change-for-us-teens-on-instagram-and-facebook",
       "category": "world",
-      "headline": "Wawrinka handed US Open wildcard after fan outcry",
-      "summary": "Key points: CNA Latest reports that Wawrinka handed US Open wildcard after fan outcry.",
+      "headline": "What could change for US teens on Instagram and Facebook",
+      "summary": "Key points: Following Meta’s proposed $16.7 billion settlement over claims that its platforms were designed to be addictive to children, new restrictions would be introduced for US users under 18.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-27T00:02:21+08:00",
+      "published_at": "2026-08-27T02:53:58+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/wawrinka-handed-us-open-wildcard-after-fan-outcry-6343221",
+          "url": "https://www.channelnewsasia.com/world/meta-platforms-settlement-instagram-facebook-6343436",
           "publisher_type": "news"
         },
         {
@@ -304,36 +304,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-26-bnm-fines-stanchart-setel-over-sanctions-screening-failure-the-edge-malaysia",
-      "category": "malaysia",
-      "headline": "BNM fines StanChart, Setel over sanctions screening failure - The Edge Malaysia",
-      "summary": "Key points: BNM fines StanChart, Setel over sanctions screening failure The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-26T19:32:07+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3ck1HZ2J2aTY2RXNXblE3cTJnY0VZX05fTHJ3eVV4M3habVpSVE0yMUx2MGJTUktsTXFXcWIxZV9VdGt4aGRIT2ZicnlsYUFS?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-08-26-ex-tabung-haji-chairman-former-treasury-sec-gen-arrested-by-macc-over-rci-findings",
       "category": "malaysia",
       "headline": "Ex-Tabung Haji chairman, former Treasury sec-gen arrested by MACC over RCI findings",
@@ -445,6 +415,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/26/no-comment-15-times-lawyer-asks-high-court-to-make-ex-1mdb-ceo-answer/232764",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-malaysia-to-tighten-rules-on-e-commerce-platforms-mulls-registration-the-edge-mala",
+      "category": "malaysia",
+      "headline": "Malaysia to tighten rules on e-commerce platforms, mulls registration - The Edge Malaysia",
+      "summary": "Key points: Malaysia to tighten rules on e-commerce platforms, mulls registration The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T18:35:18+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWeEJHWU5KN05vdlRFRVYzVG5FcGdsaTRKVDBONmZ1V0s1bXBsa1kyVTdiY3plQmJLdUNfcmlQS0pQbjhrWjBzTzI0dE12bGN5?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
         }
       ],
       "topics": [
