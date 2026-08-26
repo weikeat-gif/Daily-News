@@ -1,8 +1,397 @@
 {
-  "generated_at": "2026-08-26T09:10:19+08:00",
+  "generated_at": "2026-08-26T11:02:09+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-26-figure-skating-olympic-champion-liu-to-sit-out-2026-27-season",
+      "category": "world",
+      "headline": "Figure skating-Olympic champion Liu to sit out 2026-27 season",
+      "summary": "Key points: CNA Latest reports that Figure skating-Olympic champion Liu to sit out 2026-27 season.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T10:57:43+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/sport/figure-skating-olympic-champion-liu-sit-out-2026-27-season-6341501",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-asian-markets-breathe-easier-as-oil-slides-but-nvidia-and-us-inflation-loom",
+      "category": "markets_investment",
+      "headline": "Asian markets breathe easier as oil slides — but Nvidia and US inflation loom",
+      "summary": "Key points: HONG KONG, Aug 26 — Asian stocks edged higher today as oil prices extended a decline on receding concerns about an...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-26T10:57:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/26/asian-markets-breathe-easier-as-oil-slides-but-nvidia-and-us-inflation-loom/232662",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "market",
+        "markets",
+        "stock",
+        "oil"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-bmw-driver-dies-after-crashing-into-parked-cars-in-bukit-mertajam-two-others-hurt",
+      "category": "malaysia",
+      "headline": "BMW driver dies after crashing into parked cars in Bukit Mertajam, two others hurt",
+      "summary": "Key points: BUKIT MERTAJAM, Aug 26 — A man was killed and two others, including a pedestrian, were injured in an accident invo...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T10:40:47+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/bmw-driver-dies-after-crashing-into-parked-cars-in-bukit-mertajam-two-others-hurt/232658",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-too-cool-for-parliament-nepal-pm-cleared-to-wear-signature-sunglasses-for-medical-",
+      "category": "world",
+      "headline": "Too cool for parliament? Nepal PM cleared to wear signature sunglasses for medical reasons",
+      "summary": "Key points: Nepal’s Prime Minister Balendra Shah may keep his signature dark sunglasses on in the le...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T10:32:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/26/too-cool-for-parliament-nepal-pm-cleared-to-wear-signature-sunglasses-for-medical-reasons/232657",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-one-million-children-in-afghanistan-risk-dying-from-severe-malnutrition-says-un",
+      "category": "world",
+      "headline": "One million children in Afghanistan risk dying from 'severe malnutrition', says UN",
+      "summary": "Key points: One million children in Afghanistan are suffering from life-threatening malnutrition in a worseni...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T10:18:28+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/26/one-million-children-in-afghanistan-risk-dying-from-severe-malnutrition-says-un/232654",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-malaysia-s-logistics-crunch-is-a-ticking-time-bomb-shipping-chief-warns",
+      "category": "markets_investment",
+      "headline": "Malaysia’s logistics crunch is a ‘ticking time bomb’, shipping chief warns",
+      "summary": "Key points: KUALA LUMPUR, Aug 26 — Malaysia needs to address the lack of investment across its shipping and logistics ecosyste...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-26T10:11:05+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/26/malaysias-logistics-crunch-is-a-ticking-time-bomb-shipping-chief-warns/232655",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "investment",
+        "war"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-predawn-blaze-claims-lives-of-father-and-nine-year-old-son-in-kuala-nerus",
+      "category": "malaysia",
+      "headline": "Predawn blaze claims lives of father and nine-year-old son in Kuala Nerus",
+      "summary": "Key points: KUALA NERUS, Aug 26 — A father and his nine-year-old son were killed in a house fire in Kampung Tok Jembal, near h...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T10:01:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/predawn-blaze-claims-lives-of-father-and-nine-year-old-son-in-kuala-nerus/232649",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-three-die-after-toyota-vios-and-honda-city-collide-on-jb-mersing-road",
+      "category": "malaysia",
+      "headline": "Three die after Toyota Vios and Honda City collide on JB-Mersing road",
+      "summary": "Key points: KOTA TINGGI, Aug 26 — Three people died after a two-vehicle crash at KM 80 of the Johor Bahru–Mersing Road o...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T09:57:28+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/three-die-after-toyota-vios-and-honda-city-collide-on-jb-mersing-road/232653",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-israeli-settlers-attack-afp-journalists-in-west-bank-five-people-injured",
+      "category": "markets_investment",
+      "headline": "Israeli settlers attack AFP journalists in West Bank, five people injured",
+      "summary": "Key points: JANNATAH, PALESTINIAN TERRITORIES, Aug 26 — Israeli settlers in the occupied West Bank yesterday attacked AFP jour...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-26T09:56:39+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/26/israeli-settlers-attack-afp-journalists-in-west-bank-five-people-injured/232642",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-could-anthropic-pull-off-the-biggest-ipo-ever-five-things-you-need-to-know",
+      "category": "markets_investment",
+      "headline": "Could Anthropic pull off the biggest IPO ever? Five things you need to know",
+      "summary": "Key points: SAN FRANCISCO, Aug 26 — Anthropic, the OpenAI rival that bet everything on computer coding, is expected to go publ...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-26T09:53:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/26/could-anthropic-pull-off-the-biggest-ipo-ever-five-things-you-need-to-know/232652",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-southern-thailand-violence-puts-a-damper-on-cross-border-travel-from-malaysia",
+      "category": "malaysia",
+      "headline": "Southern Thailand violence puts a damper on cross-border travel from Malaysia",
+      "summary": "Key points: PASIR MAS, Aug 26 — Movement in and out of the Rantau Panjang Immigration, Customs, Quarantine, and Security (ICQS...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T09:48:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/southern-thailand-violence-puts-a-damper-on-cross-border-travel-from-malaysia/232648",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-malaysia-should-develop-early-haze-warning-system-expert-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia Should Develop Early Haze Warning System - Expert - Bernama",
+      "summary": "Key points: Malaysia Should Develop Early Haze Warning System - Expert Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T09:47:14+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GVWxhRHgySncyY3UteDBaLTRGcGpNUGxoVmtvMndaOXVyOFlIN3N5ellzdWlBb0E0S1VfeEtIRFg2VnpMWnFGM2F0WFJXQ01JbkdONDItVmc?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-bursa-malaysia-gains-at-open-but-earnings-season-keeps-investors-on-guard",
+      "category": "markets_investment",
+      "headline": "Bursa Malaysia gains at open but earnings season keeps investors on guard",
+      "summary": "Key points: KUALA LUMPUR, Aug 26 — Bursa Malaysia opened higher on Wednesday, supported by resilient domestic fundamentals, al...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-26T09:47:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/26/bursa-malaysia-gains-at-open-but-earnings-season-keeps-investors-on-guard/232650",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "bursa",
+        "earnings"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-sanusi-to-ramkarpal-come-give-muslims-a-talk-about-not-gambling",
+      "category": "malaysia",
+      "headline": "Sanusi to Ramkarpal: Come give Muslims a talk about not gambling",
+      "summary": "Key points: KUALA LUMPUR, Aug 26 — Kedah Menteri Besar Datuk Seri Muhammad Sanusi Md Nor has taken aim at DAP lawmaker Ramkarp...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T09:36:03+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/sanusi-to-ramkarpal-come-give-muslims-a-talk-about-not-gambling/232645",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-google-backed-waymo-brings-driverless-taxis-to-germany-s-automotive-heartland",
+      "category": "markets_investment",
+      "headline": "Google-backed Waymo brings driverless taxis to Germany’s automotive heartland",
+      "summary": "Key points: Self-driving car company Waymo said yesterday it will launch its robotaxis in the German city...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-26T09:26:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/26/google-backed-waymo-brings-driverless-taxis-to-germanys-automotive-heartland/232641",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-ghislaine-maxwell-loses-bid-to-overturn-epstein-linked-sex-trafficking-conviction",
+      "category": "world",
+      "headline": "Ghislaine Maxwell loses bid to overturn Epstein-linked sex trafficking conviction",
+      "summary": "Key points: NEW YORK, Aug 26 — A US federal judge yesterday rejected a bid by Ghislaine Maxwell, a key accomplice of notorious...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T09:24:47+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/26/ghislaine-maxwell-loses-bid-to-overturn-epstein-linked-sex-trafficking-conviction/232640",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-indian-youth-clash-with-police-in-bihar-demanding-jobs-exam-reforms",
+      "category": "world",
+      "headline": "Indian youth clash with police in Bihar demanding jobs, exam reforms",
+      "summary": "Key points: Indian students and unemployed youth clashed with police yesterday as they marched towards the res...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T09:22:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/26/indian-youth-clash-with-police-in-bihar-demanding-jobs-exam-reforms/232635",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-khairy-seeks-court-order-against-mynic-to-uncover-identity-of-corruption-watch-aut",
+      "category": "malaysia",
+      "headline": "Khairy seeks court order against MYNIC to uncover identity of ‘Corruption Watch’ author",
+      "summary": "Key points: KUALA LUMPUR, Aug 26 — Former health minister Khairy Jamaluddin has launched legal action against national domain...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T09:11:12+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/khairy-seeks-court-order-against-mynic-to-uncover-identity-of-corruption-watch-author/232636",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-26-sri-lanka-seeks-investors-for-offshore-oil-and-gas-after-decade-long-hiatus",
       "category": "markets_investment",
@@ -184,36 +573,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-26-dolly-parton-tributes-include-kelly-clarkson-blake-shelton-bette-midler-and-reese-",
-      "category": "world",
-      "headline": "Dolly Parton tributes include Kelly Clarkson, Blake Shelton, Bette Midler and Reese Witherspoon",
-      "summary": "Key points: Clarkson wrote: “Dolly Parton had a way of making everyone feel special, and seen, and welcomed, and as if you were old friends. I will miss her heart and her voice as I am sure millions will.\"",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-26T08:41:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/entertainment/dolly-parton-tributes-death-6340871",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-08-26-oil-prices-sink-for-second-day-as-washington-swaps-iran-war-threat-for-economic-d-",
       "category": "markets_investment",
       "headline": "Oil prices sink for second day as Washington swaps Iran war threat for ‘economic D-Day’",
@@ -237,26 +596,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-08-26-six-months-on-grief-still-raw-for-iran-school-parents",
-      "category": "world",
-      "headline": "Six months on, grief still raw for Iran school parents",
-      "summary": "Key points: MINAB (Iran), Aug 26 — For months, Masoumeh Zakeri has endlessly replayed the last night she spent with her n...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-26T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/26/six-months-on-grief-still-raw-for-iran-school-parents/232568",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-08-26-buying-strata-new-housing-policy-proposes-showing-long-term-maintenance-costs-upfr",
       "category": "malaysia",
       "headline": "Buying strata? New housing policy proposes showing long-term maintenance costs upfront, tighter management rules",
@@ -274,6 +613,26 @@
         "latest update"
       ],
       "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-six-months-on-grief-still-raw-for-iran-school-parents",
+      "category": "world",
+      "headline": "Six months on, grief still raw for Iran school parents",
+      "summary": "Key points: MINAB (Iran), Aug 26 — For months, Masoumeh Zakeri has endlessly replayed the last night she spent with her n...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/26/six-months-on-grief-still-raw-for-iran-school-parents/232568",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -877,362 +1236,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-canada-set-to-announce-response-to-trump-tariffs-as-trade-war-with-us-escalates",
-      "category": "world",
-      "headline": "Canada set to announce response to Trump tariffs as trade war with US escalates",
-      "summary": "Key points: Canada said it will announce today its response to President Donald Trump&rsq...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T13:08:26+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/25/canada-set-to-announce-response-to-trump-tariffs-as-trade-war-with-us-escalates/232575",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-malaysia-carves-premium-niche-in-asia-s-digital-infra-race-economist-bernama",
-      "category": "malaysia",
-      "headline": "Malaysia Carves Premium Niche In Asia's Digital-Infra Race - Economist - Bernama",
-      "summary": "Key points: Malaysia Carves Premium Niche In Asia's Digital-Infra Race - Economist Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T13:02:23+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkcE9Ma2h2U0RkZ3FWWENSa0JScXZGcHN2OExKZlVUQkJoR3IzOUtJSng0M0lDZUpaWnhoRzgtN1ZnaHNhQkZzNUR0R1N6TUJ4TElleVpxVmg?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-sultan-nazrin-calls-for-less-political-rivalry-among-malaysia-s-muslim-leaders",
-      "category": "malaysia",
-      "headline": "Sultan Nazrin calls for less political rivalry among Malaysia’s Muslim leaders",
-      "summary": "Key points: The unity of Muslims is facing growing challenges due to differences in politics, religious schools of th...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T12:59:54+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/sultan-nazrin-calls-for-less-political-rivalry-among-malaysias-muslim-leaders/232574",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-trump-vows-to-double-tariffs-on-canadian-vehicles-to-50pc-as-trade-war-deepens",
-      "category": "world",
-      "headline": "Trump vows to double tariffs on Canadian vehicles to 50pc as trade war deepens",
-      "summary": "Key points: US President Donald Trump vowed today to double tariffs on Canadian vehicles beginning next y...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T12:57:42+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/25/trump-vows-to-double-tariffs-on-canadian-vehicles-to-50pc-as-trade-war-deepens/232573",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-prime-minister-confirms-felda-forensic-audit-proposal-will-be-tabled-at-cabinet-me",
-      "category": "malaysia",
-      "headline": "Prime Minister confirms Felda forensic audit proposal will be tabled at Cabinet meeting soon",
-      "summary": "Key points: A proposal for a forensic audit to be conducted into the management of the Federal Land Consolid...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T12:35:28+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/prime-minister-confirms-felda-forensic-audit-proposal-will-be-tabled-at-cabinet-meeting-soon/232572",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-immigration-lodges-police-report-after-viral-utc-pudu-post-found-inconsistent-with",
-      "category": "malaysia",
-      "headline": "Immigration lodges police report after viral UTC Pudu post found inconsistent with CCTV records",
-      "summary": "Key points: The Immigration Department of Malaysia (JIM) has lodged a police report over a viral post conc...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T12:29:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/immigration-lodges-police-report-after-viral-utc-pudu-post-found-inconsistent-with-cctv-records/232564",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-haze-alert-penang-health-exco-advises-face-masks-as-api-levels-spike",
-      "category": "malaysia",
-      "headline": "Haze alert: Penang health exco advises face masks as API levels spike",
-      "summary": "Key points: GEORGE TOWN, Aug 25 — Residents of Penang are urged to limit outdoor activities as air quality deteriorated today,...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T12:17:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/haze-alert-penang-health-exco-advises-face-masks-as-api-levels-spike/232566",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-macc-probes-rm80m-felda-palong-7-oil-palm-replanting-scheme-after-settlers-raise-c",
-      "category": "malaysia",
-      "headline": "MACC probes RM80m Felda Palong 7 oil palm replanting scheme after settlers raise concerns",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — The Malaysian Anti-Corruption Commission (MACC) is examining information related to the imp...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T11:59:09+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/macc-probes-rm80m-felda-palong-7-oil-palm-replanting-scheme-after-settlers-raise-concerns/232563",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-metmalaysia-warns-of-thunderstorms-heavy-rain-and-strong-winds-across-four-states-",
-      "category": "malaysia",
-      "headline": "MetMalaysia warns of thunderstorms, heavy rain and strong winds across four states and Sarawak",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — Four states in Peninsular Malaysia and Sarawak are expected to experience thunderstorms, he...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T11:42:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/metmalaysia-warns-of-thunderstorms-heavy-rain-and-strong-winds-across-four-states-and-sarawak/232561",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-saudi-arabia-signs-us7b-deal-with-france-for-three-paris-theme-parks-one-manga-the",
-      "category": "markets_investment",
-      "headline": "Saudi Arabia signs US7b deal with France for three Paris theme parks, one manga-themed",
-      "summary": "Key points: France and Saudi Arabia yesterday signed a memorandum of understanding for a six-billion-eur...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-25T11:05:35+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/25/saudi-arabia-signs-us7b-deal-with-france-for-three-paris-theme-parks-one-manga-themed/232559",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-civil-defence-force-vows-safety-review-after-trained-sergeant-dies-from-cobra-bite",
-      "category": "malaysia",
-      "headline": "Civil Defence Force vows safety review after trained sergeant dies from cobra bite",
-      "summary": "Key points: KUALA LUMPUR, Aug 24 — The Malaysia Civil Defence Force (APM) takes the fatal snakebite incident involving one of...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T10:34:03+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/civil-defence-force-vows-safety-review-after-trained-sergeant-dies-from-cobra-bite/232551",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-families-of-venezuelans-killed-in-quake-after-us-deportation-demand-govt-apology",
-      "category": "world",
-      "headline": "Families of Venezuelans killed in quake after US deportation demand govt apology",
-      "summary": "Key points: Relatives of Venezuelan deportees from the United States who died in the earthquakes that...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T10:29:57+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/25/families-of-venezuelans-killed-in-quake-after-us-deportation-demand-govt-apology/232553",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-sarawak-and-klang-valley-worst-hit-as-30-spots-in-malaysia-breach-unhealthy-api-le",
-      "category": "malaysia",
-      "headline": "Sarawak and Klang Valley worst hit as 30 spots in Malaysia breach ‘Unhealthy’ API levels",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — Malaysia’s prolonged haze crisis showed no signs of abating today, with 30 monitoring...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T10:29:50+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/sarawak-and-klang-valley-worst-hit-as-30-spots-in-malaysia-breach-unhealthy-api-levels/232552",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-anwar-reflects-on-prophet-s-leadership-promises-change-and-justice-for-malaysia-in",
-      "category": "malaysia",
-      "headline": "Anwar reflects on Prophet’s leadership, promises change and justice for Malaysia in Maulidur Rasul message",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — Prime Minister Datuk Seri Anwar Ibrahim said that he will continue striving to bring about...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T10:07:48+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/anwar-reflects-on-prophets-leadership-promises-change-and-justice-for-malaysia-in-maulidur-rasul-message/232549",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-anwar-applauds-sukma-2026-champions-urges-youth-to-chase-glory-and-carry-malaysia-",
-      "category": "malaysia",
-      "headline": "Anwar applauds Sukma 2026 champions, urges youth to chase glory and carry Malaysia’s name worldwide",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — Prime Minister Datuk Seri Anwar Ibrahim has congratulated Selangor Menteri Besar Datuk Seri...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T09:56:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/anwar-applauds-sukma-2026-champions-urges-youth-to-chase-glory-and-carry-malaysias-name-worldwide/232548",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "selangor"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-ikea-picks-kuching-for-first-ever-small-store-format-in-malaysia-eyes-december-ope",
-      "category": "malaysia",
-      "headline": "IKEA picks Kuching for first-ever small store format in Malaysia, eyes December opening",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — IKEA Malaysia has confirmed that its first store in East Malaysia will open its doors in Ku...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T09:46:56+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/ikea-picks-kuching-for-first-ever-small-store-format-in-malaysia-eyes-december-opening/232547",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-metmalaysia-warns-of-sustained-hot-spell-17-areas-nationwide-placed-under-caution-",
-      "category": "malaysia",
-      "headline": "MetMalaysia warns of sustained hot spell, 17 areas nationwide placed under caution status",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — The Malaysian Meteorological Department (MetMalaysia) today issued a Level 1 (caution categ...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T09:42:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/metmalaysia-warns-of-sustained-hot-spell-17-areas-nationwide-placed-under-caution-status/232545",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
