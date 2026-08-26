@@ -1,19 +1,199 @@
 {
-  "generated_at": "2026-08-26T07:23:00+08:00",
+  "generated_at": "2026-08-26T09:10:19+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-26-us-oil-prices-extend-losses-on-hopes-of-iran-oman-talks-on-strait-of-hormuz",
+      "id": "2026-08-26-sri-lanka-seeks-investors-for-offshore-oil-and-gas-after-decade-long-hiatus",
       "category": "markets_investment",
-      "headline": "US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz",
-      "summary": "Key points: CNA Latest reports that US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz.",
+      "headline": "Sri Lanka seeks investors for offshore oil and gas after decade-long hiatus",
+      "summary": "Key points: Sri Lanka is seeking international bids for offshore oil and gas exploration, authorities announ...",
       "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-26T07:02:25+08:00",
+      "published_at": "2026-08-26T09:08:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/26/sri-lanka-seeks-investors-for-offshore-oil-and-gas-after-decade-long-hiatus/232632",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-penang-police-hunt-missing-kafa-teacher-26-ahead-of-september-wedding",
+      "category": "malaysia",
+      "headline": "Penang police hunt missing Kafa teacher, 26, ahead of September wedding",
+      "summary": "Key points: GEORGE TOWN, Aug 26 — Police are actively conducting investigations and efforts to track down a male Kelas al-Qura...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T09:05:56+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/penang-police-hunt-missing-kafa-teacher-26-ahead-of-september-wedding/232623",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-trade-war-erupts-canada-slaps-15-50pc-tariffs-on-us-goods-in-revenge-for-trump-dut",
+      "category": "world",
+      "headline": "Trade war erupts: Canada slaps 15–50pc tariffs on US goods in revenge for Trump duties",
+      "summary": "Key points: Canada yesterday announced counter-tariffs on US goods ranging between 15 and 50 per cent, intens...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T09:04:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/26/trade-war-erupts-canada-slaps-1550pc-tariffs-on-us-goods-in-revenge-for-trump-duties/232633",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-don-t-balance-your-books-with-our-jobs-furious-volkswagen-workers-jeer-boss-over-c",
+      "category": "markets_investment",
+      "headline": "‘Don’t balance your books with our jobs’: Furious Volkswagen workers jeer boss over cuts in Germany",
+      "summary": "Key points: The boss of German carmaker Volkswagen warned workers yesterday to brace for more job losses,...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-26T08:58:19+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/26/dont-balance-your-books-with-our-jobs-furious-volkswagen-workers-jeer-boss-over-cuts-in-germany/232631",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-penang-schools-told-to-stay-on-alert-as-haze-worsens",
+      "category": "malaysia",
+      "headline": "Penang schools told to stay on alert as haze worsens",
+      "summary": "Key points: GEORGE TOWN, Aug 26 — The Penang Education Department (JPNPP) has directed all District Education Offices (PPD) an...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T08:52:27+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/penang-schools-told-to-stay-on-alert-as-haze-worsens/232622",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-haze-persists-across-malaysia-as-17-stations-record-unhealthy-air-quality",
+      "category": "malaysia",
+      "headline": "Haze persists across Malaysia as 17 stations record unhealthy air quality",
+      "summary": "Key points: KUALA LUMPUR, Aug 26 — Malaysia's air quality crisis showed no signs of abating this morning, with the Departm...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T08:50:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/haze-persists-across-malaysia-as-17-stations-record-unhealthy-air-quality/232628",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-police-nab-one-suspect-after-man-dies-in-shah-alam-brawl",
+      "category": "malaysia",
+      "headline": "Police nab one suspect after man dies in Shah Alam brawl",
+      "summary": "Key points: SHAH ALAM, Aug 26 — Police have arrested a man to assist in investigations into a fight involving several individu...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T08:47:32+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/police-nab-one-suspect-after-man-dies-in-shah-alam-brawl/232620",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-ringgit-starts-wednesday-stronger-with-all-eyes-on-fed-chief-s-jackson-hole-speech",
+      "category": "markets_investment",
+      "headline": "Ringgit starts Wednesday stronger with all eyes on Fed chief’s Jackson Hole speech",
+      "summary": "Key points: KUALA LUMPUR, Aug 26 — The ringgit opened higher against the US dollar on Wednesday, supported by a softer greenba...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-26T08:42:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/26/ringgit-starts-wednesday-stronger-with-all-eyes-on-fed-chiefs-jackson-hole-speech/232626",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-celebrity-preacher-ngo-secretary-face-charges-over-alleged-rm12m-misappropriation-",
+      "category": "malaysia",
+      "headline": "Celebrity preacher, NGO secretary face charges over alleged RM12m misappropriation in Seremban court",
+      "summary": "Key points: KUALA LUMPUR, Aug 26 — The Malaysian Anti-Corruption Commission (MACC) will charge the chairman of a non-governmen...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T08:41:45+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/celebrity-preacher-ngo-secretary-face-charges-over-alleged-rm12m-misappropriation-in-seremban-court/232621",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-dolly-parton-tributes-include-kelly-clarkson-blake-shelton-bette-midler-and-reese-",
+      "category": "world",
+      "headline": "Dolly Parton tributes include Kelly Clarkson, Blake Shelton, Bette Midler and Reese Witherspoon",
+      "summary": "Key points: Clarkson wrote: “Dolly Parton had a way of making everyone feel special, and seen, and welcomed, and as if you were old friends. I will miss her heart and her voice as I am sure millions will.\"",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T08:41:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/us-oil-prices-extend-losses-hopes-iran-oman-talks-strait-hormuz-6341076",
+          "url": "https://www.channelnewsasia.com/entertainment/dolly-parton-tributes-death-6340871",
           "publisher_type": "news"
         },
         {
@@ -25,6 +205,49 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-oil-prices-sink-for-second-day-as-washington-swaps-iran-war-threat-for-economic-d-",
+      "category": "markets_investment",
+      "headline": "Oil prices sink for second day as Washington swaps Iran war threat for ‘economic D-Day’",
+      "summary": "Key points: NEW YORK, Aug 26 — Oil prices fell for a second day yesterday as traders judged the risk of renewed military strik...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-26T08:38:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/26/oil-prices-sink-for-second-day-as-washington-swaps-iran-war-threat-for-economic-d-day/232625",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "oil",
+        "iran",
+        "war",
+        "trade"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-six-months-on-grief-still-raw-for-iran-school-parents",
+      "category": "world",
+      "headline": "Six months on, grief still raw for Iran school parents",
+      "summary": "Key points: MINAB (Iran), Aug 26 — For months, Masoumeh Zakeri has endlessly replayed the last night she spent with her n...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/26/six-months-on-grief-still-raw-for-iran-school-parents/232568",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -51,26 +274,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-26-six-months-on-grief-still-raw-for-iran-school-parents",
-      "category": "world",
-      "headline": "Six months on, grief still raw for Iran school parents",
-      "summary": "Key points: MINAB (Iran), Aug 26 — For months, Masoumeh Zakeri has endlessly replayed the last night she spent with her n...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-26T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/26/six-months-on-grief-still-raw-for-iran-school-parents/232568",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1030,216 +1233,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-police-say-pasir-mas-crash-kills-elderly-woman-and-granddaughter-third-victim-hosp",
-      "category": "malaysia",
-      "headline": "Police say Pasir Mas crash kills elderly woman and granddaughter, third victim hospitalised with injuries",
-      "summary": "Key points: KOTA BHARU, Aug 25 — An elderly woman and her granddaughter were killed after the Perodua Axia they were travellin...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T09:32:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/police-say-pasir-mas-crash-kills-elderly-woman-and-granddaughter-third-victim-hospitalised-with-injuries/232540",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-will-tian-chua-contest-batu-again-returning-pkr-veteran-eyes-political-revival",
-      "category": "malaysia",
-      "headline": "Will Tian Chua contest Batu again? Returning PKR veteran eyes political revival",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — Former PKR vice-president Tian Chua has set his sights on a return to Parliament and is ope...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T09:28:48+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/will-tian-chua-contest-batu-again-returning-pkr-veteran-eyes-political-revival/232541",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-police-confirm-kajang-road-closures-as-merdeka-eve-celebration-rehearsals-roll-out",
-      "category": "malaysia",
-      "headline": "Police confirm Kajang road closures as Merdeka Eve celebration rehearsals roll out",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — Five main roads around Kajang will be closed in stages from this Wednesday before being ful...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T09:17:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/police-confirm-kajang-road-closures-as-merdeka-eve-celebration-rehearsals-roll-out/232534",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-us-supreme-court-gives-trump-temporary-win-on-mail-in-voting-restrictions-ahead-of",
-      "category": "world",
-      "headline": "US Supreme Court gives Trump temporary win on mail-in voting restrictions ahead of midterms",
-      "summary": "Key points: The US Supreme Court gave President Donald Trump a temporary victory on yesterday, lift...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T09:08:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/25/us-supreme-court-gives-trump-temporary-win-on-mail-in-voting-restrictions-ahead-of-midterms/232536",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-us-vows-economic-asphyxiation-of-iran-warns-countries-against-defying-sanctions",
-      "category": "world",
-      "headline": "US vows ‘economic asphyxiation’ of Iran, warns countries against defying sanctions",
-      "summary": "Key points: US Treasury Secretary Scott Bessent yesterday laid out plans for the “econom...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T09:08:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/25/us-vows-economic-asphyxiation-of-iran-warns-countries-against-defying-sanctions/232535",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-ten-arrested-in-sandakan-after-woman-found-bound-murdered-in-home",
-      "category": "malaysia",
-      "headline": "Ten arrested in Sandakan after woman found bound, murdered in home",
-      "summary": "Key points: Police have arrested 10 suspects, including two primary individuals, following the brutal murde...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T09:02:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/ten-arrested-in-sandakan-after-woman-found-bound-murdered-in-home/232533",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-selangor-marks-sukma-victory-with-sept-1-holiday-honouring-athletes-and-10-000-vol",
-      "category": "malaysia",
-      "headline": "Selangor marks Sukma victory with Sept 1 holiday, honouring athletes and 10,000 volunteers",
-      "summary": "Key points: SHAH ALAM, Aug 25 — The Selangor government has declared Sept 1 as a special holiday to commemorate the state cont...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T08:58:35+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/selangor-marks-sukma-victory-with-sept-1-holiday-honouring-athletes-and-10000-volunteers/232531",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-us-insurer-chubb-scraps-ipo-of-malaysian-unit-the-edge-malaysia",
-      "category": "malaysia",
-      "headline": "US insurer Chubb scraps IPO of Malaysian unit - The Edge Malaysia",
-      "summary": "Key points: US insurer Chubb scraps IPO of Malaysian unit The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T08:00:00+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Vd3puaGtJbmdOWklRMjRjRkpJV2laTjdqWUpmaXl3YzV0NWt0QkRWOHZVLW9kUHRUblNOemZVOXVvVXVraGFoYV9PS0lSVTRq?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-worth-the-bargain-malaysian-consumers-win-big-on-pinduoduo-as-local-sellers-cry-fo",
-      "category": "malaysia",
-      "headline": "Worth the bargain? Malaysian consumers win big on Pinduoduo as local sellers cry foul",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 —Inside the sprawling digital storefront of Chinese e-commerce titan Pinduoduo, Shaun Kong ro...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/worth-the-bargain-malaysian-consumers-win-big-on-pinduoduo-as-local-sellers-cry-foul/231930",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-24-what-to-know-about-chinese-founded-fast-fashion-giant-shein-as-it-prepares-hong-ko",
-      "category": "markets_investment",
-      "headline": "What to know about Chinese‑founded fast‑fashion giant Shein as it prepares Hong Kong IPO",
-      "summary": "Key points: Shein, the Chinese-founded retailer that harnessed social media to chart a meteoric rise in the...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-08-24T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/08/24/what-to-know-about-chinesefounded-fastfashion-giant-shein-as-it-prepares-hong-kong-ipo/232495",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
