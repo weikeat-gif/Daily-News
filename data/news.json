@@ -1,19 +1,59 @@
 {
-  "generated_at": "2026-08-26T13:32:04+08:00",
+  "generated_at": "2026-08-26T14:43:50+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-26-softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing-bloomberg-news-repo",
+      "id": "2026-08-26-woman-62-found-bound-and-dead-in-sandakan-cops-nab-10-suspects-youngest-aged-10",
+      "category": "malaysia",
+      "headline": "Woman, 62, found bound and dead in Sandakan, cops nab 10 suspects, youngest aged 10",
+      "summary": "Key points: Ten people, including two believed to be the main suspects, have been detained following the di...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T14:39:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/woman-62-found-bound-and-dead-in-sandakan-cops-nab-10-suspects-youngest-aged-10/232711",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-sabah-to-upgrade-sicc-menera-kinabalu-stretch-ditch-permanent-bridge-plan",
+      "category": "malaysia",
+      "headline": "Sabah to upgrade SICC-Menera Kinabalu stretch, ditch permanent bridge plan",
+      "summary": "Key points: KOTA KINABALU, Aug 26 — The State Government plans to upgrade the entire stretch from the Sabah International Conv...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T14:32:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/sabah-to-upgrade-sicc-menera-kinabalu-stretch-ditch-permanent-bridge-plan/232710",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-pakistan-hospital-fire-kills-14-infants",
       "category": "world",
-      "headline": "SoftBank mulls up to $20 billion bond sale for OpenAI financing, Bloomberg News reports",
-      "summary": "Key points: CNA Latest reports that SoftBank mulls up to $20 billion bond sale for OpenAI financing, Bloomberg News reports.",
+      "headline": "Pakistan hospital fire kills 14 infants",
+      "summary": "Key points: The fire broke out on the third floor of a public hospital's Mother and Child Health Ward, and the authorities have yet to determine the cause of the blaze.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-26T13:26:18+08:00",
+      "published_at": "2026-08-26T14:27:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/softbank-mulls-up-20-billion-bond-sale-openai-financing-bloomberg-news-reports-6341881",
+          "url": "https://www.channelnewsasia.com/asia/pakistan-hospital-fire-14-infants-killed-6341981",
           "publisher_type": "news"
         },
         {
@@ -24,6 +64,156 @@
         {
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-putrajaya-approves-367-projects-worth-rm9b-to-replace-dilapidated-schools",
+      "category": "malaysia",
+      "headline": "Putrajaya approves 367 projects worth RM9b to replace dilapidated schools",
+      "summary": "Key points: The government has approved 367 projects to redevelop dilapidated school buildings worth RM9 billi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T14:23:51+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/putrajaya-approves-367-projects-worth-rm9b-to-replace-dilapidated-schools/232706",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-penang-state-museum-smashes-2026-visitor-targets-in-first-month-after-reopening",
+      "category": "malaysia",
+      "headline": "Penang State Museum smashes 2026 visitor targets in first month after reopening",
+      "summary": "Key points: GEORGE TOWN, Aug 26 — The Penang State Museum on Farquhar Street has recorded a surge of 47,638 visitors in just 2...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T14:16:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/penang-state-museum-smashes-2026-visitor-targets-in-first-month-after-reopening/232705",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-iran-says-strait-of-hormuz-will-stay-closed-until-us-ends-war-lifts-blockade",
+      "category": "world",
+      "headline": "Iran says Strait of Hormuz will stay closed until US ends war, lifts blockade",
+      "summary": "Key points: Iran and Oman are discussing a temporary transit corridor and mine-clearing for the Strait of Hor...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T14:04:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/26/iran-says-strait-of-hormuz-will-stay-closed-until-us-ends-war-lifts-blockade/232703",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-south-korea-scrambles-fighter-jets-as-russian-military-aircraft-enter-air-defence-",
+      "category": "world",
+      "headline": "South Korea scrambles fighter jets as Russian military aircraft enter air defence zone",
+      "summary": "Key points: South Korea said today it had scrambled fighter jets in response to Russian military aircraft ente...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T13:58:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/26/south-korea-scrambles-fighter-jets-as-russian-military-aircraft-enter-air-defence-zone/232702",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-stop-shifting-goalposts-on-tabung-haji-rci-pkr-youth-tells-akmal",
+      "category": "malaysia",
+      "headline": "Stop shifting goalposts on Tabung Haji RCI, PKR Youth tells Akmal",
+      "summary": "Key points: KUALA LUMPUR, Aug 26 — PKR Youth information chief Danish Hairudin has accused Umno Youth chief Datuk Dr Akmal Sal...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T13:54:45+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/stop-shifting-goalposts-on-tabung-haji-rci-pkr-youth-tells-akmal/232701",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-social-media-use-rebounds-among-australian-children-despite-under-16-ban",
+      "category": "world",
+      "headline": "Social media use rebounds among Australian children despite under-16 ban",
+      "summary": "Key points: Australian under-16s are increasing their use of social media apps such as Instagram and Ti...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T13:53:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/08/26/social-media-use-rebounds-among-australian-children-despite-under-16-ban/232699",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-public-bank-s-2q-net-profit-rises-nearly-4-declares-10-5-sen-dividend-the-edge-mal",
+      "category": "markets_investment",
+      "headline": "Public Bank’s 2Q net profit rises nearly 4%, declares 10.5 sen dividend - The Edge Malaysia",
+      "summary": "Key points: Public Bank’s 2Q net profit rises nearly 4%, declares 10.5 sen dividend The Edge Malaysia",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-08-26T13:11:17+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DQ194ejAtaldfOENNMWhaUnZYM1VlQTNEWXdEUU9HYjE1bFQ4Yzl4MjBnaWpWaVVmOEt1YTFVSnE0X2hWTmE5NzJVMFprVlhX?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
           "publisher_type": "social"
         }
       ],
@@ -1056,189 +1246,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-public-toilets-maintained-markets-upgraded-drains-improved-housing-ministry-says-s",
-      "category": "malaysia",
-      "headline": "Public toilets maintained, markets upgraded, drains improved: Housing Ministry says six initiatives surpass targets",
-      "summary": "Key points: Six significant initiatives implemented by the Housing and Local Government Ministry (KPKT) un...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T20:22:03+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/public-toilets-maintained-markets-upgraded-drains-improved-housing-ministry-says-six-initiatives-surpass-targets/232616",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "putrajaya",
-        "market",
-        "markets",
-        "oil"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-sunway-lagoon-says-cooperating-with-authorities-after-roller-coaster-incident",
-      "category": "malaysia",
-      "headline": "Sunway Lagoon says cooperating with authorities after roller coaster incident",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — Sunway Theme Parks says that it is currently working closely and fully cooperating with all...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T20:18:02+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/sunway-lagoon-says-cooperating-with-authorities-after-roller-coaster-incident/232617",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-jeffrey-cheah-says-metal-fatigue-possible-cause-of-sunway-lagoon-roller-coaster-in",
-      "category": "malaysia",
-      "headline": "Jeffrey Cheah says metal fatigue possible cause of Sunway Lagoon roller coaster incident",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — Sunway Group founder Tan Sri Jeffrey Cheah has reportedly confirmed a roller coaster a...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T20:15:03+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/jeffrey-cheah-says-metal-fatigue-possible-cause-of-sunway-lagoon-roller-coaster-incident/232618",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-strong-winds-heavy-rain-damage-kuching-international-airport-roof-video",
-      "category": "malaysia",
-      "headline": "Strong winds, heavy rain damage Kuching International Airport roof (VIDEO)",
-      "summary": "Key points: A section of the roof at the arrival area of Kuching International Airport (KIA) was damage...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T19:47:31+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/strong-winds-heavy-rain-damage-kuching-international-airport-roof-video/232615",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-un-israel-threats-to-expel-gazans-over-kite-flying-outrageous",
-      "category": "world",
-      "headline": "UN: Israel threats to expel Gazans over kite-flying ‘outrageous’",
-      "summary": "Key points: The United Nations today slammed Israel’s threat to expel people from areas where kite...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T19:25:13+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/25/un-israel-threats-to-expel-gazans-over-kite-flying-outrageous/232613",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-rights-group-china-sentences-artist-to-3-years-jail-for-insulting-heroes",
-      "category": "world",
-      "headline": "Rights group: China sentences artist to 3 years’ jail for ‘insulting heroes’",
-      "summary": "Key points: China sentenced a prominent artist whose works criticised former leader Mao Zedong to three...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T18:55:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/25/rights-group-china-sentences-artist-to-3-years-jail-for-insulting-heroes/232611",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-us-delays-lockerbie-bombing-trial-over-new-evidence",
-      "category": "world",
-      "headline": "US delays Lockerbie bombing trial over new evidence",
-      "summary": "Key points: A US federal judge postponed yesterday the trial of a Libyan man accused of making the b...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T18:53:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/25/us-delays-lockerbie-bombing-trial-over-new-evidence/232610",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-metmalaysia-weak-3-1-magnitude-earthquake-strikes-off-batu-pahat",
-      "category": "malaysia",
-      "headline": "MetMalaysia: Weak 3.1-magnitude earthquake strikes off Batu Pahat",
-      "summary": "Key points: JOHOR BAHRU, Aug 25 — A weak earthquake measuring 3.1 magnitude struck the waters off Batu Pahat, Johor, at 4.12pm...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T18:51:03+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/metmalaysia-weak-31-magnitude-earthquake-strikes-off-batu-pahat/232607",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-analysis-trump-policies-to-double-power-sector-carbon-emissions-by-2035",
-      "category": "world",
-      "headline": "Analysis: Trump policies to double power sector carbon emissions by 2035",
-      "summary": "Key points: President Donald Trump’s fossil fuel agenda will result in the loss of US$700 bill...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T18:49:07+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/25/analysis-trump-policies-to-double-power-sector-carbon-emissions-by-2035/232609",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
