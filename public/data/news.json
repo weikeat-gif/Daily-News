@@ -1,8 +1,158 @@
 {
-  "generated_at": "2026-08-26T12:36:51+08:00",
+  "generated_at": "2026-08-26T13:32:04+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-26-softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing-bloomberg-news-repo",
+      "category": "world",
+      "headline": "SoftBank mulls up to $20 billion bond sale for OpenAI financing, Bloomberg News reports",
+      "summary": "Key points: CNA Latest reports that SoftBank mulls up to $20 billion bond sale for OpenAI financing, Bloomberg News reports.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-26T13:26:18+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/softbank-mulls-up-20-billion-bond-sale-openai-financing-bloomberg-news-reports-6341881",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-missing-penang-kafa-teacher-due-to-wed-in-september-turns-up-in-kedah",
+      "category": "malaysia",
+      "headline": "Missing Penang Kafa teacher due to wed in September turns up in Kedah",
+      "summary": "Key points: GEORGE TOWN, Aug 26 — A male Quran and Fardu Ain (Kafa) teacher who was reported missing since last Saturday after...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T13:06:04+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/missing-penang-kafa-teacher-due-to-wed-in-september-turns-up-in-kedah/232690",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-coroner-walks-out-during-zara-qairina-inquest-after-saying-am-i-not-fair-enough-tw",
+      "category": "malaysia",
+      "headline": "Coroner walks out during Zara Qairina inquest after saying ‘Am I not fair enough?’ twice",
+      "summary": "Key points: KOTA KINABALU, Aug 26 — The Coroner’s Court hearing the inquest into the death of Zara Qairina Mahathir saw...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T12:57:27+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/coroner-walks-out-during-zara-qairina-inquest-after-saying-am-i-not-fair-enough-twice/232689",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-ijm-corp-subsidiary-bags-nearly-rm1b-in-semiconductor-and-medical-tech-contracts",
+      "category": "malaysia",
+      "headline": "IJM Corp subsidiary bags nearly RM1b in semiconductor and medical tech contracts",
+      "summary": "Key points: KUALA LUMPUR, Aug 26 — IJM Corporation Bhd’s (IJM Corp) wholly owned subsidiary, IJM Construction Sdn Bhd, h...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T12:54:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/26/ijm-corp-subsidiary-bags-nearly-rm1b-in-semiconductor-and-medical-tech-contracts/232693",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-kuching-airport-repairs-underway-after-storm-damages-ceiling",
+      "category": "malaysia",
+      "headline": "Kuching airport repairs underway after storm damages ceiling",
+      "summary": "Key points: Repair works have been carried out at Kuching International Airport (KIA) following damage to pa...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T12:50:44+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/kuching-airport-repairs-underway-after-storm-damages-ceiling/232692",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-look-beyond-racial-and-political-lines-this-merdeka-urges-sultan-of-selangor",
+      "category": "malaysia",
+      "headline": "Look beyond racial and political lines this Merdeka, urges Sultan of Selangor",
+      "summary": "Key points: SHAH ALAM, Aug 26 — The Sultan of Selangor, Sultan Sharafuddin Idris Shah, has urged Malaysians to use this year&r...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T12:43:45+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/08/26/look-beyond-racial-and-political-lines-this-merdeka-urges-sultan-of-selangor/232687",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-proton-powers-towards-best-year-in-15-years-with-200-000-car-sales-target",
+      "category": "malaysia",
+      "headline": "Proton powers towards best year in 15 years with 200,000-car sales target",
+      "summary": "Key points: KUALA LUMPUR, Aug 26 — Proton Holdings Bhd expects its total vehicle sales to reach 200,000 units in 2026, which w...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T12:38:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/08/26/proton-powers-towards-best-year-in-15-years-with-200000-car-sales-target/232686",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-26-proton-sees-malaysia-s-e-e-strength-as-key-to-automotive-industry-s-next-chapter",
       "category": "malaysia",
@@ -144,36 +294,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-26-south-korea-s-lee-calls-for-greater-police-accountability-after-jeju-missing-perso",
-      "category": "world",
-      "headline": "South Korea's Lee calls for greater police accountability after Jeju missing-person cases",
-      "summary": "Key points: CNA Latest reports that South Korea's Lee calls for greater police accountability after Jeju missing-person cases.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-26T11:46:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/east-asia/south-koreas-lee-calls-greater-police-accountability-after-jeju-missing-person-cases-6341566",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1119,126 +1239,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-norwegian-public-services-targeted-by-cyberattack",
-      "category": "world",
-      "headline": "Norwegian public services targeted by cyberattack",
-      "summary": "Key points: Several public services in Norway have been targeted by cyberattacks since yesterday, Anadolu A...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-25T18:45:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/08/25/norwegian-public-services-targeted-by-cyberattack/232608",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-national-day-2026-putrajaya-road-closures-begin-tomorrow-only-two-bridges-to-remai",
-      "category": "malaysia",
-      "headline": "National Day 2026: Putrajaya road closures begin tomorrow, only two bridges to remain open",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — The Royal Malaysia Police (PDRM) will step up security and traffic controls in Kuala Lumpur...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T18:41:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/national-day-2026-putrajaya-road-closures-begin-tomorrow-only-two-bridges-to-remain-open/232606",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-yayasan-tunku-abdul-rahman-marks-60-years-with-rm96-6m-poured-into-youth-empowerme",
-      "category": "malaysia",
-      "headline": "Yayasan Tunku Abdul Rahman marks 60 years with RM96.6m poured into youth empowerment",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — Yayasan Tunku Abdul Rahman (YTAR) is celebrating six decades of empowering young Malaysian...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T17:27:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/yayasan-tunku-abdul-rahman-marks-60-years-with-rm966m-poured-into-youth-empowerment/232605",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-pas-muktamar-to-debate-umno-ties-and-muslim-unity-says-takiyuddin",
-      "category": "malaysia",
-      "headline": "PAS muktamar to debate Umno ties and Muslim unity, says Takiyuddin",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — A motion addressing political cooperation between Umno and PAS will be tabled at the Islami...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T17:11:28+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/pas-muktamar-to-debate-umno-ties-and-muslim-unity-says-takiyuddin/232602",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-prisoner-dies-in-marang-after-alleged-beating-by-three-inmates-over-old-debt",
-      "category": "malaysia",
-      "headline": "Prisoner dies in Marang after alleged beating by three inmates over old debt",
-      "summary": "Key points: A male prisoner died after he was believed to have been beaten by three other inmates at a prison...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T17:07:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/prisoner-dies-in-marang-after-alleged-beating-by-three-inmates-over-old-debt/232599",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-25-high-court-slashes-man-s-rape-sentence-from-10-years-to-one-citing-youth-and-rehab",
-      "category": "malaysia",
-      "headline": "High Court slashes man’s rape sentence from 10 years to one, citing youth and rehabilitation",
-      "summary": "Key points: KUALA LUMPUR, Aug 25 — The High Court in Kuantan has slashed a man’s sentence for statutory rape from 10 yea...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-25T16:38:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/25/high-court-slashes-mans-rape-sentence-from-10-years-to-one-citing-youth-and-rehabilitation/232600",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
