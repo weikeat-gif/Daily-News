@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-26T22:41:22+08:00",
+  "generated_at": "2026-08-27T00:15:58+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-26-us-data-lifts-dollar-as-fed-hike-expectations-edge-higher",
+      "id": "2026-08-27-wawrinka-handed-us-open-wildcard-after-fan-outcry",
       "category": "world",
-      "headline": "US data lifts dollar as Fed hike expectations edge higher",
-      "summary": "Key points: CNA Latest reports that US data lifts dollar as Fed hike expectations edge higher.",
+      "headline": "Wawrinka handed US Open wildcard after fan outcry",
+      "summary": "Key points: CNA Latest reports that Wawrinka handed US Open wildcard after fan outcry.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-26T22:23:07+08:00",
+      "published_at": "2026-08-27T00:02:21+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/us-data-lifts-dollar-fed-hike-expectations-edge-higher-6341361",
+          "url": "https://www.channelnewsasia.com/sport/wawrinka-handed-us-open-wildcard-after-fan-outcry-6343221",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-08-26-malaysia-remain-as-leader-of-asean-green-jobs-agenda-for-the-period-2026-2030-bern",
+      "category": "malaysia",
+      "headline": "Malaysia Remain As Leader of ASEAN Green Jobs Agenda For The Period 2026-2030 - Bernama",
+      "summary": "Key points: Malaysia Remain As Leader of ASEAN Green Jobs Agenda For The Period 2026-2030 Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-26T22:55:01+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01c2kxenEybFEtdXZrbWlzSHc3QW5rUlozQXpRZFcwdEVhSDdHei1vNnlwQWZwbGRTaFFFcnE3YzBlYUQzTE9TcTduVE91QXRCOGpyN0UxSUE?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -245,36 +275,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/08/26/eleven-malaysians-out-of-contact-after-nepal-floods-says-foreign-ministry/232774",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-26-malaysia-condemns-israel-s-seizure-of-unrwa-facility-in-occupied-east-jerusalem-be",
-      "category": "malaysia",
-      "headline": "Malaysia Condemns Israel’s Seizure Of UNRWA Facility In Occupied East Jerusalem - Bernama",
-      "summary": "Key points: Malaysia Condemns Israel’s Seizure Of UNRWA Facility In Occupied East Jerusalem Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-26T19:35:05+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pT2ZDSnRGaXZ2QWlOaF8xXzBpNnhZdEE4TE9lVWNTVHRUMGRhTGt0Zk1EZ0tXZ1R1QUdiVVdpdk4yRGxEQkRPdnhXQ3JKLXFCQmF2Tm12LTBiVTV3UUhtZUJR?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
