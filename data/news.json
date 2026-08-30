@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-08-30T21:32:18+08:00",
+  "generated_at": "2026-08-31T01:54:41+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-08-31-three-games-in-chelsea-are-having-fun-again",
+      "category": "world",
+      "headline": "Three games in, Chelsea are having fun again",
+      "summary": "Key points: CNA Latest reports that Three games in, Chelsea are having fun again.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-08-31T01:41:44+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/sport/three-games-in-chelsea-are-having-fun-again-6350681",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-08-30-patriotism-national-assets-and-vibrant-performances-to-take-centre-stage-at-datara",
       "category": "malaysia",
@@ -21,36 +51,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-30-ducati-s-marquez-completes-aragon-sweep-to-cut-martin-s-title-lead",
-      "category": "world",
-      "headline": "Ducati's Marquez completes Aragon sweep to cut Martin's title lead",
-      "summary": "Key points: CNA Latest reports that Ducati's Marquez completes Aragon sweep to cut Martin's title lead.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-30T20:56:53+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/ducatis-marquez-completes-aragon-sweep-cut-martins-title-lead-6350476",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
