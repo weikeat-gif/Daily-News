@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-31T01:54:41+08:00",
+  "generated_at": "2026-08-31T04:34:44+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-08-31-three-games-in-chelsea-are-having-fun-again",
+      "id": "2026-08-31-before-flood-catastrophe-nepal-asked-china-for-early-warnings-as-risks-mounted",
       "category": "world",
-      "headline": "Three games in, Chelsea are having fun again",
-      "summary": "Key points: CNA Latest reports that Three games in, Chelsea are having fun again.",
+      "headline": "Before flood catastrophe, Nepal asked China for early warnings as risks mounted",
+      "summary": "Key points: Officials from Nepal and China had discussed strengthening cooperation three months ago, to monitor and respond to floods, weather and glacier-related hazards, according to an agenda prepared by the Nepali side and seen by Reuters.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-08-31T01:41:44+08:00",
+      "published_at": "2026-08-31T03:56:31+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/three-games-in-chelsea-are-having-fun-again-6350681",
+          "url": "https://www.channelnewsasia.com/asia/flood-catastrophe-nepal-asked-china-early-warnings-risks-mounted-6350661",
           "publisher_type": "news"
         },
         {
@@ -501,6 +501,36 @@
       ],
       "importance": 4,
       "confidence": "verified"
+    },
+    {
+      "id": "2026-08-30-govt-agrees-to-raise-e-invoice-exemption-threshold-from-rm1-mil-to-rm3-mil-per-yea",
+      "category": "malaysia",
+      "headline": "Govt agrees to raise e-Invoice exemption threshold from RM1 mil to RM3 mil per year, says PM - The Edge Malaysia",
+      "summary": "Key points: Govt agrees to raise e-Invoice exemption threshold from RM1 mil to RM3 mil per year, says PM The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-08-30T16:30:45+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iNTRGNVhqNUU3aFV6b0h5NzZBLTBCUkZDNEpHaGo2MFNrdDgyTC1yUUZzWU9RLXRzejNBV0RvcDVRVVpxclgzVkdhbXYzN2d1?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
     },
     {
       "id": "2026-08-30-budi95-quota-restored-to-300-litres-anwar-announces-goodies-ahead-of-merdeka-celeb",
@@ -1203,26 +1233,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-08-30-nepal-floods-leave-55-malaysians-uncontactable-36-more-missing-in-china-says-minis",
-      "category": "malaysia",
-      "headline": "Nepal floods leave 55 Malaysians uncontactable, 36 more missing in China, says ministry",
-      "summary": "Key points: KUALA LUMPUR, Aug 30 — A total of 91 Malaysians, comprising 55 in Nepal and 36 in China, remain reported as uncont...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-08-30T09:45:33+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/08/30/nepal-floods-leave-55-malaysians-uncontactable-36-more-missing-in-china-says-ministry/233240",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
