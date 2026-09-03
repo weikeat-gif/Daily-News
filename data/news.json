@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-03T22:51:39+08:00",
+  "generated_at": "2026-09-04T02:20:06+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-03-vietnam-sentences-11-to-death-jails-200-in-drug-trafficking-case",
+      "id": "2026-09-04-fifa-accuses-uefa-of-smear-campaign-in-fight-over-infantino-plan",
       "category": "world",
-      "headline": "Vietnam sentences 11 to death, jails 200 in drug trafficking case",
-      "summary": "Key points: The drug-smuggling operation involved flight attendants and other Vietnamese living in France who transported concealed synthetic drugs to Vietnam.",
+      "headline": "FIFA accuses UEFA of 'smear campaign' in fight over Infantino plan",
+      "summary": "Key points: CNA Latest reports that FIFA accuses UEFA of 'smear campaign' in fight over Infantino plan.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-03T22:18:00+08:00",
+      "published_at": "2026-09-04T02:06:26+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/vietnam-death-penalty-drug-trafficking-case-6360821",
+          "url": "https://www.channelnewsasia.com/sport/fifa-accuses-uefa-smear-campaign-in-fight-over-infantino-plan-6361281",
           "publisher_type": "news"
         },
         {
@@ -550,39 +550,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-03-bank-negara-malaysia-keeps-overnight-policy-rate-unchanged-the-edge-malaysia",
-      "category": "markets_investment",
-      "headline": "Bank Negara Malaysia keeps overnight policy rate unchanged - The Edge Malaysia",
-      "summary": "Key points: Bank Negara Malaysia keeps overnight policy rate unchanged The Edge Malaysia",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-03T15:09:01+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3R21rN2VJdFJnUGhqeFlEeXRoZjhDZ1lYVFcwSnJLUkpjODBGRDBZdktVaU02YkloYlotRmpDVEpFWHY4TEl4Q3hGVXJraV9B?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "bank negara",
-        "bank",
-        "rate"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1239,6 +1206,26 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/09/03/trump-floats-renaming-strait-of-hormuz-as-trump-strait-before-later-walking-back-the-idea/233716",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-03-kuching-banker-gets-seven-years-jail-16-lashes-after-draining-client-accounts-via-",
+      "category": "markets_investment",
+      "headline": "Kuching banker gets seven years’ jail, 16 lashes after draining client accounts via DuitNow",
+      "summary": "Key points: A relationship manager with an international bank was yesterday sentenced to seven years’...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-03T09:16:12+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/03/kuching-banker-gets-seven-years-jail-16-lashes-after-draining-client-accounts-via-duitnow/233714",
           "publisher_type": "news"
         }
       ],
