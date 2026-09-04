@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-05T03:17:08+08:00",
+  "generated_at": "2026-09-05T06:06:00+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-05-pegula-fights-through-sabalenka-cruises-as-us-open-awaits-williams-sisters-return",
+      "id": "2026-09-05-us-justice-department-pauses-cooperation-with-canadian-government-wsj-reports",
       "category": "world",
-      "headline": "Pegula fights through, Sabalenka cruises as US Open awaits Williams sisters' return",
-      "summary": "Key points: CNA Latest reports that Pegula fights through, Sabalenka cruises as US Open awaits Williams sisters' return.",
+      "headline": "US Justice Department pauses cooperation with Canadian government, WSJ reports",
+      "summary": "Key points: US-Canada trade tensions spill into antitrust ties after the Wall Street Journal reports the Justice Department pauses work with Canadian officials.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-05T03:02:02+08:00",
+      "published_at": "2026-09-05T06:00:58+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/pegula-fights-through-sabalenka-cruises-us-open-awaits-williams-sisters-return-6363801",
+          "url": "https://www.channelnewsasia.com/world/us-justice-department-pauses-cooperation-canadian-government-6364001",
           "publisher_type": "news"
         },
         {
@@ -31,7 +31,7 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
+      "confidence": "verified"
     },
     {
       "id": "2026-09-04-sarawak-forestry-ramps-up-monitoring-in-fire-prone-forests-as-heat-haze-raise-risk",
@@ -746,36 +746,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-09-04-bursa-malaysia-stays-lower-at-midday-majujohor-bernama-com",
-      "category": "malaysia",
-      "headline": "Bursa Malaysia Stays Lower At Midday - majujohor.bernama.com",
-      "summary": "Key points: Bursa Malaysia Stays Lower At Midday majujohor.bernama.com",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-04T14:31:47+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BbGo2RkFEekNtUVp6akplVEtrWThUX2pRRUF4d3BRNFpVWC1XQXgtUGNlbUdYa1RuOWlmTDVENzF6azV1WEJoU0VreW1DLWpNMG8yZnJkNy05ejhORGZMbWV3?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-09-04-still-standing-meloni-sets-new-longevity-record-in-famously-unstable-italy",
       "category": "world",
       "headline": "Still standing: Meloni sets new longevity record in famously unstable Italy",
@@ -853,6 +823,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-04-yapeim-makes-debut-in-malaysia-book-of-records-with-podcast-achievement-majujohor-",
+      "category": "malaysia",
+      "headline": "YAPEIM Makes Debut In Malaysia Book Of Records With Podcast Achievement - majujohor.bernama.com",
+      "summary": "Key points: YAPEIM Makes Debut In Malaysia Book Of Records With Podcast Achievement majujohor.bernama.com",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-04T14:02:01+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3TXhmR1pJYTBHd2dHV0NyRjRCTDBENFhBMTJCWURRMXg0UWtsdURCSHBuUEVNa2J5ZGJQZ0Q5SEFueDlHcm5MU0pNbnRCdDdONkxoNERId0FBZDVKYng3MkZB?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
