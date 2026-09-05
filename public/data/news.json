@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-05T06:06:00+08:00",
+  "generated_at": "2026-09-05T08:36:30+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-05-us-justice-department-pauses-cooperation-with-canadian-government-wsj-reports",
+      "id": "2026-09-05-is-motion-sickness-preventable-what-works-and-what-doesn-t",
       "category": "world",
-      "headline": "US Justice Department pauses cooperation with Canadian government, WSJ reports",
-      "summary": "Key points: US-Canada trade tensions spill into antitrust ties after the Wall Street Journal reports the Justice Department pauses work with Canadian officials.",
+      "headline": "Is motion sickness preventable? What works and what doesn't",
+      "summary": "Key points: Experts say there are ways to stave off that dreaded queasy feeling.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-05T06:00:58+08:00",
+      "published_at": "2026-09-05T07:33:02+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/us-justice-department-pauses-cooperation-canadian-government-6364001",
+          "url": "https://www.channelnewsasia.com/wellness/motion-sickness-prevention-treatment-6345526",
           "publisher_type": "news"
         },
         {
@@ -31,7 +31,47 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "verified"
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-05-beyond-august-31-and-september-16-national-archives-urges-deeper-understanding-of-",
+      "category": "malaysia",
+      "headline": "Beyond August 31 and September 16: National Archives urges deeper understanding of Malaysia’s nation‑building",
+      "summary": "Key points: KUALA LUMPUR, Sept 5 — As a Malaysian, how much do you know about the country’s journey from a fledglin...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-05T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/05/newsmalaysia20260901beyond-august-31-and-september-16-national-archives-urges-deeper-understanding-of-malaysias-nationbuilding233532/233532",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-05-cambodia-s-displaced-families-rebuild-lives-in-waiting-villages-as-they-dream-of-r",
+      "category": "world",
+      "headline": "Cambodia’s displaced families rebuild lives in ‘waiting villages’ as they dream of returning home",
+      "summary": "Key points: PHNOM PENH, Sep 5 — More than 3,000 new identical houses rise in a grid formation from a Cambodian plain not far f...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-05T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/05/cambodias-displaced-families-rebuild-lives-in-waiting-villages-as-they-dream-of-returning-home/233898",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
     },
     {
       "id": "2026-09-04-sarawak-forestry-ramps-up-monitoring-in-fire-prone-forests-as-heat-haze-raise-risk",
@@ -826,36 +866,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-09-04-yapeim-makes-debut-in-malaysia-book-of-records-with-podcast-achievement-majujohor-",
-      "category": "malaysia",
-      "headline": "YAPEIM Makes Debut In Malaysia Book Of Records With Podcast Achievement - majujohor.bernama.com",
-      "summary": "Key points: YAPEIM Makes Debut In Malaysia Book Of Records With Podcast Achievement majujohor.bernama.com",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-04T14:02:01+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3TXhmR1pJYTBHd2dHV0NyRjRCTDBENFhBMTJCWURRMXg0UWtsdURCSHBuUEVNa2J5ZGJQZ0Q5SEFueDlHcm5MU0pNbnRCdDdONkxoNERId0FBZDVKYng3MkZB?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-09-04-mag-says-mass-drug-screenings-for-malaysia-airlines-crew-near-100pc",
       "category": "malaysia",
       "headline": "MAG says mass drug screenings for Malaysia Airlines crew near 100pc",
@@ -1217,26 +1227,6 @@
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-04-netanyahu-says-overthrow-of-iran-s-government-is-within-reach",
-      "category": "world",
-      "headline": "Netanyahu says overthrow of Iran’s government is ‘within reach’",
-      "summary": "Key points: Israeli Prime Minister Benjamin Netanyahu yesterday voiced confidence that Iran’s Islami...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-04T10:11:28+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/04/netanyahu-says-overthrow-of-irans-government-is-within-reach/233855",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "verified"
     }
   ]
 }
