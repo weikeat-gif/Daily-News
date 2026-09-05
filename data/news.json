@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-06T02:46:53+08:00",
+  "generated_at": "2026-09-06T04:55:39+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-06-tens-of-thousands-rally-in-zagreb-over-croatia-waste-cleanup-delays",
-      "category": "world",
-      "headline": "Tens of thousands rally in Zagreb over Croatia waste cleanup delays",
-      "summary": "Key points: Fears over polluted drinking water draw tens of thousands to Zagreb as anger grows over delayed waste cleanup in Croatia’s Lika region.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-06T02:41:19+08:00",
+      "id": "2026-09-06-us-ambassador-visits-palestinian-town-amid-rise-in-west-bank-settler-violence",
+      "category": "markets_investment",
+      "headline": "US ambassador visits Palestinian town amid rise in West Bank settler violence",
+      "summary": "Key points: Families of US citizens killed by Israeli settlers meet Mike Huckabee in Turmus Ayya, where residents say militant settlers repeatedly attack homes.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-06T04:43:47+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/thousands-rally-croatia-waste-cleanup-delays-6364726",
+          "url": "https://www.channelnewsasia.com/asia/us-ambassador-palestinian-town-west-bank-settler-violence-6364511",
           "publisher_type": "news"
         },
         {
@@ -31,36 +31,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-05-byd-to-unveil-malaysia-ev-development-plan-within-a-week-majujohor-bernama-com",
-      "category": "malaysia",
-      "headline": "BYD To Unveil Malaysia EV Development Plan Within A Week - majujohor.bernama.com",
-      "summary": "Key points: BYD To Unveil Malaysia EV Development Plan Within A Week majujohor.bernama.com",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-05T21:04:05+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oeVhFXzMyMmpjdGlJX2J4ZnR0VE5yUkFVYmg0SnAzNTVkelVyNEJuc2RaRjZPUVZ3RjNFTGtnMHg0b0tBVi14M3E1VTkycnEzazVjVWNxQ3RZV3M5enc5T3Z3?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -988,6 +958,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/05/understand-and-follow-guidelines-before-flying-jalur-gemilang-including-aigenerated-images-says-national-unity-minister/234005",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-05-malaysia-to-chair-17th-asean-health-ministers-meeting-sept-7-11-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia To Chair 17th ASEAN Health Ministers Meeting, Sept 7 - 11 - Bernama",
+      "summary": "Key points: Malaysia To Chair 17th ASEAN Health Ministers Meeting, Sept 7 - 11 Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-05T11:52:30+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBcWo2R2w2WGFlWlN0bUlja25MMzRzZ3ZwQXo5TXlmNW9IMkZ3RGdIZXE4UHV5a0dKMTgwUjduSHFIcDZfNGhfOVQ0eEZDeW5qTENaWkR3aE8?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
         }
       ],
       "topics": [
