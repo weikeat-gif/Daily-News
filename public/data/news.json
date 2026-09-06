@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-06T21:55:21+08:00",
+  "generated_at": "2026-09-07T00:42:04+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-06-italian-grand-prix-halted-after-leclerc-crashes-out",
+      "id": "2026-09-07-van-aert-triumphs-after-vuelta-stage-shortened",
       "category": "world",
-      "headline": "Italian Grand Prix halted after Leclerc crashes out",
-      "summary": "Key points: CNA Latest reports that Italian Grand Prix halted after Leclerc crashes out.",
+      "headline": "Van Aert triumphs after Vuelta stage shortened",
+      "summary": "Key points: CNA Latest reports that Van Aert triumphs after Vuelta stage shortened.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-06T21:42:36+08:00",
+      "published_at": "2026-09-07T00:03:09+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/italian-grand-prix-halted-after-leclerc-crashes-out-6365701",
+          "url": "https://www.channelnewsasia.com/sport/van-aert-triumphs-after-vuelta-stage-shortened-6365796",
           "publisher_type": "news"
         },
         {
@@ -225,6 +225,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/06/selangor-ready-to-distribute-face-masks-in-worsthit-haze-areas-with-priority-for-vulnerable-groups-says-exco/234199",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-06-thai-dpm-sihasak-to-begin-working-visit-to-malaysia-from-sunday-majujohor-bernama-",
+      "category": "malaysia",
+      "headline": "Thai DPM Sihasak To Begin Working Visit To Malaysia From Sunday - majujohor.bernama.com",
+      "summary": "Key points: Thai DPM Sihasak To Begin Working Visit To Malaysia From Sunday majujohor.bernama.com",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-06T19:03:37+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzcmM5QnZwWEFBSjJDLXZLRnFOZVBlc2lNRzZ3RmlURXpsbnI5M24wcms2d2tDVUVLbUJ0SnJEQmtvQUxSdDM4S2lQd012bDdmU0prVmkxenlRaDlhZ2FrajNR?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1124,26 +1154,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/06/pm-term-limit-ag-pp-split-dap-wants-both-bills-tabled-in-oct-dec-sitting/234126",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-06-byd-to-reveal-malaysia-strategy-within-a-week-amid-local-assembly-speculation",
-      "category": "malaysia",
-      "headline": "BYD to reveal Malaysia strategy ‘within a week’ amid local-assembly speculation",
-      "summary": "Key points: Chinese electric vehicle (EV) giant BYD Co Ltd is expected to announce within a week its next m...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-06T11:32:16+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/06/byd-to-reveal-malaysia-strategy-within-a-week-amid-local-assembly-speculation/234123",
           "publisher_type": "news"
         }
       ],
