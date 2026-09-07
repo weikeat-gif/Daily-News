@@ -1,8 +1,781 @@
 {
-  "generated_at": "2026-09-07T15:57:56+08:00",
+  "generated_at": "2026-09-07T22:07:53+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-09-07-man-gets-jail-s-1-4-million-penalty-for-instigating-son-to-evade-taxes-on-luxury-w",
+      "category": "world",
+      "headline": "Man gets jail, S$1.4 million penalty for instigating son to evade taxes on luxury watch business",
+      "summary": "Key points: This is the first prosecution involving a business in the pre-owned luxury watch industry.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T21:26:45+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/singapore/evade-tax-jail-14-million-luxury-watch-iras-6367606",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-truly-scared-indonesian-firefighters-struggle-to-contain-borneo-blazes-as-haze-cho",
+      "category": "world",
+      "headline": "‘Truly scared’: Indonesian firefighters struggle to contain Borneo blazes as haze chokes communities",
+      "summary": "Key points: Toiling around the clock, haggard Indonesian firefighters on Borneo island cannot keep up with...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/07/truly-scared-indonesian-firefighters-struggle-to-contain-borneo-blazes-as-haze-chokes-communities/234260",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-nepal-holds-day-of-mourning-as-families-pray-missing-still-alive",
+      "category": "world",
+      "headline": "Nepal holds day of mourning as families pray missing still alive",
+      "summary": "Key points: Nepal held a national day of mourning on Monday for victims of devastating glacial floods, as...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T20:32:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/07/nepal-holds-day-of-mourning-as-families-pray-missing-still-alive/234336",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-mahb-41-flights-to-jakarta-cancelled-following-anak-krakatau-eruption",
+      "category": "malaysia",
+      "headline": "MAHB: 41 flights to Jakarta cancelled following Anak Krakatau eruption",
+      "summary": "Key points: A total of 41 flights to Jakarta (CGK) were cancelled at airports nationwide today follow...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T20:30:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/mahb-41-flights-to-jakarta-cancelled-following-anak-krakatau-eruption/234335",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-gas-malaysia-petronas-gas-team-up-to-study-yan-terminal-pipeline-link",
+      "category": "markets_investment",
+      "headline": "Gas Malaysia, Petronas Gas team up to study Yan terminal pipeline link",
+      "summary": "Key points: KUALA LUMPUR, Sept 7 — Gas Malaysia Bhd has entered into a joint study and collaboration agreement (JSCA) with Pet...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-07T20:17:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/07/gas-malaysia-petronas-gas-team-up-to-study-yan-terminal-pipeline-link/234333",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-four-month-old-baby-dies-after-found-unconscious-at-dungun-childcare-centre",
+      "category": "malaysia",
+      "headline": "Four-month old baby dies after found unconscious at Dungun childcare centre",
+      "summary": "Key points: A four-month-old baby girl died after being found unconscious at a childcare centre in Band...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T20:11:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/four-month-old-baby-dies-after-found-unconscious-at-dungun-childcare-centre/234332",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-police-six-missing-gunung-trans-gerah-hikers-contacted-safe-for-now",
+      "category": "malaysia",
+      "headline": "Police: Six missing Gunung Trans Gerah hikers contacted, safe for now",
+      "summary": "Key points: Six individuals, including two children, who were reported missing while trekking along the Gunung...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T20:02:28+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/police-six-missing-gunung-trans-gerah-hikers-contacted-safe-for-now/234331",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-germany-s-afd-landslide-piles-pressure-on-merz-as-far-right-eyes-first-state-govt",
+      "category": "world",
+      "headline": "Germany’s AfD landslide piles pressure on Merz as far right eyes first state govt",
+      "summary": "Key points: German Chancellor Friedrich Merz’s conservatives licked their wounds Monday after a crushin...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T19:51:45+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/07/germanys-afd-landslide-piles-pressure-on-merz-as-far-right-eyes-first-state-govt/234330",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-malaysians-urged-to-register-on-foreign-ministry-s-e-konsular-as-precaution-though",
+      "category": "malaysia",
+      "headline": "Malaysians urged to register on Foreign Ministry’s E-Konsular as precaution, though not mandatory",
+      "summary": "Key points: KUALA LUMPUR, Sept 7 — Recent developments around the world, arising from natural disasters and geopolitical situa...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T19:48:39+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/malaysians-urged-to-register-on-foreign-ministrys-e-konsular-as-precaution-though-not-mandatory/234328",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-malaysia-deploying-dna-experts-to-identify-disaster-victims-pending-nepal-s-go-ahe",
+      "category": "malaysia",
+      "headline": "Malaysia deploying DNA experts to identify disaster victims, pending Nepal’s go-ahead",
+      "summary": "Key points: KUALA LUMPUR, Sept 7 —Malaysia is awaiting approval from the Nepalese government to deploy deoxyribonuc...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T19:35:56+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/malaysia-deploying-dna-experts-to-identify-disaster-victims-pending-nepals-go-ahead/234327",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-prabowo-orders-tougher-firefighting-response-as-72-000ha-burn-across-indonesia",
+      "category": "world",
+      "headline": "Prabowo orders tougher firefighting response as 72,000ha burn across Indonesia",
+      "summary": "Key points: Indonesian President Prabowo Subianto has ordered authorities to step up firefighting efforts as...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T19:35:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/07/prabowo-orders-tougher-firefighting-response-as-72000ha-burn-across-indonesia/234326",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-elderly-man-remanded-four-days-for-slashing-wife-s-hand",
+      "category": "malaysia",
+      "headline": "Elderly man remanded four days for slashing wife’s hand",
+      "summary": "Key points: KOTA TINGGI, Sept 7 — An elderly man suspected of slashing his wife’s right hand with a machete at Taman Des...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T19:17:56+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/elderly-man-remanded-four-days-for-slashing-wifes-hand/234325",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-israel-threatens-full-scale-war-against-palestinian-authority",
+      "category": "world",
+      "headline": "Israel threatens ‘full-scale war’ against Palestinian Authority",
+      "summary": "Key points: Israel on Monday threatened a “full-scale war” against the Palestinian Authority i...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T19:15:44+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/07/israel-threatens-full-scale-war-against-palestinian-authority/234324",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-indonesia-weighs-reopening-airports-as-anak-krakatau-ash-conditions-improve",
+      "category": "world",
+      "headline": "Indonesia weighs reopening airports as Anak Krakatau ash conditions improve",
+      "summary": "Key points: Volcanic ash conditions around several Indonesian airports showed signs of improvement on Monday...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T19:06:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/07/indonesia-weighs-reopening-airports-as-anak-krakatau-ash-conditions-improve/234323",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-ringgit-ends-marginally-lower-as-strong-us-jobs-data-boosts-dollar",
+      "category": "markets_investment",
+      "headline": "Ringgit ends marginally lower as strong US jobs data boosts dollar",
+      "summary": "Key points: KUALA LUMPUR, Sept 7 — The ringgit closed slightly lower on Monday after the United States posted strong non-farm...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-07T19:00:42+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/07/ringgit-ends-marginally-lower-as-strong-us-jobs-data-boosts-dollar/234322",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-volkswagen-to-turn-german-car-plant-into-defence-equipment-factory-for-israel-s-ra",
+      "category": "markets_investment",
+      "headline": "Volkswagen to turn German car plant into defence equipment factory for Israel’s Rafael",
+      "summary": "Key points: German auto giant Volkswagen said Monday that one of its plants would be converted to make def...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-07T18:55:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/07/volkswagen-to-turn-german-car-plant-into-defence-equipment-factory-for-israels-rafael/234321",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-indonesia-extends-airport-closures-as-anak-krakatau-eruption-strands-270-000-passe",
+      "category": "world",
+      "headline": "Indonesia extends airport closures as Anak Krakatau eruption strands 270,000 passengers",
+      "summary": "Key points: Indonesia’s main airport and three others postponed reopening on Monday after halting oper...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T18:45:55+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/07/indonesia-extends-airport-closures-as-anak-krakatau-eruption-strands-270000-passengers/234320",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-police-tracking-down-10-suspects-to-assist-in-murder-gang-fight-in-shah-alam",
+      "category": "malaysia",
+      "headline": "Police tracking down 10 suspects to assist in murder, gang fight in Shah Alam",
+      "summary": "Key points: SHAH ALAM, Sept 7 — Police are tracking down 10 men to assist in the investigation of two separate fight case...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T18:41:45+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/police-tracking-down-10-suspects-to-assist-in-murder-gang-fight-in-shah-alam/234318",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-housing-ministry-check-teduh-to-check-project-developer-information-before-buying-",
+      "category": "malaysia",
+      "headline": "Housing Ministry: Check Teduh to check project, developer information before buying property",
+      "summary": "Key points: The public, particularly prospective homebuyers, are encouraged to check information on develo...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T18:21:10+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/housing-ministry-check-teduh-to-check-project-developer-information-before-buying-property/234317",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-jaguar-land-rover-faces-up-to-4-000-job-cuts-after-cyberattack-tariff-hit",
+      "category": "markets_investment",
+      "headline": "Jaguar Land Rover faces up to 4,000 job cuts after cyberattack, tariff hit",
+      "summary": "Key points: British luxury carmaker Jaguar Land Rover announced Monday a voluntary redundancy scheme followin...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-07T18:20:06+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/07/jaguar-land-rover-faces-up-to-4000-job-cuts-after-cyberattack-tariff-hit/234316",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-over-26-000-new-undergraduates-to-benefit-from-rm1-500-ptptn-advance-payments",
+      "category": "malaysia",
+      "headline": "Over 26,000 new undergraduates to benefit from RM1,500 PTPTN advance payments",
+      "summary": "Key points: KUALA LUMPUR, Sept 7 — The National Higher Education Fund Corporation (PTPTN) continues to strengthen the nation&r...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T18:18:33+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/over-26000-new-undergraduates-to-benefit-from-rm1500-ptptn-advance-payments/234315",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-malaysia-rail-link-ecrl-passenger-fares-to-be-known-by-year-end",
+      "category": "malaysia",
+      "headline": "Malaysia rail link: ECRL passenger fares to be known by year-end",
+      "summary": "Key points: KUALA LUMPUR, Sept 7 — Passenger fares for the East Coast Rail Link (ECRL) have not been finalised and an official...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T18:16:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/malaysia-rail-link-ecrl-passenger-fares-to-be-known-by-year-end/234312",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-un-rights-chief-warns-ai-could-become-existential-threat-to-humanity",
+      "category": "world",
+      "headline": "UN rights chief warns AI could become existential threat to humanity",
+      "summary": "Key points: The United Nations rights chief warned Monday that artificial intelligence could pose an “e...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T18:13:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/07/un-rights-chief-warns-ai-could-become-existential-threat-to-humanity/234313",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-china-accounts-for-nearly-one-third-of-rm10-3b-maha-2026-deals",
+      "category": "malaysia",
+      "headline": "China accounts for nearly one-third of RM10.3b MAHA 2026 deals",
+      "summary": "Key points: KUALA LUMPUR, Sept 7 — China accounted for nearly one-third of the RM10.3 billion in strategic collaborations and...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T18:10:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/07/china-accounts-for-nearly-one-third-of-rm103b-maha-2026-deals/234310",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-bursa-malaysia-climbs-on-banking-telco-buying-interest",
+      "category": "markets_investment",
+      "headline": "Bursa Malaysia climbs on banking, telco buying interest",
+      "summary": "Key points: KUALA LUMPUR, Sept 7 — Bursa Malaysia traded higher on Monday, supported by renewed buying interest in selected ba...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-07T18:00:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/07/bursa-malaysia-climbs-on-banking-telco-buying-interest/234309",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "bursa",
+        "bank"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-un-demands-accountability-after-23-deaths-in-us-immigration-custody",
+      "category": "world",
+      "headline": "UN demands accountability after 23 deaths in US immigration custody",
+      "summary": "Key points: The United Nations rights chief on Monday demanded accountability for swelling numbers of deaths...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T17:56:40+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/07/un-demands-accountability-after-23-deaths-in-us-immigration-custody/234308",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-yemen-s-houthis-accuse-saudi-arabia-of-of-air-raids-missile-strikes-as-tensions-ri",
+      "category": "world",
+      "headline": "Yemen’s Houthis accuse Saudi Arabia of of air raids, missile strikes as tensions rise",
+      "summary": "Key points: Yemen’s Iran-backed Houthis on Monday accused Saudi Arabia of carrying out airstrikes around...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T17:53:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/07/yemens-houthis-accuse-saudi-arabia-of-of-air-raids-missile-strikes-as-tensions-rise/234307",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-germany-asks-un-court-to-throw-out-gaza-genocide-case",
+      "category": "world",
+      "headline": "Germany asks UN court to throw out Gaza genocide case",
+      "summary": "Key points: THE HAGUE, Sept 7 — Germany on Monday urged the United Nations’ top court to throw out a case against it by...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T17:49:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/07/germany-asks-un-court-to-throw-out-gaza-genocide-case/234306",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-minden-air-quality-hits-unhealthy-level-as-api-rises-to-142-says-penang-exco",
+      "category": "malaysia",
+      "headline": "Minden air quality hits unhealthy level as API rises to 142, says Penang exco",
+      "summary": "Key points: GEORGE TOWN, Sept 7 — Air quality in parts of Penang island reached an unhealthy level today, with its Air Polluta...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T17:43:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/minden-air-quality-hits-unhealthy-level-as-api-rises-to-142-says-penang-exco/234305",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-no-cracks-in-federal-unity-govt-says-pakatan-minister-as-umno-closes-gap-with-pas-",
+      "category": "malaysia",
+      "headline": "No cracks in federal unity govt, says Pakatan minister as Umno closes gap with PAS ahead of assembly",
+      "summary": "Key points: SHAH ALAM, Sept 7 — PKR today denied speculations of turmoil among federal unity government components following d...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T17:30:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/no-cracks-in-federal-unity-govt-says-pakatan-minister-as-umno-closes-gap-with-pas-ahead-of-assembly/234304",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-philippine-prosecutors-charge-marcos-lawmaker-cousin-with-plunder-over-ghost-flood",
+      "category": "world",
+      "headline": "Philippine prosecutors charge Marcos’ lawmaker cousin with plunder over ‘ghost’ flood projects",
+      "summary": "Key points: Philippine prosecutors filed a criminal charge today against a lawmaker and cousin of President F...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-07T17:28:16+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/07/no-sacred-cows-philippine-prosecutors-charge-marcos-lawmaker-cousin-over-flood-control-scandal/234302",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-police-missing-hikers-said-they-were-in-good-condition-when-speaking-to-family-on-",
+      "category": "malaysia",
+      "headline": "Police: Missing hikers said they were in good condition when speaking to family on Tuesday",
+      "summary": "Key points: GERIK, Sept 7 —Police said the six hikers, who are feared missing on Gunung Trans Gerah in Kelantan, wer...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T17:18:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/police-missing-hikers-said-they-were-in-good-condition-when-speaking-to-family-on-tuesday/234289",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-selangor-police-say-investigation-into-sunway-lagoon-ride-gone-wrong-to-take-at-le",
+      "category": "malaysia",
+      "headline": "Selangor police say investigation into Sunway Lagoon ride gone wrong to take at least three months as it waits for tech report",
+      "summary": "Key points: KUALA LUMPUR, Sept 7 — The investigation into the August 22 roller coaster incident at Sunway Lagoon that injured...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T17:11:10+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/selangor-police-say-investigation-into-sunway-lagoon-ride-gone-wrong-to-take-at-least-three-months-as-it-waits-for-tech-report/234300",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-no-seat-for-pakatan-at-annual-umno-assembly-but-pas-gets-red-carpet",
+      "category": "malaysia",
+      "headline": "No seat for Pakatan at annual Umno assembly, but PAS gets red carpet",
+      "summary": "Key points: KUALA LUMPUR, Sept 7 — Umno will not be inviting its federal government partner Pakatan Harapan (PH) to its genera...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T16:57:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/no-seat-for-pakatan-at-annual-umno-assembly-but-pas-gets-red-carpet/234299",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-some-nepal-villages-so-devastated-you-d-think-they-never-existed-says-malaysian-re",
+      "category": "malaysia",
+      "headline": "Some Nepal villages so devastated, you’d think they never existed, says Malaysian relief volunteer",
+      "summary": "Key points: KUALA LUMPUR, Sept 7 — Some villages in Nepal have been so completely devastated by the floods that there is no si...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T16:39:54+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/some-nepal-villages-so-devastated-youd-think-they-never-existed-says-malaysian-relief-volunteer/234294",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-two-fridays-to-go-melaka-cm-ab-rauf-drops-biggest-hint-yet-on-state-assembly-disso",
+      "category": "malaysia",
+      "headline": "Two Fridays to go? Melaka CM Ab Rauf drops biggest hint yet on state assembly dissolution",
+      "summary": "Key points: Melaka Chief Minister Datuk Seri Ab Rauf Yusoh today hinted that the state legislative assembly c...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T16:17:56+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/two-fridays-to-go-melaka-cm-ab-rauf-drops-biggest-hint-yet-on-state-assembly-dissolution/234293",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-rm10-000-and-a-detour-via-surabaya-malaysian-family-stranded-in-indonesia-scramble",
+      "category": "malaysia",
+      "headline": "RM10,000 and a detour via Surabaya: Malaysian family stranded in Indonesia scrambles to get home after ash cloud cancels flights",
+      "summary": "Key points: KUALA LUMPUR, Sept 7 — A Malaysian family stranded in Jakarta after their flight home was cancelled has been force...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T16:05:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/rm10000-and-a-detour-via-surabaya-malaysian-family-stranded-in-indonesia-scrambles-to-get-home-after-ash-cloud-cancels-flights/234291",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-appeals-court-reserves-decision-on-bid-to-stay-committal-proceedings-against-forme",
+      "category": "malaysia",
+      "headline": "Appeals court reserves decision on bid to stay committal proceedings against former undang Mubarak, five others",
+      "summary": "Key points: The Court of Appeal reserved its decision on an application by six individuals, including form...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T16:00:55+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/appeals-court-reserves-decision-on-bid-to-stay-committal-proceedings-against-former-undang-mubarak-five-others/234290",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-09-07-missing-hiking-family-in-kelantan-mountains-never-stayed-out-more-than-a-day-says-",
       "category": "malaysia",
@@ -44,33 +817,33 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-09-07-cna-explains-how-singapore-reviews-and-benchmarks-political-salaries",
-      "category": "world",
-      "headline": "CNA Explains: How Singapore reviews and benchmarks political salaries",
-      "summary": "Key points: The salaries of Singapore’s political office holders and parliamentarians have remained unchanged since 2011.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-07T15:46:00+08:00",
+      "id": "2026-09-07-malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning-bloomberg-the-edge-ma",
+      "category": "malaysia",
+      "headline": "Malaysia eyes Huawei chips for AI project despite US warning — Bloomberg - The Edge Malaysia",
+      "summary": "Key points: Malaysia eyes Huawei chips for AI project despite US warning — Bloomberg The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T15:43:50+08:00",
       "source_links": [
         {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/prime-minister-mp-president-salary-review-6366811",
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yQ1NlME9yZFBWYTFWRHcteFFrTXZrQ1hqVUZSX3BGZHFIcXR0LVdyVHJDVkphZV9vVzRrd3FtQkhaZC1HYWZKSHhzVGxBMkxD?oc=5",
           "publisher_type": "news"
         },
         {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
           "publisher_type": "social"
         },
         {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
           "publisher_type": "social"
         }
       ],
       "topics": [
         "latest update"
       ],
-      "importance": 4,
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -451,795 +1224,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-pmo-king-approves-end-of-emergency-declaration-in-serian",
-      "category": "malaysia",
-      "headline": "PMO: King approves end of emergency declaration in Serian",
-      "summary": "Key points: KUALA LUMPUR, Sept 7 — His Majesty Sultan Ibrahim, King of Malaysia today consented to lift the emergenc...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T12:58:56+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/pmo-king-approves-end-of-emergency-declaration-in-serian/234262",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-ecb-poised-for-rate-hike-as-middle-east-fighting-pushes-eurozone-inflation-to-thre",
-      "category": "markets_investment",
-      "headline": "ECB poised for rate hike as Middle East fighting pushes eurozone inflation to three‑year high",
-      "summary": "Key points: The European Central Bank is expected to raise interest rates again this week as renewed fight...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-07T12:51:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/07/ecb-poised-for-rate-hike-as-middle-east-fighting-pushes-eurozone-inflation-to-threeyear-high/234261",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "bank",
-        "central bank",
-        "inflation",
-        "rate"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-wow-i-love-it-trump-suggests-renaming-new-mexico-state-new-america",
-      "category": "world",
-      "headline": "‘Wow, I love it!’: Trump suggests renaming New Mexico state ‘New America’",
-      "summary": "Key points: US President Donald Trump’s name-changing spree found an unlikely new target yesterday...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-07T12:36:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/07/wow-i-love-it-trump-suggests-renaming-new-mexico-state-new-america/234258",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-north-korea-vows-nuclear-armed-navy-as-us-japan-south-korea-drills-begin",
-      "category": "world",
-      "headline": "North Korea vows nuclear‑armed navy as US‑Japan‑South Korea drills begin",
-      "summary": "Key points: Leader Kim Jong Un vowed to build North Korea’s navy into a nuclear-armed force, state media...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-07T12:22:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/07/north-korea-vows-nucleararmed-navy-as-usjapansouth-korea-drills-begin/234255",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-jakarta-and-three-other-airports-extend-shutdown-to-7pm-after-anak-krakatau-erupti",
-      "category": "world",
-      "headline": "Jakarta and three other airports extend shutdown to 7pm after Anak Krakatau eruption disrupts travel",
-      "summary": "Key points: Jakarta’s main airport and three others delayed reopening today after halting operations d...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-07T12:09:47+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/07/jakarta-and-three-other-airports-extend-shutdown-to-6pm-after-anak-krakatau-eruption-disrupts-travel/234250",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-national-farmers-group-cleans-house-shuts-nine-subsidiaries-as-scrutiny-grows-over",
-      "category": "malaysia",
-      "headline": "National farmers’ group cleans house, shuts nine subsidiaries as scrutiny grows over Malaysian farm support",
-      "summary": "Key points: KUALA LUMPUR, Sept 7 — As Malaysia’s paddy farmers grapple with delays in subsidised fertiliser supplies, on...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T12:09:20+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/national-farmers-group-cleans-house-shuts-nine-subsidiaries-as-scrutiny-grows-over-malaysian-farm-support/234251",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-asian-markets-mixed-as-tech-rebounds-oil-rises-and-us-inflation-takes-centre-stage",
-      "category": "markets_investment",
-      "headline": "Asian markets mixed as tech rebounds, oil rises and US inflation takes centre stage",
-      "summary": "Key points: HONG KONG, Sept 7 — Tech firms rallied on a mixed day for Asian stocks today, with traders gearing up for a crucia...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-07T11:55:55+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/07/asian-markets-mixed-as-tech-rebounds-oil-rises-and-us-inflation-takes-centre-stage/234246",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "market",
-        "markets",
-        "stock",
-        "oil"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-four-helicopter-passes-30km-downstream-still-no-sign-of-malaysians-missing-in-floo",
-      "category": "malaysia",
-      "headline": "Four helicopter passes, 30km downstream – still no sign of Malaysians missing in flood-hit Nepal",
-      "summary": "Key points: KUALA LUMPUR, Sept 7 — A helicopter search for 17 Malaysians who have been missing nearly two weeks since flash fl...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T11:47:16+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/four-helicopter-passes-30km-downstream-still-no-sign-of-malaysians-missing-in-flood-hit-nepal/234244",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-malaysian-newlyweds-bali-high-turns-into-five-day-airport-nightmare-no-thanks-to-a",
-      "category": "malaysia",
-      "headline": "Malaysian newlyweds’ Bali high turns into five-day airport nightmare, no thanks to Anak Krakatau ash cloud",
-      "summary": "Key points: What was meant to be a week-long honeymoon in Bali turned into an unexpected ordeal for a young...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T11:27:51+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/malaysian-newlyweds-bali-high-turns-into-five-day-airport-nightmare-no-thanks-to-anak-krakatau-ash-cloud/234240",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-penang-govt-auctions-tanjung-pinang-land-as-bypass-project-races-towards-2027-fini",
-      "category": "malaysia",
-      "headline": "Penang govt auctions Tanjung Pinang land as bypass project races towards 2027 finish",
-      "summary": "Key points: GEORGE TOWN, Sept 7 — The Penang government will auction a 2.42-hectare plot of land in Tanjung Pinang next month...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T11:04:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/penang-govt-auctions-tanjung-pinang-land-as-bypass-project-races-towards-2027-finish/234237",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-stranded-by-volcanic-ash-malaysians-in-jakarta-find-free-beds-and-open-arms",
-      "category": "malaysia",
-      "headline": "Stranded by volcanic ash, Malaysians in Jakarta find free beds and open arms",
-      "summary": "Key points: When Anak Krakatau’s ash grounded flights across the region, seven stranded Malaysians fou...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T10:53:43+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/stranded-by-volcanic-ash-malaysians-in-jakarta-find-free-beds-and-open-arms/234236",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-el-ni-o-could-worsen-malaysia-s-power-water-stress-says-cimb-securities-the-edge-m",
-      "category": "malaysia",
-      "headline": "El Niño could worsen Malaysia’s power, water stress, says CIMB Securities - The Edge Malaysia",
-      "summary": "Key points: El Niño could worsen Malaysia’s power, water stress, says CIMB Securities The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T10:30:26+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13QkNZMU13dXRiS3c1MkIwZEh2dzk0M3B1N3hXekk1dXAwZkxyYzdxemNaMkJjbDhGalFlRjVwWTFJLXdleDliVy14djMyR1RG?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-former-felda-gm-in-court-for-remand-as-macc-investigates-project-land-deal",
-      "category": "malaysia",
-      "headline": "Former Felda GM in court for remand as MACC investigates project, land deal",
-      "summary": "Key points: A former Felda general manager was brought to the Magistrate’s Court here today to face...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T10:29:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/former-felda-gm-in-court-for-remand-as-macc-investigates-project-land-deal/234232",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-bursa-malaysia-opens-higher-tracking-regional-gains-majujohor-bernama-com",
-      "category": "malaysia",
-      "headline": "Bursa Malaysia Opens Higher, Tracking Regional Gains - majujohor.bernama.com",
-      "summary": "Key points: Bursa Malaysia Opens Higher, Tracking Regional Gains majujohor.bernama.com",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T10:28:29+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wM082UlNtaFh3RmJybmtqb2RBNnE3U3FFMlU5MzFRZVFxcGlHcnlmWUlfLWxaRGxNSGJmNjdNdklmUW5lT2xjSWdiRV96QUMyV0lnakJ2Ym9TYmZqTl9lbjFR?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-bursa-malaysia-opens-higher-amid-stronger-us-jobs-data-and-rate-hike-expectations",
-      "category": "markets_investment",
-      "headline": "Bursa Malaysia opens higher amid stronger US jobs data and rate‑hike expectations",
-      "summary": "Key points: KUALA LUMPUR, Sept 7 — Bursa Malaysia opened higher today, in line with the positive performance in some regional...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-07T10:21:54+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/07/bursa-malaysia-opens-higher-amid-stronger-us-jobs-data-and-ratehike-expectations/234231",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "bursa",
-        "rate"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-check-flight-status-regularly-malaysian-embassy-advises-travellers-as-anak-krakata",
-      "category": "malaysia",
-      "headline": "Check flight status regularly, Malaysian Embassy advises travellers as Anak Krakatau spews ash",
-      "summary": "Key points: Malaysian travellers flying from or transiting through Soekarno-Hatta International Airport (CGK...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T10:20:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/check-flight-status-regularly-malaysian-embassy-advises-travellers-as-anak-krakatau-spews-ash/234230",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-macc-investigates-fertiliser-delays-affecting-38-000-kedah-farmers",
-      "category": "malaysia",
-      "headline": "MACC investigates fertiliser delays affecting 38,000 Kedah farmers",
-      "summary": "Key points: KUALA LUMPUR, Sept 7 — The Malaysian Anti-Corruption Commission (MACC) has opened an investigation into delays in...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T10:09:54+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/macc-investigates-fertiliser-delays-affecting-38000-kedah-farmers/234229",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-three-killed-others-feared-trapped-after-new-delhi-building-housing-students-colla",
-      "category": "world",
-      "headline": "Three killed, others feared trapped after New Delhi building housing students collapses; rescue underway",
-      "summary": "Key points: NEW DELHI, Sept 7 — A building collapse in the Indian capital New Delhi killed at least three people yesterday, lo...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-07T10:07:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/07/three-killed-others-feared-trapped-after-new-delhi-building-housing-students-collapses-rescue-underway/234228",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-ringgit-opens-slightly-higher-against-dollar-ahead-of-key-us-cpi",
-      "category": "markets_investment",
-      "headline": "Ringgit opens slightly higher against dollar ahead of key US CPI",
-      "summary": "Key points: KUALA LUMPUR, Sept 7 — The ringgit opened slightly higher against the US dollar today, buoyed by expectations of a...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-07T10:01:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/07/ringgit-opens-slightly-higher-against-dollar-ahead-of-key-us-cpi/234226",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-iran-to-declare-prohibited-zone-near-strait-of-hormuz-in-coming-days-warns-ships-e",
-      "category": "world",
-      "headline": "Iran to declare ‘prohibited zone’ near Strait of Hormuz in coming days, warns ships entering will face sanctions",
-      "summary": "Key points: Iran’s top security chief Mohsen Rezaei yesterday said his country would establish a &ldquo...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-07T09:39:48+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/07/iran-to-declare-prohibited-zone-near-strait-of-hormuz-in-coming-days-warns-ships-entering-will-face-sanctions/234223",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-iran-threatens-more-intense-response-as-clashes-with-us-escalate",
-      "category": "world",
-      "headline": "Iran threatens ‘more intense’ response as clashes with US escalate",
-      "summary": "Key points: Iran’s top negotiator yesterday threatened a more forceful response to any further US attac...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-07T09:34:30+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/07/iran-threatens-more-intense-response-as-clashes-with-us-escalate/234222",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-five-killed-five-injured-after-amazon-cargo-plane-crashes-after-overshooting-miami",
-      "category": "world",
-      "headline": "Five killed, five injured after Amazon cargo plane crashes after overshooting Miami runway",
-      "summary": "Key points: At least five people were killed when an Amazon cargo plane overshot a runway after it landed yest...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-07T09:20:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/07/five-killed-five-injured-after-amazon-cargo-plane-crashes-after-overshooting-miami-runway/234221",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-kajang-cops-nab-foreign-woman-after-car-chase-ends-in-crash-2-13g-syabu-found-in-h",
-      "category": "malaysia",
-      "headline": "Kajang cops nab foreign woman after car chase ends in crash, 2.13g syabu found in her Honda City",
-      "summary": "Key points: KUALA LUMPUR, Sept 7 — A foreign woman was arrested after police seized three transparent plastic packets containing cry...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T09:18:52+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/kajang-cops-nab-foreign-woman-after-car-chase-ends-in-crash-213g-syabu-found-in-her-honda-city/234216",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-anak-krakatoa-eruption-forces-closure-of-eight-indonesian-airports-stranding-170-0",
-      "category": "world",
-      "headline": "Anak Krakatoa eruption forces closure of eight Indonesian airports, stranding 170,000 passengers",
-      "summary": "Key points: About 170,000 passengers were left stranded yesterday as Indonesia shuttered its main internatio...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-07T09:11:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/07/anak-krakatoa-eruption-forces-closure-of-eight-indonesian-airports-stranding-170000-passengers/234211",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-kuantan-cops-nab-daycare-centre-worker-after-video-shows-toddler-being-shaken-hair",
-      "category": "malaysia",
-      "headline": "Kuantan cops nab daycare centre worker after video shows toddler being shaken, hair pulled",
-      "summary": "Key points: Police have arrested a woman to assist investigations into an incident where a two-year-and-eigh...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T09:10:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/kuantan-cops-nab-daycare-centre-worker-after-video-shows-toddler-being-shaken-hair-pulled/234214",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-hadi-s-2014-us-topple-govt-claim-sparks-three-police-reports",
-      "category": "malaysia",
-      "headline": "Hadi’s 2014 US ‘topple govt’ claim sparks three police reports",
-      "summary": "Key points: KUALA LUMPUR, Sept 7 — Three police reports were lodged yesterday over a claim by PAS president and Marang Member...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T08:59:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/hadis-2014-us-topple-govt-claim-sparks-three-police-reports/234212",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-how-much-support-flows-into-malaysian-homes-breaking-down-the-nation-s-subsidy-sys",
-      "category": "malaysia",
-      "headline": "How much support flows into Malaysian homes: Breaking down the nation’s subsidy system",
-      "summary": "Key points: KUALA LUMPUR, Sept 7 — Government assistance does not always come in the form of cash.For Malaysian households, su...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-07T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/07/how-much-support-flows-into-malaysian-homes-breaking-down-the-nations-subsidy-system/234157",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-06-at-klia-stranded-travellers-hope-jakarta-flights-resume-soon-after-anak-krakatau-e",
-      "category": "malaysia",
-      "headline": "At KLIA, stranded travellers hope Jakarta flights resume soon after Anak Krakatau eruption",
-      "summary": "Key points: Passengers stranded for over 12 hours at Kuala Lumpur International Airport (KLIA) Terminal 1 fol...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-06T20:34:03+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/06/at-klia-stranded-travellers-hope-jakarta-flights-resume-soon-after-anak-krakatau-eruption/234209",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-06-macc-arrests-ex-gm-with-datuk-title-and-another-suspect-over-alleged-land-sale-cor",
-      "category": "malaysia",
-      "headline": "MACC arrests ex‑GM with ‘Datuk’ title and another suspect over alleged land‑sale corruption",
-      "summary": "Key points: KUALA LUMPUR, Sept 6 — The Malaysian Anti-Corruption Commission (MACC) has arrested two individuals, including a f...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-06T20:28:18+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/06/macc-arrests-exdg-with-datuk-title-and-another-suspect-over-alleged-landsale-corruption/234208",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-06-saudi-arabia-egypt-jordan-and-allies-blast-israeli-ministers-gaza-removal-scheme",
-      "category": "world",
-      "headline": "Saudi Arabia, Egypt, Jordan and allies blast Israeli ministers’ Gaza removal scheme",
-      "summary": "Key points: Eight Islamic and Arab countries on Sunday condemned plans voiced by Israeli government ministers...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-06T20:24:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/06/saudi-arabia-egypt-jordan-and-allies-blast-israeli-ministers-gaza-removal-scheme/234207",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-06-six-penang-jakarta-flights-cancelled-after-airport-shutdown-triggered-by-anak-krak",
-      "category": "malaysia",
-      "headline": "Six Penang-Jakarta flights cancelled after airport shutdown triggered by Anak Krakatau eruption, affecting 1,000 passengers",
-      "summary": "Key points: GEORGE TOWN, Sept 6 — Six flights from Penang International Airport to Jakarta, Indonesia were cancelled today fol...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-06T20:23:28+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/06/six-penang-jakarta-flights-cancelled-after-airport-shutdown-triggered-by-anak-krakatau-eruption-affecting-1000-passengers/234206",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-06-at-anti-bullying-event-sabah-education-dept-urges-victims-to-stand-firm-report-abu",
-      "category": "malaysia",
-      "headline": "At anti‑bullying event, Sabah Education Dept urges victims to stand firm, report abuse and seek help",
-      "summary": "Key points: KOTA KINABALU, Sept 6 — Students who face bullying are urged to come forward immediately and report the incidents...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-06T20:14:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/06/at-antibullying-event-sabah-education-dept-urges-victims-to-stand-firm-report-abuse-and-seek-help/234204",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-06-gua-musang-police-six-hikers-feared-missing-after-entering-forest-via-lojing-and-n",
-      "category": "malaysia",
-      "headline": "Gua Musang police: Six hikers feared missing after entering forest via Lojing and not emerging in Perak",
-      "summary": "Key points: KOTA BHARU, Sept 6 — Six individuals — four family members and two mountain guides — who entered a for...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-06T19:59:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/06/gua-musang-police-six-hikers-feared-missing-after-entering-forest-via-lojing-and-not-emerging-in-perak/234203",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-06-police-confirm-shooting-of-wanted-drug-suspect-in-seremban-housing-area",
-      "category": "malaysia",
-      "headline": "Police confirm shooting of wanted drug suspect in Seremban housing area",
-      "summary": "Key points: Police confirmed a local man suspected of drug-related activities was shot dead in a residentia...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-06T19:46:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/06/police-confirm-shooting-of-wanted-drug-suspect-in-seremban-housing-area/234202",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-06-don-t-be-deceived-by-rm2-500-deposit-scam-involving-unofficial-kampung-jelutong-sp",
-      "category": "malaysia",
-      "headline": "Don’t be deceived by RM2,500 deposit scam involving unofficial Kampung Jelutong SPK house offers, warns Jepak rep",
-      "summary": "Key points: The public have been warned against falling victim to unofficial offers to purchase houses in th...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-06T19:31:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/06/dont-be-deceived-by-rm2500-deposit-scam-involving-unofficial-kampung-jelutong-spk-house-offers-warns-jepak-rep/234200",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-09-06-gaza-mourns-100-victims-recovered-from-rubble-in-one-of-its-largest-funerals",
-      "category": "world",
-      "headline": "Gaza mourns 100 victims recovered from rubble in one of its largest funerals",
-      "summary": "Key points: GAZA CITY, Sept 6 — Palestinians held a funeral procession on Sunday for 100 people whose remains were recovered f...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-06T19:28:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/06/gaza-mourns-100-victims-recovered-from-rubble-in-one-of-its-largest-funerals/234197",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-06-selangor-ready-to-distribute-face-masks-in-worst-hit-haze-areas-with-priority-for-",
-      "category": "malaysia",
-      "headline": "Selangor ready to distribute face masks in worst‑hit haze areas, with priority for vulnerable groups, says exco",
-      "summary": "Key points: SHAH ALAM, Sept 6 — The Selangor Disaster Management Committee is ready to distribute face masks to the public and...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-06T19:17:16+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/06/selangor-ready-to-distribute-face-masks-in-worsthit-haze-areas-with-priority-for-vulnerable-groups-says-exco/234199",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-06-seven-uitm-students-remain-under-treatment-after-heat-related-incident-outdoor-end",
-      "category": "malaysia",
-      "headline": "Seven UiTM students remain under treatment after heat‑related incident; outdoor endurance events called off",
-      "summary": "Key points: SHAH ALAM, Sept 6 — Seven Universiti Teknologi MARA (UiTM) students are still receiving treatment and undergoing m...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-06T19:02:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/06/seven-uitm-students-remain-under-treatment-after-heatrelated-incident-outdoor-endurance-events-called-off/234198",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
