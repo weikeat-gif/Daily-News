@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-09-08T02:59:03+08:00",
+  "generated_at": "2026-09-08T05:57:46+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-09-08-don-t-ban-children-from-social-media-estonia-tells-eu",
+      "category": "world",
+      "headline": "Don't ban children from social media, Estonia tells EU",
+      "summary": "Key points: CNA Latest reports that Don't ban children from social media, Estonia tells EU.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-08T05:53:41+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/dont-ban-children-social-media-estonia-tells-eu-6368126",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-09-08-malaysia-awaits-nepal-s-approval-to-deploy-dna-experts-to-identify-disaster-victim",
       "category": "malaysia",
@@ -31,66 +61,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-08-springboks-make-two-changes-to-starting-xv-for-final-new-zealand-test",
-      "category": "world",
-      "headline": "Springboks make two changes to starting XV for final New Zealand test",
-      "summary": "Key points: CNA Latest reports that Springboks make two changes to starting XV for final New Zealand test.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-08T02:25:02+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/springboks-make-two-changes-starting-xv-final-new-zealand-test-6367981",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-07-zetrix-ai-mn-holdings-nexg-bina-gas-malaysia-cengild-mkh-mkh-oil-plam-cbh-engineer",
-      "category": "markets_investment",
-      "headline": "Zetrix AI, MN Holdings, NexG Bina, Gas Malaysia, Cengild, MKH, MKH Oil Plam, CBH Engineering, HengYuan, Vestland, Pekat - The Edge",
-      "summary": "Key points: Zetrix AI, MN Holdings, NexG Bina, Gas Malaysia, Cengild, MKH, MKH Oil Plam, CBH Engineering, HengYuan, Vestland, Pekat The Edge Malaysia",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-07T22:56:06+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80WXFIa01UbGFrU1o1UF9sQWVDVkUwc3VHdjNjNGRRa0lyUnI0dkV6X2RFY3BQbDg3dUd0dVZ4bHdVeFl5LXRNcEhtZjlUdkNz?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -868,6 +838,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/07/police-confirm-rm275m-drug-syndicate-crippled-with-main-suspect-shot-dead/234287",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-07-malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning-bloomberg-the-edge-ma",
+      "category": "malaysia",
+      "headline": "Malaysia eyes Huawei chips for AI project despite US warning — Bloomberg - The Edge Malaysia",
+      "summary": "Key points: Malaysia eyes Huawei chips for AI project despite US warning — Bloomberg The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-07T15:43:50+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yQ1NlME9yZFBWYTFWRHcteFFrTXZrQ1hqVUZSX3BGZHFIcXR0LVdyVHJDVkphZV9vVzRrd3FtQkhaZC1HYWZKSHhzVGxBMkxD?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
         }
       ],
       "topics": [
