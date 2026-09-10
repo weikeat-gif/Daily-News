@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-09-10T06:55:26+08:00",
+  "generated_at": "2026-09-10T08:50:50+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-10-top-seeded-quartet-set-for-us-open-women-s-semi-final-showdown",
+      "id": "2026-09-10-tok-mat-admits-umno-s-dap-ties-were-hard-to-sell-to-malay-voters",
+      "category": "malaysia",
+      "headline": "Tok Mat admits Umno’s DAP ties were hard to sell to Malay voters",
+      "summary": "Key points: KUALA LUMPUR, Sept 10 — Umno has struggled to convince the majority of Malay voters to accept its cooperation with...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-10T08:35:31+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/10/tok-mat-admits-umnos-dap-ties-were-hard-to-sell-to-malay-voters/234608",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-10-philippine-ferry-fire-kills-5-87-missing",
       "category": "world",
-      "headline": "Top-seeded quartet set for US Open women's semi-final showdown",
-      "summary": "Key points: CNA Latest reports that Top-seeded quartet set for US Open women's semi-final showdown.",
+      "headline": "Philippine ferry fire kills 5, 87 missing",
+      "summary": "Key points: CNA Latest reports that Philippine ferry fire kills 5, 87 missing.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-10T06:44:59+08:00",
+      "published_at": "2026-09-10T08:13:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/top-seeded-quartet-set-us-open-womens-semi-final-showdown-6374171",
+          "url": "https://www.channelnewsasia.com/asia/philippine-ferry-kills-missing-palawan-6374296",
           "publisher_type": "news"
         },
         {
@@ -34,16 +54,76 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-09-10-significant-potential-for-malaysia-finland-business-collaboration-ambassador-berna",
+      "id": "2026-09-10-malaysia-s-data-centre-boom-how-it-affects-jobs-electricity-and-water",
       "category": "malaysia",
-      "headline": "Significant Potential for Malaysia-Finland Business Collaboration — Ambassador - Bernama",
-      "summary": "Key points: Significant Potential for Malaysia-Finland Business Collaboration — Ambassador Bernama",
+      "headline": "Malaysia’s data centre boom: How it affects jobs, electricity and water",
+      "summary": "Key points: KUALA LUMPUR, Sept 10 — Streaming a video, making an online payment, shopping online or using an AI-powered servic...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-10T00:01:28+08:00",
+      "published_at": "2026-09-10T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/10/malaysias-data-centre-boom-how-it-affects-jobs-electricity-and-water/234298",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-10-new-york-muslims-find-new-voice-25-years-after-9-11-backlash",
+      "category": "world",
+      "headline": "New York Muslims find new voice 25 years after 9/11 backlash",
+      "summary": "Key points: NEW YORK, Sept 10 — Asad Dandia was eight when he watched the September 11, 2001 attacks on television at his Paki...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-10T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/10/new-york-muslims-find-new-voice-25-years-after-911-backlash/234515",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-10-brussels-plots-sweeping-child-social-media-ban-critics-warn-freedoms-crushed-in-di",
+      "category": "world",
+      "headline": "Brussels plots sweeping child social media ban, critics warn freedoms crushed in digital clampdown",
+      "summary": "Key points: The European Union is poised for a big reveal of its plans to keep minors safe online —...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-10T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/10/brussels-plots-sweeping-child-social-media-ban-critics-warn-freedoms-crushed-in-digital-clampdown/234509",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-10-destination-convention-malaysia-launched-to-boost-business-events-sector-majujohor",
+      "category": "malaysia",
+      "headline": "Destination Convention Malaysia Launched To Boost Business Events Sector - majujohor.bernama.com",
+      "summary": "Key points: Destination Convention Malaysia Launched To Boost Business Events Sector majujohor.bernama.com",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-10T01:30:54+08:00",
       "source_links": [
         {
           "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FN2l1bF9VNXpPWm51enVoanQ3YXd4ZldQcFluOE9MNFlMNWlsck1vTjdyT0RGcGVJRUk5c0YxOURGX19KZjc2Tl9fYm9iWjhKbFNHZ25BeVo?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lcGhpYzVYYU42ZWRTclktNnNDNG1PLXdFU2lIaWN1cHB2SGREbWJkU3E3aExacHN0Y0dTMEZBNk5rOG5iWlpDclk4emFiT1FrT0h5WTZjdlhvUzRuekR1SnVB?oc=5",
           "publisher_type": "news"
         },
         {
@@ -61,6 +141,36 @@
         "latest update"
       ],
       "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-09-bursa-asks-zetrix-ai-to-justify-rm130m-valuation-for-myeg-ventures-in-third-query-",
+      "category": "markets_investment",
+      "headline": "Bursa asks Zetrix AI to justify RM130m valuation for MYEG Ventures in third query on deal - The Edge Malaysia",
+      "summary": "Key points: Bursa asks Zetrix AI to justify RM130m valuation for MYEG Ventures in third query on deal The Edge Malaysia",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-09T22:49:10+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xWHNJWnpjdlNneDJoczZEWW9GV0JTLTREWDZIbWhIZjYtN29EcXRNanE2NVZoWmhPd20wazZYdVdyYlhzRTNGNU5IMTdRWmlB?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -367,36 +477,6 @@
         "inflation"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-09-alam-maritim-ceo-azmi-to-be-charged-on-thursday-the-edge-malaysia",
-      "category": "malaysia",
-      "headline": "Alam Maritim CEO Azmi to be charged on Thursday - The Edge Malaysia",
-      "summary": "Key points: Alam Maritim CEO Azmi to be charged on Thursday The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-09T18:37:40+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BQ2tncDZHNDRWdVpjcFdpcVVnamFkTnJaNW0xZGFiLTBkZFhnLWxWZzRUY0RzbU5UU0dHX0ZmdHZ2UWZZeGxIbEVGQ2ZrVXBF?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1156,86 +1236,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/09/report-najibs-clemency-bid-expected-to-be-discussed-by-pardons-board-this-week/234523",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-09-king-queen-extend-condolences-to-families-of-sarawak-helicopter-crash-victims",
-      "category": "malaysia",
-      "headline": "King, Queen extend condolences to families of Sarawak helicopter crash victims",
-      "summary": "Key points: KUALA LUMPUR, Sept 9 — His Majesty, Sultan Ibrahim, King of Malaysia and Her Majesty Raja Zarith Sofiah, Queen of...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-09T13:14:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/09/king-queen-extend-condolences-to-families-of-sarawak-helicopter-crash-victims/234524",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-09-dzulkefly-rescue-teams-begin-evacuation-of-long-lellang-helicopter-crash-victims",
-      "category": "malaysia",
-      "headline": "Dzulkefly: Rescue teams begin evacuation of Long Lellang helicopter crash victims",
-      "summary": "Key points: KUALA LUMPUR, Sept 9 — Rescue teams are working to evacuate victims of the helicopter crash in Long Lellang,...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-09T13:08:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/09/dzulkefly-rescue-teams-begin-evacuation-of-long-lellang-helicopter-crash-victims/234522",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-09-rapid-kl-to-begin-kelana-jaya-line-track-replacement-works-on-sept-13",
-      "category": "malaysia",
-      "headline": "Rapid KL to begin Kelana Jaya Line track replacement works on Sept 13",
-      "summary": "Key points: KUALA LUMPUR, Sept 9 — Rapid KL will begin phased track replacement works on the Kelana Jaya Line from...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-09T12:51:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/09/rapid-kl-to-begin-kelana-jaya-line-track-replacement-works-on-sept-13/234519",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-09-anwar-govt-to-provide-assistance-support-to-families-of-five-killed-in-sarawak-hel",
-      "category": "malaysia",
-      "headline": "Anwar: Govt to provide assistance, support to families of five killed in Sarawak helicopter crash",
-      "summary": "Key points: KUALA LUMPUR, Sept 9 — The government will provide all necessary assistance and support to the families of t...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-09T12:46:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/09/anwar-govt-to-provide-assistance-support-to-families-of-five-killed-in-sarawak-helicopter-crash/234517",
           "publisher_type": "news"
         }
       ],
