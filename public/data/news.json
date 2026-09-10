@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-11T05:23:55+08:00",
+  "generated_at": "2026-09-11T07:42:52+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-11-us-slaps-new-sanctions-on-networks-aiding-iran-s-proxies-in-middle-east",
+      "id": "2026-09-11-anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models",
       "category": "world",
-      "headline": "US slaps new sanctions on networks aiding Iran's proxies in Middle East",
-      "summary": "Key points: CNA Latest reports that US slaps new sanctions on networks aiding Iran's proxies in Middle East.",
+      "headline": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
+      "summary": "Key points: CNA Latest reports that Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-11T05:08:00+08:00",
+      "published_at": "2026-09-11T07:26:36+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/us-slaps-new-sanctions-networks-aiding-irans-proxies-in-middle-east-6377111",
+          "url": "https://www.channelnewsasia.com/world/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-6377186",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,56 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-11-malaysia-wants-to-be-an-ai-nation-by-2030-what-does-that-mean-for-malaysians",
+      "category": "malaysia",
+      "headline": "Malaysia wants to be an AI nation by 2030 — what does that mean for Malaysians?",
+      "summary": "Key points: KUALA LUMPUR, Sept 11 — Artificial intelligence (AI) is increasingly becoming part of everyday life, from how peop...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-11T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/11/malaysia-wants-to-be-an-ai-nation-by-2030-what-does-that-mean-for-malaysians/234187",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-10-malaysia-singapore-ties-remain-vital-amid-challenging-global-environment-high-comm",
+      "category": "malaysia",
+      "headline": "Malaysia-Singapore Ties Remain Vital Amid Challenging Global Environment -- High Commissioner - Bernama",
+      "summary": "Key points: Malaysia-Singapore Ties Remain Vital Amid Challenging Global Environment -- High Commissioner Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-10T21:47:28+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tcTJxRTRvaGd2V3lWRDBaTGt1WU90blA3czNsSEtxbkJzOXJvUUc5TG9VWVZ3d1U3cUF0ZVlFb3Yyc3E3MDI0TXNMVXd1YmdpWEZIMEY3UGU?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -85,36 +135,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/10/pm-anwar-to-meet-modi-putin-and-other-leaders-during-brics-summit-in-new-delhi/234750",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-10-bandar-malaysia-seri-kembangan-expressway-to-cost-rm1-75-bil-with-60-year-concessi",
-      "category": "malaysia",
-      "headline": "Bandar Malaysia-Seri Kembangan Expressway to cost RM1.75 bil with 60-year concession, says LSH Capital - The Edge Malaysia",
-      "summary": "Key points: Bandar Malaysia-Seri Kembangan Expressway to cost RM1.75 bil with 60-year concession, says LSH Capital The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-10T20:49:11+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4a3Q1STBYQW80TEpxSTFBTnZ6aWdMRHNwOGIyLWZScVhiTnpEQjdETjFDZlZhcDdVUHdkNlI0YWgtZzhESlA5WWU5cTZGNmM4?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -344,26 +364,26 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-09-10-malaysia-must-move-beyond-consumer-ai-scale-home-grown-solutions-for-asean-teo-ber",
+      "id": "2026-09-10-rubber-glove-stocks-rally-as-brent-crude-tops-us-100-the-edge-malaysia",
       "category": "malaysia",
-      "headline": "Malaysia Must Move Beyond Consumer AI, Scale Home-grown Solutions For ASEAN - Teo - Bernama",
-      "summary": "Key points: Malaysia Must Move Beyond Consumer AI, Scale Home-grown Solutions For ASEAN - Teo Bernama",
+      "headline": "Rubber glove stocks rally as Brent crude tops US$100 - The Edge Malaysia",
+      "summary": "Key points: Rubber glove stocks rally as Brent crude tops US$100 The Edge Malaysia",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-10T19:22:20+08:00",
+      "published_at": "2026-09-10T19:26:59+08:00",
       "source_links": [
         {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15bU52VTVHVGw2ejlfbnlwMmpWb19wY1ZCZGNpaUhmV3h3allyeVNYazViVmhWR1ZxR1REalhFWnlPd2xVU2Q0d0lFaDNFVVlkRzd4RzlkV24?oc=5",
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5ckowdW1aS3dxR2FWZTgtaXhZUDVURGtYLU1QQnRBbkxzQUVaclZDVlVZNndPdW01WUZjYTRjbWc5YmVlaFZLNFAtQXlFVUs5?oc=5",
           "publisher_type": "news"
         },
         {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
           "publisher_type": "social"
         },
         {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
           "publisher_type": "social"
         }
       ],
@@ -1219,26 +1239,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/10/no-hazardous-api-readings-recorded-nationwide-sarawak-records-highest-unhealthy-levels/234658",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-10-alam-maritim-ceo-charged-with-fraud-over-vessel-charter-rates-claims-trial",
-      "category": "malaysia",
-      "headline": "Alam Maritim CEO charged with fraud over vessel charter rates, claims trial",
-      "summary": "Key points: KUALA LUMPUR, Sept 10 — Alam Maritim Resources Bhd group managing director and chief executive officer (CEO) Datuk Azm...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-10T11:24:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/10/alam-maritim-ceo-charged-with-fraud-over-vessel-charter-rates-claims-trial/234657",
           "publisher_type": "news"
         }
       ],
