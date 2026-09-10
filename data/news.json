@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-10T22:48:56+08:00",
+  "generated_at": "2026-09-11T02:05:30+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-10-wall-street-dips-oil-continues-climb-ahead-of-us-inflation-data",
-      "category": "markets_investment",
-      "headline": "Wall Street dips, oil continues climb ahead of US inflation data",
-      "summary": "Key points: CNA Latest reports that Wall Street dips, oil continues climb ahead of US inflation data.",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-10T22:29:03+08:00",
+      "id": "2026-09-11-openai-launches-chatgpt-for-financial-services-industry",
+      "category": "world",
+      "headline": "OpenAI launches ChatGPT for financial services industry",
+      "summary": "Key points: CNA Latest reports that OpenAI launches ChatGPT for financial services industry.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-11T01:32:14+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/wall-street-dips-oil-continues-climb-ahead-us-inflation-data-6374561",
+          "url": "https://www.channelnewsasia.com/business/openai-launches-chatgpt-financial-services-industry-6376941",
           "publisher_type": "news"
         },
         {
@@ -31,36 +31,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-10-malaysia-singapore-ties-remain-vital-amid-challenging-global-environment-high-comm",
-      "category": "malaysia",
-      "headline": "Malaysia-Singapore Ties Remain Vital Amid Challenging Global Environment -- High Commissioner - Bernama",
-      "summary": "Key points: Malaysia-Singapore Ties Remain Vital Amid Challenging Global Environment -- High Commissioner Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-10T21:47:28+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tcTJxRTRvaGd2V3lWRDBaTGt1WU90blA3czNsSEtxbkJzOXJvUUc5TG9VWVZ3d1U3cUF0ZVlFb3Yyc3E3MDI0TXNMVXd1YmdpWEZIMEY3UGU?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -126,8 +96,8 @@
     {
       "id": "2026-09-10-bandar-malaysia-seri-kembangan-expressway-to-cost-rm1-75-bil-with-60-year-concessi",
       "category": "malaysia",
-      "headline": "Bandar Malaysia-Seri Kembangan Expressway to cost RM1.75 bil with 60-year concession, says LSH Capital - theedgemalaysia.com",
-      "summary": "Key points: Bandar Malaysia-Seri Kembangan Expressway to cost RM1.75 bil with 60-year concession, says LSH Capital theedgemalaysia.com",
+      "headline": "Bandar Malaysia-Seri Kembangan Expressway to cost RM1.75 bil with 60-year concession, says LSH Capital - The Edge Malaysia",
+      "summary": "Key points: Bandar Malaysia-Seri Kembangan Expressway to cost RM1.75 bil with 60-year concession, says LSH Capital The Edge Malaysia",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-09-10T20:49:11+08:00",
       "source_links": [
@@ -365,6 +335,36 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/09/10/penang-born-mother-allegedly-murdered-in-perth-draws-sympathy-as-funds-for-her-kids-near-rm100000/234741",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-10-malaysia-must-move-beyond-consumer-ai-scale-home-grown-solutions-for-asean-teo-ber",
+      "category": "malaysia",
+      "headline": "Malaysia Must Move Beyond Consumer AI, Scale Home-grown Solutions For ASEAN - Teo - Bernama",
+      "summary": "Key points: Malaysia Must Move Beyond Consumer AI, Scale Home-grown Solutions For ASEAN - Teo Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-10T19:22:20+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15bU52VTVHVGw2ejlfbnlwMmpWb19wY1ZCZGNpaUhmV3h3allyeVNYazViVmhWR1ZxR1REalhFWnlPd2xVU2Q0d0lFaDNFVVlkRzd4RzlkV24?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
         }
       ],
       "topics": [
