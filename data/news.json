@@ -1,19 +1,59 @@
 {
-  "generated_at": "2026-09-12T06:57:46+08:00",
+  "generated_at": "2026-09-12T08:58:11+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-12-openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-wsj-",
+      "id": "2026-09-12-china-s-xi-arrives-in-india-for-brics-summit-as-wars-energy-crisis-loom",
       "category": "world",
-      "headline": "OpenAI agents attacked software service RubyGems before Hugging Face incident, WSJ reports",
-      "summary": "Key points: CNA Latest reports that OpenAI agents attacked software service RubyGems before Hugging Face incident, WSJ reports.",
+      "headline": "China’s Xi arrives in India for Brics summit as wars, energy crisis loom",
+      "summary": "Key points: NEW DELHI, Sept 12 — Chinese President Xi Jinping arrives in New Delhi on Saturday for a Brics summit alongside le...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-12T06:41:36+08:00",
+      "published_at": "2026-09-12T08:51:51+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/12/chinas-xi-arrives-in-india-for-brics-summit-as-wars-energy-crisis-loom/234874",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-12-yemen-houthis-seize-bab-al-mandab-strait-in-major-red-sea-offensive",
+      "category": "world",
+      "headline": "Yemen Houthis seize Bab al-Mandab Strait in major Red Sea offensive",
+      "summary": "Key points: The Iran-backed Houthis seized control of Yemen’s entire Red Sea coast and captured three s...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-12T08:47:18+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/12/yemen-houthis-seize-bab-al-mandab-strait-in-major-red-sea-offensive/234873",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-12-zverev-goes-from-pointless-start-to-us-open-final",
+      "category": "world",
+      "headline": "Zverev goes from 'pointless' start to US Open final",
+      "summary": "Key points: CNA Latest reports that Zverev goes from 'pointless' start to US Open final.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-12T08:00:26+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/openai-agents-attacked-software-service-rubygems-hugging-face-incident-wsj-reports-6379731",
+          "url": "https://www.channelnewsasia.com/sport/zverev-goes-pointless-start-us-open-final-6379796",
           "publisher_type": "news"
         },
         {
@@ -34,33 +74,43 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-09-12-anwar-hopes-malaysia-s-brics-mission-will-achieve-its-objectives-bernama",
-      "category": "malaysia",
-      "headline": "Anwar Hopes Malaysia’s BRICS Mission Will Achieve Its Objectives - Bernama",
-      "summary": "Key points: Anwar Hopes Malaysia’s BRICS Mission Will Achieve Its Objectives Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-12T03:04:09+08:00",
+      "id": "2026-09-12-from-potato-chips-to-silicon-chips-lobbies-cover-all-in-brussels",
+      "category": "markets_investment",
+      "headline": "From potato chips to silicon chips: Lobbies cover all in Brussels",
+      "summary": "Key points: If there is an industry for it, there will be a lobby group representing its interests in Brus...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-12T07:00:00+08:00",
       "source_links": [
         {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSajJmdllvT0dnTU1jekdZWlJtSWlKX2w3RnZOakZBdEtIc0F5OWlVSG9pQ0o5NTVBQl9nMDhsU0I2XzJXck1FV0FQYUhMWGFDeDc0YVdLZnF4UjNnZUp2N2RBWDM?oc=5",
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/12/from-potato-chips-to-silicon-chips-lobbies-cover-all-in-brussels/234854",
           "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
         "latest update"
       ],
-      "importance": 3,
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-12-faith-not-statecraft-why-pacific-nations-are-opening-embassies-in-jerusalem",
+      "category": "world",
+      "headline": "Faith, not statecraft? Why Pacific nations are opening embassies in Jerusalem",
+      "summary": "Key points: An ancient Biblical prophecy lies at the heart of a Pacific islands push to open embassies...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-12T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/12/faith-not-statecraft-why-pacific-nations-are-opening-embassies-in-jerusalem/234837",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -174,6 +224,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-11-malaysia-s-wholesale-retail-trade-sales-rise-to-rm170-5-bln-in-july-2026-majujohor",
+      "category": "malaysia",
+      "headline": "Malaysia’s Wholesale, Retail Trade Sales Rise To RM170.5 Bln In July 2026 - majujohor.bernama.com",
+      "summary": "Key points: Malaysia’s Wholesale, Retail Trade Sales Rise To RM170.5 Bln In July 2026 majujohor.bernama.com",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-11T19:20:37+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9INzJyVEF1VzBMeGg1QVlYXzJmR0h1LUJ4bk9MLVJWdlYyVGF3bjR6TjNLMGYtT0VCTDdMS2hQdWxVSUlYY2dCMzZNMXlhY0JFVVhPUHlRUzZ2Vnd1N05BNUlB?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1163,86 +1243,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-11-tabung-haji-probe-widens-four-charged-former-minister-next-in-line",
-      "category": "malaysia",
-      "headline": "Tabung Haji probe widens: Four charged, former minister next in line",
-      "summary": "Key points: KUALA LUMPUR, Sept 11 — Less than two months after the Royal Commission of Inquiry (RCI) report into the managemen...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-11T09:43:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/11/tabung-haji-probe-widens-four-charged-former-minister-next-in-line/234759",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-11-felda-s-future-under-review-as-special-committee-prepares-interim-report-due-by-en",
-      "category": "malaysia",
-      "headline": "Felda’s future under review as special committee prepares interim report due by end-Sept",
-      "summary": "Key points: KUALA LUMPUR, Sept 11 — An interim report containing findings and recommendations by the Special Committee on the...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-11T09:32:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/11/feldas-future-under-review-as-special-committee-prepares-interim-report-due-by-end-sept/234758",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-11-ringgit-opens-lower-against-us-dollar-on-stronger-us-economic-data",
-      "category": "markets_investment",
-      "headline": "Ringgit opens lower against US dollar on stronger US economic data",
-      "summary": "Key points: KUALA LUMPUR, Sept 11 — The ringgit opened slightly lower against the US dollar on Friday, weighed by s...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-11T09:26:02+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/11/ringgit-opens-lower-against-us-dollar-on-stronger-us-economic-data/234773",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-11-what-to-know-about-trump-s-us-5-000-pledge-to-americans",
-      "category": "world",
-      "headline": "What to know about Trump’s US$5,000 pledge to Americans",
-      "summary": "Key points: President Donald Trump has promised US$5,000 to every American adult if Republicans re...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-11T09:25:49+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/11/what-to-know-about-trumps-us5000-pledge-to-americans/234772",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
