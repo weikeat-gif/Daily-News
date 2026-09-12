@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-13T00:45:25+08:00",
+  "generated_at": "2026-09-13T02:57:07+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-13-ingebrigtsen-pulls-out-of-ultimate-championship-1-500m-delaying-kerr-showdown",
+      "id": "2026-09-13-saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping",
       "category": "world",
-      "headline": "Ingebrigtsen pulls out of Ultimate Championship 1,500m, delaying Kerr showdown",
-      "summary": "Key points: CNA Latest reports that Ingebrigtsen pulls out of Ultimate Championship 1,500m, delaying Kerr showdown.",
+      "headline": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+      "summary": "Key points: The world’s largest crude oil exporter said it temporarily closed the pipeline as a precaution after a drone attack originating from Iraq, where Iran-backed militants operate.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-13T00:15:04+08:00",
+      "published_at": "2026-09-13T02:47:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/ingebrigtsen-pulls-out-ultimate-championship-1500m-delaying-kerr-showdown-6380501",
+          "url": "https://www.channelnewsasia.com/world/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-6380641",
           "publisher_type": "news"
         },
         {
@@ -28,7 +28,10 @@
         }
       ],
       "topics": [
-        "latest update"
+        "oil",
+        "rate",
+        "world",
+        "iran"
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
