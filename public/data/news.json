@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-14T04:19:45+08:00",
+  "generated_at": "2026-09-14T06:52:21+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-14-usa-overcome-14-point-deficit-beat-france-97-79-to-win-women-s-world-cup",
-      "category": "world",
-      "headline": "USA overcome 14-point deficit, beat France 97-79 to win Women's World Cup",
-      "summary": "Key points: CNA Latest reports that USA overcome 14-point deficit, beat France 97-79 to win Women's World Cup.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T04:04:22+08:00",
+      "id": "2026-09-14-ahead-of-fed-meeting-trump-says-us-should-have-world-s-lowest-interest-rate",
+      "category": "markets_investment",
+      "headline": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
+      "summary": "Key points: CNA Latest reports that Ahead of Fed meeting, Trump says US should have world's lowest interest rate.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-14T06:41:54+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/usa-overcome-14-point-deficit-beat-france-97-79-win-womens-world-cup-6381771",
+          "url": "https://www.channelnewsasia.com/world/trump-us-lowest-interest-rate-federal-reserve-meeting-6381521",
           "publisher_type": "news"
         },
         {
@@ -1217,23 +1217,23 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-09-12-selangor-s-investment-hits-rm70b-by-june-as-services-manufacturing-sectors-lead",
-      "category": "markets_investment",
-      "headline": "Selangor’s investment hits RM70b by June as services, manufacturing sectors lead",
-      "summary": "Key points: PORT KLANG, Sept 12 — The services and manufacturing sectors were the highest contributors to investment value in...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-12T16:30:29+08:00",
+      "id": "2026-09-13-thai-man-drowns-in-sungai-golok-near-malaysia-thailand-border",
+      "category": "malaysia",
+      "headline": "Thai man drowns in Sungai Golok near Malaysia-Thailand border",
+      "summary": "Key points: OTA BHARU, Sept 13 — A 23-year-old Thai man was found drowned in Sungai Golok along the Malaysia-Thailand bo...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-13T09:02:05+08:00",
       "source_links": [
         {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/12/selangors-investment-hits-rm70b-by-june-as-services-manufacturing-sectors-lead/234959",
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/13/thai-man-drowns-in-sungai-golok-near-malaysia-thailand-border/234998",
           "publisher_type": "news"
         }
       ],
       "topics": [
         "latest update"
       ],
-      "importance": 4,
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
