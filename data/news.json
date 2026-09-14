@@ -1,12 +1,982 @@
 {
-  "generated_at": "2026-09-14T13:47:22+08:00",
+  "generated_at": "2026-09-14T19:49:01+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-14-negeri-sembilan-dewan-rules-sept-5-document-treasonous-confirms-tuanku-muhriz-rema",
+      "id": "2026-09-14-thailand-accuses-26-senators-of-rigging-election-in-vote-buying-scandal",
+      "category": "world",
+      "headline": "Thailand accuses 26 senators of rigging election in vote-buying scandal",
+      "summary": "Key points: Thailand’s Election Commission accused 26 sitting senators on Monday of colluding to rig...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T19:44:52+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/thailand-accuses-26-senators-of-rigging-election-in-vote-buying-scandal/235226",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-iraqi-butcher-jailed-10-years-for-passing-off-pork-as-beef-in-holy-city-of-najaf",
+      "category": "world",
+      "headline": "Iraqi butcher jailed 10 years for passing off pork as beef in holy city of Najaf",
+      "summary": "Key points: An Iraqi court sentenced a butcher to 10 years in prison on Monday for selling pork that he claim...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T19:31:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/iraqi-butcher-jailed-10-years-for-passing-off-pork-as-beef-in-holy-city-of-najaf/235223",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-sabah-leaders-call-for-apology-from-umno-man-s-remarks-on-christianity",
       "category": "malaysia",
-      "headline": "Negeri Sembilan Dewan rules Sept 5 document treasonous, confirms Tuanku Muhriz remains Yang di‑Pertuan Besar",
+      "headline": "Sabah leaders call for apology from Umno man’s remarks on Christianity",
+      "summary": "Key points: KOTA KINABALU, Sept 14 — Two Sabah leaders have called on Sepang Umno chief Datuk Noorazli Said to apologise over...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T19:30:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/sabah-leaders-call-for-apology-from-umno-mans-remarks-on-christianity/235221",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-prabowo-ousts-indonesia-finance-chief-promotes-deputy-in-latest-shakeup",
+      "category": "world",
+      "headline": "Prabowo ousts Indonesia finance chief, promotes deputy in latest shakeup",
+      "summary": "Key points: Indonesia tapped Deputy Finance Minister Suahasil Nazara as the country’s new finance chi...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T19:27:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/prabowo-ousts-indonesia-finance-chief-promotes-deputy-in-latest-shakeup/235222",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-nigeria-s-dangote-launches-us-1-6b-ipo-africa-s-biggest-to-double-oil-refinery-cap",
+      "category": "markets_investment",
+      "headline": "Nigeria’s Dangote launches US$1.6b IPO, Africa’s biggest, to double oil refinery capacity",
+      "summary": "Key points: Nigerian billionaire Aliko Dangote on Monday launched what is slated as Africa’s biggest in...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-14T19:21:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/14/nigerias-dangote-launches-us16b-ipo-africas-biggest-to-double-oil-refinery-capacity/235220",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-macc-officer-denies-key-witness-against-muhyiddin-given-special-treatment-immunity",
+      "category": "malaysia",
+      "headline": "MACC officer denies key witness against Muhyiddin given ‘special treatment’, ‘immunity’ from own corruption case",
+      "summary": "Key points: KUALA LUMPUR, Sept 14 — The Malaysian Anti-Corruption Commission (MACC) did not give “special treatment...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T19:09:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/macc-officer-denies-key-witness-against-muhyiddin-given-special-treatment-immunity-from-own-corruption-case/235219",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-ringgit-gains-against-most-major-asean-currencies-despite-weaker-us-dollar",
+      "category": "markets_investment",
+      "headline": "Ringgit gains against most major, Asean currencies despite weaker US dollar",
+      "summary": "Key points: KUALA LUMPUR, Sept 14 — The ringgit appreciated against most major and Asean currencies at Monday’s close, a...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-14T18:58:16+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/14/ringgit-gains-against-most-major-asean-currencies-despite-weaker-us-dollar/235218",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-toy-ing-with-the-bomb-squad-suspicious-object-in-sri-petaling-destroyed-found-to-c",
+      "category": "malaysia",
+      "headline": "Toy-ing with the bomb squad? Suspicious object in Sri Petaling destroyed, found to contain toy blocks (VIDEO)",
+      "summary": "Key points: KUALA LUMPUR, Sept 14 — A suspicious plastic box found unattended in front of a shoplot in Bandar Baru Sri Petalin...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T18:57:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/toy-ing-with-the-bomb-squad-suspicious-object-in-sri-petaling-destroyed-found-to-contain-toy-blocks-video/235217",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-houthis-target-saudi-base-as-iran-denies-involvement-in-yemen-war",
+      "category": "world",
+      "headline": "Houthis target Saudi base as Iran denies involvement in Yemen war",
+      "summary": "Key points: CNA Latest reports that Houthis target Saudi base as Iran denies involvement in Yemen war.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T18:55:00+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/houthis-target-saudi-base-iran-denies-yemen-war-involvement-6383191",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-indonesia-ferry-search-enters-second-day-after-vessel-capsizes-129-still-missing",
+      "category": "world",
+      "headline": "Indonesia ferry search enters second day after vessel capsizes, 129 still missing",
+      "summary": "Key points: Indonesian rescuers continued the search for 129 people still missing from the passenger ferry...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T18:48:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/indonesia-ferry-search-enters-second-day-after-vessel-capsizes-129-still-missing/235216",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-haze-update-22-areas-register-unhealthy-air-quality-at-4pm",
+      "category": "malaysia",
+      "headline": "Haze update: 22 areas register unhealthy air quality at 4pm",
+      "summary": "Key points: KUALA LUMPUR, Sept 14 — A total of 22 areas nationwide recorded unhealthy Air Pollutant Index (API) readings as at...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T18:32:44+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/haze-update-22-areas-register-unhealthy-air-quality-at-4pm/235214",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-ex-director-faces-71-cheating-charges-over-rm4-7m-used-car-scam",
+      "category": "malaysia",
+      "headline": "Ex-director faces 71 cheating charges over RM4.7m used car scam",
+      "summary": "Key points: KUALA LUMPUR, Sept 14 — A former director of a used car trading company was charged at three Sessions Courts...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T18:30:53+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/ex-director-faces-71-cheating-charges-over-rm47m-used-car-scam/235215",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-bursa-malaysia-rebounds-to-snap-four-day-losing-streak-closes-at-intraday-high",
+      "category": "markets_investment",
+      "headline": "Bursa Malaysia rebounds to snap four-day losing streak, closes at intraday high",
+      "summary": "Key points: KUALA LUMPUR, Sept 14 — Bursa Malaysia’s barometer index closed at an intraday high and snapped a four-day losing streak...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-14T18:24:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/14/bursa-malaysia-rebounds-to-snap-four-day-losing-streak-closes-at-intraday-high/235212",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-transport-minister-private-vehicle-ownership-transfer-inspection-fees-will-remain-",
+      "category": "malaysia",
+      "headline": "Transport minister: Private vehicle ownership transfer inspection fees will remain standardised, no price competition",
+      "summary": "Key points: SUNGAI BULOH, Sept 14 — The multi-operator system for motor vehicle inspection services does not allow licensed op...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T18:20:42+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/transport-minister-private-vehicle-ownership-transfer-inspection-fees-will-remain-standardised-no-price-competition/235210",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-oil-surges-above-us-100-as-middle-east-fears-deepen-tech-stocks-slide",
+      "category": "markets_investment",
+      "headline": "Oil surges above US$100 as Middle East fears deepen, tech stocks slide",
+      "summary": "Key points: HONG KONG, Sept 14 — Oil prices spiked Monday on Middle East supply fears after Saudi Arabia closed a key pipeline...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-14T18:01:20+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/14/oil-surges-above-us100-as-middle-east-fears-deepen-tech-stocks-slide/235209",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-groundless-china-slams-report-it-gave-iran-intel-before-deadly-strike-on-us-base",
+      "category": "world",
+      "headline": "‘Groundless’: China slams report it gave Iran intel before deadly strike on US base",
+      "summary": "Key points: Beijing rejected on Monday “groundless” reports that Chinese entities supplied Tehr...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T17:55:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/groundless-china-slams-report-it-gave-iran-intel-before-deadly-strike-on-us-base/235207",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-carried-by-teenager-porter-rescued-croatian-climber-says-kinabalu-ordeal-broke-his",
+      "category": "malaysia",
+      "headline": "Carried by teenager porter, rescued Croatian climber says Kinabalu ordeal broke his heart",
+      "summary": "Key points: KOTA KINABALU, Sept 14 — Croatian climber Mauro Persic has expressed regret over the risks he took after being fou...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T17:35:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/carried-by-teenager-porter-rescued-croatian-climber-says-kinabalu-ordeal-broke-his-heart/235203",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-saifuddin-nasution-second-multi-purpose-mission-ship-under-construction-in-turkiye",
+      "category": "malaysia",
+      "headline": "Saifuddin Nasution: Second multi-purpose mission ship under construction in Turkiye to be completed by end‑2027",
+      "summary": "Key points: The second Multi-Purpose Mission Ship (MPMS), which is currently under construction in Turkiy...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T17:33:42+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/saifuddin-nasution-second-multi-purpose-mission-ship-under-construction-in-turkiye-to-be-completed-by-end2027/235204",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-iran-denies-any-involvement-in-yemen-war-says-houthis-are-independent",
+      "category": "world",
+      "headline": "Iran denies any involvement in Yemen war, says Houthis are independent",
+      "summary": "Key points: Iran’s foreign ministry today denied the country had any involvement in the war in Yemen,...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T17:24:40+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/iran-denies-any-involvement-in-yemen-war-says-houthis-are-independent/235200",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-anthony-loke-calls-for-pakatan-presidential-council-meeting-to-discuss-recent-poli",
+      "category": "malaysia",
+      "headline": "Anthony Loke calls for Pakatan Presidential Council meeting to discuss recent political developments after Umno assembly",
+      "summary": "Key points: SUNGAI BULOH, Sept 14 — DAP secretary-general Anthony Loke said he will propose to Prime Minister Datuk Seri Anwar...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T17:21:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/anthony-loke-calls-for-pakatan-presidential-council-meeting-to-discuss-recent-political-developments-after-umno-assembly/235202",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-australia-far-right-leader-sparks-outrage-after-calling-indigenous-people-most-pri",
+      "category": "world",
+      "headline": "Australia far-right leader sparks outrage after calling Indigenous people ‘most primitive race on Earth’",
+      "summary": "Key points: Australian far-right leader Pauline Hanson drew outrage today for comments in which she describe...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T17:19:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/australia-far-right-leader-sparks-outrage-after-calling-indigenous-people-most-primitive-race-on-earth/235199",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-penang-port-commission-ppsb-to-offer-free-ferry-services-on-malaysia-day",
+      "category": "malaysia",
+      "headline": "Penang Port Commission, PPSB to offer free ferry services on Malaysia Day",
+      "summary": "Key points: GEORGE TOWN, Sept 14 — The Penang Port Commission (SPPP) and Penang Port Sdn Bhd (PPSB) are offering free ferry se...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T17:15:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/penang-port-commission-ppsb-to-offer-free-ferry-services-on-malaysia-day/235198",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-iran-says-us-blocked-nuclear-chief-from-vienna-atomic-agency-meeting",
+      "category": "world",
+      "headline": "Iran says US blocked nuclear chief from Vienna atomic agency meeting",
+      "summary": "Key points: Iran’s nuclear chief was blocked from attending an annual conference today at the headquar...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T17:09:04+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/iran-says-us-blocked-nuclear-chief-from-vienna-atomic-agency-meeting/235196",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-chief-of-defence-force-maf-proposes-reinstating-multi-agency-border-security-frame",
+      "category": "malaysia",
+      "headline": "Chief of Defence Force: MAF proposes reinstating multi‑agency border‑security framework used under former national task force",
+      "summary": "Key points: KUALA LUMPUR, Sept 14 — The Malaysian Armed Forces (MAF) has submitted a proposal to the National Security Council...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T17:07:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/chief-of-defence-force-maf-proposes-reinstating-multiagency-bordersecurity-framework-used-under-former-national-task-force/235195",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-two-year-old-mauled-by-stray-dogs-in-batu-pahat-to-undergo-reconstructive-surgery",
+      "category": "malaysia",
+      "headline": "Two‑year‑old mauled by stray dogs in Batu Pahat to undergo reconstructive surgery",
+      "summary": "Key points: BATU PAHAT, Sept 14 — A two-year-old girl mauled by stray dogs outside her grandmother’s home in Kampung Tam...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T17:01:16+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/twoyearold-mauled-by-stray-dogs-in-batu-pahat-to-undergo-reconstructive-surgery/235194",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-us-set-to-axe-climate-pollution-limits-on-coal-gas-power-plants",
+      "category": "markets_investment",
+      "headline": "US set to axe climate pollution limits on coal, gas power plants",
+      "summary": "Key points: US President Donald Trump’s administration is expected to remove limits on climate pol...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-14T16:58:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/us-set-to-axe-climate-pollution-limits-on-coal-gas-power-plants/235193",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-free-entry-to-three-penang-heritage-sites-for-two-days-starting-tomorrow-in-conjun",
+      "category": "malaysia",
+      "headline": "Free entry to three Penang heritage sites for two days starting tomorrow in conjunction with Malaysia Day",
+      "summary": "Key points: GEORGE TOWN, Sept 14 — Three heritage sites in Penang will offer free entry for two days from tomorrow in conjunct...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T16:55:18+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/free-entry-to-three-penang-heritage-sites-for-two-days-starting-tomorrow-in-conjunction-with-malaysia-day/235189",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-india-s-bjp-vows-to-expand-contentious-civil-code-across-all-states-it-rules",
+      "category": "world",
+      "headline": "India’s BJP vows to expand contentious civil code across all states it rules",
+      "summary": "Key points: NEW DELHI, Sept 14 — India’s interior minister has vowed to further implement a contentious common civil cod...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T16:53:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/indias-bjp-vows-to-expand-contentious-civil-code-across-all-states-it-rules/235190",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-france-takes-second-shot-at-under-15-social-media-ban-after-court-blocks-first-att",
+      "category": "world",
+      "headline": "France takes second shot at under-15 social media ban after court blocks first attempt",
+      "summary": "Key points: The French government submitted a reworked proposal to ban social media for children, after its p...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T16:47:49+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/france-takes-second-shot-at-under-15-social-media-ban-after-court-blocks-first-attempt/235188",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-federal-court-hears-pkr-s-argument-that-zuraida-s-rm10m-bond-was-reasonable-decisi",
+      "category": "malaysia",
+      "headline": "Federal Court hears PKR’s argument that Zuraida’s RM10m bond was reasonable; decision reserved",
+      "summary": "Key points: The Federal Court was told today that the High Court’s decision ordering former Ampang...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T16:45:27+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/federal-court-hears-pkrs-argument-that-zuraidas-rm10m-bond-was-reasonable-decision-reserved/235187",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-new-lawas-hospital-expected-to-evolve-into-specialist-centre-to-cut-long-distance-",
+      "category": "malaysia",
+      "headline": "New Lawas Hospital expected to evolve into specialist centre to cut long‑distance referrals, says deputy health minister",
+      "summary": "Key points: The new 76-bed Lawas Hospital is expected to evolve into a specialist hospital, thereby reducing...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T16:40:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/new-lawas-hospital-expected-to-evolve-into-specialist-centre-to-cut-longdistance-referrals-says-deputy-health-minister/235183",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-abdul-aziz-appointed-deputy-inspector-general-of-police",
+      "category": "malaysia",
+      "headline": "Abdul Aziz appointed Deputy Inspector‑General of Police",
+      "summary": "Key points: Royal Malaysia Police (PDRM) Management Director Datuk Seri Abdul Aziz Abdul Majid has been a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T16:28:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/abdul-aziz-appointed-deputy-inspectorgeneral-of-police/235179",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-court-of-appeal-slashes-muhammad-shafee-s-damages-in-malaysian-bar-suit-to-rm120-0",
+      "category": "malaysia",
+      "headline": "Court of Appeal slashes Muhammad Shafee’s damages in Malaysian Bar suit to RM120,000",
+      "summary": "Key points: The Court of Appeal today reduced the damages awarded to senior lawyer Tan Sri Muhammad Shafe...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T16:20:35+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/court-of-appeal-slashes-muhammad-shafees-damages-in-malaysian-bar-suit-to-rm120000/235177",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-sixteen-drownings-in-pahang-this-year-bomba-urges-public-to-respect-warning-signs",
+      "category": "malaysia",
+      "headline": "Sixteen drownings in Pahang this year, Bomba urges public to respect warning signs",
+      "summary": "Key points: A total of 16 drowning deaths have been recorded in Pahang so far this year, and the public is...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T16:18:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/sixteen-drownings-in-pahang-this-year-bomba-urges-public-to-respect-warning-signs/235178",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-home-minister-confirms-police-investigating-negeri-sembilan-mb-ismail-lasim-s-dure",
+      "category": "malaysia",
+      "headline": "Home minister confirms police investigating Negeri Sembilan MB Ismail Lasim’s duress claim",
+      "summary": "Key points: Police have opened an investigation paper into Negeri Sembilan Menteri Besar Datuk Ismail Las...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T16:06:39+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/home-minister-confirms-police-investigating-negeri-sembilan-mb-ismail-lasims-duress-claim/235176",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-lim-guan-eng-dares-zahid-demands-penang-pakatan-expel-umno-and-defer-hikes",
+      "category": "malaysia",
+      "headline": "Lim Guan Eng dares Zahid, demands Penang Pakatan expel Umno and defer hikes",
+      "summary": "Key points: GEORGE TOWN, Sept 14 — DAP’s Air Putih assemblyman Lim Guan Eng has questioned why Umno president Datuk Seri...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T15:51:52+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/lim-guan-eng-dares-zahid-demands-penang-pakatan-expel-umno-and-defer-hikes/235173",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-najib-pardon-delay-not-automatic-pas-claims-objections-triggered-deferral",
+      "category": "malaysia",
+      "headline": "Najib pardon delay not automatic, PAS claims objections triggered deferral",
+      "summary": "Key points: KUALA LUMPUR, Sept 14 — PAS has called on the government to explain why the Federal Territories Pardons Board defe...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T15:24:25+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/najib-pardon-delay-not-automatic-pas-claims-objections-triggered-deferral/235171",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-high-court-acquits-15-year-old-of-bandar-utama-school-murder-rules-unsound-mind",
+      "category": "malaysia",
+      "headline": "High Court acquits 15‑year‑old of Bandar Utama school murder, rules unsound mind",
+      "summary": "Key points: SHAH ALAM, Sept 14 — The High Court today acquitted and discharged a 15-year-old boy of the charge of murdering a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T15:00:54+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/high-court-acquits-15yearold-of-bandar-utama-school-murder-rules-unsound-mind/235169",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-beijing-to-ban-confiscate-drones-starting-november-as-capital-tightens-airspace-se",
+      "category": "world",
+      "headline": "Beijing to ban, confiscate drones starting November as capital tightens airspace security",
+      "summary": "Key points: Beijing will ban the possession and storage of drones within the city from November 15, further...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T14:59:05+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/beijing-to-ban-confiscate-drones-starting-november-as-capital-tightens-airspace-security/235170",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-bintulu-port-comes-under-sarawak-jurisdiction-following-repeal-of-federal-acts",
+      "category": "malaysia",
+      "headline": "Bintulu Port comes under Sarawak jurisdiction following repeal of federal Acts",
+      "summary": "Key points: KUALA LUMPUR, Sept 14 — Bintulu Port has officially transitioned from a federal port to a state port under the jur...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T14:55:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/bintulu-port-comes-under-sarawak-jurisdiction-following-repeal-of-federal-acts/235168",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-fahmi-warns-that-communalism-and-corruption-can-weaken-malaysia-s-future",
+      "category": "malaysia",
+      "headline": "Fahmi warns that communalism and corruption can weaken Malaysia’s future",
+      "summary": "Key points: Malaysia’s younger generation must understand the country’s history and appreciate...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T14:44:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/fahmi-warns-that-communalism-and-corruption-can-weaken-malaysias-future/235167",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-km263-6-southbound-towards-menora-tunnel-now-safe-for-motorists-after-rapid-slope-",
+      "category": "malaysia",
+      "headline": "KM263.6 southbound towards Menora Tunnel now safe for motorists after rapid slope‑erosion mitigation, says Perak exco",
+      "summary": "Key points: The state government has assured that the North-South Expressway (PLUS) route near KM263.6, southb...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T14:36:55+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/km2636-southbound-towards-menora-tunnel-now-safe-for-motorists-after-rapid-slopeerosion-mitigation-says-perak-exco/235166",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-fire-dept-working-with-public-service-dept-to-ensure-welfare-of-two-officers-missi",
+      "category": "malaysia",
+      "headline": "Fire Dept working with Public Service Dept to ensure welfare of two officers missing in Nepal",
+      "summary": "Key points: The Fire and Rescue Department (JBPM) will ensure that the welfare of its two officers who re...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T14:26:49+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/fire-dept-working-with-public-service-dept-to-ensure-welfare-of-two-officers-missing-in-nepal/235164",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-five-missing-after-small-plane-disappears-in-colombia",
+      "category": "world",
+      "headline": "Five missing after small plane disappears in Colombia",
+      "summary": "Key points: Five people are missing after a small plane disappeared in northwestern Colombia, the country&rs...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T14:19:45+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/five-missing-after-small-plane-disappears-in-colombia/235162",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-maf-ready-to-support-emergency-flying-doctor-service-evacuations-says-chief-of-def",
+      "category": "malaysia",
+      "headline": "MAF ready to support emergency flying doctor service evacuations, says Chief of Defence Forces",
+      "summary": "Key points: KUALA LUMPUR, Sept 14 — The Malaysian Armed Forces (MAF) is ready to deploy its air assets to assist the Health Mi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T14:19:32+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/maf-ready-to-support-emergency-flying-doctor-service-evacuations-says-chief-of-defence-forces/235163",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-mof-tours-states-to-gather-budget-2027-input-from-industries-ngos-and-public-says-",
+      "category": "malaysia",
+      "headline": "MOF tours states to gather Budget 2027 input from industries, NGOs and public, says Amir Hamzah",
+      "summary": "Key points: GEORGE TOWN, Sept 14 — The Ministry of Finance (MOF) is conducting a budget tour to gather views and suggestions f...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T14:04:19+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/mof-tours-states-to-gather-budget-2027-input-from-industries-ngos-and-public-says-amir-hamzah/235160",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-dubai-tourist-arrivals-plunge-44pc-as-regional-war-hits-travel",
+      "category": "world",
+      "headline": "Dubai tourist arrivals plunge 44pc as regional war hits travel",
+      "summary": "Key points: The number of international tourists visiting Dubai dropped by 44 per cent year-on-year in the fi...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T14:03:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/dubai-tourist-arrivals-plunge-44pc-as-regional-war-hits-travel/235161",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-tabung-haji-rci-chronology-jamil-khir-among-five-charged-since-report-made-public",
+      "category": "malaysia",
+      "headline": "Tabung Haji RCI chronology: Jamil Khir among five charged since report made public",
+      "summary": "Key points: KUALA LUMPUR, Sept 14 — The disclosure of the Royal Commission of Inquiry (RCI) report into the management and ope...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-14T13:53:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/tabung-haji-rci-chronology-jamil-khir-among-five-charged-since-report-made-public/235158",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-negeri-sembilan-dewan-keadilan-rules-sept-5-document-treasonous-tuanku-muhriz-rema",
+      "category": "malaysia",
+      "headline": "Negeri Sembilan Dewan Keadilan rules Sept 5 document treasonous, Tuanku Muhriz remains Yang di‑Pertuan Besar",
       "summary": "Key points: The Dewan Keadilan dan Undang (DKU) has declared that six individuals who signed a document da...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-09-14T13:40:42+08:00",
@@ -41,36 +1011,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-japan-s-okinawa-ousts-anti-us-base-governor",
-      "category": "world",
-      "headline": "Japan's Okinawa ousts anti-US base governor",
-      "summary": "Key points: CNA Latest reports that Japan's Okinawa ousts anti-US base governor.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T13:32:55+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/east-asia/japan-okinawa-genta-koja-governor-6382641",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -264,978 +1204,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/14/staff-at-miri-hospital-bid-farewell-to-colleagues-killed-in-long-lellang-fds-helicopter-crash/235135",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-amazon-suspends-21-air-operations-following-miami-cargo-plane-crash",
-      "category": "markets_investment",
-      "headline": "Amazon suspends 21 Air operations following Miami cargo plane crash",
-      "summary": "Key points: Amazon said yesterday it is pausing its operations with 21 Air LLC, the company t...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-14T11:49:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/14/amazon-suspends-21-air-operations-following-miami-cargo-plane-crash/235136",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-short-term-interbank-rates-expected-to-remain-stable-amid-bnm-liquidity-operations",
-      "category": "malaysia",
-      "headline": "Short-term interbank rates expected to remain stable amid BNM liquidity operations",
-      "summary": "Key points: KUALA LUMPUR, Sept 14 — Short-term interbank rates are expected to remain stable today, supported by Ba...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T11:45:33+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/14/short-term-interbank-rates-expected-to-remain-stable-amid-bnm-liquidity-operations/235132",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "kuala lumpur",
-        "bnm",
-        "bank",
-        "rate"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-bulldozer-driver-crushed-to-death-in-long-seridan-mishap-says-sarawak-fire-dept",
-      "category": "malaysia",
-      "headline": "Bulldozer driver crushed to death in Long Seridan mishap, says Sarawak Fire Dept",
-      "summary": "Key points: A 45-year-old man died after the bulldozer he was operating went out of control, causing him to fa...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T11:42:44+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/bulldozer-driver-crushed-to-death-in-long-seridan-mishap-says-sarawak-fire-dept/235131",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-plantation-healthcare-and-consumer-sectors-draw-rm263-7m-foreign-inflows",
-      "category": "malaysia",
-      "headline": "Plantation, healthcare and consumer sectors draw RM263.7m foreign inflows",
-      "summary": "Key points: KUALA LUMPUR, Sept 14 — Plantation, healthcare as well as consumer products and services sectors have attrac...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T11:38:07+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/14/plantation-healthcare-and-consumer-sectors-draw-rm2637m-foreign-inflows/235130",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-students-volunteering-for-rela-to-get-fixed-allowance-says-home-minister-saifuddin",
-      "category": "malaysia",
-      "headline": "Students volunteering for Rela to get fixed allowance, says Home Minister Saifuddin",
-      "summary": "Key points: University or college students volunteering with the Rela Corp will begin receiving allowance...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T11:27:20+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/students-volunteering-for-rela-to-get-fixed-allowance-says-home-minister-saifuddin/235129",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-samarahan-api-dips-to-moderate-98-at-8am-today-kanowit-and-lundu-also-return-to-mo",
-      "category": "malaysia",
-      "headline": "Samarahan API dips to moderate 98 at 8am today, Kanowit and Lundu also return to moderate levels",
-      "summary": "Key points: Air quality in Samarahan has improved significantly with Air Pollutant Index (API) dropping to...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T11:24:42+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/samarahan-api-dips-to-moderate-98-at-8am-today-kanowit-and-lundu-also-return-to-moderate-levels/235127",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-us-measles-death-toll-rises-to-three-as-cases-surge-past-3-000",
-      "category": "world",
-      "headline": "US measles death toll rises to three as cases surge past 3,000",
-      "summary": "Key points: A forty-year-old woman in the US state of Pennsylvania has died of measles, authorities said...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T11:24:20+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/14/us-measles-death-toll-rises-to-three-as-cases-surge-past-3000/235128",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-mount-semeru-erupts-three-times-spews-ash-up-to-1-000-metres",
-      "category": "world",
-      "headline": "Mount Semeru erupts three times, spews ash up to 1,000 metres",
-      "summary": "Key points: Mount Semeru in East Java erupted three times today morning, sending volcanic ash as high as 1,...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T11:19:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/14/mount-semeru-erupts-three-times-spews-ash-up-to-1000-metres/235125",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-tourism-ministry-seeks-funds-to-help-states-upgrade-and-develop-tourist-destinatio",
-      "category": "malaysia",
-      "headline": "Tourism Ministry seeks funds to help states upgrade and develop tourist destinations, says minister",
-      "summary": "Key points: KUALA LUMPUR, Sept 14 — The Ministry of Tourism, Arts and Culture (MOTAC) will strive to secure allocations to hel...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T11:08:27+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/tourism-ministry-seeks-funds-to-help-states-upgrade-and-develop-tourist-destinations-says-minister/235126",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-melaka-assures-treated-water-safe-after-suspected-human-remains-found-at-durian-tu",
-      "category": "malaysia",
-      "headline": "Melaka assures treated water safe after suspected human remains found at Durian Tunggal Dam reserve",
-      "summary": "Key points: The Melaka State Government has given an assurance that the safety of raw water sources and trea...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T10:55:16+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/melaka-assures-treated-water-safe-after-suspected-human-remains-found-at-durian-tunggal-dam-reserve/235123",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-philippines-autonomous-muslim-region-votes-for-first-parliament-after-three-shot-d",
-      "category": "world",
-      "headline": "Philippines’ autonomous Muslim region votes for first parliament after three shot dead on eve of election",
-      "summary": "Key points: Voters across the Philippines’ autonomous Muslim region began casting ballots for their fi...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T10:52:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/14/philippines-autonomous-muslim-region-votes-for-first-parliament-after-three-shot-dead-on-eve-of-election/235124",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-police-expand-long-lellang-helicopter-crash-investigation-to-refuelling-site-fligh",
-      "category": "malaysia",
-      "headline": "Police expand Long Lellang helicopter crash investigation to refuelling site, flight chronology",
-      "summary": "Key points: Police are expanding their investigation into the helicopter crash in Long Lellang, Baram, by e...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T10:41:54+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/police-expand-long-lellang-helicopter-crash-investigation-to-refuelling-site-flight-chronology/235115",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-fire-breaks-out-at-pulau-tenggol-jetty-parking-area-11-cars-affected-says-dungun-f",
-      "category": "malaysia",
-      "headline": "Fire breaks out at Pulau Tenggol jetty parking area, 11 cars affected, says Dungun Fire Dept",
-      "summary": "Key points: A fire at the Pulau Tenggol public jetty parking area near Jalan Rajawali here yesterday afterno...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T10:33:09+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/fire-breaks-out-at-pulau-tenggol-jetty-parking-area-11-cars-affected-says-dungun-fire-dept/235114",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-families-of-missing-malaysians-request-detailed-sar-briefings-in-nepal-tragedy-as-",
-      "category": "malaysia",
-      "headline": "Families of missing Malaysians request detailed SAR briefings in Nepal tragedy as SMART prepares to return",
-      "summary": "Key points: Kalaiselvi, a Malaysian reported missing in the Nepal landslide tragedy,... KUALA LUMPUR, Sept 14 — The family of N.",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T10:23:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/families-of-missing-malaysians-request-detailed-sar-briefings-in-nepal-tragedy-as-smart-prepares-to-return/235112",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-bursa-malaysia-slips-at-opening-as-foreign-selling-weighs-on-market-sentiment",
-      "category": "markets_investment",
-      "headline": "Bursa Malaysia slips at opening as foreign selling weighs on market sentiment",
-      "summary": "Key points: KUALA LUMPUR, Sept 14 — Bursa Malaysia opened lower on Monday, extending last week’s bearish performan...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-14T10:19:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/14/bursa-malaysia-slips-at-opening-as-foreign-selling-weighs-on-market-sentiment/235111",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "bursa",
-        "market"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-oman-postpones-iran-gulf-talks-on-strait-of-hormuz",
-      "category": "world",
-      "headline": "Oman postpones Iran-Gulf talks on Strait of Hormuz",
-      "summary": "Key points: Oman has announced the postponement of a meeting today between Iran and Gulf countries on the St...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T10:15:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/14/oman-postpones-iran-gulf-talks-on-strait-of-hormuz/235105",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-wisma-putra-55-malaysians-remain-uncontactable-after-nepal-and-china-disasters",
-      "category": "malaysia",
-      "headline": "Wisma Putra: 55 Malaysians remain uncontactable after Nepal and China disasters",
-      "summary": "Key points: KUALA LUMPUR, Sept 14 — Fifty-five Malaysians remain uncontactable following the floods and landslides in Nepal an...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T10:13:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/wisma-putra-55-malaysians-remain-uncontactable-after-nepal-and-china-disasters/235108",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-two-women-die-of-suspected-electrocution-at-fish-rearing-pond-in-pantai-air-tawar-",
-      "category": "malaysia",
-      "headline": "Two women die of suspected electrocution at fish rearing pond in Pantai Air Tawar in Terengganu",
-      "summary": "Key points: Two women were found dead of suspected electrocution at a fish rearing pond area in Pantai Air T...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T10:07:16+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/two-women-die-of-suspected-electrocution-at-fish-rearing-pond-in-pantai-air-tawar/235107",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-hilux-driver-dies-after-early-morning-seven-vehicle-collision-at-kota-kinabalu-tra",
-      "category": "malaysia",
-      "headline": "Hilux driver dies after early‑morning seven‑vehicle collision at Kota Kinabalu traffic lights",
-      "summary": "Key points: KOTA KINABALU, Sept 14 — A man was killed after being trapped inside a four‑wheel drive following a collision invo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T10:05:05+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/hilux-driver-dies-after-earlymorning-sevenvehicle-collision-at-kota-kinabalu-traffic-lights/235104",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-uk-separatist-leaders-to-hold-rare-talks-on-independence-push",
-      "category": "world",
-      "headline": "UK separatist leaders to hold rare talks on independence push",
-      "summary": "Key points: The leaders of the main Scottish, Welsh and Northern Irish separatist parties are to hold rare t...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T09:53:55+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/14/uk-separatist-leaders-to-hold-rare-talks-on-independence-push/235103",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-trump-rejects-calls-to-slow-ai-development-despite-safety-fears",
-      "category": "world",
-      "headline": "Trump rejects calls to slow AI development despite safety fears",
-      "summary": "Key points: US President Donald Trump and key allies voiced opposition yesterday to drastically curbing...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T09:45:12+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/14/trump-administration-reluctant-to-slow-ai-democrats-see-urgent-need/235102",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-anwar-says-meeting-with-tamil-nadu-cm-vijay-remains-on-the-cards-either-in-putraja",
-      "category": "malaysia",
-      "headline": "Anwar says meeting with Tamil Nadu CM Vijay remains on the cards, either in Putrajaya or Chennai",
-      "summary": "Key points: NEW DELHI, Sept 14 — Prime Minister Datuk Seri Anwar Ibrahim said the plan for a bilateral meeting with Tamil Nadu...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T09:43:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/anwar-says-meeting-with-tamil-nadu-cm-vijay-remains-on-the-cards-either-in-putrajaya-or-chennai/235101",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-johor-police-sweep-mid-valley-southkey-after-email-bomb-scare-declare-premises-saf",
-      "category": "malaysia",
-      "headline": "Johor police sweep Mid Valley Southkey after email bomb scare, declare premises safe",
-      "summary": "Key points: JOHOR BAHRU, Sept 14 — A bomb threat received via email targeting a business premises at The Mall, Mid Valley Sout...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T09:42:55+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/johor-police-sweep-mid-valley-southkey-after-email-bomb-scare-declare-premises-safe/235097",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-anwar-to-meet-keralam-cm-and-governor-on-bilateral-cooperation",
-      "category": "malaysia",
-      "headline": "Anwar to meet Keralam CM and governor on bilateral cooperation",
-      "summary": "Key points: KERALAM (INDIA), Sept 14 — Prime Minister Datuk Seri Anwar Ibrahim is scheduled to meet Keralam Chief Minister V....",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T09:35:02+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/anwar-to-meet-keralam-cm-and-governor-on-bilateral-cooperation/235099",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-iran-uae-agree-to-turn-the-page-on-war",
-      "category": "world",
-      "headline": "Iran, UAE agree to ‘turn the page’ on war",
-      "summary": "Key points: Iran and the United Arab Emirates, whose relations have deteriorated since the start of the Midd...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T09:28:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/14/iran-uae-agree-to-turn-the-page-on-war/235093",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-in-india-anwar-calls-on-muslim-scholars-to-master-ai-while-safeguarding-islamic-fa",
-      "category": "malaysia",
-      "headline": "In India, Anwar calls on Muslim scholars to master AI while safeguarding Islamic faith and moral values",
-      "summary": "Key points: KERALAM (INDIA), Sept 14 — The Muslim world must embrace artificial intelligence (AI) and new technologies while e...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T09:26:44+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/in-india-anwar-calls-on-muslim-scholars-to-master-ai-while-safeguarding-islamic-faith-and-moral-values/235096",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-ex-minister-jamil-khir-claims-trial-over-rm860m-tabung-haji-funds-channelled-into-",
-      "category": "malaysia",
-      "headline": "Ex‑minister Jamil Khir claims trial over RM860m Tabung Haji funds channelled into Saudi real estate",
-      "summary": "Key points: KUALA LUMPUR, Sept 14 — Former minister in the Prime Minister’s Department for Religious Affairs Datuk Seri...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T09:18:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/exminister-jamil-khir-claims-trial-over-rm860m-tabung-haji-funds-channelled-into-saudi-real-estate/235090",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-anwar-receives-inaugural-sheikh-abu-bakar-foundation-excellence-award",
-      "category": "malaysia",
-      "headline": "Anwar receives inaugural Sheikh Abu Bakar Foundation Excellence Award",
-      "summary": "Key points: KERALAM (INDIA), Sept 14 — Prime Minister Datuk Seri Anwar Ibrahim last night received the inaugural Sheikh Abu Ba...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T09:18:24+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/anwar-receives-inaugural-sheikh-abu-bakar-foundation-excellence-award/235091",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-macron-carney-to-visit-french-atlantic-islands-after-trump-map-redraws-north-ameri",
-      "category": "world",
-      "headline": "Macron, Carney to visit French Atlantic islands after Trump map redraws North America",
-      "summary": "Key points: The leaders of France and Canada will next week visit France’s North Atlantic territory of...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T09:16:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/14/macron-carney-to-visit-french-atlantic-islands-after-trump-map-redraws-north-america/235089",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-ringgit-rises-against-us-dollar-as-markets-brace-for-fomc-decision",
-      "category": "markets_investment",
-      "headline": "Ringgit rises against US dollar as markets brace for FOMC decision",
-      "summary": "Key points: KUALA LUMPUR, Sept 14 — The ringgit opened higher against the US dollar amid cautious market sentiment...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-14T09:14:51+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/14/ringgit-rises-against-us-dollar-as-markets-brace-for-fomc-decision/235092",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "kuala lumpur",
-        "ringgit",
-        "market",
-        "markets"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-former-minister-jamil-khir-appears-in-kl-court-over-tabung-haji-rci-charges",
-      "category": "malaysia",
-      "headline": "Former minister Jamil Khir appears in KL court over Tabung Haji RCI charges",
-      "summary": "Key points: KUALA LUMPUR, Sept 14 — Former Minister in the Prime Minister’s Department (Religious Affairs) Datuk Seri Ja...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T09:12:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/newsmalaysia20260914former-minister-jamil-khir-appears-in-kl-court-over-tabung-haji-rci-charges235086/235086",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-rescuers-search-for-129-still-missing-after-ferry-capsizes-in-indonesia-killing-si",
-      "category": "world",
-      "headline": "Rescuers search for 129 still missing after ferry capsizes in Indonesia, killing six",
-      "summary": "Key points: Rescuers in Indonesia said at least six people were killed and 129 others were missing afte...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T09:08:33+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/rescuers-search-for-129-still-missing-after-ferry-capsizes-in-indonesia-killing-six/235083",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-tong-s-portfolio-malaysia-s-economy-is-growing-faster-than-expected-but-the-people",
-      "category": "malaysia",
-      "headline": "Tong's Portfolio - Malaysia’s economy is growing faster than expected — but the people are not feeling it. Why? - The Edge Malaysi",
-      "summary": "Key points: Tong's Portfolio - Malaysia’s economy is growing faster than expected — but the people are not feeling it.",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T09:00:00+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuNFBndk1qZUNyNHNycENzQ2diRkdHSzBjcW1iaGkzY0F0aVJ1aXkyZmRBUkxYalZMMnNCTGwzMjdSZkNROTM2OTk5bGJtN3Fy?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-anwar-meets-india-s-grand-mufti-discusses-interfaith-understanding-and-harmony",
-      "category": "malaysia",
-      "headline": "Anwar meets India’s Grand Mufti, discusses interfaith understanding and harmony",
-      "summary": "Key points: KERALAM (INDIA), Sept 14 — Prime Minister Datuk Seri Anwar Ibrahim held a meeting with the Grand Mufti of India, S...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T08:59:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/14/anwar-meets-indias-grand-mufti-discusses-interfaith-understanding-and-harmony/235079",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-malaysia-s-ai-nation-plan-by-2030-how-the-government-is-preparing-its-people",
-      "category": "malaysia",
-      "headline": "Malaysia’s AI Nation plan by 2030 — how the government is preparing its people",
-      "summary": "Key points: KUALA LUMPUR, Sept 14 — On a daily basis we wake up to check our mobile phones for the quickest route to work usin...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/12/14/malaysias-ai-nation-plan-by-2030-how-the-government-is-preparing-its-people/234593",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-09-14-inflation-fight-puts-kevin-warsh-on-the-line-as-us-fed-decision-looms-over-global-",
-      "category": "markets_investment",
-      "headline": "Inflation fight puts Kevin Warsh on the line as US Fed decision looms over global markets",
-      "summary": "Key points: The US Federal Reserve goes into a key rate-setting meeting this week with markets expecting...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-14T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/14/inflation-fight-puts-kevin-warsh-on-the-line-as-us-fed-decision-looms-over-global-markets/235022",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "market",
-        "markets",
-        "inflation",
-        "rate"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-villages-and-wetlands-sacrificed-as-hong-kong-builds-vast-northern-metropolis-tech",
-      "category": "world",
-      "headline": "Villages and wetlands sacrificed as Hong Kong builds vast Northern Metropolis tech hub",
-      "summary": "Key points: HONG KONG, Sept 14 — Chan Yuk-tong hoped to spend his remaining years in the row of small, blue-brick houses where...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/14/villages-and-wetlands-sacrificed-as-hong-kong-builds-vast-northern-metropolis-tech-hub/235046",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-laos-power-paradox-booming-exports-to-thailand-and-vietnam-but-blackouts-at-home-p",
-      "category": "world",
-      "headline": "Laos power paradox: Booming exports to Thailand and Vietnam, but blackouts at home persist",
-      "summary": "Key points: Isolated, under-developed Laos brands itself the “Battery of South-east Asia”, po...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-14T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/14/laos-power-paradox-booming-exports-to-thailand-and-vietnam-but-blackouts-at-home-persist/235043",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-13-fifa-clears-bergson-tapp-to-represent-malaysia-fam-bernama",
-      "category": "malaysia",
-      "headline": "FIFA Clears Bergson, Tapp To Represent Malaysia - FAM - bernama",
-      "summary": "Key points: FIFA Clears Bergson, Tapp To Represent Malaysia - FAM bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-13T21:30:00+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94VXVuTmJ6UWJpV3c5VnhTYTd4ekNEaHU4NXhuZ0lzd1RodERINVFlMEpDOWMxM3NFNmtGbFRKXzlnSXJFaEhNVDMtSVN3RXl6MzZ1azZBSXJEUQ?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-13-how-the-houthis-went-from-yemen-s-fringes-to-controlling-a-global-chokepoint",
-      "category": "world",
-      "headline": "How the Houthis went from Yemen’s fringes to controlling a global chokepoint",
-      "summary": "Key points: Within a matter of days, Yemen’s Houthis have swept south and seized the strategic Bab al-M...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-13T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/13/how-the-houthis-went-from-yemens-fringes-to-controlling-a-global-chokepoint/235012",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-13-former-minister-jamil-khir-to-face-three-charges-over-tabung-haji-probe-tomorrow",
-      "category": "malaysia",
-      "headline": "Former minister Jamil Khir to face three charges over Tabung Haji probe tomorrow",
-      "summary": "Key points: KUALA LUMPUR, Sept 13 — Former minister in the Prime Minister’s Department (Religious Affairs) Datuk Seri Ja...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-13T20:22:33+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/13/former-minister-jamil-khir-to-face-three-charges-over-tabung-haji-probe-tomorrow/235078",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-13-golf-fortune-and-fanfare-trump-s-irish-open-weekend-fuels-family-business-spotligh",
-      "category": "world",
-      "headline": "Golf, fortune and fanfare: Trump’s Irish Open weekend fuels family business spotlight",
-      "summary": "Key points: DOONBEG (Ireland), Sept 13 — Donald Trump turns his focus Sunday to golf and promoting his business interests, as...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-13T20:12:12+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/13/golf-fortune-and-fanfare-trumps-irish-open-weekend-fuels-family-business-spotlight/235077",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-13-moh-assures-healthcare-access-will-continue-in-rural-sarawak-after-suspension-of-f",
-      "category": "malaysia",
-      "headline": "MOH assures healthcare access will continue in rural Sarawak after suspension of Flying Doctor Service",
-      "summary": "Key points: The Ministry of Health (MOH) has assured that access to healthcare services for rural communi...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-13T20:04:07+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/13/moh-assures-healthcare-access-will-continue-in-rural-sarawak-after-suspension-of-flying-doctor-service/235076",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-13-parliament-open-day-draws-record-13-368-visitors",
-      "category": "malaysia",
-      "headline": "Parliament Open Day draws record 13,368 visitors",
-      "summary": "Key points: KUALA LUMPUR, Sept 13 — The two-day Parliament Open Day which began yesterday successfully attracted over 13,368 v...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-13T19:11:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/13/parliament-open-day-draws-record-13368-visitors/235075",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-13-thai-government-proposes-flat-450-baht-fee-for-foreign-visitors-eyes-rollout-in-20",
-      "category": "world",
-      "headline": "Thai government proposes flat 450‑baht fee for foreign visitors, eyes rollout in 2027",
-      "summary": "Key points: The Thai government is currently conducting a public consultation on a proposed tourism fee of...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-13T18:57:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/13/thai-government-proposes-flat-450baht-fee-for-foreign-visitors-eyes-rollout-in-2027/235072",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-09-13-thunderstorms-heavy-rain-and-strong-winds-forecast-in-seven-states-and-kl-until-9p",
-      "category": "malaysia",
-      "headline": "Thunderstorms, heavy rain and strong winds forecast in seven states and KL until 9pm",
-      "summary": "Key points: KUALA LUMPUR, Sept 13 — The Malaysian Meteorological Department (MetMalaysia) has issued a warning of thunderstorm...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-13T18:36:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/13/thunderstorms-heavy-rain-and-strong-winds-forecast-in-seven-states-and-kl-until-9pm/235071",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-13-anwar-no-country-should-have-to-choose-between-repaying-debt-and-caring-for-its-pe",
-      "category": "malaysia",
-      "headline": "Anwar: No country should have to choose between repaying debt and caring for its people",
-      "summary": "Key points: NEW DELHI, Sept 13 — Prime Minister Datuk Seri Anwar Ibrahim has called for a fairer global financing system, sayi...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-13T18:31:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/13/anwar-no-country-should-have-to-choose-between-repaying-debt-and-caring-for-its-people/235070",
           "publisher_type": "news"
         }
       ],
