@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-14T06:52:21+08:00",
+  "generated_at": "2026-09-14T08:43:28+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-14-ahead-of-fed-meeting-trump-says-us-should-have-world-s-lowest-interest-rate",
-      "category": "markets_investment",
-      "headline": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
-      "summary": "Key points: CNA Latest reports that Ahead of Fed meeting, Trump says US should have world's lowest interest rate.",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-14T06:41:54+08:00",
+      "id": "2026-09-14-three-shot-dead-15-wounded-ahead-of-polls-in-philippine-muslim-enclave",
+      "category": "world",
+      "headline": "Three shot dead, 15 wounded ahead of polls in Philippine Muslim enclave",
+      "summary": "Key points: CNA Latest reports that Three shot dead, 15 wounded ahead of polls in Philippine Muslim enclave.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T08:28:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/trump-us-lowest-interest-rate-federal-reserve-meeting-6381521",
+          "url": "https://www.channelnewsasia.com/asia/philippines-mindanao-shooting-election-parliament-6382166",
           "publisher_type": "news"
         },
         {
@@ -34,33 +34,86 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-09-14-muslim-world-must-embrace-ai-while-safeguarding-moral-values-islamic-heritage-anwa",
+      "id": "2026-09-14-malaysia-s-ai-nation-plan-by-2030-how-the-government-is-preparing-its-people",
       "category": "malaysia",
-      "headline": "Muslim World Must Embrace AI While Safeguarding Moral Values, Islamic Heritage - Anwar - bernama",
-      "summary": "Key points: Muslim World Must Embrace AI While Safeguarding Moral Values, Islamic Heritage - Anwar bernama",
+      "headline": "Malaysia’s AI Nation plan by 2030 — how the government is preparing its people",
+      "summary": "Key points: KUALA LUMPUR, Sept 14 — On a daily basis we wake up to check our mobile phones for the quickest route to work usin...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T02:29:21+08:00",
+      "published_at": "2026-09-14T07:00:00+08:00",
       "source_links": [
         {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1bTQ4V3NpTm92U0hUTVpzV1BqbjNMaEVRS25VTTNaUXJIOFpBbkxaekdfRHpPNGVuOTJGT3I5UkJtd2tUUW96dkRRQVNDdGtvV1pYSlJDSmNmemR5bmlYNHdTZTQ?oc=5",
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/12/14/malaysias-ai-nation-plan-by-2030-how-the-government-is-preparing-its-people/234593",
           "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
         "latest update"
       ],
       "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-09-14-inflation-fight-puts-kevin-warsh-on-the-line-as-us-fed-decision-looms-over-global-",
+      "category": "markets_investment",
+      "headline": "Inflation fight puts Kevin Warsh on the line as US Fed decision looms over global markets",
+      "summary": "Key points: The US Federal Reserve goes into a key rate-setting meeting this week with markets expecting...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-14T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/14/inflation-fight-puts-kevin-warsh-on-the-line-as-us-fed-decision-looms-over-global-markets/235022",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "market",
+        "markets",
+        "inflation",
+        "rate"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-villages-and-wetlands-sacrificed-as-hong-kong-builds-vast-northern-metropolis-tech",
+      "category": "world",
+      "headline": "Villages and wetlands sacrificed as Hong Kong builds vast Northern Metropolis tech hub",
+      "summary": "Key points: HONG KONG, Sept 14 — Chan Yuk-tong hoped to spend his remaining years in the row of small, blue-brick houses where...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/villages-and-wetlands-sacrificed-as-hong-kong-builds-vast-northern-metropolis-tech-hub/235046",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-14-laos-power-paradox-booming-exports-to-thailand-and-vietnam-but-blackouts-at-home-p",
+      "category": "world",
+      "headline": "Laos power paradox: Booming exports to Thailand and Vietnam, but blackouts at home persist",
+      "summary": "Key points: Isolated, under-developed Laos brands itself the “Battery of South-east Asia”, po...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-14T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/laos-power-paradox-booming-exports-to-thailand-and-vietnam-but-blackouts-at-home-persist/235043",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -279,6 +332,39 @@
       ],
       "topics": [
         "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-13-anwar-confirms-malaysia-mulls-acquiring-india-s-brahmos-air-to-surface-missile-maj",
+      "category": "malaysia",
+      "headline": "Anwar Confirms Malaysia Mulls Acquiring India’s Brahmos Air To Surface Missile - majujohor.bernama.com",
+      "summary": "Key points: Anwar Confirms Malaysia Mulls Acquiring India’s Brahmos Air To Surface Missile majujohor.bernama.com",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-13T17:30:12+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HdWhFUUtJYWd6eHNjQ0puUU1Odl9NczVSdm9CdHpCT3ZDRkh0TkZIRWUtV3lYSmlFTEdOY0VBamRyRndtSzlzYWtyUHRWNU8yZGlmRnhBaXgwSFZLME1mMVZB?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "anwar",
+        "johor",
+        "war"
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
@@ -655,36 +741,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/13/health-minister-leads-funeral-prayers-for-helicopter-crash-victim-dr-ainul-baraah/235044",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-13-anwar-confirms-malaysia-mulls-acquiring-india-s-brahmos-air-to-surface-missile-the",
-      "category": "malaysia",
-      "headline": "Anwar confirms Malaysia mulls acquiring India’s BrahMos air-to-surface missile - The Edge Malaysia",
-      "summary": "Key points: Anwar confirms Malaysia mulls acquiring India’s BrahMos air-to-surface missile The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-13T14:26:15+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MNjVVdjFZTy14aXdNZnJvRUhpRmxBUllrdkIwNmx1NGlyZ2xlZjNYREJIOWt4UHFKR2MwbGpVMUgtQTlOb1hfUHdnSTZfMDdQ?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1167,66 +1223,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/13/health-ministry-to-announce-number-affected-by-sarawak-flying-doctor-service-suspension/235001",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-13-sarawak-extends-school-closures-in-serian-lubok-antu-until-haze-improves",
-      "category": "malaysia",
-      "headline": "Sarawak extends school closures in Serian, Lubok Antu until haze improves",
-      "summary": "Key points: The temporary closure of schools in the Serian and Lubok Antu districts has been extended...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-13T09:21:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/13/sarawak-extends-school-closures-in-serian-lubok-antu-until-haze-improves/235000",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-13-indian-woman-drowns-after-falling-from-boat-during-tioman-diving-trip",
-      "category": "malaysia",
-      "headline": "Indian woman drowns after falling from boat during Tioman diving trip",
-      "summary": "Key points: An Indian national drowned after she was believed to have slipped off a boat follow...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-13T09:04:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/13/indian-woman-drowns-after-falling-from-boat-during-tioman-diving-trip/234999",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-13-thai-man-drowns-in-sungai-golok-near-malaysia-thailand-border",
-      "category": "malaysia",
-      "headline": "Thai man drowns in Sungai Golok near Malaysia-Thailand border",
-      "summary": "Key points: OTA BHARU, Sept 13 — A 23-year-old Thai man was found drowned in Sungai Golok along the Malaysia-Thailand bo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-13T09:02:05+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/13/thai-man-drowns-in-sungai-golok-near-malaysia-thailand-border/234998",
           "publisher_type": "news"
         }
       ],
