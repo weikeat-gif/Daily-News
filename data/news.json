@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-15T01:42:31+08:00",
+  "generated_at": "2026-09-15T05:29:04+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-15-manchester-derby-var-stood-down-from-premier-league-duty",
+      "id": "2026-09-15-nfl-season-opener-overshadows-trump-speech-with-25-million-viewers",
       "category": "world",
-      "headline": "Manchester derby VAR stood down from Premier League duty",
-      "summary": "Key points: CNA Latest reports that Manchester derby VAR stood down from Premier League duty.",
+      "headline": "NFL season opener overshadows Trump speech with 25 million viewers",
+      "summary": "Key points: CNA Latest reports that NFL season opener overshadows Trump speech with 25 million viewers.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-15T01:29:26+08:00",
+      "published_at": "2026-09-15T04:59:04+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/manchester-derby-var-stood-down-premier-league-duty-6384171",
+          "url": "https://www.channelnewsasia.com/sport/nfl-season-opener-overshadows-trump-speech-25-million-viewers-6384386",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-15-malaysia-explores-uae-business-interests-including-halal-logistics-employment-maju",
+      "category": "malaysia",
+      "headline": "Malaysia Explores UAE Business Interests Including Halal Logistics, Employment - majujohor.bernama.com",
+      "summary": "Key points: Malaysia Explores UAE Business Interests Including Halal Logistics, Employment majujohor.bernama.com",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-15T00:09:57+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uUmtaNWVqR0c3R3g5d3hBQVVuckYyMnZXTnhHUmhyY1VLT1pUNGh6UTRmQVp1aWJvaHdBWU5xWm9YYmVlSWhQNjBfSTB2REV4NXdrWFBNNVFkZjl5dlZKSGl3?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -965,36 +995,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/14/km2636-southbound-towards-menora-tunnel-now-safe-for-motorists-after-rapid-slopeerosion-mitigation-says-perak-exco/235166",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-14-communalism-corruption-can-undermine-malaysia-s-future-fahmi-majujohor-bernama-com",
-      "category": "malaysia",
-      "headline": "Communalism, Corruption Can Undermine Malaysia’s Future - Fahmi - majujohor.bernama.com",
-      "summary": "Key points: Communalism, Corruption Can Undermine Malaysia’s Future - Fahmi majujohor.bernama.com",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-14T14:31:43+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aV0dpTTR2WXBJMThsMThJanVyNi1GRFhpd0pGNExhcVlWZWZFTmExLTJNZ3BuTjc4NWQ3Ul9WQzYxeVRJOVU0bklqVlYzR1ljakswWURCQm9OYnFIVjZkZXpn?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
