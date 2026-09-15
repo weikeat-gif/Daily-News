@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-09-16T00:15:52+08:00",
+  "generated_at": "2026-09-16T03:59:24+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-09-16-bitcoin-and-crypto-stocks-remain-down-after-us-senate-fails-to-advance-regulatory-",
+      "category": "world",
+      "headline": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill",
+      "summary": "Key points: CNA Latest reports that Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-16T03:41:41+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/bitcoin-and-crypto-stocks-remain-down-after-us-senate-fails-advance-regulatory-bill-6387091",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "verified"
+    },
     {
       "id": "2026-09-15-malaysia-indonesia-ties-gain-momentum-ahead-of-70th-anniversary-in-2027-bernama",
       "category": "malaysia",
@@ -31,36 +61,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-15-morocco-s-abde-stands-by-ceuta-support-gesture-despite-social-media-backlash",
-      "category": "world",
-      "headline": "Morocco's Abde stands by Ceuta support gesture despite social media backlash",
-      "summary": "Key points: CNA Latest reports that Morocco's Abde stands by Ceuta support gesture despite social media backlash.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-15T23:48:20+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/moroccos-abde-stands-ceuta-support-gesture-despite-social-media-backlash-6386711",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
