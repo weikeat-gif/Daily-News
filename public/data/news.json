@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-18T03:32:36+08:00",
+  "generated_at": "2026-09-18T06:39:57+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-18-ai-infrastructure-provider-crusoe-valued-at-30-9-billion-in-latest-funding-round",
+      "id": "2026-09-18-openai-launches-legal-focused-ai-platform-escalating-race-for-law-firm-users",
       "category": "world",
-      "headline": "AI infrastructure provider Crusoe valued at $30.9 billion in latest funding round",
-      "summary": "Key points: CNA Latest reports that AI infrastructure provider Crusoe valued at $30.9 billion in latest funding round.",
+      "headline": "OpenAI launches legal-focused AI platform, escalating race for law firm users",
+      "summary": "Key points: CNA Latest reports that OpenAI launches legal-focused AI platform, escalating race for law firm users.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-18T03:25:25+08:00",
+      "published_at": "2026-09-18T06:12:01+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/ai-infrastructure-provider-crusoe-valued-309-billion-in-latest-funding-round-6393051",
+          "url": "https://www.channelnewsasia.com/business/openai-launches-legal-focused-ai-platform-escalating-race-law-firm-users-6393286",
           "publisher_type": "news"
         },
         {
@@ -45,36 +45,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/17/agc-exco-statement-has-no-legal-effect-move-to-gazette-or-implement-yamtuan-removal-proclamation-invalid-unconstitutional/235576",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-17-malaysia-s-battered-bonds-face-growing-risk-of-japan-fund-exodus-the-edge-malaysia",
-      "category": "malaysia",
-      "headline": "Malaysia’s battered bonds face growing risk of Japan fund exodus - The Edge Malaysia",
-      "summary": "Key points: Malaysia’s battered bonds face growing risk of Japan fund exodus The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-17T21:15:43+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1Uk05UlpXSjluaE0zRjBNUzZuMFlQQ09iNUJBNXNXNnN6bUVPcUF1bkktMURaRU52aUNqb0Iwa0lUX1RzaUc4RG5xWUF5cENp?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -141,6 +111,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-17-malaysia-offers-indonesia-bombardier-aircraft-assets-to-tackle-forest-fires-dpm-za",
+      "category": "malaysia",
+      "headline": "Malaysia Offers Indonesia Bombardier Aircraft, Assets To Tackle Forest Fires - DPM Zahid - Bernama",
+      "summary": "Key points: Malaysia Offers Indonesia Bombardier Aircraft, Assets To Tackle Forest Fires - DPM Zahid Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-17T20:15:39+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mdjJBMnFsRW10NUFwc2dIR01tdTgteDhXNGRRR0NJSDFJUElMZkZtSFlGUzlsTkN1Qmg3YXgwbHBzeDVUVEh2WU1oelRiRUVMd1VTd1dVeU9Udw?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
