@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-17T05:08:05+08:00",
+  "generated_at": "2026-09-17T08:04:55+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-17-banks-provide-22-billion-chip-loan-to-blackstone-alphabet-cloud-venture-bloomberg-",
-      "category": "world",
-      "headline": "Banks provide $22 billion chip loan to Blackstone, Alphabet cloud venture, Bloomberg News reports",
-      "summary": "Key points: CNA Latest reports that Banks provide $22 billion chip loan to Blackstone, Alphabet cloud venture, Bloomberg News reports.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-17T04:33:08+08:00",
+      "id": "2026-09-17-us-congress-passes-sweeping-russia-sanctions-bill",
+      "category": "markets_investment",
+      "headline": "US Congress passes sweeping Russia sanctions Bill",
+      "summary": "Key points: The legislation gives Trump authority to impose tariffs of up to 100 per cent on major buyers of Russian oil and gas - including potentially China and India.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-17T07:59:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/banks-provide-22-billion-chip-loan-blackstone-alphabet-cloud-venture-bloomberg-news-reports-6390211",
+          "url": "https://www.channelnewsasia.com/world/us-congress-passes-sweeping-russia-sanctions-bill-6390501",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,92 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "oil",
+        "gas",
+        "china",
+        "russia"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-17-malaysia-s-opr-stays-at-2-75pc-what-does-it-mean-for-your-loans-savings-and-spendi",
+      "category": "malaysia",
+      "headline": "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings",
+      "summary": "Key points: KUALA LUMPUR, Sept 17 — Bank Negara Malaysia (BNM) has kept its Overnight Policy Rate (OPR) at 2.75 per cent, main...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-17T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/17/malaysias-opr-stays-at-275pc-what-does-it-mean-for-your-loans-savings-and-spendings/235175",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "bnm",
+        "bank negara"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-17-more-countries-move-to-ban-social-media-for-children-with-restrictions-spreading-w",
+      "category": "world",
+      "headline": "More countries move to ban social media for children, with restrictions spreading worldwide",
+      "summary": "Key points: The European Union is to unveil proposals yesterday aimed at curbing addictive features of social...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-17T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/17/more-countries-move-to-ban-social-media-for-children-with-restrictions-spreading-worldwide/235408",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-17-peace-is-a-dangerous-word-in-russian-city-heading-to-polls-as-residents-reel-from-",
+      "category": "world",
+      "headline": "Peace is a ‘dangerous’ word in Russian city heading to polls as residents reel from deadly Ukrainian drone strikes",
+      "summary": "Key points: TAMBOV (Russia), Sept 17 — “Terrified” by escalating Ukrainian drone attacks, locals in the Russian ci...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-17T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/17/peace-is-a-dangerous-word-in-russian-city-heading-to-polls-as-residents-reel-from-deadly-ukrainian-drone-strikes/235401",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-17-dead-animals-barren-fields-and-hunger-as-strongest-in-decades-el-nino-chokes-centr",
+      "category": "world",
+      "headline": "Dead animals, barren fields and hunger as strongest‑in‑decades El Nino chokes Central America",
+      "summary": "Key points: SAN LORENZO (Honduras), Sept 17 — Animals are dropping dead amid the worst drought in living memory for many Centr...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-17T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/17/dead-animals-barren-fields-and-hunger-as-strongestindecades-el-nino-chokes-central-america/235421",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1159,92 +1245,6 @@
         {
           "name": "Malay Mail Money",
           "url": "https://www.malaymail.com/news/money/2026/09/16/grab-expands-southeast-asia-lending-reach-with-us149b-atome-deal/235360",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-16-anwar-malaysia-won-t-be-transit-point-for-shipments-supporting-israel-s-military-s",
-      "category": "malaysia",
-      "headline": "Anwar: Malaysia won’t be transit point for shipments supporting Israel’s military, suspicious cargo will be inspected",
-      "summary": "Key points: KUALA LUMPUR, Sept 16 — Prime Minister Datuk Seri Anwar Ibrahim yesterday reaffirmed Malaysia’s firm st...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-16T08:58:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/16/anwar-malaysia-wont-be-transit-point-for-shipments-supporting-israels-military-suspicious-cargo-will-be-inspected/235359",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-16-anwar-calls-for-malaysia-maldives-ties-to-deliver-tangible-gains-in-trade-tourism-",
-      "category": "malaysia",
-      "headline": "Anwar calls for Malaysia-Maldives ties to deliver tangible gains in trade, tourism and digital economy",
-      "summary": "Key points: KUALA LUMPUR, Sept 16 — Malaysia and the Maldives have ample scope to strengthen parliamentary cooperation, i...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-16T08:48:18+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/16/anwar-calls-for-malaysia-maldives-ties-to-deliver-tangible-gains-in-trade-tourism-and-digital-economy/235353",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-16-empty-classrooms-and-tented-lessons-as-quake-hit-venezuelan-schools-reopen",
-      "category": "world",
-      "headline": "Empty classrooms and tented lessons as quake-hit Venezuelan schools reopen",
-      "summary": "Key points: LA GUAIRA, Sept 16 — Schools in Venezuela’s quake-scarred coastal state of La Guaira were deserted yesterday...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-16T08:39:51+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/16/empty-classrooms-and-tented-lessons-as-quake-hit-venezuelan-schools-reopen/235346",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-16-trump-says-supreme-court-has-really-let-our-country-down-over-mail-ballots",
-      "category": "world",
-      "headline": "Trump says Supreme Court has ‘really let our Country down’ over mail ballots",
-      "summary": "Key points: US President Donald Trump assailed the Supreme Court yesterday after it blocked his pla...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-16T08:39:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/16/trump-says-supreme-court-has-really-let-our-country-down-over-mail-ballots/235347",
           "publisher_type": "news"
         }
       ],
