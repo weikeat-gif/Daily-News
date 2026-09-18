@@ -1,19 +1,102 @@
 {
-  "generated_at": "2026-09-18T06:39:57+08:00",
+  "generated_at": "2026-09-18T09:01:27+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-18-openai-launches-legal-focused-ai-platform-escalating-race-for-law-firm-users",
+      "id": "2026-09-18-new-generation-mykad-drops-touch-n-go-feature-focuses-on-security-says-jpn",
+      "category": "malaysia",
+      "headline": "New-generation MyKad drops Touch ’n Go feature, focuses on security, says JPN",
+      "summary": "Key points: KUALA LUMPUR, Sept 18 — The new-generation MyKad, which started being issued yesterday, no longer comes with the T...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-18T08:58:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/new-generation-mykad-drops-touch-n-go-feature-focuses-on-security-says-jpn/235581",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-18-ringgit-opens-higher-against-us-dollar-as-easing-oil-supply-concerns-lift-sentimen",
+      "category": "markets_investment",
+      "headline": "Ringgit opens higher against US dollar as easing oil‑supply concerns lift sentiment",
+      "summary": "Key points: KUALA LUMPUR, Sept 18 — The ringgit opened higher against the US dollar and a basket of major currencies today, su...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-18T08:56:40+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/18/ringgit-opens-higher-against-us-dollar-as-easing-oilsupply-concerns-lift-sentiment/235577",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-18-ft-pardons-board-convenes-at-istana-negara-amid-talk-of-najib-s-petition",
+      "category": "malaysia",
+      "headline": "FT Pardons Board convenes at Istana Negara amid talk of Najib’s petition",
+      "summary": "Key points: KUALA LUMPUR, Sept 17 — Federal Territories Minister Hannah Yeoh and and Attorney-General Tan Sri Mohd Dusuk...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-18T08:55:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/ft-pardons-board-convenes-at-istana-negara-amid-talk-of-najibs-petition/235582",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-18-sarawak-and-selangor-bear-the-brunt-as-34-stations-log-unhealthy-api-levels-in-mal",
+      "category": "malaysia",
+      "headline": "Sarawak and Selangor bear the brunt as 34 stations log ‘Unhealthy’ API levels in Malaysia",
+      "summary": "Key points: KUALA LUMPUR, Sept 18 — Air quality across Malaysia deteriorated significantly this morning, with 34 monitoring st...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-18T08:42:58+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/sarawak-and-selangor-bear-the-brunt-as-34-stations-log-unhealthy-api-levels-in-malaysia/235578",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "selangor",
+        "rate"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-18-artists-promoters-and-venues-have-their-own-kind-of-power-on-troubled-tours-like-e",
       "category": "world",
-      "headline": "OpenAI launches legal-focused AI platform, escalating race for law firm users",
-      "summary": "Key points: CNA Latest reports that OpenAI launches legal-focused AI platform, escalating race for law firm users.",
+      "headline": "Artists, promoters and venues have their own kind of power on troubled tours like Ed Sheeran's",
+      "summary": "Key points: After Macklemore was dropped from Ed Sheeran’s tour and four supporting acts quit, music industry insiders explain who really calls the shots when trouble hits a major concert tour.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-18T06:12:01+08:00",
+      "published_at": "2026-09-18T08:40:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/openai-launches-legal-focused-ai-platform-escalating-race-law-firm-users-6393286",
+          "url": "https://www.channelnewsasia.com/entertainment/ed-sheeran-tour-macklemore-promoter-venue-owner-6391091",
           "publisher_type": "news"
         },
         {
@@ -31,6 +114,26 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-18-ice-fans-and-cooling-pads-how-malaysia-s-chicken-farmers-are-beating-el-ni-o-heat",
+      "category": "malaysia",
+      "headline": "Ice, fans and cooling pads: How Malaysia’s chicken farmers are beating El Niño heat",
+      "summary": "Key points: SHAH ALAM, Sept 18 — Inside a closed-house chicken farm in Jalan Kebun here, Mohd Muzamri Shoib instructed one of...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-18T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/ice-fans-and-cooling-pads-how-malaysias-chicken-farmers-are-beating-el-nino-heat/235301",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -111,36 +214,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-17-malaysia-offers-indonesia-bombardier-aircraft-assets-to-tackle-forest-fires-dpm-za",
-      "category": "malaysia",
-      "headline": "Malaysia Offers Indonesia Bombardier Aircraft, Assets To Tackle Forest Fires - DPM Zahid - Bernama",
-      "summary": "Key points: Malaysia Offers Indonesia Bombardier Aircraft, Assets To Tackle Forest Fires - DPM Zahid Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-17T20:15:39+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mdjJBMnFsRW10NUFwc2dIR01tdTgteDhXNGRRR0NJSDFJUElMZkZtSFlGUzlsTkN1Qmg3YXgwbHBzeDVUVEh2WU1oelRiRUVMd1VTd1dVeU9Udw?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -584,6 +657,66 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/17/klia-ranks-first-in-asia-for-connectivity-in-oag-megahubs-2026-ranking/235537",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-17-airasia-falls-to-near-four-year-low-amid-concerns-over-financial-health-the-edge-m",
+      "category": "malaysia",
+      "headline": "AirAsia falls to near four-year low amid concerns over financial health - The Edge Malaysia",
+      "summary": "Key points: AirAsia falls to near four-year low amid concerns over financial health The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-17T16:28:15+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UeU5zZERxY2d0YUYxWFNvcVJQc0NYQ2czeTVzU2lJVldfVUFwaHZIN3BDSVNFOUdITGYzMVRQQlEtTVJQdmd5dEVVUzdPMV9M?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-17-huawei-sponsored-waic-connect-malaysia-links-ai-tech-providers-industry-players-bu",
+      "category": "malaysia",
+      "headline": "Huawei-sponsored WAIC Connect Malaysia Links AI Tech Providers, Industry Players, Businesses - majujohor.bernama.com",
+      "summary": "Key points: Huawei-sponsored WAIC Connect Malaysia Links AI Tech Providers, Industry Players, Businesses majujohor.bernama.com",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-17T16:06:49+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzNzU5aDJaSFo4YkZReFR6elc5UXBFQ21vS0tySXB4dlVpaGlkOVVaZnpja3VLeDZ1NVhrc1d2T2RyY3BudUdYdnpYUTJUNW5qeVJldDJ1V0d3RXNjbzBmYWFR?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1113,129 +1246,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-17-bursa-malaysia-posts-modest-gain-amid-geopolitical-and-oil-price-concerns",
-      "category": "markets_investment",
-      "headline": "Bursa Malaysia posts modest gain amid geopolitical and oil price concerns",
-      "summary": "Key points: KUALA LUMPUR, Sept 17 — Bursa Malaysia’s key index traded higher today, with bargain hunting expected to sup...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-17T10:40:57+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/17/bursa-malaysia-posts-modest-gain-amid-geopolitical-and-oil-price-concerns/235479",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "bursa",
-        "oil"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-17-us-bars-palestine-s-mahmoud-abbas-from-attending-un-general-assembly-in-new-york",
-      "category": "world",
-      "headline": "US bars Palestine’s Mahmoud Abbas from attending UN general assembly in New York",
-      "summary": "Key points: The United States has denied Palestinian President Mahmoud Abbas an entry visa to attend the...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-17T10:34:57+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/17/us-bars-palestines-mahmoud-abbas-from-attending-un-general-assembly-in-new-york/235478",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-17-police-probe-14-year-old-driver-after-he-crashes-into-two-cars-in-perai",
-      "category": "malaysia",
-      "headline": "Police probe 14-year-old driver after he crashes into two cars in Perai",
-      "summary": "Key points: BUKIT MERTAJAM, Sept 17 — Police have confirmed a viral video showing a 14-year-old boy driving a car and crashing...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-17T10:34:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/17/police-probe-14-year-old-driver-after-he-crashes-into-two-cars-in-perai/235477",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-17-health-ministry-denies-claims-officials-absent-from-funerals-of-fds-crash-victims",
-      "category": "malaysia",
-      "headline": "Health Ministry denies claims officials absent from funerals of FDS crash victims",
-      "summary": "Key points: KUALA LUMPUR, Sept 17 — Allegations that no senior health officials attended the funerals of members of the Flying...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-17T10:20:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/17/health-ministry-denies-claims-officials-absent-from-funerals-of-fds-crash-victims/235475",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-09-17-malaysians-in-saudi-arabia-told-to-remain-calm-follow-instructions-amid-emergency-",
-      "category": "malaysia",
-      "headline": "Malaysians in Saudi Arabia told to remain calm, follow instructions amid emergency alerts",
-      "summary": "Key points: KUALA LUMPUR, Sept 17 — Malaysians who receive alerts through Saudi Arabia’s National Early Warning Platform...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-17T10:05:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/17/malaysians-in-saudi-arabia-told-to-remain-calm-follow-instructions-amid-emergency-alerts/235474",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-17-jimmy-lai-s-son-makes-emotional-plea-for-his-release-ahead-of-xi-jinping-s-washing",
-      "category": "world",
-      "headline": "Jimmy Lai’s son makes emotional plea for his release ahead of Xi Jinping’s Washington visit",
-      "summary": "Key points: The son of jailed Hong Kong pro-democracy media mogul Jimmy Lai called for his release on We...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-17T09:57:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/17/jimmy-lais-son-makes-emotional-plea-for-his-release-ahead-of-xi-jinpings-washington-visit/235472",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
