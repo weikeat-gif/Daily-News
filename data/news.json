@@ -1,8 +1,501 @@
 {
-  "generated_at": "2026-09-19T13:34:59+08:00",
+  "generated_at": "2026-09-19T18:19:43+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-09-19-democrats-try-to-ride-data-center-backlash-to-election-victory-in-rural-us-midwest",
+      "category": "world",
+      "headline": "Democrats try to ride data center backlash to election victory in rural US Midwest",
+      "summary": "Key points: CNA Latest reports that Democrats try to ride data center backlash to election victory in rural US Midwest.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-19T18:05:43+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/democrats-try-ride-data-center-backlash-election-victory-in-rural-us-midwest-6396571",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-air-quality-dips-nationwide-sarawak-records-seven-unhealthy-api-readings-klang-val",
+      "category": "malaysia",
+      "headline": "Air quality dips nationwide, Sarawak records seven unhealthy API readings, Klang Valley four, Johor three",
+      "summary": "Key points: KUALA LUMPUR, Sept 19 — A total of 17 areas nationwide recorded Air Pollutant Index (API) readings at unhealthy le...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T17:50:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/air-quality-dips-nationwide-sarawak-records-seven-unhealthy-api-readings-klang-valley-four-johor-three/235801",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-police-probe-rompin-religious-school-hostel-assault-five-senior-students-freed-on-",
+      "category": "malaysia",
+      "headline": "Police probe Rompin religious school hostel assault, five senior students freed on bail",
+      "summary": "Key points: A mother has claimed that her 14-year-old son and another Form Two student were assaulted by fi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T17:38:27+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/police-probe-rompin-religious-school-hostel-assault-five-senior-students-freed-on-bail/235800",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-sarawak-penang-to-get-greater-focus-in-malaysia-fertility-push-says-women-s-minist",
+      "category": "malaysia",
+      "headline": "Sarawak, Penang to get greater focus in Malaysia fertility push, says women’s minister",
+      "summary": "Key points: Sarawak and Penang will receive greater focus under the government’s efforts to improve M...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T17:13:31+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/sarawak-penang-to-get-greater-focus-in-malaysia-fertility-push-says-womens-minister/235799",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-najib-s-conditional-pardon-has-not-strained-unity-government-says-dpm-zahid",
+      "category": "malaysia",
+      "headline": "Najib’s conditional pardon has not strained unity government, says DPM Zahid",
+      "summary": "Key points: Relations among the parties that make up the unity government remain good following the Pardons...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T17:08:33+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/najibs-conditional-pardon-has-not-strained-unity-government-says-dpm-zahid/235798",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-09-19-dap-leaders-gather-for-emergency-cec-meeting-over-najib-s-conditional-pardon",
+      "category": "malaysia",
+      "headline": "DAP leaders gather for emergency CEC meeting over Najib’s conditional pardon",
+      "summary": "Key points: KUALA LUMPUR, Sept 19 — DAP central executive committee (CEC) members gathered at the party’s national headq...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T17:01:29+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/dap-leaders-gather-for-emergency-cec-meeting-over-najibs-conditional-pardon/235795",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-fourteen-of-20-banks-now-offer-reducing-balance-hire-purchase-financing-says-armiz",
+      "category": "malaysia",
+      "headline": "Fourteen of 20 banks now offer reducing balance hire-purchase financing, says Armizan",
+      "summary": "Key points: BATU KAWAN, Sept 19 — Fourteen of the 20 banking institutions providing hire-purchase financing had begun offering...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T16:50:21+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/fourteen-of-20-banks-now-offer-reducing-balance-hire-purchase-financing-says-armizan/235794",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-malaysia-aims-to-finalise-new-e-commerce-bill-this-year-says-domestic-trade-minist",
+      "category": "malaysia",
+      "headline": "Malaysia aims to finalise new e-commerce Bill this year, says domestic trade minister",
+      "summary": "Key points: BATU KAWAN, Sept 19 — The government aims to finalise the drafting of a new e-commerce Bill this year, said Domest...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T16:44:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/malaysia-aims-to-finalise-new-e-commerce-bill-this-year-says-domestic-trade-minister/235792",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-malaysia-records-102-deceased-organ-donors-so-far-in-2026-but-12-575-still-await-t",
+      "category": "malaysia",
+      "headline": "Malaysia records 102 deceased organ donors so far in 2026, but 12,575 still await transplants, says MOH",
+      "summary": "Key points: KUALA TERENGGANU, Sept 19 — The Ministry of Health (MOH) recorded 102 deceased organ donors from January to August...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T16:33:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/malaysia-records-102-deceased-organ-donors-so-far-in-2026-but-12575-still-await-transplants-says-moh/235791",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-dpm-zahid-malaysia-gets-indonesia-s-green-light-to-help-battle-kalimantan-fires-be",
+      "category": "malaysia",
+      "headline": "DPM Zahid: Malaysia gets Indonesia’s green light to help battle Kalimantan fires behind haze",
+      "summary": "Key points: Indonesia has given the green light for Malaysia to assist in tackling forest and land fires in...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T16:27:54+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/dpm-zahid-malaysia-gets-indonesias-green-light-to-help-battle-kalimantan-fires-behind-haze/235787",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-defence-ministry-shortlists-three-missile-systems-for-lcs-says-khaled",
+      "category": "malaysia",
+      "headline": "Defence Ministry shortlists three missile systems for LCS, says Khaled",
+      "summary": "Key points: The Defence Ministry (Mindef) is in the final stage of shortlisting a surface-to-surface missile...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T16:22:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/defence-ministry-shortlists-three-missile-systems-for-lcs-says-khaled/235781",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-saifuddin-nasution-says-home-ministry-awaits-pardons-board-letter-no-najib-house-a",
+      "category": "malaysia",
+      "headline": "Saifuddin Nasution says Home Ministry awaits Pardons Board letter, no Najib house arrest notification yet",
+      "summary": "Key points: KUALA LUMPUR, Sept 19 — The Home Ministry is still waiting for the official written notification of the Pardons Bo...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T16:07:10+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/saifuddin-says-ministry-awaits-pardons-board-letter-no-najib-house-arrest-notification-yet/235780",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-akps-steps-up-border-security-readiness-ahead-johor-bahru-singapore-rts-link-launc",
+      "category": "malaysia",
+      "headline": "AKPS steps up border security readiness ahead Johor Bahru‑Singapore RTS Link launch in January",
+      "summary": "Key points: JOHOR BAHRU, Sept 19 — The Malaysian Border Control and Protection Agency (AKPS) is stepping up its security readi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T15:54:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/akps-steps-up-border-security-readiness-ahead-johor-bahrusingapore-rts-link-launch-in-january/235778",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-turkiye-revokes-iran-s-bank-mellat-licence-amid-us-pressure-on-tehran",
+      "category": "markets_investment",
+      "headline": "Turkiye revokes Iran’s Bank Mellat licence amid US pressure on Tehran",
+      "summary": "Key points: Turkiye has revoked the licence of Iran’s Bank Mellat, a semi-private financial entity tha...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-19T15:47:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/19/turkiye-revokes-irans-bank-mellat-licence-amid-us-pressure-on-tehran/235775",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-police-seek-interpol-help-after-six-foreigners-charged-with-jalan-ampang-pavilion-",
+      "category": "malaysia",
+      "headline": "Police seek Interpol help after six foreigners charged with Jalan Ampang Pavilion Embassy robbery",
+      "summary": "Key points: KUALA LUMPUR, Sept 19 — Six foreign men were charged in absentia at the Sessions Court here yesterday with armed g...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T15:38:45+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/police-seek-interpol-help-after-six-foreigners-charged-with-jalan-ampang-pavilion-embassy-robbery/235776",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-iran-executes-man-accused-of-spying-for-israel-on-missile-sites",
+      "category": "world",
+      "headline": "Iran executes man accused of spying for Israel on missile sites",
+      "summary": "Key points: Iran’s judiciary announced on Saturday the execution of a man accused of providing informa...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-19T15:38:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/19/iran-executes-man-accused-of-spying-for-israel-on-missile-sites/235774",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-preliminary-report-on-sarawak-flying-doctor-helicopter-crash-due-within-30-days-sa",
+      "category": "malaysia",
+      "headline": "Preliminary report on Sarawak Flying Doctor helicopter crash due within 30 days, says deputy transport minister",
+      "summary": "Key points: The Air Accident Investigation Bureau (BSKU) will issue a preliminary report on the Flying Doctor...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T15:26:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/preliminary-report-on-sarawak-flying-doctor-helicopter-crash-due-within-30-days-says-state-deputy-minister/235777",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-ringgit-to-trade-between-rm4-06-and-rm4-09-against-us-dollar-next-week-as-as-fed-o",
+      "category": "markets_investment",
+      "headline": "Ringgit to trade between RM4.06 and RM4.09 against US dollar next week as as Fed officials weigh further rate hike",
+      "summary": "Key points: KUALA LUMPUR, Sept 19 — The ringgit is likely to remain range-bound against the US dollar next week, with market a...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-19T15:26:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/19/ringgit-to-trade-between-rm406-and-rm409-against-us-dollar-next-week-as-as-fed-officials-weigh-further-rate-hike/235767",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "kuala lumpur",
+        "ringgit",
+        "market",
+        "rate"
+      ],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-09-19-cloud-seeding-operation-begins-in-klang-valley-after-api-readings-exceed-150-for-2",
+      "category": "malaysia",
+      "headline": "Cloud seeding operation begins in Klang Valley after API readings exceed 150 for 24 hours",
+      "summary": "Key points: KUALA LUMPUR, Sept 19 — The government, through the National Disaster Management Agency (Nadma), will conduct a cl...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T15:09:51+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/cloud-seeding-operation-begins-in-klang-valley-after-api-readings-exceed-150-for-24-hours/235773",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-melaka-pakatan-finalising-talks-with-bersatu-others-to-form-ph-plus-for-state-poll",
+      "category": "malaysia",
+      "headline": "Melaka Pakatan finalising talks with Bersatu, others to form PH Plus for state polls",
+      "summary": "Key points: Pakatan Harapan (PH) Melaka is finalising negotiations with parties that have similar aspiration...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T15:04:55+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/melaka-pakatan-finalising-talks-with-bersatu-others-to-form-ph-plus-for-state-polls/235772",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-prabowo-welcomes-malaysia-s-offer-of-aircraft-helicopters-and-team-to-fight-indone",
+      "category": "malaysia",
+      "headline": "Prabowo welcomes Malaysia’s offer of aircraft, helicopters and team to fight Indonesia fires",
+      "summary": "Key points: Indonesian President Prabowo Subianto has welcomed Malaysia’s offer to assist in tackling...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T15:01:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/prabowo-welcomes-malaysias-offer-of-aircraft-helicopters-and-team-to-fight-indonesia-fires/235769",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-pm-anwar-vows-to-strengthen-pondok-schools-introduce-ai-and-modern-fields",
+      "category": "malaysia",
+      "headline": "PM Anwar vows to strengthen pondok schools, introduce AI and modern fields",
+      "summary": "Key points: The government will help streamline and elevate pondok institutions (traditional religious sc...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T14:23:31+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/pm-anwar-vows-to-strengthen-pondok-schools-introduce-ai-and-modern-fields/235768",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-macc-says-najib-s-conditional-pardon-has-no-impact-on-1mdb-case",
+      "category": "malaysia",
+      "headline": "MACC says Najib’s conditional pardon has no impact on 1MDB case",
+      "summary": "Key points: The status of the 1Malaysia Development Bhd (1MDB) case involving Datuk Seri Najib Tun Razak rem...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T14:11:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/macc-says-najibs-conditional-pardon-does-not-alter-ongoing-1mdb-case-status-quo/235765",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-perodua-alza-driver-dies-after-collision-with-volvo-trailer-lorry-near-sungai-tong",
+      "category": "malaysia",
+      "headline": "Perodua Alza driver dies after collision with Volvo trailer lorry near Sungai Tong in Terengganu",
+      "summary": "Key points: BANDAR PERMAISURI, Sept 19 — A man was killed after the multi-purpose vehicle (MPV) he was driving collided with a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T13:53:18+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/perodua-alza-driver-dies-after-collision-with-volvo-trailer-lorry-near-sungai-tong-terengganu/235762",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-09-19-macc-records-mat-sabu-s-statement-in-fertiliser-supply-probe-37-witnesses-called-s",
       "category": "malaysia",
@@ -55,36 +548,6 @@
           "name": "Malay Mail Money",
           "url": "https://www.malaymail.com/news/money/2026/09/19/sia-reclaims-worlds-best-airline-title-airasia-takes-low-cost-honours/235757",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-19-air-quality-back-at-unhealthy-levels-in-central-singapore",
-      "category": "world",
-      "headline": "Air quality back at unhealthy levels in central Singapore",
-      "summary": "Key points: The 24-hour Pollutant Standards Index (PSI) in the central region hit 102 at 1pm.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-19T13:01:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/air-quality-back-unhealthy-levels-in-central-singapore-6396246",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -757,469 +1220,6 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/09/18/israeli-directors-face-threats-after-gaza-film-naza-ignites-nationalist-outrage-political-storm/235642",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-pakatan-backs-pm-s-stance-on-najib-pardon-says-no-one-is-above-the-law",
-      "category": "malaysia",
-      "headline": "Pakatan backs PM’s stance on Najib pardon, says no one is above the law",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — Pakatan Harapan (PH) today backed Prime Minister Datuk Seri Anwar Ibrahim’s stance a...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T20:45:19+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/pakatan-backs-pms-stance-on-najib-pardon-says-no-one-is-above-the-law/235706",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-volunteer-defence-corps-truck-hit-by-bomb-gunfire-in-narathiwat-leave-two-dead-and",
-      "category": "world",
-      "headline": "Volunteer defence corps truck hit by bomb, gunfire in Narathiwat leave two dead and 16 wounded",
-      "summary": "Key points: Two volunteer defence corps members were killed while 16 others were injured in a bomb explo...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-18T20:30:51+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/18/volunteer-defence-corps-truck-hit-by-bomb-gunfire-in-narathiwat-leave-two-dead-and-16-wounded/235704",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-salvage-mission-begins-as-navy-battles-to-raise-capsized-java-sea-ferry",
-      "category": "world",
-      "headline": "Salvage mission begins as navy battles to raise capsized Java Sea ferry",
-      "summary": "Key points: BANJARMASIN (Indonesia), Sept 18 — Indonesian authorities were preparing on Friday to right a capsized passenger f...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-18T20:06:19+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/18/salvage-mission-begins-as-navy-battles-to-raise-capsized-java-sea-ferry/235702",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-jail-and-rotan-for-businessman-who-tricked-director-into-paying-over-rm360-000-for",
-      "category": "malaysia",
-      "headline": "Jail and rotan for businessman who tricked director into paying over RM360,000 for AED supply",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — A businessman was sentenced to 14 months’ imprisonment and one stroke of the cane by...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T19:53:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/jail-and-rotan-for-businessman-who-tricked-director-into-paying-over-rm360000-for-aed-supply/235700",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-girl-with-cerebral-palsy-in-shah-alam-loses-rm1m-suit-over-school-chair-pulling-in",
-      "category": "malaysia",
-      "headline": "Girl with cerebral palsy in Shah Alam loses RM1m suit over school chair-pulling incident, family to appeal",
-      "summary": "Key points: SHAH ALAM, Sept 18 — The High Court today dismissed a RM1 million civil suit filed by a teenage girl with cerebral...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T19:46:51+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/girl-with-cerebral-palsy-in-shah-alam-loses-rm1m-suit-over-school-chair-pulling-incident-family-to-appeal/235701",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-philippine-coast-guard-seizes-12-5-tonnes-ammonium-nitrate-dynamite-aboard-palawan",
-      "category": "world",
-      "headline": "Philippine Coast Guard seizes 12.5 tonnes ammonium nitrate, dynamite aboard Palawan ferry",
-      "summary": "Key points: The Philippine Coast Guard said on Friday it confiscated 12.5 tonnes of ammonium nitrate and 130...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-18T19:27:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/18/philippine-coast-guard-seizes-125-tonnes-ammonium-nitrate-dynamite-aboard-palawan-ferry/235696",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-mcmc-steps-up-social-media-monitoring-as-melaka-election-preparations-gather-pace",
-      "category": "malaysia",
-      "headline": "MCMC steps up social media monitoring as Melaka election preparations gather pace",
-      "summary": "Key points: The Malaysian Communications and Multimedia Commission (MCMC) will continue monitoring social me...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T19:25:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/mcmc-steps-up-social-media-monitoring-as-melaka-election-preparations-gather-pace/235698",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-nearly-300-higher-education-sites-now-connected-under-nationwide-wi-fi-project",
-      "category": "malaysia",
-      "headline": "Nearly 300 higher education sites now connected under nationwide Wi-Fi project",
-      "summary": "Key points: The Public Higher Education Institution (IPTA) Wi-Fi project, covering 539 locations nationwide,...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T19:20:08+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/nearly-300-higher-education-sites-now-connected-under-nationwide-wi-fi-project/235697",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-ringgit-gains-momentum-beating-dollar-euro-and-pound-as-crude-oil-worries-fade",
-      "category": "markets_investment",
-      "headline": "Ringgit gains momentum, beating dollar, euro and pound as crude oil worries fade",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — The ringgit strengthened against the US dollar and other major currencies at Friday’...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-18T19:01:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/18/ringgit-gains-momentum-beating-dollar-euro-and-pound-as-crude-oil-worries-fade/235695",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-bursa-closes-lower-but-broader-market-stays-firm-on-tech-and-construction-buying",
-      "category": "markets_investment",
-      "headline": "Bursa closes lower, but broader market stays firm on tech and construction buying",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — Bursa Malaysia’s main index closed lower on Friday after a choppy session, while buy...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-18T18:46:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/18/bursa-closes-lower-but-broader-market-stays-firm-on-tech-and-construction-buying/235690",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "bursa",
-        "market"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-najib-solidarity-fund-raises-rm165-645-in-first-hour-says-umno-sec-gen",
-      "category": "malaysia",
-      "headline": "Najib solidarity fund raises RM165,645 in first hour, says Umno sec-gen",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — Umno’s Najib Razak Solidarity Fund raised RM165,645 within its first hour of being l...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T18:45:27+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/najib-solidarity-fund-raises-rm165645-in-first-hour-says-umno-sec-gen/235694",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-ecrl-testing-shows-positive-results-as-mrl-eyes-december-debut-during-school-holid",
-      "category": "malaysia",
-      "headline": "ECRL testing shows positive results as MRL eyes December debut during school holidays",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — Malaysia Rail Link Sdn Bhd (MRL) is working towards opening the East Coast Rail Link (ECRL...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T18:32:24+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/18/ecrl-testing-shows-positive-results-as-mrl-eyes-december-debut-during-school-holidays/235692",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-coal-price-surge-jolts-malaysia-s-power-costs-economy-minister-warns-of-direct-imp",
-      "category": "malaysia",
-      "headline": "Coal price surge jolts Malaysia’s power costs, economy minister warns of direct impact",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — The increase in coal prices to US$148 per tonne on September 10, 2026 will directly impact...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T18:19:13+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/18/coal-price-surge-jolts-malaysias-power-costs-economy-minister-warns-of-direct-impact/235688",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-tnb-to-provide-expanded-fuel-surcharge-exemption-as-more-households-qualify",
-      "category": "malaysia",
-      "headline": "TNB to provide expanded fuel surcharge exemption as more households qualify",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — Tenaga Nasional Bhd (TNB) said today it will provide RM120 million to RM150 million in sup...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T18:16:44+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/18/tnb-to-provide-expanded-fuel-surcharge-exemption-as-more-households-qualify/235689",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-selangor-mulls-giving-free-reusable-masks-to-students-amid-prolonged-haze",
-      "category": "malaysia",
-      "headline": "Selangor mulls giving free reusable masks to students amid prolonged haze",
-      "summary": "Key points: PETALING JAYA, Sept 18 — The Selangor state government is considering distributing free reusable cloth face masks...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T17:31:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/selangor-mulls-giving-free-reusable-masks-to-students-amid-prolonged-haze/235685",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-from-1mdb-appeal-to-billion-dollar-civil-claims-najib-s-legal-battles-continue-des",
-      "category": "malaysia",
-      "headline": "From 1MDB appeal to billion-dollar civil claims: Najib’s legal battles continue despite conditional pardon",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — The decision allowing former prime minister Datuk Seri Najib Tun Razak to serve the remain...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T17:17:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/from-1mdb-appeal-to-billion-dollar-civil-claims-najibs-legal-battles-continue-despite-conditional-pardon/235679",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-handful-of-supporters-wait-outside-najib-s-langgak-duta-residence-after-conditiona",
-      "category": "malaysia",
-      "headline": "Handful of supporters wait outside Najib’s Langgak Duta residence after conditional pardon",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — Around 10 supporters gathered outside former prime minister Datuk Seri Najib Razak’s...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T17:12:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/handful-of-supporters-wait-outside-najibs-langgak-duta-residence-after-conditional-pardon/235678",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-gold-shop-supervisor-pawns-rm176-200-in-gold-bars-for-cryptocurrency-gets-16-month",
-      "category": "malaysia",
-      "headline": "Gold shop supervisor pawns RM176,200 in gold bars for cryptocurrency, gets 16 months’ jail",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — A former gold shop supervisor who pawned three gold bars to trade in cryptocurrency was se...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T17:05:28+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/gold-shop-supervisor-pawns-rm176200-in-gold-bars-for-cryptocurrency-gets-16-months-jail/235675",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-mca-thanks-king-over-najib-s-pardon-pledges-to-uphold-constitutional-supremacy",
-      "category": "malaysia",
-      "headline": "MCA thanks King over Najib’s pardon, pledges to uphold constitutional supremacy",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — MCA has expressed its gratitude to His Majesty Sultan Ibrahim, King of Malaysia, for grant...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T16:53:27+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/mca-thanks-king-over-najibs-pardon-pledges-to-uphold-constitutional-supremacy/235674",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-najib-s-house-arrest-dap-leadership-to-decide-party-stance-tomorrow-says-loke",
-      "category": "malaysia",
-      "headline": "Najib’s house arrest: DAP leadership to decide party stance tomorrow, says Loke",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — DAP will convene an emergency central executive committee (CEC) meeting tomorrow to decide...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T16:38:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/najibs-house-arrest-dap-leadership-to-decide-party-stance-tomorrow-says-loke/235671",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-witness-says-attack-was-like-a-scene-off-jaws-as-shark-kills-swimmer-in-western-au",
-      "category": "world",
-      "headline": "Witness says attack was ‘like a scene off Jaws’ as shark kills swimmer in Western Australia",
-      "summary": "Key points: A shark killed a man as he swam off a popular beach near Perth in Western Australia today, polic...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-18T16:35:35+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/18/witness-says-attack-was-like-a-scene-off-jaws-as-shark-kills-swimmer-in-western-australia/235668",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-thank-you-negeri-sembilan-ruler-tuanku-muhriz-receives-memorandum-of-loyalty",
-      "category": "malaysia",
-      "headline": "‘Thank you’: Negeri Sembilan ruler Tuanku Muhriz receives memorandum of loyalty",
-      "summary": "Key points: KUALA PILAH, Sept 18 — Yang Dipertuan Besar of Negeri Sembilan Tuanku Muhriz Tuanku Munawir today received a memor...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T16:30:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/18/thank-you-negeri-sembilan-ruler-tuanku-muhriz-receives-memorandum-of-loyalty/235667",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-third-deadly-campus-attack-since-june-kills-at-least-two-in-southern-philippines-r",
-      "category": "world",
-      "headline": "Third deadly campus attack since June kills at least two in southern Philippines, rescuer says",
-      "summary": "Key points: At least two people were killed in a school shooting in the southern Philippines today, a region...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-18T16:26:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/18/third-deadly-campus-attack-since-june-kills-at-least-two-in-southern-philippines-rescuer-says/235666",
           "publisher_type": "news"
         }
       ],
