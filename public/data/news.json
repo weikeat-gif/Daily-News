@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-20T04:02:48+08:00",
+  "generated_at": "2026-09-20T06:39:42+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-20-us-treasury-s-bessent-china-s-he-to-meet-on-sunday-at-jpmorgan-headquarters",
+      "id": "2026-09-20-east-and-west-singapore-join-central-region-in-recording-unhealthy-air-quality-ami",
       "category": "world",
-      "headline": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
-      "summary": "Key points: CNA Latest reports that US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters.",
+      "headline": "East and west Singapore join central region in recording unhealthy air quality amid haze",
+      "summary": "Key points: The 24-hour Pollutant Standards Index (PSI) hit 105 in the west and 102 in the east at 6am. The central region, which entered the unhealthy range a day earlier, recorded a reading of 123.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-20T03:36:00+08:00",
+      "published_at": "2026-09-20T06:08:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-6396966",
+          "url": "https://www.channelnewsasia.com/singapore/haze-singapore-unhealthy-psi-6396836",
           "publisher_type": "news"
         },
         {
@@ -161,10 +161,10 @@
     },
     {
       "id": "2026-09-19-najib-house-arrest-loke-says-he-will-be-the-only-dap-minister-to-resign-to-prevent",
-      "category": "malaysia",
-      "headline": "Najib house arrest: Loke says he will be the only DAP minister to resign to prevent govt collapse as some would want to happen - T",
-      "summary": "Key points: Najib house arrest: Loke says he will be the only DAP minister to resign to prevent govt collapse as some would want to happen The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "category": "markets_investment",
+      "headline": "Najib house arrest: Loke says he will be the only DAP minister to resign to prevent govt collapse as some would want to happen - t",
+      "summary": "Key points: Najib house arrest: Loke says he will be the only DAP minister to resign to prevent govt collapse as some would want to happen theedgemalaysia.com",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
       "published_at": "2026-09-19T18:34:36+08:00",
       "source_links": [
         {
@@ -186,7 +186,7 @@
       "topics": [
         "latest update"
       ],
-      "importance": 3,
+      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -341,6 +341,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/19/malaysia-aims-to-finalise-new-e-commerce-bill-this-year-says-domestic-trade-minister/235792",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-malaysia-gets-indonesia-s-nod-to-help-tackle-kalimantan-fires-majujohor-bernama-co",
+      "category": "malaysia",
+      "headline": "Malaysia Gets Indonesia’s Nod To Help Tackle Kalimantan Fires - majujohor.bernama.com",
+      "summary": "Key points: Malaysia Gets Indonesia’s Nod To Help Tackle Kalimantan Fires majujohor.bernama.com",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T16:36:03+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Eak03Q2VlXzktRnhXM1l6b2dGSWcxZTlpaXJfcW5pdTFrT05mUmZucWc0dmxrS00xZ0ZsRWNndVdnZVQxYUd5ZWRNMGJ1NTRBMUhPTm5XMUJvUVpXMS13Q0JR?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -844,36 +874,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/19/thumbprints-give-her-away-woman-gets-four-months-jail-for-presenting-fake-mykad-at-sabah-nrd/235750",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-19-malaysia-and-australia-establish-strategic-planning-committee-to-elevate-defence-p",
-      "category": "malaysia",
-      "headline": "Malaysia And Australia Establish Strategic Planning Committee To Elevate Defence Partnership - ASEAN - BERNAMA",
-      "summary": "Key points: Malaysia And Australia Establish Strategic Planning Committee To Elevate Defence Partnership ASEAN - BERNAMA",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-19T11:40:46+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iekIyQ3Q4c3E1cURTd2NsOXRadHdDZ2IzR2JyUF9WTkNOc3ZSZUZRUFpsR2FnQTdoZ1FjbF9tcGNZeXl0LWJ6d1Y3SGlHTzZaaWtSMnVLRFI?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
