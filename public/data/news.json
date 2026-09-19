@@ -1,19 +1,49 @@
 {
-  "generated_at": "2026-09-19T18:19:43+08:00",
+  "generated_at": "2026-09-19T22:10:04+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-19-democrats-try-to-ride-data-center-backlash-to-election-victory-in-rural-us-midwest",
+      "id": "2026-09-19-pm-anwar-flags-off-malaysia-sarong-music-run-2026-bernama",
+      "category": "malaysia",
+      "headline": "PM Anwar Flags Off Malaysia Sarong Music Run 2026 - Bernama",
+      "summary": "Key points: PM Anwar Flags Off Malaysia Sarong Music Run 2026 Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T22:07:45+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZX19zV1BfVFRkUnVKcGhsckkzNzBJNWg5aC1ld1pjMWx0RkFWak54eUd5N3ZfbmNfODNiMUYtOTd4bWEtT1NKYXFGQ2VaZU4xc3dNR1hTUTYxa0ZKUHVfUXY5TEg?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-us-judge-signals-rejection-of-part-of-tiktok-privacy-settlement",
       "category": "world",
-      "headline": "Democrats try to ride data center backlash to election victory in rural US Midwest",
-      "summary": "Key points: CNA Latest reports that Democrats try to ride data center backlash to election victory in rural US Midwest.",
+      "headline": "US judge signals rejection of part of TikTok privacy settlement",
+      "summary": "Key points: CNA Latest reports that US judge signals rejection of part of TikTok privacy settlement.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-19T18:05:43+08:00",
+      "published_at": "2026-09-19T21:58:14+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/democrats-try-ride-data-center-backlash-election-victory-in-rural-us-midwest-6396571",
+          "url": "https://www.channelnewsasia.com/business/us-judge-signals-rejection-part-tiktok-privacy-settlement-6396751",
           "publisher_type": "news"
         },
         {
@@ -32,6 +62,152 @@
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-malaysia-airlines-staff-named-best-in-asia-cabin-crew-at-global-3rd-place",
+      "category": "malaysia",
+      "headline": "Malaysia Airlines staff named best in Asia, cabin crew at global 3rd place",
+      "summary": "Key points: KUALA LUMPUR, Sept 19 — Malaysia Airlines has been named Best Airline Staff in Asia at the 2026 Skytrax World...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/19/malaysia-airlines-staff-named-best-in-asia-cabin-crew-at-global-3rd-place/235797",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "world",
+        "asia"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-historically-high-suicide-rates-cause-alarm-in-argentina",
+      "category": "world",
+      "headline": "Historically high suicide rates cause alarm in Argentina",
+      "summary": "Key points: BUENOS AIRES, Sept 19 — Bereaved relatives and mental health specialists are trying to start a conversation about...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-19T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/19/historically-high-suicide-rates-cause-alarm-in-argentina/235786",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-bukit-aman-s-usjt-takes-over-probe-into-viral-theatre-clip-mocking-rukun-negara",
+      "category": "malaysia",
+      "headline": "Bukit Aman’s USJT takes over probe into viral theatre clip mocking Rukun Negara",
+      "summary": "Key points: KUALA LUMPUR, Sept 19 — The Classified Criminal Investigation Unit (USJT) of the Bukit Aman Criminal Investigation Depar...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T20:20:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/bukit-amans-usjt-takes-over-probe-into-viral-theatre-clip-mocking-rukun-negara/235812",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-flightradar24-major-problems-at-riyadh-airport-with-flights-cancelled-delayed",
+      "category": "world",
+      "headline": "Flightradar24: ’Major problems’ at Riyadh airport, with flights cancelled, delayed",
+      "summary": "Key points: Aircraft tracking website FlightRadar24 torday reported major issues at the Saudi capital&rs...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-19T20:04:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/19/flightradar24-major-problems-at-riyadh-airport-with-flights-cancelled-delayed/235811",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-pm-anwar-flags-off-malaysia-sarong-music-run-2026-at-twin-towers-joins-three-kilom",
+      "category": "malaysia",
+      "headline": "PM Anwar flags off Malaysia Sarong Music Run 2026 at Twin Towers, joins three‑kilometre walk",
+      "summary": "Key points: KUALA LUMPUR, Sept 19 — Prime Minister Datuk Seri Anwar Ibrahim today flagged off the Malaysia Sarong Music Run 20...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T19:58:16+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/pm-anwar-flags-off-malaysia-sarong-music-run-2026-at-twin-towers-joins-threekilometre-walk/235810",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "anwar",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-police-yet-to-confirm-if-ipoh-pre-dawn-crash-involving-15-vehicles-linked-to-illeg",
+      "category": "malaysia",
+      "headline": "Police yet to confirm if Ipoh pre-dawn crash involving 15 vehicles linked to illegal racing",
+      "summary": "Key points: BATU GAJAH, Sept 19 — Police have yet to confirm whether a group of motorcyclists involved in a fatal accident inv...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T19:21:55+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/police-yet-to-confirm-if-ipoh-pre-dawn-crash-involving-15-vehicles-linked-to-illegal-racing/235808",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-19-loke-to-resign-as-transport-minister-dap-stays-in-anwar-s-government-after-najib-s",
+      "category": "malaysia",
+      "headline": "Loke to resign as Transport Minister, DAP stays in Anwar’s government after Najib’s conditional pardon",
+      "summary": "Key points: KUALA LUMPUR, Sept 19 — Anthony Loke Siew Fook will step down from his position as Transport Minister in the Pakat...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-19T18:32:20+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/loke-resigns-as-transport-minister-dap-stays-in-anwars-government-after-najibs-conditional-pardon/235804",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "verified"
     },
     {
       "id": "2026-09-19-air-quality-dips-nationwide-sarawak-records-seven-unhealthy-api-readings-klang-val",
@@ -677,36 +853,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-09-19-malaysia-and-australia-establish-strategic-planning-committee-to-elevate-defence-p",
-      "category": "malaysia",
-      "headline": "Malaysia And Australia Establish Strategic Planning Committee To Elevate Defence Partnership - ASEAN - BERNAMA",
-      "summary": "Key points: Malaysia And Australia Establish Strategic Planning Committee To Elevate Defence Partnership ASEAN - BERNAMA",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-19T11:40:46+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iekIyQ3Q4c3E1cURTd2NsOXRadHdDZ2IzR2JyUF9WTkNOc3ZSZUZRUFpsR2FnQTdoZ1FjbF9tcGNZeXl0LWJ6d1Y3SGlHTzZaaWtSMnVLRFI?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-09-19-azalina-pardon-power-is-part-of-the-law-not-above-it",
       "category": "malaysia",
       "headline": "Azalina: Pardon power is part of the law, not above it",
@@ -1087,146 +1233,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-19-fadhlina-najib-s-conditional-royal-pardon-is-king-s-prerogative-not-anwar-s-or-pak",
-      "category": "malaysia",
-      "headline": "Fadhlina: Najib’s conditional royal pardon is King’s prerogative, not Anwar’s or Pakatan’s",
-      "summary": "Key points: KUALA LUMPUR, Sept 19 — The decision to grant a conditional pardon to former Prime Minister Datuk Seri Najib Tun R...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-19T09:22:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/fadhlina-najibs-conditional-royal-pardon-is-kings-prerogative-not-anwars-or-pakatans/235720",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-19-us-lifts-eritrea-sanctions-imposed-over-ethiopian-war-to-advance-regional-interest",
-      "category": "world",
-      "headline": "US lifts Eritrea sanctions imposed over Ethiopian war to advance ‘regional interests’",
-      "summary": "Key points: The US yesterday lifted sanctions on Eritrea imposed in 2021 over the deadly conflict in nei...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-19T09:10:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/19/us-lifts-eritrea-sanctions-imposed-over-ethiopian-war-to-advance-regional-interests/235709",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-19-viral-performance-video-sparks-calls-for-legal-action-over-alleged-insults-to-ruku",
-      "category": "malaysia",
-      "headline": "Viral performance video sparks calls for legal action over alleged insults to Rukun Negara",
-      "summary": "Key points: KUALA LUMPUR, Sept 19 — The Royal Malaysia Police (PDRM) and Malaysian Communications and Multimedia Commissi...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-19T09:08:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/19/viral-performance-video-sparks-calls-for-legal-action-over-alleged-insults-to-rukun-negara/235719",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-19-saudi-arabia-issues-hostile-aerial-threat-alert-explosions-heard-in-riyadh",
-      "category": "world",
-      "headline": "Saudi Arabia issues ‘hostile aerial threat’ alert, explosions heard in Riyadh",
-      "summary": "Key points: Explosions were heard in Riyadh early Saturday, AFP journalists reported, after Saudi authoritie...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-19T09:03:21+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/19/saudi-arabia-issues-hostile-aerial-threat-alert-explosions-heard-in-riyadh/235708",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-19-the-new-dubai-oil-discovery-fuels-hopes-and-fears-in-brazil-s-amazon-town",
-      "category": "markets_investment",
-      "headline": "‘The new Dubai’? Oil discovery fuels hopes and fears in Brazil’s Amazon town",
-      "summary": "Key points: Indigenous chief Wagner Karipuna gazes worriedly at the tranquil river flowing past his villag...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-19T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/19/the-new-dubai-oil-discovery-fuels-hopes-and-fears-in-brazils-amazon-town/235629",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-southern-thailand-s-insurgent-group-wants-power-not-just-peace-talks-even-with-mal",
-      "category": "malaysia",
-      "headline": "Southern Thailand’s insurgent group wants power, not just peace talks — even with Malaysia at the table",
-      "summary": "Key points: KUALA LUMPUR, Sept 18 — Two decades into an insurgency that has killed thousands in southern Thailand, the leader...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-18T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/18/southern-thailands-insurgent-group-wants-power-not-just-peace-talks-even-with-malaysia-at-the-table/235625",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-18-israeli-directors-face-threats-after-gaza-film-naza-ignites-nationalist-outrage-po",
-      "category": "world",
-      "headline": "Israeli directors face threats after Gaza film ‘NAZA’ ignites nationalist outrage, political storm",
-      "summary": "Key points: On a street in southern Israel, a graffiti artist paints a mural depicting the filmmakers beh...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-18T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/18/israeli-directors-face-threats-after-gaza-film-naza-ignites-nationalist-outrage-political-storm/235642",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
