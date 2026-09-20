@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-21T04:29:54+08:00",
+  "generated_at": "2026-09-21T06:58:52+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-21-spaun-uses-presidents-cup-snub-to-win-bmw-pga-championship",
+      "id": "2026-09-21-cna-explains-beyond-the-air-india-stake-how-have-sia-s-other-investments-fared",
       "category": "world",
-      "headline": "Spaun uses Presidents Cup snub to win BMW PGA Championship",
-      "summary": "Key points: CNA Latest reports that Spaun uses Presidents Cup snub to win BMW PGA Championship.",
+      "headline": "CNA Explains: Beyond the Air India stake, how have SIA's other investments fared?",
+      "summary": "Key points: One analyst says Singapore Airlines' track record of investments in other airlines has been \"pretty underwhelming\".",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-21T03:02:56+08:00",
+      "published_at": "2026-09-21T06:00:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/spaun-uses-presidents-cup-snub-win-bmw-pga-championship-6397991",
+          "url": "https://www.channelnewsasia.com/singapore/sia-air-india-investment-track-record-6391561",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-21-negeri-sembilan-ruler-tuanku-muhriz-revokes-appointment-of-state-excos-the-edge-ma",
+      "category": "malaysia",
+      "headline": "Negeri Sembilan ruler Tuanku Muhriz revokes appointment of state excos - The Edge Malaysia",
+      "summary": "Key points: Negeri Sembilan ruler Tuanku Muhriz revokes appointment of state excos The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-21T00:26:47+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZRUhLV1IyNUhVcGM5d3Q1SmdyQkRGRTFEcUZ2SGhtZXc2SlUwZDdXTW5NLVdiVWc1YjdPNzh3eXFtR01kY1lhRm03Qk9nSTZP?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1174,26 +1204,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/20/sabah-tourism-bucks-the-slump-talk-with-41pc-rise/235817",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-20-fire-dept-sar-launched-after-hiker-slips-down-slope-and-becomes-separated-from-gro",
-      "category": "malaysia",
-      "headline": "Fire Dept: SAR launched after hiker slips down slope and becomes separated from group in Gua Musang",
-      "summary": "Key points: KOTA BHARU, Sept 20 — The Kelantan Fire and Rescue Department (JBPM) launched a search and rescue (SAR) operation...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-20T08:57:36+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/20/fire-dept-sar-launched-after-hiker-slips-down-slope-and-becomes-separated-from-group-in-gua-musang/235814",
           "publisher_type": "news"
         }
       ],
