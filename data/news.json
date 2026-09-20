@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-20T06:39:42+08:00",
+  "generated_at": "2026-09-20T08:38:40+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-20-east-and-west-singapore-join-central-region-in-recording-unhealthy-air-quality-ami",
+      "id": "2026-09-20-saudi-drop-al-juwayr-from-gulf-cup-squad-over-disciplinary-issue",
       "category": "world",
-      "headline": "East and west Singapore join central region in recording unhealthy air quality amid haze",
-      "summary": "Key points: The 24-hour Pollutant Standards Index (PSI) hit 105 in the west and 102 in the east at 6am. The central region, which entered the unhealthy range a day earlier, recorded a reading of 123.",
+      "headline": "Saudi drop Al Juwayr from Gulf Cup squad over 'disciplinary' issue",
+      "summary": "Key points: CNA Latest reports that Saudi drop Al Juwayr from Gulf Cup squad over 'disciplinary' issue.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-20T06:08:00+08:00",
+      "published_at": "2026-09-20T08:31:05+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/haze-singapore-unhealthy-psi-6396836",
+          "url": "https://www.channelnewsasia.com/sport/saudi-drop-al-juwayr-gulf-cup-squad-over-disciplinary-issue-6397116",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,26 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-20-santap-lah-ready-to-eat-meals-from-malaysia-s-michelin-selected-restaurants-at-a-c",
+      "category": "malaysia",
+      "headline": "Santap Lah: Ready-to-eat meals from Malaysia’s Michelin selected restaurants at a CAFé by 7-Eleven near you",
+      "summary": "Key points: GEORGE TOWN, Sept 20 — What if having a restaurant-quality meal is possible with just the press of a button?This i...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-20T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/20/santap-lah-ready-to-eat-meals-from-malaysias-michelin-selected-restaurants-at-a-cafe-by-7-elevennear-you/235684",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1223,26 +1243,6 @@
         "war"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-19-nvidia-openai-ceos-among-tech-titans-joining-xi-jinping-at-white-house-dinner",
-      "category": "world",
-      "headline": "Nvidia, OpenAI CEOs among tech titans joining Xi Jinping at White House dinner",
-      "summary": "Key points: Nvidia boss Jensen Huang and OpenAI chief executive Sam Altman are among tech leaders expect...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-19T09:28:52+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/19/nvidia-openai-ceos-among-tech-titans-joining-xi-jinping-at-white-house-dinner/235710",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
