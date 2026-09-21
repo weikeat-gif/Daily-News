@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-09-21T06:58:52+08:00",
+  "generated_at": "2026-09-21T08:58:55+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-21-cna-explains-beyond-the-air-india-stake-how-have-sia-s-other-investments-fared",
+      "id": "2026-09-21-haze-update-21-areas-across-malaysia-at-unhealthy-pollution-levels",
+      "category": "malaysia",
+      "headline": "Haze update: 21 areas across Malaysia at ‘Unhealthy’ pollution levels",
+      "summary": "Key points: KUALA LUMPUR, Sept 21: A total of 21 air quality monitoring stations nationwide recorded “Unhealthy” Air Pol...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-21T08:47:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/21/haze-update-21-areas-across-malaysia-at-unhealthy-pollution-levels/235916",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-21-new-world-development-bags-shanghai-bourse-nod-for-570-million-reit-listing",
       "category": "world",
-      "headline": "CNA Explains: Beyond the Air India stake, how have SIA's other investments fared?",
-      "summary": "Key points: One analyst says Singapore Airlines' track record of investments in other airlines has been \"pretty underwhelming\".",
+      "headline": "New World Development bags Shanghai bourse nod for $570 million REIT listing",
+      "summary": "Key points: CNA Latest reports that New World Development bags Shanghai bourse nod for $570 million REIT listing.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-21T06:00:00+08:00",
+      "published_at": "2026-09-21T08:45:17+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/sia-air-india-investment-track-record-6391561",
+          "url": "https://www.channelnewsasia.com/business/new-world-development-bags-shanghai-bourse-nod-570-million-reit-listing-6398361",
           "publisher_type": "news"
         },
         {
@@ -34,11 +54,51 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-09-21-negeri-sembilan-ruler-tuanku-muhriz-revokes-appointment-of-state-excos-the-edge-ma",
+      "id": "2026-09-21-malaysia-s-e-sports-scene-is-booming-and-the-jobs-go-far-beyond-pro-gamers",
       "category": "malaysia",
-      "headline": "Negeri Sembilan ruler Tuanku Muhriz revokes appointment of state excos - The Edge Malaysia",
-      "summary": "Key points: Negeri Sembilan ruler Tuanku Muhriz revokes appointment of state excos The Edge Malaysia",
+      "headline": "Malaysia’s e-sports scene is booming — and the jobs go far beyond pro gamers",
+      "summary": "Key points: KUALA LUMPUR, Sept 21 — E-sports enthusiast and full-time accountant Mohamed Ilyas Suhairi returns to video games...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-21T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/21/malaysias-e-sports-scene-is-booming-and-the-jobs-go-far-beyond-pro-gamers/235860",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-21-inside-papal-logistics-15-000-guards-blood-supply-on-standby-and-iconic-pope-mobil",
+      "category": "world",
+      "headline": "Inside papal logistics: 15,000 guards, blood supply on standby and iconic pope‑mobile rolling through Paris",
+      "summary": "Key points: VATICAN CITY, Sept 21 — Papal trips mean vast crowds, high-level diplomatic meetings and a formidable amount of be...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-21T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/21/inside-papal-logistics-15000-guards-blood-supply-on-standby-and-iconic-popemobile-rolling-through-paris/235866",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-21-negeri-sembilan-ruler-tuanku-muhriz-revokes-appointment-of-state-excos-theedgemala",
+      "category": "markets_investment",
+      "headline": "Negeri Sembilan ruler Tuanku Muhriz revokes appointment of state excos - theedgemalaysia.com",
+      "summary": "Key points: Negeri Sembilan ruler Tuanku Muhriz revokes appointment of state excos theedgemalaysia.com",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
       "published_at": "2026-09-21T00:26:47+08:00",
       "source_links": [
         {
@@ -60,7 +120,7 @@
       "topics": [
         "latest update"
       ],
-      "importance": 3,
+      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1164,66 +1224,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/20/sar-operation-for-missing-anglers-at-one-fathom-bank-near-pulau-ketam-ends-with-no-new-leads/235818",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-20-haze-watch-21-areas-nationwide-wake-up-to-unhealthy-air",
-      "category": "malaysia",
-      "headline": "Haze watch: 21 areas nationwide wake up to unhealthy air",
-      "summary": "Key points: KUALA LUMPUR, Sept 20 — Haze continued to cloud parts of the country this morning, with 21 areas recording unhealt...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-20T09:13:16+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/20/haze-watch-21-areas-nationwide-wake-up-to-unhealthy-air/235819",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-20-sabah-tourism-bucks-the-slump-talk-with-4-1pc-rise",
-      "category": "malaysia",
-      "headline": "Sabah tourism bucks the slump talk with 4.1pc rise",
-      "summary": "Key points: KOTA KINABALU, Sept 20 — Sabah tourist arrivals rose 4.1 per cent from January to August, disproving talk of a slu...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-20T09:01:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/20/sabah-tourism-bucks-the-slump-talk-with-41pc-rise/235817",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-19-turkiye-revokes-iran-s-bank-mellat-licence-amid-us-pressure-on-tehran",
-      "category": "markets_investment",
-      "headline": "Turkiye revokes Iran’s Bank Mellat licence amid US pressure on Tehran",
-      "summary": "Key points: Turkiye has revoked the licence of Iran’s Bank Mellat, a semi-private financial entity tha...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-19T15:47:02+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/09/19/turkiye-revokes-irans-bank-mellat-licence-amid-us-pressure-on-tehran/235775",
           "publisher_type": "news"
         }
       ],
