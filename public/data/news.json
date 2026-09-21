@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-21T21:36:49+08:00",
+  "generated_at": "2026-09-22T03:02:59+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-21-being-managed-by-zidane-for-france-is-like-a-movie-says-mbappe",
+      "id": "2026-09-22-singing-lemurs-may-use-a-soprano-like-trick-to-project-songs",
       "category": "world",
-      "headline": "Being managed by Zidane for France is 'like a movie', says Mbappe",
-      "summary": "Key points: CNA Latest reports that Being managed by Zidane for France is 'like a movie', says Mbappe.",
+      "headline": "Singing lemurs may use a soprano-like trick to project songs",
+      "summary": "Key points: CNA Latest reports that Singing lemurs may use a soprano-like trick to project songs.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-21T21:28:10+08:00",
+      "published_at": "2026-09-22T02:57:23+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/being-managed-zidane-france-movie-says-mbappe-6399926",
+          "url": "https://www.channelnewsasia.com/business/singing-lemurs-may-use-soprano-trick-project-songs-6400496",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-22-malaysia-expands-air-links-with-uae-gcc-to-boost-tourist-arrivals-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia Expands Air Links With UAE, GCC To Boost Tourist Arrivals - Bernama",
+      "summary": "Key points: Malaysia Expands Air Links With UAE, GCC To Boost Tourist Arrivals Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-22T01:35:05+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6eE9GeXFWYmkxZDVUZkliZXczanBfLUZGZmNIaks3Tk5NdmlGQjhQM205bkhJQm1MdXRzMGNnaW1Zazg2QnNUcUVlUjhoYzBQa3JjOXVpa3hEUmhpNmJwWFpabGQ?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1200,36 +1230,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-21-the-edge-says-bursa-must-get-zetrix-to-disclose-name-of-substantial-shareholder-wh",
-      "category": "markets_investment",
-      "headline": "The Edge Says: Bursa must get Zetrix to disclose name of substantial shareholder who blocked cash dividend payment - The Edge Mala",
-      "summary": "Key points: The Edge Says: Bursa must get Zetrix to disclose name of substantial shareholder who blocked cash dividend payment The Edge Malaysia",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-09-21T11:11:31+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nV29iaU8wN0x0SUVSZXBzV1FjR1pZbm9xYlJ5VGZ2c1BrelFXWHN3T0tVV0JrVWgxVG5JZUV3Y29lTjExUVBIQjVHdXctaTI5?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
