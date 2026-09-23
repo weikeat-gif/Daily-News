@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-23T22:40:42+08:00",
+  "generated_at": "2026-09-24T02:50:11+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-23-wolfsburg-terminate-eriksen-s-contract-by-mutual-consent",
+      "id": "2026-09-24-weinstein-resentenced-to-15-years-in-prison-for-2006-sex-assault",
       "category": "world",
-      "headline": "Wolfsburg terminate Eriksen's contract by mutual consent",
-      "summary": "Key points: CNA Latest reports that Wolfsburg terminate Eriksen's contract by mutual consent.",
+      "headline": "Weinstein resentenced to 15 years in prison for 2006 sex assault",
+      "summary": "Key points: Disgraced Hollywood producer Harvey Weinstein was sentenced to 15 years in prison for sexually assaulting a former production assistant.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-23T22:16:28+08:00",
+      "published_at": "2026-09-24T02:22:05+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/wolfsburg-terminate-eriksens-contract-mutual-consent-6405646",
+          "url": "https://www.channelnewsasia.com/world/weinstein-resentenced-15-years-in-prison-2006-sex-assault-6406131",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-23-malaysia-china-to-deepen-bilateral-security-cooperation-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia-China To Deepen Bilateral Security Cooperation - Bernama",
+      "summary": "Key points: Malaysia-China To Deepen Bilateral Security Cooperation Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-23T23:50:37+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WYmJEWElvLXdadlhJTnNXbGM0cEdEM1RzeVFNWG9aVFc2SGt0LUVUWjlkaFZtd3NxVXlBY0RuT3Q0ZFZhazR2bzNDODZneHVoVVV2eEdFeUFWQQ?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -285,8 +315,8 @@
     {
       "id": "2026-09-23-ytl-ai-labs-partners-with-nvidia-to-create-dataset-for-training-malaysia-context-a",
       "category": "malaysia",
-      "headline": "YTL AI Labs partners with NVIDIA to create dataset for training Malaysia-context AI - The Edge Malaysia",
-      "summary": "Key points: YTL AI Labs partners with NVIDIA to create dataset for training Malaysia-context AI The Edge Malaysia",
+      "headline": "YTL AI Labs partners with NVIDIA to create dataset for training Malaysia-context AI - theedgemalaysia.com",
+      "summary": "Key points: YTL AI Labs partners with NVIDIA to create dataset for training Malaysia-context AI theedgemalaysia.com",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-09-23T18:12:37+08:00",
       "source_links": [
@@ -804,36 +834,6 @@
           "name": "Malay Mail Money",
           "url": "https://www.malaymail.com/news/money/2026/09/23/rehda-survey-finds-property-developers-grappling-with-rising-construction-costs-amid-west-asia-conflict/236226",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-23-malaysia-expands-higher-education-cooperation-with-indonesian-provinces-emi-majujo",
-      "category": "malaysia",
-      "headline": "Malaysia Expands Higher Education Cooperation With Indonesian Provinces – EMI - majujohor.bernama.com",
-      "summary": "Key points: Malaysia Expands Higher Education Cooperation With Indonesian Provinces – EMI majujohor.bernama.com",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-23T14:06:57+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aWVNLNGVkb2FDRDBVUFhmS09acWtxMzhCTXlnMkFVNXVGTndwWG1wZGIwTWdQbG1mT0d3aVpPVjN2ZFlvSDNxZzBfTUpQaEdrTkNaQTlxajRqYTdBQVE4Qzdn?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
