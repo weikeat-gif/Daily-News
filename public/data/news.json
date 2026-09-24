@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-09-24T21:12:24+08:00",
+  "generated_at": "2026-09-25T02:11:09+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-09-25-white-house-asks-openai-anthropic-to-hold-models-from-british-testers-politico-rep",
+      "category": "world",
+      "headline": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports",
+      "summary": "Key points: CNA Latest reports that White House asks OpenAI, Anthropic to hold models from British testers, Politico reports.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-25T01:46:18+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/white-house-asks-openai-anthropic-hold-models-british-testers-politico-reports-6409141",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-09-24-n-sembilan-ruler-formally-revokes-appointments-of-10-exco-members",
       "category": "malaysia",
@@ -21,36 +51,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-24-trump-xi-summit-leaders-meet-at-white-house-for-high-stakes-talks",
-      "category": "world",
-      "headline": "Trump-Xi summit: Leaders meet at White House for high-stakes talks",
-      "summary": "Key points: This is their second summit in four months, following Trump's state visit to Beijing in May.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-24T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/trump-xi-jinping-meeting-summit-washington-china-us-6407711",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -131,6 +131,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-24-ajinomoto-malaysia-shareholders-approve-parent-s-rm20-privatisation-offer-the-edge",
+      "category": "malaysia",
+      "headline": "Ajinomoto Malaysia shareholders approve parent’s RM20 privatisation offer - The Edge Malaysia",
+      "summary": "Key points: Ajinomoto Malaysia shareholders approve parent’s RM20 privatisation offer The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-24T19:57:02+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBINF9Xa20zM1NsRFNBXzk1SXVqLWt6enFhX3duTkR3enNZNmlWT1VDWXpaNGRpT0laaUlRa3N4SlptTTduUi1tV3E4Tmd5TU1S?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -268,36 +298,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/24/man-rams-traffic-policeman-injures-him-while-fleeing-ipoh-roadblock/236380",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-24-ioipg-malaysia-reit-to-pay-out-quarterly-dividends-list-with-assets-worth-rm7-66b-",
-      "category": "malaysia",
-      "headline": "IOIPG Malaysia REIT to pay out quarterly dividends, list with assets worth RM7.66b - The Edge Malaysia",
-      "summary": "Key points: IOIPG Malaysia REIT to pay out quarterly dividends, list with assets worth RM7.66b The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-24T18:33:34+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93ODBlazkwVGFxeFZKcUsxMHhQazJCYmFNUWs1SlFjd2p0eUp2Y2lxXzIyNXRzS3JMcFk3VV9oTm8xdnlTSnZFZmtzVER1ZjVr?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
