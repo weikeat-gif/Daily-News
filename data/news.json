@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-27T02:19:04+08:00",
+  "generated_at": "2026-09-27T05:50:02+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-27-mbappe-diagnosed-with-knee-hyperextension-say-real-madrid",
+      "id": "2026-09-27-boeing-flags-737-max-software-glitch-affecting-landing-navigation-feature-wsj-repo",
       "category": "world",
-      "headline": "Mbappe diagnosed with knee hyperextension, say Real Madrid",
-      "summary": "Key points: CNA Latest reports that Mbappe diagnosed with knee hyperextension, say Real Madrid.",
+      "headline": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports",
+      "summary": "Key points: A Boeing 737 MAX software glitch could knock out automated flight guidance during landing after a missed approach, adding fresh scrutiny to the jetmaker.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-27T02:03:53+08:00",
+      "published_at": "2026-09-27T05:20:48+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/mbappe-diagnosed-knee-hyperextension-say-real-madrid-6413011",
+          "url": "https://www.channelnewsasia.com/world/boeing-737-max-glitch-landing-wsj-reports-6413071",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-27-kazakhstan-seeks-to-revive-higher-education-ties-with-malaysia-bernama",
+      "category": "malaysia",
+      "headline": "Kazakhstan Seeks To Revive Higher Education Ties With Malaysia - bernama",
+      "summary": "Key points: Kazakhstan Seeks To Revive Higher Education Ties With Malaysia bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-27T03:18:01+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xekZjMVBtci1aRmQ3dWtvM2hKbnJGWWZWMllydkVwY1lSUDhiLXZwR0c3aUlYRnRFRHN3dG5ETEY2dzEtelJxelNyTEdZVGFFVVlCeWpDVldYTHowRXFnYlFn?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -765,36 +795,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/26/hannah-yeoh-suggests-standardising-routes-to-reduce-road-closures-for-kl-running-events/236607",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-26-fm-mohamad-malaysia-supports-mechanism-to-document-expose-zionist-violations-again",
-      "category": "malaysia",
-      "headline": "FM Mohamad: Malaysia Supports Mechanism To Document, Expose Zionist Violations Against Jerusalem Holy Sites - majujohor.bernama.co",
-      "summary": "Key points: FM Mohamad: Malaysia Supports Mechanism To Document, Expose Zionist Violations Against Jerusalem Holy Sites majujohor.bernama.com",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-26T14:33:20+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wY0hXZlB5V0ZGYTg4S3hEaXNFSmhQLXg1aVpRaWtfQzFwYmxGMHd6WmpSc3lUeHdfUGRiZ3U5ZC02eVdEcDcxUkxNLU45Wms5WjhlNUtRTE5ieFpGMXEySHpR?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
