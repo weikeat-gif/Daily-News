@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-28T04:53:07+08:00",
+  "generated_at": "2026-09-28T07:38:41+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-28-mcnulty-wins-road-world-title-to-end-us-men-s-33-year-drought",
+      "id": "2026-09-28-trump-confirms-meeting-with-anthropic-s-amodei-repeats-dismissal-of-ai-fears",
       "category": "world",
-      "headline": "McNulty wins road world title to end US men's 33-year drought",
-      "summary": "Key points: CNA Latest reports that McNulty wins road world title to end US men's 33-year drought.",
+      "headline": "Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears",
+      "summary": "Key points: CNA Latest reports that Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-28T03:49:24+08:00",
+      "published_at": "2026-09-28T07:31:41+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/mcnulty-wins-road-world-title-end-us-mens-33-year-drought-6414136",
+          "url": "https://www.channelnewsasia.com/world/us-trump-meet-anthropic-amodei-ai-regulation-6413916",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,106 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-boom-gates-guardhouses-and-access-cards-here-are-23-rules-guarded-klang-valley-nei",
+      "category": "malaysia",
+      "headline": "Boom gates, guardhouses and access cards: Here are 23 rules guarded Klang Valley neighbourhoods must follow",
+      "summary": "Key points: KUALA LUMPUR, Sept 28 — Guardhouses, boom gates and security guards have become a familiar sight in residential ne...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-28T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/boom-gates-guardhouses-and-access-cards-here-are-23-rules-guarded-klang-valley-neighbourhoods-must-follow/235959",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-malaysian-pet-food-startup-notti-targets-exports-for-half-of-sales-within-three-ye",
+      "category": "malaysia",
+      "headline": "Malaysian pet food startup Notti targets exports for half of sales within three years",
+      "summary": "Key points: KUALA LUMPUR, Sept 28 — Food science nutritionist Yap Ke Yee established Notti Sdn Bhd in July 2023 to address a p...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-28T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/28/malaysian-pet-food-startup-notti-targets-exports-for-half-of-sales-within-three-years/236712",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-millions-return-to-khartoum-only-to-find-blackouts-shortages-and-few-jobs",
+      "category": "world",
+      "headline": "Millions return to Khartoum, only to find blackouts, shortages and few jobs",
+      "summary": "Key points: They came home to a war-ruined city determined to rebuild their lives, but a chronic lack of p...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-28T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/28/millions-return-to-khartoum-only-to-find-blackouts-shortages-and-few-jobs/236699",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-nepal-s-hydropower-boom-faces-a-climate-reckoning-after-devastating-flood",
+      "category": "world",
+      "headline": "Nepal’s hydropower boom faces a climate reckoning after devastating flood",
+      "summary": "Key points: Nepal’s hydropower boom has long been touted as a cornerstone of economic growth and re...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-28T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/28/nepals-hydropower-boom-faces-a-climate-reckoning-after-devastating-flood/236700",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-from-jordan-to-lebanon-israel-s-oct-27-election-carries-stakes-far-beyond-its-bord",
+      "category": "world",
+      "headline": "From Jordan to Lebanon, Israel’s Oct 27 election carries stakes far beyond its borders",
+      "summary": "Key points: Israel’s upcoming elections are being followed closely by its regional neighbours, who...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-28T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/28/from-jordan-to-lebanon-israels-oct-27-election-carries-stakes-far-beyond-its-borders/236709",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1114,116 +1214,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-27-foreign-male-dancers-nabbed-as-immigration-raids-jalan-klang-lama-club-charging-pa",
-      "category": "malaysia",
-      "headline": "Foreign male dancers nabbed as Immigration raids Jalan Klang Lama club charging patrons up to RM700",
-      "summary": "Key points: KUALA LUMPUR, Sept 27 — Immigration officers raided an entertainment centre in Jalan Klang Lama offering dance sho...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-27T12:22:36+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/27/foreign-male-dancers-nabbed-as-immigration-raids-jalan-klang-lama-club-charging-patrons-up-to-rm700/236705",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-27-quill-group-china-mobile-international-to-explore-ai-data-centre-opportunities-in-",
-      "category": "malaysia",
-      "headline": "Quill Group, China Mobile International to explore AI, data centre opportunities in Malaysia - The Edge Malaysia",
-      "summary": "Key points: Quill Group, China Mobile International to explore AI, data centre opportunities in Malaysia The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-27T12:18:22+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBSGhPMWV5OTFQTy1wNkp2SmNiYXJ0c3JoVVp4Q29aRkl0N3VmM1NPb01URy12Xy1HaGh5THlOdklqdnRCU1preFk1VnhLcUhz?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-27-one-dead-60-000-without-power-as-powerful-storm-batters-us-northeast",
-      "category": "world",
-      "headline": "One dead, 60,000 without power as powerful storm batters US Northeast",
-      "summary": "Key points: NEW YORK, Sept 27 — Heavy rain and strong winds battered the northeastern US yesterday as an unusually powerful au...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-27T12:17:49+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/27/one-dead-60000-without-power-as-powerful-storm-batters-us-northeast/236704",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-27-why-your-electricity-bill-is-not-as-simple-as-what-tnb-pays-for-power",
-      "category": "malaysia",
-      "headline": "Why your electricity bill is not as simple as what TNB pays for power",
-      "summary": "Key points: KUALA LUMPUR, Sept 27 — Tenaga Nasional Bhd’s (TNB) role at the centre of Peninsular Malaysia’s electr...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-27T11:59:49+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/27/why-your-electricity-bill-is-not-as-simple-as-what-tnb-pays-for-power/236697",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-27-families-of-55-missing-malaysians-return-to-wisma-putra-for-latest-nepal-search-up",
-      "category": "malaysia",
-      "headline": "Families of 55 missing Malaysians return to Wisma Putra for latest Nepal search update",
-      "summary": "Key points: Family members of the 55 Malaysians who remain missing following the glacial flash flood inci...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-27T11:43:51+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/27/families-of-55-missing-malaysians-return-to-wisma-putra-for-latest-nepal-search-update/236696",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
