@@ -1,8 +1,201 @@
 {
-  "generated_at": "2026-09-28T18:33:57+08:00",
+  "generated_at": "2026-09-29T02:26:50+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-09-29-anthropic-rolls-out-second-claude-5-5-model-as-it-builds-toward-ipo",
+      "category": "world",
+      "headline": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO",
+      "summary": "Key points: CNA Latest reports that Anthropic rolls out second Claude 5.5 model as it builds toward IPO.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-29T02:02:26+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/business/anthropic-rolls-out-second-claude-55-model-it-builds-toward-ipo-6416551",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-myanmar-military-strike-on-crowded-market-in-rakhine-state-kills-33-injures-dozens",
+      "category": "markets_investment",
+      "headline": "Myanmar military strike on crowded market in Rakhine state kills 33, injures dozens",
+      "summary": "Key points: KYAUKTAW (Myanmar), Sept 28 — A military airstrike on a market in western Myanmar killed 33 people today and wound...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-28T20:30:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/28/myanmar-military-strike-on-crowded-market-in-rakhine-state-kills-33-injures-dozens/236920",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-after-70-years-together-dr-mahathir-weeps-as-dr-hasmah-laid-to-rest",
+      "category": "malaysia",
+      "headline": "After 70 years together, Dr Mahathir weeps as Dr Hasmah laid to rest",
+      "summary": "Key points: KUALA LUMPUR, Sept 28 — After seven decades together, Tun Dr Mahathir Mohamad today faced one of his most difficul...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-28T20:00:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/after-70-years-together-dr-mahathir-weeps-as-dr-hasmah-laid-to-rest/236917",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-energy-markets-spike-as-trump-rebuffs-iran-truce-us-yields-rise-on-inflation-fears",
+      "category": "markets_investment",
+      "headline": "Energy markets spike as Trump rebuffs Iran truce, US yields rise on inflation fears",
+      "summary": "Key points: Oil futures surged more than four per cent today, alongside gains for natural gas and diesel pri...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-28T19:59:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/28/energy-markets-spike-as-trump-rebuffs-iran-truce-us-yields-rise-on-inflation-fears/236916",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "market",
+        "markets",
+        "oil",
+        "gas"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-thai-court-rejects-ballots-challenge-to-february-vote-ruling-qr-codes-and-barcodes",
+      "category": "world",
+      "headline": "Thai court rejects ballots challenge to February vote, ruling QR codes and barcodes constitutional",
+      "summary": "Key points: Thailand’s Constitutional Court rejected today a challenge to the legality of ballots use...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-28T19:35:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/28/thai-court-rejects-ballots-challenge-to-february-vote-ruling-qr-codes-and-barcodes-constitutional/236914",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-india-s-uttar-pradesh-reels-from-heavy-rains-and-floods-that-leave-81-dead",
+      "category": "world",
+      "headline": "India’s Uttar Pradesh reels from heavy rains and floods that leave 81 dead",
+      "summary": "Key points: NEW DELHI, Sept 28 — At least 81 people were killed and 62 others injured as heavy rains triggered flooding and wi...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-09-28T19:23:55+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/09/28/indias-uttar-pradesh-reels-from-heavy-rains-and-floods-that-leave-81-dead/236913",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-ringgit-ends-lower-against-us-dollar-on-hawkish-fed-signals",
+      "category": "markets_investment",
+      "headline": "Ringgit ends lower against US dollar on hawkish Fed signals",
+      "summary": "Key points: KUALA LUMPUR, Sept 28 — The ringgit ended lower against the US dollar today, weighed down by continued hawkish sen...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-09-28T19:11:45+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/09/28/ringgit-ends-lower-against-us-dollar-on-hawkish-fed-signals/236911",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-perak-seeks-rm1-4b-in-budget-2027-for-key-water-infrastructure",
+      "category": "malaysia",
+      "headline": "Perak seeks RM1.4b in Budget 2027 for key water infrastructure",
+      "summary": "Key points: Perak is hoping for at least RM1.4 billion in the upcoming Federal Budget to fund key water supply...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-28T18:54:59+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/perak-seeks-rm14b-in-budget-2027-for-key-water-infrastructure/236910",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-dr-hasmah-laid-to-rest-at-national-mausoleum-as-crowd-of-supporters-gather-in-drov",
+      "category": "malaysia",
+      "headline": "Dr Hasmah laid to rest at National Mausoleum as crowd of supporters gather in droves to pay last respects",
+      "summary": "Key points: The remains of the late Tun Dr Hasmah Mohd Ali have been laid to rest at the National Mausole...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-28T18:30:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/dr-hasmah-laid-to-rest-at-national-mausoleum-as-crowd-of-supporters-gather-in-droves-to-pay-last-respects/236907",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-09-28-bank-negara-malaysia-s-financial-markets-remain-orderly-amid-global-headwinds",
       "category": "malaysia",
@@ -24,36 +217,6 @@
         "market"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-28-it-team-lead-attached-to-state-courts-installed-remote-desktop-app-risking-18-000-",
-      "category": "world",
-      "headline": "IT team lead attached to State Courts installed remote desktop app risking 18,000 files, gets jail",
-      "summary": "Key points: Janarthanan Tamil Kovan had granted his foreign acquaintance remote access to the government-managed laptop as Janarthanan wanted to use it to take a cyber security examination.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-28T18:11:14+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/it-team-lead-remote-desktop-state-court-risk-files-jail-6415386",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -200,10 +363,10 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-09-28-sabah-police-say-gospel-singer-israel-houghton-concert-unsuitable-now-two-reports-",
+      "id": "2026-09-28-sabah-police-advise-against-gospel-band-israel-new-breed-concert-over-public-sensi",
       "category": "malaysia",
-      "headline": "Sabah police say gospel singer Israel Houghton concert unsuitable now, two reports lodged",
-      "summary": "Key points: KOTA KINABALU, Sept 28 — Sabah police will advise the state government to postpone American gospel singer Israel H...",
+      "headline": "Sabah police advise against gospel band Israel & New Breed concert over public sensitivities, two reports lodged",
+      "summary": "Key points: KOTA KINABALU, Sept 28 — Sabah police have advised that a band named Israel & New Breed’s planned concert he...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-09-28T17:02:26+08:00",
       "source_links": [
@@ -460,6 +623,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-09-28-aviation-veteran-bashir-ahmad-exits-malaysia-airlines-board-the-edge-malaysia",
+      "category": "malaysia",
+      "headline": "Aviation veteran Bashir Ahmad exits Malaysia Airlines board - The Edge Malaysia",
+      "summary": "Key points: Aviation veteran Bashir Ahmad exits Malaysia Airlines board The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-28T15:30:00+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuOGdYcnpIMTJzQWJMdkgydFViVVFjOWVtTGp6OUJLODZLMi00bjZWdjEwYnpYUENJYUZRbEdVb1plc3lNSXBLQ2stUXFyckgy?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-09-28-azalina-freedom-of-information-bill-must-balance-openness-with-safeguards-avoid-ex",
       "category": "malaysia",
       "headline": "Azalina: Freedom of Information Bill must balance openness with safeguards, avoid excessive prohibitions",
@@ -551,6 +744,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/28/roti-canai-maker-charged-in-kota-tinggi-court-with-murder-of-fiveyearold-niece-at-tanjung-sedili-river/236864",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-28-mida-ocbc-malaysia-partnership-to-attract-high-value-investments-strengthen-local-",
+      "category": "malaysia",
+      "headline": "MIDA-OCBC Malaysia Partnership To Attract High-value Investments, Strengthen Local Businesses - ASEAN - BERNAMA",
+      "summary": "Key points: MIDA-OCBC Malaysia Partnership To Attract High-value Investments, Strengthen Local Businesses ASEAN - BERNAMA",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-28T14:20:26+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56LTgzakZ0cXhfSnU1cEhJMXVWU3pVWlFWc3d1QkF4dWlINmROTlUxeUw0bzRNeHF1ZHdfSjhBSTNZXzVsWHVCOWpIQjE3RWZieU16Vmptdmo?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1003,36 +1226,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-09-28-malaysia-t-rkiye-to-finalise-asean-plan-of-action-by-mid-2027-asean-bernama",
-      "category": "malaysia",
-      "headline": "Malaysia, TÜrkiye To Finalise ASEAN Plan Of Action By Mid-2027 - ASEAN - BERNAMA",
-      "summary": "Key points: Malaysia, TÜrkiye To Finalise ASEAN Plan Of Action By Mid-2027 ASEAN - BERNAMA",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-28T11:44:47+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GakFQWmVFUXBIcnl3QVN0cTFjOVhsbTl5OW82SThxUlhENVNRWFlfcF9LZFdrNGRjeGs1a3JxbXNmZkJsLThqbTYtbUxGcmhmUkhPMTJWLTQ?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-09-28-remembering-the-legacy-of-dr-hasmah-ibu-negara-malaysia",
       "category": "malaysia",
       "headline": "Remembering the legacy of Dr Hasmah, ‘Ibu Negara’ Malaysia",
@@ -1043,186 +1236,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/09/28/remembering-the-legacy-of-dr-hasmah-ibu-negara-malaysia/236834",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-28-remains-of-dr-siti-hasmah-taken-from-ijn-to-family-residence-in-seri-kembangan",
-      "category": "malaysia",
-      "headline": "Remains of Dr Siti Hasmah taken from IJN to family residence in Seri Kembangan",
-      "summary": "Key points: KUALA LUMPUR, Sept 28 — The remains of the late Tun Dr Siti Hasmah Mohd Ali were transported from the National Hea...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-28T11:40:47+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/remains-of-dr-siti-hasmah-taken-from-ijn-to-family-residence-in-seri-kembangan/236833",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-28-pm-anwar-mourns-dr-siti-hasmah-s-passing-calls-it-a-great-national-loss",
-      "category": "malaysia",
-      "headline": "PM Anwar mourns Dr Siti Hasmah’s passing, calls it a great national loss",
-      "summary": "Key points: KUALA LUMPUR, Sept 28 — Prime Minister Datuk Seri Anwar Ibrahim has expressed his condolences on the passing of Tu...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-28T11:30:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/pm-anwar-mourns-dr-siti-hasmahs-passing-calls-it-a-great-national-loss/236830",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-28-thunderstorms-heavy-rain-expected-in-sarawak-sabah-and-labuan-this-afternoon",
-      "category": "malaysia",
-      "headline": "Thunderstorms, heavy rain expected in Sarawak, Sabah and Labuan this afternoon",
-      "summary": "Key points: KUALA LUMPUR, Sept 29 — The Malaysian Meteorological Department (MetMalaysia) has issued a thunderstorm warning fo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-28T11:10:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/thunderstorms-heavy-rain-expected-in-sarawak-sabah-and-labuan-this-afternoon/236831",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-28-mohamad-hasan-warns-west-asia-war-hormuz-closure-ripple-globally-urges-un-reforms",
-      "category": "world",
-      "headline": "Mohamad Hasan warns West Asia war, Hormuz closure ripple globally, urges UN reforms",
-      "summary": "Key points: NEW YORK, Sept 28 — Conflicts in West Asia and the closure of the Strait of Hormuz are no longer issues affecting...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-28T11:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/mohamad-hasan-warns-west-asia-war-hormuz-closure-ripple-globally-urges-un-reforms/236829",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-28-king-and-queen-of-malaysia-express-condolences-on-passing-of-dr-siti-hasmah",
-      "category": "malaysia",
-      "headline": "King and Queen of Malaysia express condolences on passing of Dr Siti Hasmah",
-      "summary": "Key points: KUALA LUMPUR, Sept 28 — His Majesty, Sultan Ibrahim, King of Malaysia and Her Majesty Raja Zarith Sofiah, Queen of...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-28T10:53:35+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/king-and-queen-of-malaysia-express-condolences-on-passing-of-dr-siti-hasmah/236828",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-28-foreign-minister-says-malaysia-sought-for-hague-group-role-due-to-firm-legal-stanc",
-      "category": "malaysia",
-      "headline": "Foreign minister says Malaysia sought for Hague Group role due to firm legal stance",
-      "summary": "Key points: NEW YORK, Sept 28 — Malaysia has been asked by several countries to take on the role of co-chair of The Hague Grou...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-28T10:39:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/mohamad-hasan-says-malaysia-sought-for-hague-group-role-due-to-firm-legal-stance/236826",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-28-dr-siti-hasmah-dies-aged-100-at-ijn",
-      "category": "malaysia",
-      "headline": "Dr Siti Hasmah dies aged 100 at IJN",
-      "summary": "Key points: KUALA LUMPUR, Sept 28 — Tun Dr Siti Hasmah Mohamad Ali, wife of former prime minister Tun Dr Mahathir Mohamad, has...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-28T10:33:27+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/dr-siti-hasmah-dies-aged-100-at-ijn/236827",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-28-penang-targets-us-expansion-to-cement-status-as-global-chip-hub",
-      "category": "malaysia",
-      "headline": "Penang targets US expansion to cement status as global chip hub",
-      "summary": "Key points: GEORGE TOWN, Sept 28 — Penang is ramping up its efforts to attract fresh American capital and encourage existing U...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-28T10:25:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/penang-targets-us-expansion-to-cement-status-as-global-chip-hub/236825",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-28-finance-ministry-launches-rm3-54m-tioman-projects-bridges-and-solar-lights-to-boos",
-      "category": "malaysia",
-      "headline": "Finance Ministry launches RM3.54m Tioman projects, bridges and solar lights to boost tourism",
-      "summary": "Key points: A total of 26 infrastructure development projects and community programmes costing RM3.54 millio...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-28T10:19:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/28/finance-ministry-launches-rm354m-tioman-projects-bridges-and-solar-lights-to-boost-tourism/236819",
           "publisher_type": "news"
         }
       ],
