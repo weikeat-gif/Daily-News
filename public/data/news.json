@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-01T03:49:35+08:00",
+  "generated_at": "2026-10-01T07:28:16+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-01-uk-france-channel-migrant-exchange-deal-scrapped-london",
+      "id": "2026-10-01-passengers-foil-bid-to-crash-dubai-tel-aviv-flight-israel-says-after-co-pilot-stab",
       "category": "world",
-      "headline": "UK-France Channel migrant exchange deal scrapped: London",
-      "summary": "Key points: The UK-France “one in, one out” migrant deal has ended after a year, according to the UK interior ministry.",
+      "headline": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot",
+      "summary": "Key points: Israeli Prime Minister Benjamin Netanyahu hailed the wounded pilot for fighting back after he was stabbed by his colleague, \"preventing a catastrophic mid-air disaster\".",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-01T03:34:24+08:00",
+      "published_at": "2026-10-01T07:06:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/uk-france-one-in-one-out-migrant-deal-end-6422506",
+          "url": "https://www.channelnewsasia.com/world/flydubai-flight-israel-passengers-co-pilot-stabbing-6422866",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,26 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-01-ecrl-explained-how-fast-how-far-and-when-will-malaysia-s-new-east-coast-rail-link-",
+      "category": "malaysia",
+      "headline": "ECRL explained: How fast, how far and when will Malaysia’s new East Coast rail link open?",
+      "summary": "Key points: KUALA LUMPUR, Oct 1 — The East Coast Rail Link (ECRL) could begin carrying passengers as early as mid-Decembe...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-01T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/ecrl-explained-how-fast-how-far-and-when-will-malaysias-new-east-coast-rail-link-open/236471",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1207,26 +1227,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-30-haze-persists-as-29-areas-record-unhealthy-api-johan-setia-and-cheras-worst-hit",
-      "category": "malaysia",
-      "headline": "Haze persists as 29 areas record unhealthy API, Johan Setia and Cheras worst hit",
-      "summary": "Key points: KUALA LUMPUR, Sept 30 — A total of 29 areas nationwide recorded unhealthy Air Pollutant Index (API) readings as at...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-09-30T11:14:43+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/09/30/haze-persists-as-over-30-areas-record-unhealthy-api-johan-setia-and-cheras-worst-hit/237067",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
