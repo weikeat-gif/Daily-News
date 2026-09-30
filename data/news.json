@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-30T22:50:14+08:00",
+  "generated_at": "2026-10-01T03:49:35+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-09-30-nearly-100-000-bee-cheng-hiang-customers-email-addresses-exposed-in-first-ai-relat",
+      "id": "2026-10-01-uk-france-channel-migrant-exchange-deal-scrapped-london",
       "category": "world",
-      "headline": "Nearly 100,000 Bee Cheng Hiang customers' email addresses exposed in first AI-related data breach in Singapore",
-      "summary": "Key points: \"The incident was caused by a human error in developing the email distribution code with an AI tool,\" said the Personal Data Protection Commission.",
+      "headline": "UK-France Channel migrant exchange deal scrapped: London",
+      "summary": "Key points: The UK-France “one in, one out” migrant deal has ended after a year, according to the UK interior ministry.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-30T22:45:18+08:00",
+      "published_at": "2026-10-01T03:34:24+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/bee-cheng-hiang-data-breach-ai-pdpc-emails-6421711",
+          "url": "https://www.channelnewsasia.com/world/uk-france-one-in-one-out-migrant-deal-end-6422506",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-09-30-simplified-procedure-for-simultaneous-ipo-listing-in-malaysia-and-hong-kong-takes-",
+      "category": "malaysia",
+      "headline": "Simplified procedure for simultaneous IPO listing in Malaysia and Hong Kong takes effect - The Edge Malaysia",
+      "summary": "Key points: Simplified procedure for simultaneous IPO listing in Malaysia and Hong Kong takes effect The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-09-30T21:40:40+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yblVfV2pGdlpEQlRNbXdvX1FpaGFuWEdWLWNJT25CdG11YmJCcFVlNWZJMFlIQXVnT0F4b0FXRm8xMW43aXE1Q2g3bmlZRW1L?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1197,26 +1227,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-09-30-thai-airways-cancels-37-more-flights-at-suvarnabhumi-amid-flood-hit-baggage-backlo",
-      "category": "world",
-      "headline": "Thai Airways cancels 37 more flights at Suvarnabhumi amid flood-hit baggage backlog",
-      "summary": "Key points: Thai Airways International has cancelled another 37 domestic and international flights through...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-09-30T11:05:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/09/30/thai-airways-cancels-37-more-flights-at-suvarnabhumi-amid-flood-hit-baggage-backlog/237088",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     }
   ]
