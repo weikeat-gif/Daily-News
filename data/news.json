@@ -1,8 +1,178 @@
 {
-  "generated_at": "2026-10-01T19:22:06+08:00",
+  "generated_at": "2026-10-02T02:01:26+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-10-02-indian-embassy-in-uae-says-wounded-flydubai-captain-in-good-health",
+      "category": "world",
+      "headline": "Indian embassy in UAE says wounded flydubai captain in good health",
+      "summary": "Key points: Indian Ambassador Deepak Mittal visited injured Flydubai pilot Smit Machchhar in hospital, saying he was in “good health and recovering well” after being attacked by his co-pilot.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-02T01:55:42+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/flydubai-captain-pilot-hospital-india-6425166",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-01-flags-and-pho-on-show-as-pandora-opens-huge-vietnam-plant",
+      "category": "world",
+      "headline": "Flags and pho on show as Pandora opens huge Vietnam plant",
+      "summary": "Key points: HO CHI MINH CITY, Oct 1 — The world's largest jewellery brand showed off bracelet charms featuring Vietnam'...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-01T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/10/01/flags-and-pho-on-show-as-pandora-opens-huge-vietnam-plant/237259",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-01-what-is-trump-s-ai-deal-and-why-are-critics-sceptical",
+      "category": "world",
+      "headline": "What is Trump’s AI deal and why are critics sceptical?",
+      "summary": "Key points: US President Donald Trump has signed a deal with tech leaders outlining a regime of self-regulation...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-01T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/01/what-is-trumps-ai-deal-and-why-are-critics-sceptical/237272",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-01-macc-remands-brothers-with-datuk-seri-datuk-wira-titles-over-alleged-rm10m-investm",
+      "category": "malaysia",
+      "headline": "MACC remands brothers with ‘Datuk Seri’, ‘Datuk Wira’ titles over alleged RM10m investment abuse",
+      "summary": "Key points: KUALA LUMPUR, Oct 1 — Two corporate figures, who are brothers, have been remanded for five days over an alleged ab...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-01T20:30:16+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/macc-remands-brothers-with-datuk-seri-datuk-wira-titles-over-alleged-rm10m-investment-abuse/237307",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-01-johor-rolls-out-additional-rm30m-after-flash-floods-hit-state-capital",
+      "category": "malaysia",
+      "headline": "Johor rolls out additional RM30m after flash floods hit state capital",
+      "summary": "Key points: JOHOR BAHRU, Oct 1 — The Johor government will provide an additional allocation of RM30 million next year to fund...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-01T20:11:01+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/johor-rolls-out-additional-rm30m-after-flash-floods-hit-state-capital/237301",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-01-johor-government-to-enhance-smart-city-technology-for-early-extreme-weather-warnin",
+      "category": "malaysia",
+      "headline": "Johor government to enhance ‘Smart City’ technology for early extreme weather warnings",
+      "summary": "Key points: JOHOR BAHRU, Oct 1 — The Johor government will enhance its ‘Smart City’ technology to enable city resi...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-01T19:57:44+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/johor-government-to-enhance-smart-city-technology-for-early-extreme-weather-warnings/237305",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-10-01-russian-drones-hit-key-kyiv-bridge-disrupting-transport",
+      "category": "world",
+      "headline": "Russian drones hit key Kyiv bridge, disrupting transport",
+      "summary": "Key points: Two Russian drones hit a major bridge connecting eastern and western Kyiv on Thursday, the Ukrainian...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-01T19:49:40+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/01/russian-drones-hit-key-kyiv-bridge-disrupting-transport/237304",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-01-uae-probes-terror-link-after-flydubai-cockpit-attack-on-flight-to-israel",
+      "category": "world",
+      "headline": "UAE probes ‘terror’ link after flydubai cockpit attack on flight to Israel",
+      "summary": "Key points: The United Arab Emirates announced on Thursday it was probing a possible “terrorist” li...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-01T19:43:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/01/uae-probes-terror-link-after-flydubai-cockpit-attack-on-flight-to-israel/237303",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-10-01-bidor-petrol-station-shooting-police-record-nine-statements-hunt-three-suspects",
       "category": "malaysia",
@@ -55,36 +225,6 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/10/01/loud-thud-sperm-whale-rams-yacht-in-south-pacific-forcing-four-sailors-into-overnight-ordeal/237298",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-01-amazon-walmart-s-flipkart-launch-review-of-unlicensed-security-camera-listings-on-",
-      "category": "world",
-      "headline": "Amazon, Walmart's Flipkart launch review of unlicensed security camera listings on India platforms",
-      "summary": "Key points: CNA Latest reports that Amazon, Walmart's Flipkart launch review of unlicensed security camera listings on India platforms.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-01T18:49:58+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/amazon-walmarts-flipkart-launch-review-unlicensed-security-camera-listings-india-platforms-6424266",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -460,36 +600,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-10-01-mercedes-favourite-to-dominate-bahrain-gp-in-malaysia-2026-alex-yoong-web26-bernam",
-      "category": "malaysia",
-      "headline": "Mercedes Favourite To Dominate Bahrain GP In Malaysia 2026 - Alex Yoong - web26.bernama.com",
-      "summary": "Key points: Mercedes Favourite To Dominate Bahrain GP In Malaysia 2026 - Alex Yoong web26.bernama.com",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-01T16:18:29+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wWkkzNExwZ1RiWHVmdk1HMnc0Um1WbEVaUjY2cVY0Y1RLVFYzRGNJYU9rUUFxajRNOEF6Xy1VV0FLZm84Q1hCSTFoR29ueVBHaHN2LV9ZMzhGR0dtYkRRY3p6WTNHdw?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-10-01-selangor-employers-who-chose-sultan-s-silver-jubilee-oct-25-holiday-must-observe-i",
       "category": "malaysia",
       "headline": "Selangor employers who chose Sultan’s Silver Jubilee Oct 25 holiday must observe it, says Labour Dept",
@@ -601,6 +711,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/01/selangor-sultan-marks-silver-jubilee-with-joyride-flight-for-149-orphans/237256",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-01-malaysia-singapore-can-work-together-to-boost-intra-asean-trade-johari-asean-berna",
+      "category": "malaysia",
+      "headline": "Malaysia, Singapore Can Work Together To Boost Intra-ASEAN Trade - Johari - ASEAN - BERNAMA",
+      "summary": "Key points: Malaysia, Singapore Can Work Together To Boost Intra-ASEAN Trade - Johari ASEAN - BERNAMA",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-01T15:21:27+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQWUMyT051R3RydlhrU2EwR2hEcXFpT2FHWmR0VjNmeWFVaUZGcjZObVAyTUk3ZHB3WlFxU1FRWDJ2Z3JYRnFnTDVUV0Q3YkhxMkZqN3FHRjI?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1094,146 +1234,6 @@
           "name": "Facebook The Edge Malaysia",
           "url": "https://www.facebook.com/theedgemalaysia",
           "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-01-macc-chief-says-no-asset-declaration-notice-was-served-on-ex-minister-saravanan-s-",
-      "category": "malaysia",
-      "headline": "MACC chief says no asset declaration notice was served on ex-minister Saravanan’s 12-year-old son",
-      "summary": "Key points: KUALA LUMPUR, Oct 1 — The Malaysian Anti-Corruption Commission (MACC) did not serve an asset declaration notice on...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-01T12:44:30+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/macc-chief-says-no-asset-declaration-notice-was-served-on-ex-minister-saravanans-12-year-old-son/237224",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-01-budget-2027-childcare-group-proposes-doubling-tax-relief-for-daycare-fees-to-rm6-0",
-      "category": "malaysia",
-      "headline": "Budget 2027: Childcare group proposes doubling tax relief for daycare fees to RM6,000",
-      "summary": "Key points: The Malaysia Children Daycare Association has proposed that the government increase individual in...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-01T12:35:19+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/budget-2027-childcare-group-proposes-doubling-tax-relief-for-daycare-fees-to-rm6000/237222",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-01-lorry-carrying-120-chemical-drums-spills-load-on-skve-after-locking-barrier-fails-",
-      "category": "malaysia",
-      "headline": "Lorry carrying 120 chemical drums spills load on SKVE after locking barrier fails, Hazmat team deployed",
-      "summary": "Key points: SHAH ALAM, Oct 1 — The failure of a locking barrier on a lorry carrying a chemical mixture containing 50 per cent...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-01T12:26:33+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/lorry-carrying-120-chemical-drums-spills-load-on-skve-after-locking-barrier-fails-hazmat-team-deployed/237223",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-01-dr-mahathir-sheds-tears-during-visit-to-dr-hasmah-s-grave-three-days-after-her-dea",
-      "category": "malaysia",
-      "headline": "Dr Mahathir sheds tears during visit to Dr Hasmah’s grave three days after her death (VIDEO)",
-      "summary": "Key points: Former prime minister Tun Dr Mahathir Mohamad visited the grave of his wife, Tun Dr Siti Hasmah...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-01T12:00:56+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/dr-mahathir-sheds-tears-during-visit-to-dr-hasmahs-grave-three-days-after-her-death/237221",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-01-macc-finds-governance-weaknesses-at-uitm-holdings-after-rm37-37m-cbt-probe",
-      "category": "malaysia",
-      "headline": "MACC finds governance weaknesses at UiTM Holdings after RM37.37m CBT probe",
-      "summary": "Key points: KUALA LUMPUR, Oct 1 — The Malaysian Anti-Corruption Commission (MACC) has identified governance weaknesses at UiTM...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-01T11:52:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/macc-finds-governance-weaknesses-at-uitm-holdings-after-rm3737m-cbt-probe/237220",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-01-reported-doctor-no-shows-in-sabah-and-sarawak-prompt-mma-call-for-incentive-overha",
-      "category": "malaysia",
-      "headline": "Reported doctor no-shows in Sabah and Sarawak prompt MMA call for incentive overhaul",
-      "summary": "Key points: The Malaysian Medical Association (MMA) has called on the government to urgently revert to the pr...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-01T11:44:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/reported-doctor-no-shows-in-sabah-and-sarawak-prompt-mma-call-for-incentive-overhaul/237219",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-01-man-fined-rm500-for-shooting-stone-at-child-with-slingshot-in-sarawak",
-      "category": "malaysia",
-      "headline": "Man fined RM500 for shooting stone at child with slingshot in Sarawak",
-      "summary": "Key points: The Magistrates’ Court here has fined a 33-year-old man in default one week’s jail for s...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-01T11:41:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/man-fined-rm500-for-shooting-stone-at-child-with-slingshot-in-sarawak/237217",
-          "publisher_type": "news"
         }
       ],
       "topics": [
