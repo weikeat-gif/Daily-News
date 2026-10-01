@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-02T02:01:26+08:00",
+  "generated_at": "2026-10-02T06:59:24+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-02-indian-embassy-in-uae-says-wounded-flydubai-captain-in-good-health",
+      "id": "2026-10-02-trump-vows-to-hit-iran-very-hard-if-linked-to-flydubai-attack",
       "category": "world",
-      "headline": "Indian embassy in UAE says wounded flydubai captain in good health",
-      "summary": "Key points: Indian Ambassador Deepak Mittal visited injured Flydubai pilot Smit Machchhar in hospital, saying he was in “good health and recovering well” after being attacked by his co-pilot.",
+      "headline": "Trump vows to hit Iran 'very hard' if linked to flydubai attack",
+      "summary": "Key points: Israel's prime minister said the co-pilot who allegedly assaulted the captain had undergone \"Islamist radical indoctrination.\"",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-02T01:55:42+08:00",
+      "published_at": "2026-10-02T06:52:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/flydubai-captain-pilot-hospital-india-6425166",
+          "url": "https://www.channelnewsasia.com/world/donald-trump-iran-flydubai-attack-6425611",
           "publisher_type": "news"
         },
         {
@@ -720,36 +720,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-10-01-malaysia-singapore-can-work-together-to-boost-intra-asean-trade-johari-asean-berna",
-      "category": "malaysia",
-      "headline": "Malaysia, Singapore Can Work Together To Boost Intra-ASEAN Trade - Johari - ASEAN - BERNAMA",
-      "summary": "Key points: Malaysia, Singapore Can Work Together To Boost Intra-ASEAN Trade - Johari ASEAN - BERNAMA",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-01T15:21:27+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQWUMyT051R3RydlhrU2EwR2hEcXFpT2FHWmR0VjNmeWFVaUZGcjZObVAyTUk3ZHB3WlFxU1FRWDJ2Z3JYRnFnTDVUV0Q3YkhxMkZqN3FHRjI?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-10-01-malaysia-singapore-eye-stronger-business-links-to-boost-intra-asean-trade",
       "category": "malaysia",
       "headline": "Malaysia, Singapore eye stronger business links to boost intra-Asean trade",
@@ -1234,6 +1204,26 @@
           "name": "Facebook The Edge Malaysia",
           "url": "https://www.facebook.com/theedgemalaysia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-01-macc-chief-says-no-asset-declaration-notice-was-served-on-ex-minister-saravanan-s-",
+      "category": "malaysia",
+      "headline": "MACC chief says no asset declaration notice was served on ex-minister Saravanan’s 12-year-old son",
+      "summary": "Key points: KUALA LUMPUR, Oct 1 — The Malaysian Anti-Corruption Commission (MACC) did not serve an asset declaration notice on...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-01T12:44:30+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/01/macc-chief-says-no-asset-declaration-notice-was-served-on-ex-minister-saravanans-12-year-old-son/237224",
+          "publisher_type": "news"
         }
       ],
       "topics": [
