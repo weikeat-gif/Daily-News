@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-10-03T05:09:15+08:00",
+  "generated_at": "2026-10-03T08:55:42+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-03-france-held-to-1-1-draw-as-italy-dampen-zidane-s-home-debut",
+      "id": "2026-10-03-trump-wants-cheaper-fuel-g7-is-releasing-100-million-barrels",
+      "category": "markets_investment",
+      "headline": "Trump wants cheaper fuel — G7 is releasing 100 million barrels",
+      "summary": "Key points: The Group of Seven industrial nations said Friday that they plan to release 100 million barrel...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-10-03T08:47:25+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/10/03/trump-wants-cheaper-fuel-g7-is-releasing-100-million-barrels/237451",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-03-woman-told-cornell-investigators-she-felt-like-bait-during-alleged-gang-rape",
       "category": "world",
-      "headline": "France held to 1-1 draw as Italy dampen Zidane's home debut",
-      "summary": "Key points: CNA Latest reports that France held to 1-1 draw as Italy dampen Zidane's home debut.",
+      "headline": "Woman told Cornell investigators she 'felt like bait' during alleged gang rape",
+      "summary": "Key points: CNA Latest reports that Woman told Cornell investigators she 'felt like bait' during alleged gang rape.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-03T05:01:45+08:00",
+      "published_at": "2026-10-03T08:47:17+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/france-held-1-1-draw-italy-dampen-zidanes-home-debut-6428256",
+          "url": "https://www.channelnewsasia.com/world/cornell-woman-gang-rape-bait-6428421",
           "publisher_type": "news"
         },
         {
@@ -25,6 +45,86 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-03-bumper-weekend-in-malaysia-f1-football-legends-concerts-and-comedy-shows-set-to-pa",
+      "category": "malaysia",
+      "headline": "Bumper weekend in Malaysia: F1, football legends, concerts and comedy shows set to pack Klang Valley",
+      "summary": "Key points: KUALA LUMPUR, Oct 3 — This weekend could feel like a long one for Malaysians in the capital — not because of...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-03T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/03/bumper-weekend-in-malaysia-f1-football-legends-concerts-and-comedy-shows-set-to-pack-klang-valley/237310",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-03-how-does-cloud-seeding-work-what-it-could-do-for-haze-at-sepang-this-weekend",
+      "category": "malaysia",
+      "headline": "How does cloud seeding work? What it could do for haze at Sepang this weekend",
+      "summary": "Key points: KUALA LUMPUR, Oct 3 — For more than a month, haze has blanketed parts of Malaysia as transboundary smoke from mass...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-03T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/03/how-does-cloud-seeding-work-what-it-could-do-for-haze-at-sepang-this-weekend/237311",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-03-they-were-killing-him-on-facebook-vaccine-misinformation-rattles-philippine-parent",
+      "category": "world",
+      "headline": "‘They were killing him on Facebook’: Vaccine misinformation rattles Philippine parents",
+      "summary": "Key points: When Jenette Torres Odena’s three-year-old son fell ill days after receiving a jab as part o...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-03T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/03/they-were-killing-him-on-facebook-vaccine-misinformation-rattles-philippine-parents/237358",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-03-buried-numbered-waiting-to-be-named-nepal-s-grim-dna-search-after-the-floods",
+      "category": "world",
+      "headline": "Buried, numbered, waiting to be named: Nepal’s grim DNA search after the floods",
+      "summary": "Key points: Clutching a photograph of his missing son, Rajesh Ram is pinning his hopes on DNA testing —...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-03T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/03/buried-numbered-waiting-to-be-named-nepals-grim-dna-search-after-the-floods/237369",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1126,116 +1226,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/02/selangor-expands-rm30-monthly-transport-subsidy-to-ktm-komuter-services-effective-immediately/237362",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-02-hadi-pas-still-open-to-bn-pact-for-melaka-polls-ready-to-contest-under-own-logo",
-      "category": "malaysia",
-      "headline": "Hadi: PAS still open to BN pact for Melaka polls, ready to contest under own logo",
-      "summary": "Key points: KUALA LUMPUR, Oct 2 — PAS is adamant in rejecting any political cooperation with Pakatan Harapan (PH) for the Mela...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-02T12:17:42+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/02/hadi-pas-still-open-to-bn-pact-for-melaka-polls-ready-to-contest-under-own-logo/237363",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-02-court-of-appeal-overturns-high-court-acquittal-health-officer-ordered-to-enter-def",
-      "category": "malaysia",
-      "headline": "Court of Appeal overturns High Court acquittal, health officer ordered to enter defence on seven unnatural sex charges",
-      "summary": "Key points: The Court of Appeal yesterday overturned a High Court decision acquitting a health officer of s...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-02T12:14:05+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/02/court-of-appeal-overturns-high-court-acquittal-health-officer-ordered-to-enter-defence-on-seven-unnatural-sex-charges/237359",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-02-transport-ministry-confirms-to-the-edge-that-zetrix-ai-owes-jpj-over-rm200-mil-the",
-      "category": "markets_investment",
-      "headline": "Transport Ministry confirms to The Edge that Zetrix AI owes JPJ over RM200 mil - theedgemalaysia.com",
-      "summary": "Key points: Transport Ministry confirms to The Edge that Zetrix AI owes JPJ over RM200 mil theedgemalaysia.com",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-10-02T12:06:06+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SMXpUQkxhN09Wb3NUcTFrSFF2WEo2TG4zdmFLRmxFRW5UU0JHUjV5aE5ZVHNtaWw0TGYyMWxkTlQ5TW5YXzlmV1ZQTWs3Zk8w?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-02-power-to-the-people-tnb-gives-pro-rata-credits-800kwh-households-enjoy-full-exempt",
-      "category": "malaysia",
-      "headline": "Power to the people: TNB gives pro‑rata credits, 800kWh households enjoy full exemptions",
-      "summary": "Key points: KUALA LUMPUR, Oct 2 — Tenaga Nasional Bhd’s (TNB) customers who use up to 800 kilowatt-hours (kWh) of electr...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-02T12:05:09+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/02/power-to-the-people-tnb-gives-prorata-credits-800kwh-households-enjoy-full-exemptions/237357",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-02-setapak-jaya-demolition-afdlin-shauki-says-relocation-deal-safeguards-livelihoods-",
-      "category": "malaysia",
-      "headline": "Setapak Jaya demolition: Afdlin Shauki says relocation deal safeguards livelihoods of affected traders",
-      "summary": "Key points: KUALA LUMPUR, Oct 2 — The relocation of 98 traders from the Seri Semarak Small and Medium Industry (SMI) premises...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-02T11:56:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/02/setapak-jaya-demolition-afdlin-shauki-says-relocation-deal-safeguards-livelihoods-of-affected-traders/237353",
           "publisher_type": "news"
         }
       ],
