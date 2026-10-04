@@ -1,8 +1,394 @@
 {
-  "generated_at": "2026-10-04T17:20:38+08:00",
+  "generated_at": "2026-10-04T23:08:41+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-10-04-messi-farewell-closes-a-long-hard-won-love-story-with-argentina",
+      "category": "world",
+      "headline": "Messi farewell closes a long, hard-won love story with Argentina",
+      "summary": "Key points: CNA Latest reports that Messi farewell closes a long, hard-won love story with Argentina.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-04T23:03:33+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/sport/messi-farewell-closes-long-hard-won-love-story-argentina-6431021",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-fifa-asean-cup-tapp-wants-to-make-malaysia-proud-against-vietnam-bernama",
+      "category": "malaysia",
+      "headline": "FIFA ASEAN Cup: Tapp Wants To Make Malaysia Proud Against Vietnam - Bernama",
+      "summary": "Key points: FIFA ASEAN Cup: Tapp Wants To Make Malaysia Proud Against Vietnam Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-04T22:38:53+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtWFYwbWs0VkxJenlFTXlORWUzR0VYQXE2VnBzdHRZUFJlUFZoTjFSOWxXemJXOGxOWFBQSGVEZkZqTlhMTGtZWkZINWZXS3V0d3ljeUFGc00xclVGUXFwd3JGTQ?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-sabah-gives-more-than-500-adults-second-chance-to-learn-reading-writing-counting",
+      "category": "malaysia",
+      "headline": "Sabah gives more than 500 adults second chance to learn reading, writing, counting",
+      "summary": "Key points: KOTA KINABALU, Oct 4 — More than 500 adults in Sabah who missed out on formal education are being given a second c...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-04T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/sabah-gives-more-than-500-adults-second-chance-to-learn-reading-writing-counting/237637",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-iran-turns-tehran-billboards-into-a-propaganda-battlefield-as-anti-trump-imagery-c",
+      "category": "world",
+      "headline": "Iran turns Tehran billboards into a propaganda battlefield as anti-Trump imagery chronicles war",
+      "summary": "Key points: Huge billboards on the walls of Tehran mocking US President Donald Trump and depicting Americ...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-04T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/04/iran-turns-tehran-billboards-into-a-propaganda-battlefield-as-anti-trump-imagery-chronicles-war/237624",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-explainer-how-school-grievances-social-media-and-politics-fuel-france-s-student-pr",
+      "category": "world",
+      "headline": "Explainer: How school grievances, social media and politics fuel France’s student protests",
+      "summary": "Key points: Protests by teenagers outside their schools have shaken France in recent days, with students b...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-04T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/04/explainer-how-school-grievances-social-media-and-politics-fuel-frances-student-protests/237634",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-us-migrant-children-face-immigration-court-without-lawyers-as-legal-aid-funding-dr",
+      "category": "world",
+      "headline": "US migrant children face immigration court without lawyers as legal aid funding dries up",
+      "summary": "Key points: A one-year-old toddler stumbles around an immigration court in Louisiana, crying.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-04T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/04/us-migrant-children-face-immigration-court-without-lawyers-as-legal-aid-funding-dries-up/237644",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-anwar-f1-excitement-at-sepang-also-brings-opportunities-for-local-traders",
+      "category": "malaysia",
+      "headline": "Anwar: F1 excitement at Sepang also brings opportunities for local traders",
+      "summary": "Key points: KUALA LUMPUR, Oct 4 — The return of Formula 1 (F1) to the Sepang International Circuit (SIC) after a nine-ye...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-04T20:16:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/anwar-f1-excitement-at-sepang-also-brings-opportunities-for-local-traders/237696",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "kuala lumpur",
+        "anwar",
+        "war",
+        "trade"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-philippines-says-china-harassed-its-forces-twice-in-24-hours-at-south-china-sea-fl",
+      "category": "world",
+      "headline": "Philippines says China harassed its forces twice in 24 hours at South China Sea flashpoints",
+      "summary": "Key points: The Philippines accused China’s military and coast guard today of harassing Filipino governm...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-04T20:13:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/04/philippines-says-china-harassed-its-forces-twice-in-24-hours-at-south-china-sea-flashpoints/237695",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-brazil-votes-in-nail-biter-polls-closely-watched-by-trump",
+      "category": "world",
+      "headline": "Brazil votes in nail-biter polls closely watched by Trump",
+      "summary": "Key points: Brazilians headed to the polls today in a toss-up race between President Luiz Inacio Lula...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-04T19:56:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/04/brazil-votes-in-nail-biter-polls-closely-watched-by-trump/237694",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-houthis-cut-yemen-s-taiz-off-from-aden-in-major-battlefield-gain",
+      "category": "world",
+      "headline": "Houthis cut Yemen’s Taiz off from Aden in major battlefield gain",
+      "summary": "Key points: Yemen’s Houthis today cut a vital supply route linking Taiz with Aden — the interim cap...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-04T19:28:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/04/houthis-cut-yemens-taiz-off-from-aden-in-major-battlefield-gain/237693",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-zahid-urges-uitm-to-establish-quantum-department-says-malaysia-must-not-lag",
+      "category": "malaysia",
+      "headline": "Zahid urges UiTM to establish Quantum Department, says Malaysia must not lag",
+      "summary": "Key points: SHAH ALAM, Oct 4 — Deputy Prime Minister Datuk Seri Ahmad Zahid Hamidi has called on Universiti Teknologi MA...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-04T19:22:20+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/zahid-urges-uitm-to-establish-quantum-department-says-malaysia-must-not-lag/237692",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-kim-jong-un-oversees-launch-of-missile-north-korea-says-uses-ai-to-evade-defences",
+      "category": "world",
+      "headline": "Kim Jong Un oversees launch of missile North Korea says uses AI to evade defences",
+      "summary": "Key points: North Korean leader Kim Jong Un oversaw the launch of a missile which allegedly used artificial int...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-04T19:17:20+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/04/kim-jong-un-oversees-launch-of-missile-north-korea-says-uses-ai-to-evade-defences/237691",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-malaysia-eyes-f1-calendar-return-as-pm-anwar-confirms-talks-under-way",
+      "category": "malaysia",
+      "headline": "Malaysia eyes F1 calendar return as PM Anwar confirms talks under way",
+      "summary": "Key points: KUALA LUMPUR, Oct 4 — Malaysia is discussing a possible return to the Formula One calendar beyond this weekend&rsq...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-04T18:53:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/malaysia-eyes-f1-calendar-return-as-pm-anwar-confirms-talks-under-way/237688",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "anwar",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-brunei-sultan-departs-after-witnessing-f1-gulf-air-bahrain-gp-return-to-sepang",
+      "category": "malaysia",
+      "headline": "Brunei Sultan departs after witnessing F1 Gulf Air Bahrain GP return to Sepang",
+      "summary": "Key points: The Sultan of Brunei, Sultan Hassanal Bolkiah, departed for home today after concluding his...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-04T18:31:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/brunei-sultan-departs-after-witnessing-f1-gulf-air-bahrain-gp-return-to-sepang/237686",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-boy-mauled-by-pack-of-five-stray-dogs-in-bachok-receives-rabies-jab-shows-signs-of",
+      "category": "malaysia",
+      "headline": "Boy mauled by pack of five stray dogs in Bachok receives rabies jab, shows signs of recovery",
+      "summary": "Key points: KOTA BHARU, Oct 4 — An eight-year-old boy who was seriously injured after being attacked by a pack of s...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-04T18:23:45+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/boy-mauled-by-pack-of-five-stray-dogs-in-bachok-receives-rabies-jab-shows-signs-of-recovery/237684",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-amanah-says-pakatan-open-to-partners-to-form-stable-melaka-govt-ahead-of-state-ele",
+      "category": "malaysia",
+      "headline": "Amanah says Pakatan open to partners to form stable Melaka govt ahead of state election",
+      "summary": "Key points: Pakatan Harapan (PH) is open to seeking allies to form a stable government in Melaka in the...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-04T18:18:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/amanah-says-ph-open-to-partners-to-form-stable-melaka-govt-ahead-of-state-election/237683",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-another-woman-files-report-against-motivational-speaker-as-perlis-police-probe-all",
+      "category": "malaysia",
+      "headline": "Another woman files report against motivational speaker as Perlis police probe alleged sexual harassment",
+      "summary": "Key points: Perlis police have confirmed receiving another report against a male motivational speaker over an...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-04T17:28:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/another-woman-files-report-against-motivational-speaker-as-perlis-police-probe-alleged-sexual-harassment/237674",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-04-motorcycle-skids-towards-drain-near-taiping-killing-76-year-old-rider",
+      "category": "malaysia",
+      "headline": "Motorcycle skids towards drain near Taiping, killing 76-year-old rider",
+      "summary": "Key points: An elderly man was killed and a woman who was the pillion rider was seriously injured after the moto...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-04T17:19:51+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/motorcycle-skids-towards-drain-near-taiping-killing-76-year-old-rider/237672",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-10-04-negeri-sembilan-joins-johor-on-unhealthy-air-list-as-haze-lingers",
       "category": "malaysia",
@@ -41,36 +427,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-04-us-carrier-george-h-w-bush-visits-thailand-after-middle-east-deployment",
-      "category": "world",
-      "headline": "US carrier George H W Bush visits Thailand after Middle East deployment",
-      "summary": "Key points: The carrier arrived in Phuket on Sunday with about 4,800 personnel aboard for a rest-and-recreation break after six months supporting US operations in the Middle East.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-04T17:01:37+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/asia/us-carrier-george-bush-thailand-6430446",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -154,9 +510,9 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-10-04-government-to-follow-legal-process-over-bandar-utama-school-stabbing-suit",
+      "id": "2026-10-04-government-to-follow-legal-process-over-bandar-utama-school-stabbing-suit-says-dep",
       "category": "malaysia",
-      "headline": "Government to follow legal process over Bandar Utama school stabbing suit",
+      "headline": "Government to follow legal process over Bandar Utama school stabbing suit, says deputy law minister",
       "summary": "Key points: The government will allow due process to take its course following a civil suit filed by the family...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-10-04T15:47:05+08:00",
@@ -268,36 +624,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/04/consultate-malaysians-must-enter-southern-thailand-legally-if-they-plan-to-get-married-there/237653",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-04-malaysia-thailand-agree-on-mechanism-to-streamline-flood-aid-distribution-bernama-",
-      "category": "malaysia",
-      "headline": "Malaysia, Thailand Agree On Mechanism To Streamline Flood Aid Distribution - bernama.com",
-      "summary": "Key points: Malaysia, Thailand Agree On Mechanism To Streamline Flood Aid Distribution bernama.com",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-04T13:45:41+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MRUpRZFZYYm9scGFTbXVUMEVKTVd3RG53NXVqYmU4TXlzaXZqY1Mzd05OU3h5VGJPMWVZX0RMMFlRYXFpb0p4TlM0NUVINWNVX0pjN184aTBNeDIyQmZzZ29CU1M?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -907,329 +1233,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-04-in-latest-lawsuit-family-of-bandar-utama-school-murder-victim-alleges-duty-of-care",
-      "category": "malaysia",
-      "headline": "In latest lawsuit, family of Bandar Utama school murder victim alleges duty of care breaches by Putrajaya, 17 others",
-      "summary": "Key points: KUALA LUMPUR, Oct 4 — The family of 16-year-old Yap Shing Xuen, who was fatally stabbed at a Bandar Utama sec...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-04T09:16:05+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/in-latest-lawsuit-family-of-bandar-utama-school-murder-victim-alleges-duty-of-care-breaches-by-putrajaya-17-others/237592",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-04-whatsapp-location-helps-rescuers-find-two-lost-hikers-in-penang-youth-park",
-      "category": "malaysia",
-      "headline": "WhatsApp location helps rescuers find two lost hikers in Penang Youth Park",
-      "summary": "Key points: GEORGE TOWN, Oct 4 — Two men who lost their way while hiking in Youth Park near the Botanical Gardens here last ev...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-04T09:11:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/whatsapp-location-helps-rescuers-find-two-lost-hikers-in-penang-youth-park/237585",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-04-loke-finds-upside-in-dap-setbacks-as-party-navigates-new-political-realities",
-      "category": "malaysia",
-      "headline": "Loke finds upside in DAP setbacks as party navigates new political realities",
-      "summary": "Key points: DAP secretary-general Anthony Loke has described the party’s recent electoral setbacks, i...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-04T09:06:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/loke-finds-upside-in-dap-setbacks-as-party-navigates-new-political-realities/237591",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-04-israel-s-targeted-strike-on-hamas-leader-sparks-outrage-over-civilian-deaths",
-      "category": "world",
-      "headline": "Israel’s targeted strike on Hamas leader sparks outrage over civilian deaths",
-      "summary": "Key points: GAZA CITY, Oct 4 — Israel said yesterday that it attempted to kill Hamas’s top leader in the Gaza Strip in a...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-04T09:01:52+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/10/04/israels-targeted-strike-on-hamas-leader-sparks-outrage-over-civilian-deaths/237582",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-04-anwar-welcomes-bahrain-investment-as-f1-brings-gulf-ties-into-focus",
-      "category": "malaysia",
-      "headline": "Anwar welcomes Bahrain investment as F1 brings Gulf ties into focus",
-      "summary": "Key points: KUALA LUMPUR, Oct 4 — Malaysia welcomes investment from Bahrain and is ready to expand cooperation in various fiel...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-04T08:59:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/anwar-welcomes-bahrain-investment-as-f1-brings-gulf-ties-into-focus/237586",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "investment"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-04-hammer-attack-leaves-marang-man-dead-sister-injured-while-trying-to-intervene",
-      "category": "malaysia",
-      "headline": "Hammer attack leaves Marang man dead, sister injured while trying to intervene",
-      "summary": "Key points: A man died after he was believed to have been bludgeoned with a hammer by his mentally ill younger...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-04T08:46:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/hammer-attack-leaves-marang-man-dead-sister-injured-while-trying-to-intervene/237588",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-04-johor-police-confirm-investigating-yong-peng-student-s-death-public-asked-to-refra",
-      "category": "malaysia",
-      "headline": "Johor police confirm investigating Yong Peng student’s death, public asked to refrain from spreading unverifiable information",
-      "summary": "Key points: BATU PAHAT, Oct 4 — Johor police have urged the public to give investigators space to conduct a thorough probe int...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-04T08:45:02+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/johor-police-confirm-investigating-yong-peng-students-death-public-asked-to-refrain-from-spreading-unverifiable-information/237589",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-04-police-probe-involving-caprice-over-alleged-document-disclosure-now-under-dpp-revi",
-      "category": "malaysia",
-      "headline": "Police probe involving Caprice over alleged document disclosure now under DPP review",
-      "summary": "Key points: KUALA LUMPUR, Oct 4 — An investigation paper (IP) into a police report lodged by businessman Datuk Seri R.",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-04T08:09:39+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/04/police-probe-involving-caprice-over-alleged-document-disclosure-now-under-dpp-review/237581",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-04-more-guns-less-schooling-russia-s-2027-budget-goes-all-in-on-war",
-      "category": "world",
-      "headline": "More guns, less schooling: Russia’s 2027 budget goes all in on war",
-      "summary": "Key points: Russia plans to sharply increase defence spending, cut funding for education and raise taxes...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-04T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/10/04/more-guns-less-schooling-russias-2027-budget-goes-all-in-on-war/237540",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-04-can-stricter-penalties-curb-latin-america-s-rising-ecocide-activists-propose-model",
-      "category": "world",
-      "headline": "Can stricter penalties curb Latin America’s rising ‘ecocide’? Activists propose model law for environmental crimes",
-      "summary": "Key points: MEXICO CITY, Oct 4 — Lawyers and environmentalists from Latin America unveiled a model law this week that punishes...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-04T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/10/04/can-stricter-penalties-curb-latin-americas-rising-ecocide-activists-propose-model-law-for-environmental-crimes/237545",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-03-cornell-7-gang-rape-case-reignites-us-debate-over-campus-sexual-violence",
-      "category": "world",
-      "headline": "Cornell 7 gang-rape case reignites US debate over campus sexual violence",
-      "summary": "Key points: NEW YORK, Oct 3 — An alleged gang rape at Cornell University, detailed in a graphic lawsuit last month, has provok...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-03T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/10/03/cornell-7-gang-rape-case-reignites-us-debate-over-campus-sexual-violence/237542",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-03-china-fills-the-void-in-people-s-pockets-why-us-influence-wanes-in-latin-america-u",
-      "category": "world",
-      "headline": "‘China fills the void in people’s pockets’: Why US influence wanes in Latin America under Trump’s policies, poll says",
-      "summary": "Key points: China’s influence in Latin America is now viewed more positively than that of the United Sta...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-03T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/10/03/china-fills-the-void-in-peoples-pockets-why-us-influence-wanes-in-latin-america-under-trumps-policies-poll-says/237520",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-03-the-dark-side-of-el-nino-sea-levels-to-rise-in-california-as-coastal-wave-surges-u",
-      "category": "world",
-      "headline": "The dark side of El Nino: Sea levels to rise in California as coastal wave surges up west coast",
-      "summary": "Key points: LOS ANGELES, Oct 3 — Sea levels in California are set to rise by as much as a foot (30 centimetres) in the coming...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-03T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/10/03/the-dark-side-of-el-nino-sea-levels-to-rise-in-california-as-coastal-wave-surges-up-west-coast/237547",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-03-senior-citizens-bill-to-strengthen-protection-for-older-malaysians-says-nancy-shuk",
-      "category": "malaysia",
-      "headline": "Senior Citizens Bill to strengthen protection for older Malaysians, says Nancy Shukri",
-      "summary": "Key points: The physical and mental well-being of senior citizens will be among the key areas addressed under...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-03T20:36:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/03/senior-citizens-bill-to-strengthen-protection-for-older-malaysians-says-nancy-shukri/237580",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-03-anwar-visits-sepang-for-f1-gp-qualifying-round-attends-welcome-dinner-hosted-by-ba",
-      "category": "malaysia",
-      "headline": "Anwar visits Sepang for F1 GP qualifying round, attends welcome dinner hosted by Bahrain crown prince",
-      "summary": "Key points: Prime Minister Datuk Seri Anwar Ibrahim today attended the Formula One (F1) Gulf Air Bahrain Grand...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-03T20:27:47+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/03/anwar-visits-sepang-for-f1-gp-qualifying-round-attends-welcome-dinner-hosted-by-bahrain-crown-prince/237579",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-03-malaysia-aims-for-economic-resilience-over-efficiency-amid-global-uncertainties-sa",
-      "category": "malaysia",
-      "headline": "Malaysia aims for economic resilience over efficiency amid global uncertainties, says Tengku Zafrul",
-      "summary": "Key points: KUALA LUMPUR, Oct 3 — Malaysia’s economic focus has shifted from pursuing efficiency to building greater res...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-03T20:11:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/03/malaysia-aims-for-economic-resilience-over-efficiency-amid-global-uncertainties-says-tengku-zafrul/237577",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
