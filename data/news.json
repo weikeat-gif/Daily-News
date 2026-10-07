@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-08T01:15:01+08:00",
+  "generated_at": "2026-10-08T06:43:00+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-10-08-how-good-design-can-make-your-home-feel-calmer-and-more-comfortable",
+      "category": "world",
+      "headline": "How good design can make your home feel calmer and more comfortable",
+      "summary": "Key points: Jae Hah of Scandinavian furniture brand Muuto explains how neuroaesthetics can shape everything from lighting and colour to texture, furniture and the way a room makes us feel.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-08T06:04:00+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/obsessions/how-home-design-affects-wellbeing-muuto-jae-hah-6434996",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-10-08-malaysia-myanmar-re-energise-trade-ties-in-kuala-lumpur-bernama",
       "category": "malaysia",
@@ -34,26 +64,26 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-10-08-airbus-says-biman-bangladesh-confirms-order-for-10-jets",
-      "category": "world",
-      "headline": "Airbus says Biman Bangladesh confirms order for 10 jets",
-      "summary": "Key points: CNA Latest reports that Airbus says Biman Bangladesh confirms order for 10 jets.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-08T00:54:15+08:00",
+      "id": "2026-10-08-zetrix-ai-confirms-rm314m-jpj-arrears-after-bursa-demands-direct-answer-the-edge-m",
+      "category": "markets_investment",
+      "headline": "Zetrix AI confirms RM314m JPJ arrears after Bursa demands direct answer - The Edge Malaysia",
+      "summary": "Key points: Zetrix AI confirms RM314m JPJ arrears after Bursa demands direct answer The Edge Malaysia",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-10-08T00:48:30+08:00",
       "source_links": [
         {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/airbus-says-biman-bangladesh-confirms-order-10-jets-6440276",
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkR1RHUWNONkRNdk41clNhb0Rjd3FHMGlqTGExLXgyWVd6bEZvTFhxUFV1dHk3RXI4ZWJSaXRXVmZqT0x0QTAyQl9xTTBhZDlZ?oc=5",
           "publisher_type": "news"
         },
         {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
           "publisher_type": "social"
         },
         {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
           "publisher_type": "social"
         }
       ],
@@ -1084,36 +1114,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/07/melaka-state-election-set-for-nov-14-polling-oct-31-nomination/238079",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-07-malaysian-banking-stocks-fall-as-jpmorgan-downgrades-cimb-ammb-the-edge-malaysia",
-      "category": "malaysia",
-      "headline": "Malaysian banking stocks fall as JPMorgan downgrades CIMB, AMMB - The Edge Malaysia",
-      "summary": "Key points: Malaysian banking stocks fall as JPMorgan downgrades CIMB, AMMB The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-07T14:34:25+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mUUtTMDB3aWUwRmt4djN4cUFBQ1hmc05YdmVpdjZaUjJLQ2xCbGpQVVphQWVnOUZXVmZOZWJRdHBscHlLMC1ORk00WjBTR3d1?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
