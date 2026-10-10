@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-10-10T06:15:33+08:00",
+  "generated_at": "2026-10-10T10:04:24+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-10-kalshi-probes-suspicious-trades-tied-to-trump-press-secretary-pick-wsj-reports",
+      "id": "2026-10-10-fourteen-remanded-as-police-probe-death-of-18-year-old-found-by-gurun-roadside",
+      "category": "malaysia",
+      "headline": "Fourteen remanded as police probe death of 18-year-old found by Gurun roadside",
+      "summary": "Key points: SUNGAI PETANI, Oct 10 — Fourteen people aged between 16 and 24 have been remanded to assist investigations into th...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-10T09:54:10+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/10/fourteen-remanded-as-police-probe-death-of-18-year-old-found-by-gurun-roadside/238508",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-singapore-stands-ready-to-assist-indonesia-on-forest-fires-amid-haze-says-grace-fu",
       "category": "world",
-      "headline": "Kalshi probes suspicious trades tied to Trump press secretary pick, WSJ reports",
-      "summary": "Key points: CNA Latest reports that Kalshi probes suspicious trades tied to Trump press secretary pick, WSJ reports.",
+      "headline": "Singapore ‘stands ready’ to assist Indonesia on forest fires amid haze, says Grace Fu",
+      "summary": "Key points: We are on top of the situation,\" said Minister for Sustainability and the Environment Grace Fu. \"We are concerned about the well-being of our people.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-10T06:03:29+08:00",
+      "published_at": "2026-10-10T09:52:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-6448026",
+          "url": "https://www.channelnewsasia.com/singapore/singapore-indonesia-haze-support-grace-fu-6447076",
           "publisher_type": "news"
         },
         {
@@ -25,6 +45,229 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-saudi-led-coalition-says-destroyed-more-than-100-houthi-targets",
+      "category": "world",
+      "headline": "Saudi-led coalition says destroyed more than 100 Houthi targets",
+      "summary": "Key points: The Saudi-led coalition fighting Yemen’s Houthis said today it destroyed more than 100 mili...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-10T09:51:04+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/10/saudi-led-coalition-says-destroyed-more-than-100-houthi-targets/238507",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-brazil-police-rescue-13-children-after-kindergarten-hostage-standoff-assailant-dea",
+      "category": "world",
+      "headline": "Brazil police rescue 13 children after kindergarten hostage standoff, assailant dead",
+      "summary": "Key points: RIO DE JANEIRO, Oct 10 — Police in Brazil yesterday rescued 13 children who had been taken hostage in their kinder...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-10T09:43:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/10/brazil-police-rescue-13-children-after-kindergarten-hostage-standoff-assailant-dead/238504",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-budget-2027-grab-aims-to-raise-gig-workers-earnings-without-increasing-fares",
+      "category": "malaysia",
+      "headline": "Budget 2027: Grab aims to raise gig workers’ earnings without increasing fares",
+      "summary": "Key points: KUALA LUMPUR, Oct 10 — Grab aims to increase the earnings of e-hailing drivers and p-hailing delivery partners fro...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-10T09:43:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/10/budget-2027-grab-aims-to-raise-gig-workers-earnings-without-increasing-fares/238506",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-malaysia-egypt-to-hold-bilateral-talks-today-as-el-sisi-makes-first-state-visit",
+      "category": "malaysia",
+      "headline": "Malaysia, Egypt to hold bilateral talks today as El-Sisi makes first state visit",
+      "summary": "Key points: KUALA LUMPUR, Oct 10 — Malaysia and Egypt will hold bilateral talks today to review progress in cooperation betwee...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-10T09:37:11+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/10/malaysia-egypt-to-hold-bilateral-talks-today-as-el-sisi-makes-first-state-visit/238505",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-powerful-7-7-magnitude-earthquake-destroys-buildings-roads-in-panama-over-80-after",
+      "category": "world",
+      "headline": "Powerful 7.7-magnitude earthquake destroys buildings, roads in Panama; over 80 aftershocks recorded",
+      "summary": "Key points: PENONOMÉ (Panama), Oct 10 — A powerful 7.7-magnitude earthquake rocked Panama yesterday, causing buildings...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-10T09:28:28+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/10/powerful-77-magnitude-earthquake-destroys-buildings-roads-in-panama-over-80-aftershocks-recorded/238502",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-having-a-baby-budget-2027-proposes-up-to-rm3-000-tax-relief-for-postnatal-care",
+      "category": "malaysia",
+      "headline": "Having a baby? Budget 2027 proposes up to RM3,000 tax relief for postnatal care",
+      "summary": "Key points: KUALA LUMPUR, Oct 10 — The federal government is proposing to introduce a new tax relief of up to RM3,000 for care...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-10T09:19:56+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/10/having-a-baby-budget-2027-proposes-up-to-rm3000-tax-relief-for-postnatal-care/238498",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-anthropic-ai-model-sent-fake-murder-tip-to-unsolved-killings-website-philadelphia-",
+      "category": "world",
+      "headline": "Anthropic AI model sent fake murder tip to unsolved killings website, Philadelphia police say",
+      "summary": "Key points: SAN FRANCISCO, Oct 10 — An artificial intelligence model developed by Anthropic submitted a fabricated tip about a...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-10T09:15:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/10/anthropic-ai-model-sent-fake-murder-tip-to-unsolved-killings-website-philadelphia-police-say/238501",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-outrage-mounts-over-plan-to-livestream-us-military-s-first-firing-squad-execution-",
+      "category": "world",
+      "headline": "Outrage mounts over plan to livestream US military's first firing squad execution since 1945, Vance voices doubt",
+      "summary": "Key points: Condemnation of US plans for a public execution by military firing squad escalated yesterday,...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-10T09:03:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/10/outrage-mounts-over-plan-to-broadcast-us-militarys-first-firing-squad-execution-since-1945-vance-voices-doubt/238500",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-real-inclusion-how-budget-2027-benefits-ordinary-malaysians-in-giving-them-a-share",
+      "category": "malaysia",
+      "headline": "Real inclusion: How Budget 2027 benefits ordinary Malaysians in giving them a share of the country’s wealth and success",
+      "summary": "Key points: KUALA LUMPUR, Oct 10 — Prime Minister and Finance Minister Datuk Seri Anwar Ibrahim tabled Budget 2027 yesterday,...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-10T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/10/real-inclusion-how-budget-2027-benefits-ordinary-malaysians-in-giving-them-a-share-of-the-countrys-wealth-and-success/238489",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "anwar",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-set-on-fire-thrown-from-cars-iran-s-women-stunt-performers-break-barriers",
+      "category": "world",
+      "headline": "Set on fire, thrown from cars: Iran’s women stunt performers break barriers",
+      "summary": "Key points: As evening falls at a Tehran skatepark, a woman calmly steps forward with her body ablaze, perform...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-10T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/10/set-on-fire-thrown-from-cars-irans-women-stunt-performers-break-barriers/238400",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-climate-hopes-shift-from-politics-to-the-courts-as-legal-battles-heat-up",
+      "category": "world",
+      "headline": "Climate hopes shift from politics to the courts as legal battles heat up",
+      "summary": "Key points: The political fight against global warming may be losing steam, but the legal battle is heati...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-10T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/10/climate-hopes-shift-from-politics-to-the-courts-as-legal-battles-heat-up/238388",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -953,249 +1196,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-govt-allocates-rm80b-for-subsidies-str-and-sara-rises-to-rm16b/238434",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-09-budget-2027-relief-for-caregivers-as-service-tax-for-older-citizens-care-reduced-n",
-      "category": "malaysia",
-      "headline": "Budget 2027: Relief for caregivers as service tax for older citizens’ care reduced, new tax exemptions and increased financial aid",
-      "summary": "Key points: KUALA LUMPUR, Oct 9 — The service tax rate for elderly care services will be reduced from eight to six per cent, s...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-09T16:46:20+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-relief-for-caregivers-as-service-tax-for-older-citizens-care-reduced-new-tax-exemptions-and-increased-financial-aid-announced/238435",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-09-budget-2027-all-malaysians-to-be-automatically-registered-with-epf-at-18",
-      "category": "malaysia",
-      "headline": "Budget 2027: All Malaysians to be automatically registered with EPF at 18",
-      "summary": "Key points: KUALA LUMPUR, Oct 9 — All Malaysian citizens will be automatically registered as members of the Employees Providen...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-09T16:46:16+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-all-malaysians-to-be-automatically-registered-with-epf-at-18/238430",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-09-budget-2027-dbkl-to-get-rm400m-for-120-acres-of-parks-walkways-and-upgraded-facili",
-      "category": "malaysia",
-      "headline": "Budget 2027: DBKL to get RM400m for 120 acres of parks, walkways and upgraded facilities",
-      "summary": "Key points: KUALA LUMPUR, Oct 9 — Kuala Lumpur City Hall (DBKL) will be allocated RM400 million to create 120 acres of new gre...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-09T16:39:54+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-dbkl-to-allocate-rm400m-for-120-acres-of-parks-walkways-and-upgraded-facilities/238429",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-09-government-allocates-rm3-3b-for-rural-infrastructure-rm2-5b-to-replace-ageing-wate",
-      "category": "malaysia",
-      "headline": "Government allocates RM3.3b for rural infrastructure, RM2.5b to replace ageing water pipes",
-      "summary": "Key points: KUALA LUMPUR, Oct 9 — The allocation for rural road projects will be increased to RM2.3 billion, compared to RM1.3...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-09T16:37:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/09/government-allocates-rm33b-for-rural-infrastructure-rm25b-to-replace-ageing-water-pipes/238433",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "verified"
-    },
-    {
-      "id": "2026-10-09-budget-2027-stamp-duty-exemption-proposed-for-first-homes-up-to-rm500-000",
-      "category": "malaysia",
-      "headline": "Budget 2027: Stamp duty exemption proposed for first homes up to RM500,000",
-      "summary": "Key points: KUALA LUMPUR, Oct 9 — The government has proposed a full stamp duty exemption on loan agreements and instruments o...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-09T16:36:16+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-stamp-duty-exemption-proposed-for-first-homes-up-to-rm500000/238432",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-09-budget-2027-anwar-announces-rm160m-joint-package-with-grab-matching-incentives-for",
-      "category": "malaysia",
-      "headline": "Budget 2027: Anwar announces RM160m joint package with Grab, matching incentives for Socso and EPF contributions",
-      "summary": "Key points: KUALA LUMPUR, Oct 9 — The government and e-hailing platform Grab will jointly fund a RM160 million financial packa...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-09T16:26:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027anwar-announces-rm160m-joint-package-with-grab-matching-incentives-for-socso-and-epf-contributions/238426",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-09-federal-allocations-to-states-to-reflect-development-needs-not-equal-distribution-",
-      "category": "malaysia",
-      "headline": "Federal allocations to states to reflect development needs, not equal distribution, says PM",
-      "summary": "Key points: KUALA LUMPUR, Oct 9 — Federal allocations to states will be determined by their respective development needs rathe...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-09T16:26:02+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/09/federal-allocations-to-states-to-reflect-development-needs-not-equal-distribution-says-pm/238425",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-09-judge-slams-snatch-theft-s-inhumane-act-jails-man-13-years-for-leaving-71-year-old",
-      "category": "malaysia",
-      "headline": "Judge slams snatch theft’s inhumane act, jails man 13 years for leaving 71‑year‑old victim dying in Melaka drain",
-      "summary": "Key points: The High Court here today sentenced a man to 13 years in prison after finding him guilty of causin...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-09T16:22:19+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/09/judge-slams-snatch-thefts-inhumane-act-jails-man-13-years-for-leaving-71yearold-victim-dying-in-melaka-drain/238420",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-09-budget-2027-minimum-wage-raised-to-rm2-000-effective-june-2027",
-      "category": "malaysia",
-      "headline": "Budget 2027: Minimum wage raised to RM2,000 effective June 2027",
-      "summary": "Key points: KUALA LUMPUR, Oct 9 — The Malaysian government today announced an increase in the minimum wage from RM1,700 t...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-09T16:16:52+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-minimum-wage-raised-to-rm2000-effective-june-2027/238424",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-09-anwar-unveils-budget-2027-outfit-and-folder-crafted-from-woven-steel-wire-bamboo-a",
-      "category": "malaysia",
-      "headline": "Anwar unveils Budget 2027 outfit and folder crafted from woven steel wire, bamboo and recycled leather",
-      "summary": "Key points: KUALA LUMPUR, October 9 — Prime Minister Datuk Seri Anwar Ibrahim has arrived at Parliament to present the Budget...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-09T16:13:13+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/09/anwar-unveils-budget-2027-outfit-and-folder-crafted-from-woven-steel-wire-bamboo-and-recycled-leather/238419",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-09-anwar-tables-fifth-madani-budget-setting-malaysia-s-2027-spending-direction",
-      "category": "malaysia",
-      "headline": "Anwar tables fifth Madani Budget, setting Malaysia’s 2027 spending direction",
-      "summary": "Key points: KUALA LUMPUR, Oct 9 — Prime Minister Datuk Seri Anwar Ibrahim began tabling the Supply Bill (Budget) 2027 in the D...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-09T16:11:58+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/09/anwar-tables-fifth-madani-budget-setting-malaysias-2027-spending-direction/238421",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-09-budget-2027-more-disposable-income-for-malaysians-up-to-rm1-600-thanks-to-tax-reli",
-      "category": "malaysia",
-      "headline": "Budget 2027: More disposable income for Malaysians, up to RM1,600 thanks to tax reliefs, reductions",
-      "summary": "Key points: KUALA LUMPUR, Oct 9 — Malaysians are expected to be able to have up to RM1,600 in extra disposable income, as they...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-09T16:11:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-more-disposable-income-for-malaysians-up-to-rm1600-thanks-to-tax-reliefs-reductions/238422",
           "publisher_type": "news"
         }
       ],
