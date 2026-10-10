@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-10T23:42:08+08:00",
+  "generated_at": "2026-10-11T03:45:21+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-10-french-prodigy-seixas-wins-giro-di-lombardia-his-first-monument",
+      "id": "2026-10-11-they-lie-to-us-one-year-on-gazans-don-t-believe-in-ceasefire",
       "category": "world",
-      "headline": "French prodigy Seixas wins Giro di Lombardia, his first Monument",
-      "summary": "Key points: CNA Latest reports that French prodigy Seixas wins Giro di Lombardia, his first Monument.",
+      "headline": "'They lie to us': One year on, Gazans don't believe in ceasefire",
+      "summary": "Key points: CNA Latest reports that 'They lie to us': One year on, Gazans don't believe in ceasefire.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-10T23:23:25+08:00",
+      "published_at": "2026-10-11T03:36:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/french-prodigy-seixas-wins-giro-di-lombardia-his-first-monument-6449006",
+          "url": "https://www.channelnewsasia.com/world/they-lie-us-one-year-gazans-dont-believe-in-ceasefire-6449696",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,26 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-peace-is-not-in-people-s-minds-october-7-scars-push-israel-s-first-time-voters-fur",
+      "category": "world",
+      "headline": "‘Peace is not in people’s minds’: October 7 scars push Israel’s first-time voters further right",
+      "summary": "Key points: NIR AM, Oct 10 — Like hundreds of thousands of Israelis, Amihai will be of voting age for the first time sinc...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-10T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/11/peace-is-not-in-peoples-minds-october-7-scars-push-israels-first-time-voters-further-right/238536",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -64,26 +84,6 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/10/10/a-year-after-gaza-ceasefire-families-still-queue-hours-for-one-meal-a-day/238547",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-10-peace-is-not-in-people-s-minds-october-7-scars-push-israel-s-first-time-voters-fur",
-      "category": "world",
-      "headline": "‘Peace is not in people’s minds’: October 7 scars push Israel’s first-time voters further right",
-      "summary": "Key points: NIR AM, Oct 10 — Like hundreds of thousands of Israelis, Amihai will be of voting age for the first time sinc...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-10T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/10/11/peace-is-not-in-peoples-minds-october-7-scars-push-israels-first-time-voters-further-right/238536",
           "publisher_type": "news"
         }
       ],
@@ -217,36 +217,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-10-10-malaysia-backs-egypt-s-bid-for-closer-asean-engagement-bernama",
-      "category": "malaysia",
-      "headline": "Malaysia Backs Egypt’s Bid For Closer ASEAN Engagement - Bernama",
-      "summary": "Key points: Malaysia Backs Egypt’s Bid For Closer ASEAN Engagement Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-10T19:06:16+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hb2E5XzdvOWhvbnZlampLaXJGRU8yQU1hbTItOXYzWkcycS1IOExjRkRmUURsNkxLY0x2Qm83VUlVUXE1Q0w5YXBFck5zVXJLcm5FbUI2WWtObE9C?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-10-10-melaka-tourist-spots-remain-busy-despite-unhealthy-api-readings",
       "category": "malaysia",
       "headline": "Melaka tourist spots remain busy despite unhealthy API readings",
@@ -318,6 +288,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/10/dpm-zahid-wants-tahfiz-graduates-equipped-for-careers-in-technology-engineering-and-medicine/238597",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-10-malaysia-backs-egypt-s-bid-for-closer-asean-engagement-asean-bernama",
+      "category": "malaysia",
+      "headline": "Malaysia Backs Egypt’s Bid For Closer ASEAN Engagement - ASEAN - BERNAMA",
+      "summary": "Key points: Malaysia Backs Egypt’s Bid For Closer ASEAN Engagement ASEAN - BERNAMA",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-10T18:07:40+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TejJUZVdCdVltTURkSXFBejIwQXpENGRlQV9LTkpqdjBkaGM0TFU5ZC11akEwTzl4VGNjREFmRFkzdXdIMjZBcXhtZ1N0Y1luWWQ0TVAyM0g?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
         }
       ],
       "topics": [
