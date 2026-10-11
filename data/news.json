@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-12T01:19:48+08:00",
+  "generated_at": "2026-10-12T05:28:41+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-11-manchester-city-met-at-anfield-with-boos-and-cheat-taunts",
+      "id": "2026-10-12-amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports",
       "category": "world",
-      "headline": "Manchester City met at Anfield with boos and 'cheat' taunts",
-      "summary": "Key points: CNA Latest reports that Manchester City met at Anfield with boos and 'cheat' taunts.",
+      "headline": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
+      "summary": "Key points: CNA Latest reports that Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-11T23:55:21+08:00",
+      "published_at": "2026-10-12T05:16:49+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/manchester-city-met-anfield-boos-and-cheat-taunts-6450491",
+          "url": "https://www.channelnewsasia.com/business/amazon-in-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-6451486",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-12-jordan-s-king-abdullah-arrives-in-malaysia-for-two-day-state-visit-bernama",
+      "category": "malaysia",
+      "headline": "Jordan’s King Abdullah Arrives In Malaysia For Two-Day State Visit - Bernama",
+      "summary": "Key points: Jordan’s King Abdullah Arrives In Malaysia For Two-Day State Visit Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-12T05:07:13+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rVzB2Z0lpc0xnTWJtTTVESDJvaXFJdHlQTWIyaVJFN1dIelEzM2N3VVBRbllTQV9DRXN2a2lFTmo3WmpMei10WEhOa1h3bFRpN3VpYjdqVU9mR2o2ZkFWbDFZbGM?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -865,36 +895,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/11/riyadh-airport-attack-no-evacuation-needed-for-malaysian-students-in-saudi-arabia-for-now-says-zambry/238664",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-11-jpj-suspends-vehicle-type-approval-for-chery-omoda-5-halts-new-registrations-pendi",
-      "category": "malaysia",
-      "headline": "JPJ suspends vehicle type approval for Chery Omoda 5, halts new registrations pending probe - The Edge Malaysia",
-      "summary": "Key points: JPJ suspends vehicle type approval for Chery Omoda 5, halts new registrations pending probe The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-11T13:31:55+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlNDY1ZlNzN1FnWVN2cFNSTk16THhtUGh4WXI2MHR5QlpHRDRlenYxeDRzVTBaa3c3VUJ1Y2hiZTFuLXA0RV9TTzdDWTRocFBt?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
