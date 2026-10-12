@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-10-12T05:28:41+08:00",
+  "generated_at": "2026-10-12T08:58:17+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-12-amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports",
-      "category": "world",
-      "headline": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
-      "summary": "Key points: CNA Latest reports that Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-12T05:16:49+08:00",
+      "id": "2026-10-12-ps-the-children-backs-budget-2027-digital-safeguards-calls-for-transparent-funding",
+      "category": "malaysia",
+      "headline": "PS the Children backs Budget 2027 digital safeguards, calls for transparent funding",
+      "summary": "Key points: KUALA LUMPUR, Oct 12 — Child advocacy group Protect & Save The Children Malaysia (PS the Children) has welcomed th...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-12T08:45:53+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/12/ps-the-children-backs-budget-2027-digital-safeguards-calls-for-transparent-funding/238729",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-12-shares-cautious-in-asia-as-earnings-loom-oil-slips",
+      "category": "markets_investment",
+      "headline": "Shares cautious in Asia as earnings loom, oil slips",
+      "summary": "Key points: CNA Latest reports that Shares cautious in Asia as earnings loom, oil slips.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-10-12T08:42:35+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/amazon-in-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-6451486",
+          "url": "https://www.channelnewsasia.com/business/shares-cautious-in-asia-earnings-loom-oil-slips-6451656",
           "publisher_type": "news"
         },
         {
@@ -28,22 +48,65 @@
         }
       ],
       "topics": [
+        "shares",
+        "oil",
+        "earnings",
+        "asia"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-12-your-mp-resigned-what-happens-to-their-malaysian-constituencies",
+      "category": "malaysia",
+      "headline": "Your MP resigned: What happens to their Malaysian constituencies?",
+      "summary": "Key points: KUALA LUMPUR, Oct 12 — What happens to a Malaysian constituency when their Member of Parliament (MP) resigns?The q...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-12T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/12/your-mp-resigned-what-happens-to-their-malaysian-constituencies/238225",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-12-ceasefire-what-ceasefire-one-year-on-gazans-still-displaced-still-shelled-still-wa",
+      "category": "world",
+      "headline": "Ceasefire, what ceasefire? One year on, Gazans still displaced, still shelled, still waiting for change",
+      "summary": "Key points: GAZA CITY (Palestinian Territories), Oct 12 — One year after a US-brokered ceasefire was announced in the Gaza Str...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-12T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/12/ceasefire-what-ceasefire-one-year-on-gazans-still-displaced-still-shelled-still-waiting-for-change/238671",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
         "latest update"
       ],
       "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-10-12-jordan-s-king-abdullah-arrives-in-malaysia-for-two-day-state-visit-bernama",
+      "id": "2026-10-12-malaysia-u-17-women-s-asian-cup-qualifying-hopes-dashed-after-losing-4-0-to-india-",
       "category": "malaysia",
-      "headline": "Jordan’s King Abdullah Arrives In Malaysia For Two-Day State Visit - Bernama",
-      "summary": "Key points: Jordan’s King Abdullah Arrives In Malaysia For Two-Day State Visit Bernama",
+      "headline": "Malaysia U-17 Women's Asian Cup Qualifying Hopes Dashed After Losing 4-0 To India - Bernama",
+      "summary": "Key points: Malaysia U-17 Women's Asian Cup Qualifying Hopes Dashed After Losing 4-0 To India Bernama",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-12T05:07:13+08:00",
+      "published_at": "2026-10-12T05:07:03+08:00",
       "source_links": [
         {
           "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rVzB2Z0lpc0xnTWJtTTVESDJvaXFJdHlQTWIyaVJFN1dIelEzM2N3VVBRbllTQV9DRXN2a2lFTmo3WmpMei10WEhOa1h3bFRpN3VpYjdqVU9mR2o2ZkFWbDFZbGM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGZU1QcDN1YUxyRmx5MEpfWDJEWlM1eEVOaWJMNlZ5U3hZME5wYjU2Yno0ekpmMzZtb2kyZmkzWjF5OG9xajFFR3huTHlFYlpNSkRJdjgyY1ltUHczUTltMWNmOA?oc=5",
           "publisher_type": "news"
         },
         {
@@ -904,6 +967,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-10-11-jpj-suspends-vehicle-type-approval-for-chery-omoda-5-halts-new-registrations-pendi",
+      "category": "malaysia",
+      "headline": "JPJ suspends vehicle type approval for Chery Omoda 5, halts new registrations pending probe - The Edge Malaysia",
+      "summary": "Key points: JPJ suspends vehicle type approval for Chery Omoda 5, halts new registrations pending probe The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-11T13:31:55+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlNDY1ZlNzN1FnWVN2cFNSTk16THhtUGh4WXI2MHR5QlpHRDRlenYxeDRzVTBaa3c3VUJ1Y2hiZTFuLXA0RV9TTzdDWTRocFBt?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-10-11-teo-nie-ching-rm300m-smart-city-project-to-transform-kota-kinabalu-by-2028",
       "category": "malaysia",
       "headline": "Teo Nie Ching: RM300m smart city project to transform Kota Kinabalu by 2028",
@@ -1140,86 +1233,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/11/police-arrest-two-suspected-cable-thieves-after-car-crashes-into-drain-during-chase-in-ampang/238640",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-11-haze-15-areas-in-malaysia-record-unhealthy-air-quality-pasir-gudang-records-highes",
-      "category": "malaysia",
-      "headline": "Haze: 15 areas in Malaysia record unhealthy air quality, Pasir Gudang records highest API reading at 180",
-      "summary": "Key points: KUALA LUMPUR, Oct 11 — A total of 15 areas nationwide recorded unhealthy Air Pollutant Index (API) readings as of...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-11T10:07:24+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/11/haze-15-areas-in-malaysia-record-unhealthy-air-quality-pasir-gudang-records-highest-api-reading-at-180/238639",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-11-budget-2027-tax-breaks-to-encourage-corporate-support-for-food-bank-initiative-say",
-      "category": "markets_investment",
-      "headline": "Budget 2027: Tax breaks to encourage corporate support for food bank initiative, says Armizan",
-      "summary": "Key points: KOTA KINABALU, Oct 11 — A special tax deduction incentive for the Ihsan Food Bank Initiative (i-FB) under Budget 2...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-10-11T10:00:20+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/11/budget-2027-tax-breaks-to-encourage-corporate-support-for-food-bank-initiative-says-armizan/238638",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-11-cm-penang-ready-to-work-with-putrajaya-on-new-elderly-care-research-centre",
-      "category": "malaysia",
-      "headline": "CM: Penang ready to work with Putrajaya on new elderly care, research centre",
-      "summary": "Key points: GEORGE TOWN, Oct 11 — Penang is ready to work with the federal government to establish the National Integrated Car...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-11T09:56:20+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/11/cm-penang-ready-to-work-with-putrajaya-on-new-elderly-care-research-centre/238636",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-11-budget-2027-rm1-1b-for-enforcement-agencies-signals-stronger-anti-corruption-push-",
-      "category": "malaysia",
-      "headline": "Budget 2027: RM1.1b for enforcement agencies signals stronger anti-corruption push, says MACC",
-      "summary": "Key points: KUALA LUMPUR, Oct 11 — The RM1.1 billion allocation to enhance the operational capabilities of law enforcement age...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-11T09:50:13+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/11/budget-2027-rm11b-for-enforcement-agencies-signals-stronger-anti-corruption-push-says-macc/238635",
           "publisher_type": "news"
         }
       ],
