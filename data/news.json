@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-13T23:34:11+08:00",
+  "generated_at": "2026-10-14T04:59:05+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-13-goldman-ceo-watching-for-election-driven-volatility-around-data-centers",
+      "id": "2026-10-14-ex-gang-leader-sentenced-to-minimum-40-years-for-tupac-murder",
       "category": "world",
-      "headline": "Goldman CEO watching for election-driven volatility around data centers",
-      "summary": "Key points: CNA Latest reports that Goldman CEO watching for election-driven volatility around data centers.",
+      "headline": "Ex-gang leader sentenced to minimum 40 years for Tupac murder",
+      "summary": "Key points: Duane “Keffe D” Davis was sentenced to at least 40 years in prison for ordering the 1996 killing of rapper Tupac Shakur in Las Vegas.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-13T23:27:48+08:00",
+      "published_at": "2026-10-14T04:44:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/goldman-ceo-watching-election-driven-volatility-around-data-centers-6456656",
+          "url": "https://www.channelnewsasia.com/world/tupac-murder-sentence-keffe-d-40-years-prison-6457156",
           "publisher_type": "news"
         },
         {
@@ -434,10 +434,10 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-10-13-txa-2026-a-strategic-platform-for-malaysia-s-transport-transformation-loke-bernama",
+      "id": "2026-10-13-txa-2026-a-strategic-platform-for-malaysia-s-transport-transformation-loke-asean-b",
       "category": "malaysia",
-      "headline": "TXA 2026, A Strategic Platform For Malaysia's Transport Transformation - Loke - bernama",
-      "summary": "Key points: TXA 2026, A Strategic Platform For Malaysia's Transport Transformation - Loke bernama",
+      "headline": "TXA 2026, A Strategic Platform For Malaysia's Transport Transformation - Loke - ASEAN - BERNAMA",
+      "summary": "Key points: TXA 2026, A Strategic Platform For Malaysia's Transport Transformation - Loke ASEAN - BERNAMA",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
       "published_at": "2026-10-13T17:35:58+08:00",
       "source_links": [
@@ -1167,36 +1167,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-10-13-deputy-minister-proposes-data-centre-operators-generate-their-own-power-as-govt-re",
-      "category": "malaysia",
-      "headline": "Deputy minister proposes data centre operators generate their own power as govt reviews energy, water use - The Edge Malaysia",
-      "summary": "Key points: Deputy minister proposes data centre operators generate their own power as govt reviews energy, water use The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-13T13:03:21+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1N2xNU21jZEdUVEt3WnVENWR4TFl0Q3lrdEdJTGdpLWktMjA5aDI1SWtGeDRmZ1k0RzA5VGpNUHZ5NzljNDYyQ2FRZXBwOHo5?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-10-13-johor-police-deploy-13-district-control-centres-statewide-to-assist-in-haze-monito",
       "category": "malaysia",
       "headline": "Johor police deploy 13 district control centres statewide to assist in haze monitoring",
@@ -1227,6 +1197,26 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/13/irene-sofiya-murder-johor-police-awaiting-dpp-decision-before-remand-expires/238905",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-13-mcmc-probes-viral-video-over-allegedly-false-misleading-budget-2027-tax-claims",
+      "category": "malaysia",
+      "headline": "MCMC probes viral video over allegedly false, misleading Budget 2027 tax claims",
+      "summary": "Key points: The Malaysian Communications and Multimedia Commission (MCMC) is examining a viral video alleg...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-13T11:32:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/13/mcmc-probes-viral-video-over-allegedly-false-misleading-budget-2027-tax-claims/238903",
           "publisher_type": "news"
         }
       ],
