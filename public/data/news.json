@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-14T04:59:05+08:00",
+  "generated_at": "2026-10-14T08:13:59+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-14-ex-gang-leader-sentenced-to-minimum-40-years-for-tupac-murder",
+      "id": "2026-10-14-singapore-s-economy-grows-5-4-in-q3-down-from-6-2-in-previous-quarter-advance-esti",
       "category": "world",
-      "headline": "Ex-gang leader sentenced to minimum 40 years for Tupac murder",
-      "summary": "Key points: Duane “Keffe D” Davis was sentenced to at least 40 years in prison for ordering the 1996 killing of rapper Tupac Shakur in Las Vegas.",
+      "headline": "Singapore's economy grows 5.4% in Q3, down from 6.2% in previous quarter: Advance estimates",
+      "summary": "Key points: On a quarter-on-quarter seasonally adjusted basis, Singapore's economy grew 1.1 per cent, compared to the 1.5 per cent growth in Q2.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-14T04:44:00+08:00",
+      "published_at": "2026-10-14T08:00:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/tupac-murder-sentence-keffe-d-40-years-prison-6457156",
+          "url": "https://www.channelnewsasia.com/singapore/gdp-forecast-q3-growth-meti-6455581",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,116 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-14-txa-2026-a-strategic-platform-for-malaysia-s-transport-transformation-loke-bernama",
+      "category": "malaysia",
+      "headline": "TXA 2026, A Strategic Platform For Malaysia's Transport Transformation - Loke - Bernama",
+      "summary": "Key points: TXA 2026, A Strategic Platform For Malaysia's Transport Transformation - Loke Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-14T07:04:34+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qckt6dmlPUllpdUFVbnZTNENpUDZhWkpCRWZHQWhDUnc5eXkxdFN3ZE9zMlNVZmo2bi1NdTNqNDBFWEM1NnFiVThRSzRka2Y1b1haZWpHaVBTbkJKOW80TldnTi0?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-14-multi-lane-fast-flow-what-motorists-need-to-know-as-malaysia-moves-towards-barrier",
+      "category": "malaysia",
+      "headline": "Multi-lane fast flow: What motorists need to know as Malaysia moves towards barrier-free tolling",
+      "summary": "Key points: KUALA LUMPUR, Oct 14 — Malaysia is moving towards multi-lane fast flow (MLFF), a tolling system that would eventua...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-14T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/14/multi-lane-fast-flow-what-motorists-need-to-know-as-malaysia-moves-towards-barrier-free-tolling/237875",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-14-goldman-sachs-profit-rises-as-wall-street-dealmaking-and-equities-rebound",
+      "category": "markets_investment",
+      "headline": "Goldman Sachs profit rises as Wall Street dealmaking and equities rebound",
+      "summary": "Key points: NEW YORK, Oct 14 — Goldman Sachs reported higher third-quarter profit yesterday that topped analyst estimates...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-10-14T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/10/14/goldman-sachs-profit-rises-as-wall-street-dealmaking-and-equities-rebound/238987",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-14-indonesia-s-haze-problem-starts-underground-how-peatland-fires-keep-burning",
+      "category": "world",
+      "headline": "Indonesia’s haze problem starts underground: How peatland fires keep burning",
+      "summary": "Key points: For weeks, parts of Indonesian Borneo have resembled an Armageddon landscape, with masked reside...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-14T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/14/indonesias-haze-problem-starts-underground-how-peatland-fires-keep-burning/238918",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-14-el-nino-watch-how-the-weather-phenomenon-is-impacting-the-world-this-week",
+      "category": "world",
+      "headline": "El Nino Watch: How the weather phenomenon is impacting the world this week",
+      "summary": "Key points: Food security concerns, wildfires and power warnings are among the impacts around the world this...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-14T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/14/el-nino-watch-how-the-weather-phenomenon-is-impacting-the-world-this-week/238931",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -425,36 +535,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/13/macc-records-rm127b-in-asset-freezes-from-2022-to-september-says-deputy-minister/238961",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-13-txa-2026-a-strategic-platform-for-malaysia-s-transport-transformation-loke-asean-b",
-      "category": "malaysia",
-      "headline": "TXA 2026, A Strategic Platform For Malaysia's Transport Transformation - Loke - ASEAN - BERNAMA",
-      "summary": "Key points: TXA 2026, A Strategic Platform For Malaysia's Transport Transformation - Loke ASEAN - BERNAMA",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-13T17:35:58+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tUmVzOERkRWY3MFRDQVZTRXdrdlktUThfZHBQYzY2NzNmTFFaT3NuRVVSR2xRRkoxREVURndhX3NMUnFFSmJVY3VtTnp3T0xiNmY3LXhxWjQ?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1137,86 +1217,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/13/putrajaya-not-discounting-letting-refugees-work-in-sectors-with-critical-labour-shortages-says-home-minister/238904",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-13-indonesia-restores-power-after-batam-bintan-blackout-cause-still-unknown",
-      "category": "world",
-      "headline": "Indonesia restores power after Batam, Bintan blackout, cause still unknown",
-      "summary": "Key points: Electricity supply has been restored to nearly 99 per cent of affected customers on Indonesia&rs...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-13T13:06:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/10/13/indonesia-restores-power-after-batam-bintan-blackout-cause-still-unknown/238897",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-13-johor-police-deploy-13-district-control-centres-statewide-to-assist-in-haze-monito",
-      "category": "malaysia",
-      "headline": "Johor police deploy 13 district control centres statewide to assist in haze monitoring",
-      "summary": "Key points: JOHOR BAHRU, Oct 13 — The Johor police contingent are assisting the state government in monitoring the haze throug...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-13T12:47:28+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/13/johor-police-deploy-13-district-control-centres-statewide-to-assist-in-haze-monitoring/238907",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-13-irene-sofiya-murder-johor-police-awaiting-dpp-decision-before-remand-expires",
-      "category": "malaysia",
-      "headline": "Irene Sofiya murder: Johor police awaiting DPP decision before remand expires",
-      "summary": "Key points: JOHOR BAHRU, Oct 13 — Johor police are awaiting further instructions from the state’s Deputy Public Prosecut...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-13T12:37:46+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/13/irene-sofiya-murder-johor-police-awaiting-dpp-decision-before-remand-expires/238905",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-13-mcmc-probes-viral-video-over-allegedly-false-misleading-budget-2027-tax-claims",
-      "category": "malaysia",
-      "headline": "MCMC probes viral video over allegedly false, misleading Budget 2027 tax claims",
-      "summary": "Key points: The Malaysian Communications and Multimedia Commission (MCMC) is examining a viral video alleg...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-13T11:32:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/13/mcmc-probes-viral-video-over-allegedly-false-misleading-budget-2027-tax-claims/238903",
           "publisher_type": "news"
         }
       ],
