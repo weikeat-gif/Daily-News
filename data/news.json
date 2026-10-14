@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-15T04:27:01+08:00",
+  "generated_at": "2026-10-15T07:40:55+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-15-netflix-to-cut-about-1-000-jobs-amid-slower-growth",
+      "id": "2026-10-15-this-singaporean-shoemaker-moved-to-kyoto-to-make-barefoot-shoes-by-hand",
       "category": "world",
-      "headline": "Netflix to cut about 1,000 jobs amid slower growth",
-      "summary": "Key points: Netflix plans to cut around 1,000 jobs amid slowing revenue growth and reports of declining viewing time on its streaming platform.",
+      "headline": "This Singaporean shoemaker moved to Kyoto to make barefoot shoes by hand",
+      "summary": "Key points: Singaporean craftsperson Chin Shiying went to Japan to master traditional shoemaking – only to realise she didn’t want to wear the shoes she made. That discovery eventually led her to barefoot footwear and a new life in Kyoto.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-15T04:15:31+08:00",
+      "published_at": "2026-10-15T07:20:12+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/netflix-job-cuts-1000-slow-growth-6460556",
+          "url": "https://www.channelnewsasia.com/style-beauty/singaporean-shoemaker-kyoto-handmade-shoes-6414651",
           "publisher_type": "news"
         },
         {
@@ -34,27 +34,37 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-10-14-in-a-response-to-bursa-query-genting-says-will-use-rm280m-from-working-capital-por",
-      "category": "markets_investment",
-      "headline": "In a response to Bursa query, Genting says will use RM280m from working capital portion of rights issue for interest costs - The E",
-      "summary": "Key points: In a response to Bursa query, Genting says will use RM280m from working capital portion of rights issue for interest costs The Edge Malaysia",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-10-14T21:05:31+08:00",
+      "id": "2026-10-15-how-malaysia-can-raise-its-retirement-age-from-60-to-65-experts-explain-the-math-a",
+      "category": "malaysia",
+      "headline": "How Malaysia can raise its retirement age from 60 to 65: Experts explain the math and more",
+      "summary": "Key points: KUALA LUMPUR, Oct 15 — Should Malaysia push its retirement age up from 60 to 65, and if yes, how can it be done?Cu...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-15T07:00:00+08:00",
       "source_links": [
         {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85OTMweXl6VjkzWGhGY1FlSlVJNGVZam9lZHdublg2a0YteXdZcFVQbVA4YnQ3aktIMEVUQ1RRRWJvc1JHUEk2NGlFUzFGV3Nh?oc=5",
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/15/how-malaysia-can-raise-its-retirement-age-from-60-to-65-experts-explain-the-math-and-more/238746",
           "publisher_type": "news"
-        },
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-15-aspiring-danes-in-long-and-agonising-slog-to-citizenship-we-wait-we-wait-we-wait",
+      "category": "world",
+      "headline": "Aspiring Danes in long and agonising slog to citizenship: ‘We wait, we wait, we wait’",
+      "summary": "Key points: ODENSE (Denmark), Oct 15 — “We wait, we wait, we wait. It’s been going on for years,” laments Sy...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-15T07:00:00+08:00",
+      "source_links": [
         {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/15/aspiring-danes-in-long-and-agonising-slog-to-citizenship-we-wait-we-wait-we-wait/239092",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1217,26 +1227,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-14-thick-smoke-seen-near-duke-highway-traced-to-burning-streetlight",
-      "category": "malaysia",
-      "headline": "Thick smoke seen near DUKE Highway traced to burning streetlight",
-      "summary": "Key points: KUALA LUMPUR, Oct 14 — Thick smoke seen near the Duta-Ulu Kelang Expressway (DUKE), beyond the Sentul Toll Plaza o...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-14T13:33:26+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/14/thick-smoke-seen-near-duke-highway-traced-to-burning-streetlight/239051",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
