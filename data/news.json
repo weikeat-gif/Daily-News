@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-18T06:52:54+08:00",
+  "generated_at": "2026-10-18T08:38:31+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-18-rival-ports-fast-catching-up-sm-lee-warns-against-complacency-says-port-workers-mu",
+      "id": "2026-10-18-singapore-haze-air-quality-remains-very-unhealthy-in-west-unhealthy-in-other-regio",
       "category": "world",
-      "headline": "Rival ports 'fast catching up': SM Lee warns against complacency, says port workers must not face shift alone",
-      "summary": "Key points: Senior Minister Lee Hsien Loong also highlighted the importance of strong tripartism to enable PSA's management team, the unions and the workers to work together in a \"relationship of trust\" to build a \"disciplined and skilled workforce\".",
+      "headline": "Singapore haze: Air quality remains very unhealthy in west, unhealthy in other regions",
+      "summary": "Key points: At 8am, the 24-hour PSI in the west stood at 228.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-18T06:48:22+08:00",
+      "published_at": "2026-10-18T07:22:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/singapore-port-workers-union-technology-lee-hsien-loong-6468356",
+          "url": "https://www.channelnewsasia.com/singapore/haze-oct-18-psi-west-remains-very-unhealthy-6468376",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,46 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-18-the-next-global-crisis-could-be-on-your-dinner-plate-un-warns",
+      "category": "world",
+      "headline": "The next global crisis could be on your dinner plate, UN warns",
+      "summary": "Key points: Rising energy and fertiliser costs are hitting smallholder farmers and driving up prices of agri...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-18T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/18/the-next-global-crisis-could-be-on-your-dinner-plate-un-warns/239427",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-18-wrong-city-wild-rumours-and-suspicious-powder-a-strange-week-on-the-us-midterm-cam",
+      "category": "world",
+      "headline": "Wrong city, wild rumours and suspicious powder: A strange week on the US midterm campaign trail",
+      "summary": "Key points: This week in US politics, a candidate with the flu fell victim to a false rumour, a camp...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-18T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/18/wrong-city-wild-rumours-and-suspicious-powder-a-strange-week-on-the-us-midterm-campaign-trail/239433",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1170,46 +1210,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/17/metmalaysia-issues-thunderstorm-heavy-rain-warning-for-nine-states-until-3pm/239453",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-17-trump-s-russia-sanctions-reversal-deepens-rift-with-zelensky-as-europe-rallies-beh",
-      "category": "world",
-      "headline": "Trump’s Russia sanctions reversal deepens rift with Zelensky as Europe rallies behind Kyiv",
-      "summary": "Key points: President Donald Trump signed an executive order yesterday that waived sweeping US...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-17T13:53:12+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/10/17/trumps-russia-sanctions-reversal-deepens-rift-with-zelensky-as-europe-rallies-behind-kyiv/239452",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-17-dpm-zahid-strengthens-malaysia-china-ties-advances-global-tvet-cooperation-after-f",
-      "category": "malaysia",
-      "headline": "DPM Zahid strengthens Malaysia-China ties, advances global TVET cooperation after five-day visit",
-      "summary": "Key points: Deputy Prime Minister Datuk Seri Ahmad Zahid Hamidi’s five-day working visit to China has...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-17T13:49:16+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/17/dpm-zahid-strengthens-malaysia-china-ties-advances-global-tvet-cooperation-after-five-day-visit/239450",
           "publisher_type": "news"
         }
       ],
