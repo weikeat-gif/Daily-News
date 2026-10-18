@@ -1,26 +1,36 @@
 {
-  "generated_at": "2026-10-18T22:18:16+08:00",
+  "generated_at": "2026-10-19T01:49:42+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-18-old-perkeso-contributions-open-door-to-life-changing-stroke-rehabilitation",
-      "category": "malaysia",
-      "headline": "Old Perkeso contributions open door to life-changing stroke rehabilitation",
-      "summary": "Key points: For five years, a wheelchair was Salinah Osman’s constant companion, confining the once-activ...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-18T21:00:00+08:00",
+      "id": "2026-10-19-trump-endorses-netanyahu-in-israeli-election",
+      "category": "world",
+      "headline": "Trump endorses Netanyahu in Israeli election",
+      "summary": "Key points: The Trump endorsement is not certain to give Netanyahu and his right-wing Likud party a boost as Israeli public support for Trump has diminished amid Israeli-US disagreements over Iran.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-19T00:59:22+08:00",
       "source_links": [
         {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/18/old-perkeso-contributions-open-door-to-life-changing-stroke-rehabilitation/239573",
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/world/trump-endorses-netanyahu-in-israeli-election-6469761",
           "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
         }
       ],
       "topics": [
         "latest update"
       ],
-      "importance": 3,
+      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -44,6 +54,26 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-10-18-old-perkeso-contributions-open-door-to-life-changing-stroke-rehabilitation",
+      "category": "malaysia",
+      "headline": "Old Perkeso contributions open door to life-changing stroke rehabilitation",
+      "summary": "Key points: For five years, a wheelchair was Salinah Osman’s constant companion, confining the once-activ...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-18T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/18/old-perkeso-contributions-open-door-to-life-changing-stroke-rehabilitation/239573",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-10-18-israel-heads-to-the-polls-with-netanyahu-and-its-rightward-turn-on-the-ballot",
       "category": "world",
       "headline": "Israel heads to the polls with Netanyahu — and its rightward turn — on the ballot",
@@ -55,36 +85,6 @@
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/10/18/israel-heads-to-the-polls-with-netanyahu-and-its-rightward-turn-on-the-ballot/239576",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-18-samsung-to-use-tsmc-technology-for-nvidia-s-next-generation-memory-chips-seoul-new",
-      "category": "world",
-      "headline": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
-      "summary": "Key points: CNA Latest reports that Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-18T20:08:28+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-reports-6469576",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
