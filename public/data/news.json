@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-21T21:25:49+08:00",
+  "generated_at": "2026-10-22T02:22:26+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-21-barca-blow-as-olmo-out-for-four-weeks",
+      "id": "2026-10-22-flamengo-condemns-maracana-damage-after-vasco-boca-clash",
       "category": "world",
-      "headline": "Barca blow as Olmo out for four weeks",
-      "summary": "Key points: CNA Latest reports that Barca blow as Olmo out for four weeks.",
+      "headline": "Flamengo condemns Maracana damage after Vasco-Boca clash",
+      "summary": "Key points: CNA Latest reports that Flamengo condemns Maracana damage after Vasco-Boca clash.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-21T21:08:10+08:00",
+      "published_at": "2026-10-22T02:07:05+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/barca-blow-olmo-out-four-weeks-6479196",
+          "url": "https://www.channelnewsasia.com/sport/flamengo-condemns-maracana-damage-after-vasco-boca-clash-6480066",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-sunway-healthcare-sunway-reit-zetrix-ai-malakoff-capitaland-malaysia-westports-ame",
+      "category": "malaysia",
+      "headline": "Sunway Healthcare, Sunway REIT, Zetrix AI,Malakoff, Capitaland Malaysia,Westports, AME REIT, Pantech Global, MHB, ES Sunlogy, Kerj",
+      "summary": "Key points: Sunway Healthcare, Sunway REIT, Zetrix AI,Malakoff, Capitaland Malaysia,Westports, AME REIT, Pantech Global, MHB, ES Sunlogy, Kerjaya Prospek & Mudajaya The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-21T23:12:09+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54TERHbl9rWThHZVRnSmJocDl5NlhwRkYweFkxeXpIR0FTcjJGN001THZ1NGRZOEFaV3UteGxKdnJtVVhKa0tYYk02V1k4c2t6?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -54,26 +84,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-10-21-michigan-voters-divided-over-trump-as-iran-war-rising-prices-loom-over-midterms",
-      "category": "world",
-      "headline": "Michigan voters divided over Trump as Iran war, rising prices loom over midterms",
-      "summary": "Key points: Retired Michigan autoworkers Mike and Rich live seconds apart, but the neighbours could not be mo...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-21T21:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/10/21/michigan-voters-divided-over-trump-as-iran-war-rising-prices-loom-over-midterms/239998",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-10-21-trump-backlash-and-rising-fuel-costs-put-republican-susan-collins-under-pressure-i",
       "category": "world",
       "headline": "Trump backlash and rising fuel costs put Republican Susan Collins under pressure in Maine",
@@ -84,6 +94,26 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/10/21/trump-backlash-and-rising-fuel-costs-put-republican-susan-collins-under-pressure-in-maine/240003",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-michigan-voters-divided-over-trump-as-iran-war-rising-prices-loom-over-midterms",
+      "category": "world",
+      "headline": "Michigan voters divided over Trump as Iran war, rising prices loom over midterms",
+      "summary": "Key points: Retired Michigan autoworkers Mike and Rich live seconds apart, but the neighbours could not be mo...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-21T21:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/21/michigan-voters-divided-over-trump-as-iran-war-rising-prices-loom-over-midterms/239998",
           "publisher_type": "news"
         }
       ],
@@ -634,36 +664,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-10-21-malaysia-reviews-international-development-cooperation-framework-amid-global-chall",
-      "category": "malaysia",
-      "headline": "Malaysia Reviews International Development Cooperation Framework Amid Global Challenges - bernama",
-      "summary": "Key points: Malaysia Reviews International Development Cooperation Framework Amid Global Challenges bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-21T17:40:43+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RRHVrTUlETHR2NFkyT0VhSVZUb2ZUWlFRRHFMOXlvX3p3TlQzdTd5OTlOVlpjZUpqMlZKSEZYRkhpY0VMWlNWX3NZWDROYnhZMlpmckF1OG85a29aSWpQcDF3?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-10-21-pmo-confirms-civil-servants-barred-from-using-waze-over-israel-data-security-risks",
       "category": "malaysia",
       "headline": "PMO confirms civil servants barred from using Waze over Israel data security risks",
@@ -1067,36 +1067,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-10-21-malaysian-civil-servants-banned-from-using-waze-with-immediate-effect-the-edge-mal",
-      "category": "malaysia",
-      "headline": "Malaysian civil servants banned from using Waze with immediate effect - The Edge Malaysia",
-      "summary": "Key points: Malaysian civil servants banned from using Waze with immediate effect The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-21T14:20:42+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JQ0h0bEg2NGNlWmxwUGNwMnRRME84SWg5NnRIdEhGR1Z6eFkycGpjcm5IZmFSYzZ2YWRsTzFJVExYb0NrdGo5aUowSjZoRmNn?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-10-21-ten-former-negri-exco-members-seek-federal-court-interpretation-of-ruler-s-powers",
       "category": "malaysia",
       "headline": "Ten former Negri exco members seek Federal Court interpretation of ruler’s powers",
@@ -1227,6 +1197,26 @@
         {
           "name": "Malay Mail World",
           "url": "https://www.malaymail.com/news/world/2026/10/21/un-says-15c-target-will-be-overshot-with-world-heading-for-26c-warming/240011",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-rubio-hails-positive-ukraine-talks-us-envoy-heads-to-russia",
+      "category": "world",
+      "headline": "Rubio hails ‘positive’ Ukraine talks, US envoy heads to Russia",
+      "summary": "Key points: US Secretary of State Marco Rubio said today that talks between American envoy Steve Witkoff and...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-21T13:13:19+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/21/rubio-hails-positive-ukraine-talks-us-envoy-heads-to-russia/240010",
           "publisher_type": "news"
         }
       ],
