@@ -1,19 +1,119 @@
 {
-  "generated_at": "2026-10-21T06:05:54+08:00",
+  "generated_at": "2026-10-21T09:16:43+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-21-primary-1-registration-changes-could-cut-phase-2a-places-at-some-popular-schools-b",
+      "id": "2026-10-21-new-mykad-security-features-transboundary-haze-measures-among-topics-in-dewan-raky",
+      "category": "malaysia",
+      "headline": "New MyKad security features, transboundary haze measures among topics in Dewan Rakyat",
+      "summary": "Key points: KUALA LUMPUR, Oct 21 — The justification for introducing a new-generation MyKad, its security levels, and coo...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-21T09:12:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/21/new-mykad-security-features-transboundary-haze-measures-among-topics-in-dewan-rakyat/239941",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-alberta-rejects-independence-push-but-separatists-say-fight-is-not-over",
       "category": "world",
-      "headline": "Primary 1 registration changes could cut Phase 2A places at some popular schools by a fifth or more",
-      "summary": "Key points: If the new Primary 1 registration framework is applied to 2026 figures, one school would have four places for children in Phase 2A.",
+      "headline": "Alberta rejects independence push, but separatists say fight is not over",
+      "summary": "Key points: Separatists in Canada’s Alberta province say their independence fight is not over despite...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-21T06:00:00+08:00",
+      "published_at": "2026-10-21T09:11:22+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/21/alberta-rejects-independence-push-but-separatists-say-fight-is-not-over/239942",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-haze-in-malaysia-22-areas-still-at-unhealthy-air-quality-levels",
+      "category": "malaysia",
+      "headline": "Haze in Malaysia: 22 areas still at ‘Unhealthy’ air quality levels",
+      "summary": "Key points: KUALA LUMPUR, Oct 21 — Haze continued to blanket much of the peninsula this morning, with 22 of the country’...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-21T09:09:37+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/21/haze-in-malaysia-22-areas-still-at-unhealthy-air-quality-levels/239937",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-french-pm-vows-massive-police-deployment-for-new-demonstrations",
+      "category": "world",
+      "headline": "French PM vows ‘massive’ police deployment for new demonstrations",
+      "summary": "Key points: French Prime Minister Sebastien Lecornu yesterday vowed a “massive” police presence at...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-21T09:06:31+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/21/french-pm-vows-massive-police-deployment-for-new-demonstrations/239940",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-man-accused-of-targeting-australian-mp-helen-haines-appears-in-court",
+      "category": "world",
+      "headline": "Man accused of targeting Australian MP Helen Haines appears in court",
+      "summary": "Key points: The man alleged to have critically wounded Australian lawmaker Helen Haines in a “targe...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-21T09:02:27+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/21/man-accused-of-targeting-australian-mp-helen-haines-appears-in-court/239938",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-lutnick-announces-investment-to-boost-semiconductor-production-in-north-carolina",
+      "category": "markets_investment",
+      "headline": "Lutnick announces investment to boost semiconductor production in North Carolina",
+      "summary": "Key points: CNA Latest reports that Lutnick announces investment to boost semiconductor production in North Carolina.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-10-21T09:01:45+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/p1-primary-schools-registration-phase-2a-alumni-6475436",
+          "url": "https://www.channelnewsasia.com/business/lutnick-announces-investment-boost-semiconductor-production-in-north-carolina-6477291",
           "publisher_type": "news"
         },
         {
@@ -25,6 +125,166 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-penang-ramps-up-efforts-to-tackle-parit-cina-sungai-kereh-pollution",
+      "category": "malaysia",
+      "headline": "Penang ramps up efforts to tackle Parit Cina, Sungai Kereh pollution",
+      "summary": "Key points: GEORGE TOWN, Oct 21 — Clean-up works at Parit Cina and Sungai Kereh in Tasek Gelugor are expected to begin in the...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-21T08:58:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/21/penang-ramps-up-efforts-to-tackle-parit-cina-sungai-kereh-pollution/239933",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-pkr-rejects-mukhriz-claim-linking-party-to-pn-deregistration",
+      "category": "malaysia",
+      "headline": "PKR rejects Mukhriz claim linking party to PN deregistration",
+      "summary": "Key points: KUALA LUMPUR, Oct 21 — Parti Keadilan Rakyat (PKR) has denied any involvement in the Registrar of Societies’...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-21T08:53:55+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/21/pkr-rejects-mukhriz-claim-linking-party-to-pn-deregistration/239934",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-border-agency-chief-shuhaily-in-court-over-alleged-klia-assault-of-two-special-bra",
+      "category": "malaysia",
+      "headline": "Border agency chief Shuhaily in court over alleged KLIA assault of two Special Branch cops",
+      "summary": "Key points: KUALA LUMPUR, Oct 21 — Malaysia Checkpoints and Border Agency (MCBA) director-general Datuk Seri Mohd Shuhaily Moh...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-21T08:52:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/21/border-agency-chief-shuhaily-in-court-over-alleged-klia-assault-of-two-special-branch-cops/239932",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-government-open-to-kwap-epf-rci-subject-to-findings-says-azalina",
+      "category": "malaysia",
+      "headline": "Government open to KWAP, EPF RCI subject to findings, says Azalina",
+      "summary": "Key points: KUALA LUMPUR, Oct 21 —The government is open to considering a proposal to establish a Royal Commission of Inq...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-21T08:47:57+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/21/government-open-to-kwap-epf-rci-subject-to-findings-says-azalina/239930",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-10-21-ringgit-opens-firmer-on-robust-exports-gdp-growth-and-softer-us-dollar",
+      "category": "markets_investment",
+      "headline": "Ringgit opens firmer on robust exports, GDP growth and softer US dollar",
+      "summary": "Key points: KUALA LUMPUR, Oct 21 — The ringgit opened higher against the US dollar on Wednesday, supported by strong domestic...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-10-21T08:31:52+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/10/21/ringgit-opens-firmer-on-robust-exports-gdp-growth-and-softer-us-dollar/239927",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-why-won-t-the-rain-wash-away-malaysia-s-haze-experts-explain-what-s-keeping-the-sm",
+      "category": "malaysia",
+      "headline": "Why won’t the rain wash away Malaysia’s haze? Experts explain what’s keeping the smoke coming",
+      "summary": "Key points: KUALA LUMPUR, Oct 21 — Malaysia, particularly the Klang Valley, has been experiencing bouts of heavy rain and thun...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-21T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/21/why-wont-the-rain-wash-away-malaysias-haze-experts-explain-whats-keeping-the-smoke-coming/239859",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-haze-is-making-pets-sick-too-malaysian-vets-report-cats-suffering-asthma-attacks-d",
+      "category": "malaysia",
+      "headline": "Haze is making pets sick too: Malaysian vets report cats suffering asthma attacks, dogs needing oxygen therapy",
+      "summary": "Key points: KOTA KINABALU, Oct 21 — Haze and poor air quality are taking a toll on pets, with veterinarians reporting respirat...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-21T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/21/haze-is-making-pets-sick-too-malaysian-vets-report-cats-suffering-asthma-attacks-dogs-needing-oxygen-therapy/239734",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-21-how-recent-controversies-have-rocked-the-us-death-penalty-debate",
+      "category": "world",
+      "headline": "How recent controversies have rocked the US death penalty debate",
+      "summary": "Key points: The botched execution of a woman in Tennessee and the controversy over the live broadca...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-21T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/21/how-recent-controversies-have-rocked-the-us-death-penalty-debate/239832",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -970,269 +1230,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/20/malaysia-indonesia-to-expand-online-child-safety-cooperation-seek-singapores-involvement/239873",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-anwar-cites-cases-of-corporate-owners-forced-to-sell-firms-over-political-interfer",
-      "category": "malaysia",
-      "headline": "Anwar cites cases of corporate owners forced to sell firms over political interference",
-      "summary": "Key points: KUALA LUMPUR, Oct 20 — The government inherited a system lacking transparency, allowing corporate crimes and...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-20T16:03:13+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/20/anwar-cites-cases-of-corporate-owners-forced-to-sell-firms-over-political-interference/239871",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "kuala lumpur",
-        "anwar",
-        "rate",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-curfews-to-be-imposed-where-necessary-france-pm-says-prefects-and-mayors-will-call",
-      "category": "world",
-      "headline": "Curfews to be imposed where necessary, France PM says prefects and mayors will call the shots",
-      "summary": "Key points: France will impose new curfews in areas where needed on Tuesday, Prime Minister Sebastien Lecornu...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-20T16:02:54+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/10/20/curfews-to-be-imposed-where-necessary-france-pm-says-prefects-and-mayors-will-call-the-shots/239870",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-govt-to-consolidate-maf-veterans-associations-to-improve-aid-distribution-says-adl",
-      "category": "malaysia",
-      "headline": "Govt to consolidate MAF veterans’ associations to improve aid distribution, says Adly Zahari",
-      "summary": "Key points: KUALA LUMPUR, Oct 20 — The Ministry of Defence (MINDEF) plans to streamline and consolidate more than 300 re...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-20T15:18:08+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/20/govt-to-consolidate-maf-veterans-associations-to-improve-aid-distribution-says-adly-zahari/239868",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-study-finds-only-one-in-five-malaysians-are-savvy-online-shoppers-leaving-rm3-67b-",
-      "category": "malaysia",
-      "headline": "Study finds only one in five Malaysians are savvy online shoppers, leaving RM3.67b gap",
-      "summary": "Key points: KUALA LUMPUR, Oct 20 — A joint study by Lazada and Cube Asia has highlighted a US$900 million (approximately RM3.6...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-20T15:15:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/10/20/study-finds-only-one-in-five-malaysians-are-savvy-online-shoppers-leaving-rm367b-gap/239863",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-no-quota-for-clp-exam-passes-candidates-assessed-purely-on-merit-dewan-rakyat-told",
-      "category": "malaysia",
-      "headline": "No quota for CLP exam passes, candidates assessed purely on merit, Dewan Rakyat told",
-      "summary": "Key points: KUALA LUMPUR, Oct 20 — Candidates sitting the Certificate in Legal Practice (CLP) examination are asses...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-20T15:09:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/20/no-quota-for-clp-exam-passes-candidates-assessed-purely-on-merit-dewan-rakyat-told/239867",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-loke-wants-transport-expo-asia-to-become-permanent-biennial-event-next-edition-in-",
-      "category": "malaysia",
-      "headline": "Loke wants Transport Expo Asia to become permanent biennial event, next edition in 2028",
-      "summary": "Key points: KUALA LUMPUR, Oct 20 — Transport Minister Anthony Loke wants Transport Expo Asia (TXA) to become a perm...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-20T15:04:26+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/20/loke-wants-transport-expo-asia-to-become-permanent-biennial-event-next-edition-in-2028/239866",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-malaysia-who-aim-to-finalise-pandemic-agreement-by-may-2027-says-dzulkefly",
-      "category": "malaysia",
-      "headline": "Malaysia, WHO aim to finalise pandemic agreement by May 2027, says Dzulkefly",
-      "summary": "Key points: KUALA LUMPUR, Oct 20 — Malaysia and the World Health Organization (WHO) have renewed their joint commitment...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-20T15:00:07+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/20/malaysia-who-aim-to-finalise-pandemic-agreement-by-may-2027-says-dzulkefly/239864",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-skies-shut-down-indonesia-s-haze-chaos-grounds-2-600-flights-since-aug-singapore-r",
-      "category": "world",
-      "headline": "Skies shut down: Indonesia’s haze chaos grounds 2,600 flights since Aug, Singapore routes hit hard",
-      "summary": "Key points: Indonesia’s prolonged haze from forest and land fires has taken a toll on air travel, disr...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-20T14:41:26+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/10/20/skies-shut-down-indonesias-haze-chaos-grounds-2600-flights-since-aug-singapore-routes-hit-hard/239858",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-suhakam-calls-for-femicide-to-be-recognised-in-law-tougher-action-on-gender-based-",
-      "category": "malaysia",
-      "headline": "Suhakam calls for femicide to be recognised in law, tougher action on gender-based violence",
-      "summary": "Key points: KUALA LUMPUR, Oct 20 — The Human Rights Commission of Malaysia (Suhakam) has urged the government to r...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-20T14:26:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/20/suhakam-calls-for-femicide-to-be-recognised-in-law-tougher-action-on-gender-based-violence/239857",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-johor-singapore-rts-link-fares-expected-by-year-end-says-transport-minister",
-      "category": "malaysia",
-      "headline": "Johor-Singapore RTS Link fares expected by year-end, says transport minister",
-      "summary": "Key points: KUALA LUMPUR, Oct 20 — Fares for the Johor Bahru-Singapore Rapid Transit System (RTS) Link are expected to be anno...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-20T14:16:19+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/20/johor-singapore-rts-link-fares-expected-by-year-end-says-transport-minister/239856",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-anthony-loke-bus-ticket-policy-targets-overseas-online-agents-not-operators",
-      "category": "malaysia",
-      "headline": "Anthony Loke: Bus ticket policy targets overseas online agents, not operators",
-      "summary": "Key points: KUALA LUMPUR, Oct 20 — The government’s policy to channel bus ticket sales through licensed terminals is mea...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-20T14:11:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/20/anthony-loke-bus-ticket-policy-targets-overseas-online-agents-not-operators/239855",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-anwar-says-siti-nurhaliza-personally-invited-him-to-concert-praises-cultural-herit",
-      "category": "malaysia",
-      "headline": "Anwar says Siti Nurhaliza personally invited him to concert, praises cultural heritage showcase",
-      "summary": "Key points: KUALA LUMPUR, Oct 20 — Prime Minister Datuk Seri Anwar Ibrahim said his attendance at national songstress Datuk Se...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-20T14:04:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/20/anwar-says-siti-nurhaliza-personally-invited-him-to-concert-praises-cultural-heritage-showcase/239854",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-20-johor-businessman-says-identity-misused-in-fake-facebook-account-insulting-king-ma",
-      "category": "malaysia",
-      "headline": "Johor businessman says identity misused in fake Facebook account insulting King, Malays",
-      "summary": "Key points: A businessman has claimed that a fake Facebook account, using his name and image, was used to po...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-20T13:54:20+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/20/johor-businessman-says-identity-misused-in-fake-facebook-account-insulting-king-malays/239850",
           "publisher_type": "news"
         }
       ],
