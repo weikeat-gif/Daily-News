@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-23T02:17:03+08:00",
+  "generated_at": "2026-10-23T06:05:21+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-23-trump-says-lebron-james-showed-disrespect-during-us-national-anthem",
-      "category": "world",
-      "headline": "Trump says LeBron James showed disrespect during US national anthem",
-      "summary": "Key points: CNA Latest reports that Trump says LeBron James showed disrespect during US national anthem.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-23T02:01:17+08:00",
+      "id": "2026-10-23-we-don-t-really-want-to-cancel-singaporeans-weigh-france-travel-plans-amid-violent",
+      "category": "markets_investment",
+      "headline": "'We don't really want to cancel': Singaporeans weigh France travel plans amid violent protests",
+      "summary": "Key points: Singaporeans in Paris last weekend recounted scenes of damaged storefronts, tear gas and transport disruptions, even as daily life carried on largely as normal away from protest areas.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-10-23T06:00:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/trump-says-lebron-james-showed-disrespect-during-us-national-anthem-6483726",
+          "url": "https://www.channelnewsasia.com/singapore/france-protests-singaporeans-travel-paris-rioting-6481226",
           "publisher_type": "news"
         },
         {
@@ -165,36 +165,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/22/mcmc-warns-against-sharing-kuching-school-violence-footage-involving-teen-cautions-of-legal-action/240223",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-22-irb-must-return-tax-collected-on-compensation-from-forcefully-acquired-property-sa",
-      "category": "malaysia",
-      "headline": "IRB must return tax collected on compensation from forcefully acquired property, says appellate court - The Edge Malaysia",
-      "summary": "Key points: IRB must return tax collected on compensation from forcefully acquired property, says appellate court The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-22T18:45:13+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oV3JlN255TzBuRkFuZjdvMmtjcE53aV81aXczSDBDbUxwaGdwdUZYa1lKSktxaE14T2h4Q1U3dnd2Y1JtaXUzN1J5a09IZWdu?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -1220,6 +1190,26 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/22/last-phone-pings-of-54-missing-malaysians-traced-to-nepal-glacial-flood-site-foreign-minister-tells-parliament/240144",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-22-govt-urges-malaysians-to-uninstall-waze-over-israeli-data-laws-stops-short-of-blan",
+      "category": "malaysia",
+      "headline": "Govt urges Malaysians to uninstall Waze over Israeli data laws, stops short of blanket ban",
+      "summary": "Key points: The government has urged Malaysians to uninstall Waze over concerns that users’ personal an...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-22T12:13:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/22/govt-urges-malaysians-to-uninstall-waze-over-israeli-data-laws-stops-short-of-blanket-ban/240140",
           "publisher_type": "news"
         }
       ],
