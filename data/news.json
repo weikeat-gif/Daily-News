@@ -1,8 +1,104 @@
 {
-  "generated_at": "2026-10-24T21:06:16+08:00",
+  "generated_at": "2026-10-25T01:12:22+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-10-24-rb-leipzig-thump-elversberg-in-bundesliga-as-philippe-sinks-hamburg",
+      "category": "world",
+      "headline": "RB Leipzig thump Elversberg in Bundesliga as Philippe sinks Hamburg",
+      "summary": "Key points: CNA Latest reports that RB Leipzig thump Elversberg in Bundesliga as Philippe sinks Hamburg.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-24T23:57:37+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/sport/rb-leipzig-thump-elversberg-in-bundesliga-philippe-sinks-hamburg-6489116",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-24-global-investor-chooses-malaysia-for-us-50-bln-investment-in-tech-sector-anwar-ber",
+      "category": "malaysia",
+      "headline": "Global Investor Chooses Malaysia For US$50 Bln Investment In Tech Sector – Anwar - Bernama",
+      "summary": "Key points: Global Investor Chooses Malaysia For US$50 Bln Investment In Tech Sector – Anwar Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-24T22:14:46+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jVUhkbWtENUNXMHRDTjlGYlhrZnhuSWJmVkhoYlVrbnBJaG1UbTlhUE9IUGhwVHJOcVZnRlh4WENHY1FCQ0h4bHM1STlwSjRINXpUX1p3OUwtQQ?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "anwar",
+        "investment",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-24-anwar-says-a-global-investor-plans-us-50b-tech-investment-in-malaysia-the-edge-mal",
+      "category": "markets_investment",
+      "headline": "Anwar says a global investor plans US$50b tech investment in Malaysia - The Edge Malaysia",
+      "summary": "Key points: Anwar says a global investor plans US$50b tech investment in Malaysia The Edge Malaysia",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-10-24T21:40:03+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ubVgtLU9DUW91cE04TUp6Z19KMmg2NHAxU0NiV3JpUkRvZzNuWGFpY0Q4ek15eVhjNUp5UlFtaDFIV2FZa2h6aDRTSy1fbXpo?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "anwar",
+        "investment",
+        "war"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-10-24-israeli-forces-displace-hundreds-of-hebron-families-after-deadly-attack-on-soldier",
       "category": "markets_investment",
@@ -81,36 +177,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-24-reduction-in-indonesia-s-gas-supply-amounts-to-less-than-2-of-singapore-s-total-da",
-      "category": "markets_investment",
-      "headline": "Reduction in Indonesia's gas supply amounts to less than 2% of Singapore’s total daily demand: EMA",
-      "summary": "Key points: Singapore's Energy Market Authority also said that it had contingency plans in place to deal with such reductions.",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-10-24T20:20:00+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/singapore/indonesia-gas-exports-ema-6488841",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1172,49 +1238,6 @@
       ],
       "topics": [
         "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-24-gucci-and-volvo-cars-get-hammered-as-oil-and-ai-worries-rattle-markets",
-      "category": "markets_investment",
-      "headline": "Gucci and Volvo Cars get hammered as oil and AI worries rattle markets",
-      "summary": "Key points: NEW YORK, Oct 24 — Oil prices rose to their highest levels since late April on Friday, with benchmark crude contra...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-10-24T09:36:57+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/10/24/gucci-and-volvo-cars-get-hammered-as-oil-and-ai-worries-rattle-markets/240379",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-24-pm-tells-cabinet-to-pursue-major-policy-shifts-for-a-more-resilient-malaysia",
-      "category": "malaysia",
-      "headline": "PM tells Cabinet to pursue major policy shifts for a more resilient Malaysia",
-      "summary": "Key points: KUALA LUMPUR, Oct 24 — Prime Minister Datuk Seri Anwar Ibrahim has highlighted the need for Cabinet members to loo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-24T09:31:05+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/24/pm-tells-cabinet-to-pursue-major-policy-shifts-for-a-more-resilient-malaysia/240387",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "war"
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
