@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-26T05:25:35+08:00",
+  "generated_at": "2026-10-26T07:48:36+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-26-zelenskyy-says-us-warnings-on-ballistic-strikes-have-fully-resumed",
+      "id": "2026-10-26-serbia-s-vucic-concedes-defeat-in-historic-election-win-for-student-protest-moveme",
       "category": "world",
-      "headline": "Zelenskyy says US warnings on ballistic strikes have fully resumed",
-      "summary": "Key points: Zelenskyy casted the change as a result of a meeting with US special envoy Steve Witkoff in Oslo.",
+      "headline": "Serbia's Vucic concedes defeat in historic election win for student protest movement",
+      "summary": "Key points: CNA Latest reports that Serbia's Vucic concedes defeat in historic election win for student protest movement.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-26T05:13:26+08:00",
+      "published_at": "2026-10-26T07:40:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/zelenskyy-says-us-warnings-ballistic-strikes-have-fully-resumed-6491526",
+          "url": "https://www.channelnewsasia.com/world/serbia-election-vucic-concede-defeat-student-protest-movement-6491631",
           "publisher_type": "news"
         },
         {
@@ -25,6 +25,66 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-26-your-aircon-isn-t-cleaning-your-air-and-bowls-of-water-won-t-either-what-haze-does",
+      "category": "malaysia",
+      "headline": "Your aircon isn’t cleaning your air, and bowls of water won’t either: What haze does indoors",
+      "summary": "Key points: KUALA LUMPUR, Oct 26 — Keeping windows and doors shut during haze can help limit polluted air entering homes, but...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-26T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/26/your-aircon-isnt-cleaning-your-air-and-bowls-of-water-wont-either-what-haze-does-indoors/240567",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-26-skies-are-clearing-but-weeks-indoors-can-mess-with-your-head-experts-say-don-t-bru",
+      "category": "malaysia",
+      "headline": "Skies are clearing, but weeks indoors can mess with your head: Experts say don’t brush off the signs",
+      "summary": "Key points: KUALA LUMPUR, Oct 26 — With haze conditions continue to affect parts of the country, mental health exper...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-26T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/10/26/skies-are-clearing-but-weeks-indoors-can-mess-with-your-head-experts-say-dont-brush-off-the-signs/240215",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-26-green-energy-vs-local-anger-why-this-sri-lankan-community-is-saying-no-to-wind-tur",
+      "category": "world",
+      "headline": "Green energy vs local anger: Why this Sri Lankan community is saying no to wind turbines",
+      "summary": "Key points: MANNAR (Sri Lanka), Oct 26 — Beneath rotating wind turbines on Sri Lanka’s Mannar peninsula, a fishing net i...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-26T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/26/green-energy-vs-local-anger-why-this-sri-lankan-community-is-saying-no-to-wind-turbines/240527",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -1150,66 +1210,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/25/overnight-downpour-floods-penang-neighbourhoods-leaving-dozens-of-homes-underwater/240507",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-25-reject-politics-of-hatred-and-build-malaysia-together-anwar-tells-melaka",
-      "category": "malaysia",
-      "headline": "Reject politics of hatred and build Malaysia together, Anwar tells Melaka",
-      "summary": "Key points: Prime Minister Datuk Seri Anwar Ibrahim has urged the people of Melaka to reject politics of hatr...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-25T11:08:31+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/25/reject-politics-of-hatred-and-build-malaysia-together-anwar-tells-melaka/240506",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-25-malaysia-condemns-deadly-attack-on-jordan-church-stands-in-solidarity-with-victims",
-      "category": "malaysia",
-      "headline": "Malaysia condemns deadly attack on Jordan church, stands in solidarity with victims",
-      "summary": "Key points: KUALA LUMPUR, Oct 25 — Malaysia has strongly condemned the deliberate attack on the Greek Orthodox Church of St.",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-25T10:50:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/25/malaysia-condemns-deadly-attack-on-jordan-church-stands-in-solidarity-with-victims/240503",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-25-police-investigate-fatal-jb-flat-fall-after-seven-year-old-reportedly-climbed-corr",
-      "category": "malaysia",
-      "headline": "Police investigate fatal JB flat fall after seven-year-old reportedly climbed corridor wall",
-      "summary": "Key points: JOHOR BAHRU, Oct 25 — A seven-year-old boy died Friday evening after allegedly falling from the 10th floor of a fl...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-25T10:42:35+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/25/police-investigate-fatal-jb-flat-fall-after-seven-year-old-reportedly-climbed-corridor-wall/240501",
           "publisher_type": "news"
         }
       ],
