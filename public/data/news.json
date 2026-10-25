@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-10-25T06:53:23+08:00",
+  "generated_at": "2026-10-25T08:49:19+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-25-what-can-a-biological-age-test-actually-tell-you",
+      "id": "2026-10-25-on-campaign-trail-obama-says-trump-s-white-house-looks-like-saddam-hussein-opened-",
       "category": "world",
-      "headline": "What can a biological age test actually tell you?",
-      "summary": "Key points: Experts weigh in on the tests’ current accuracy and usefulness.",
+      "headline": "On campaign trail, Obama says Trump’s White House ‘looks like Saddam Hussein opened a Cheesecake Factory’",
+      "summary": "Key points: -Former US president Barack Obama delivered scathing criticisms of his successor, Donald Trum...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-25T06:46:43+08:00",
+      "published_at": "2026-10-25T08:37:54+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/10/25/on-campaign-trail-obama-says-trumps-white-house-looks-like-saddam-hussein-opened-a-cheesecake-factory/240479",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-25-singapore-haze-air-quality-remains-unhealthy-across-country-pm2-5-readings-normal-",
+      "category": "world",
+      "headline": "Singapore haze: Air quality remains unhealthy across country; PM2.5 readings normal in all regions",
+      "summary": "Key points: At 8am, the 24-hour PSI readings ranged from 103 to 138, while the hourly PM2.5 readings ranged from 43 to 55.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-10-25T06:59:00+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/wellness/biological-age-tests-6466301",
+          "url": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-remains-unhealthy-across-country-pm25-readings-normal-in-all-regions-6489876",
           "publisher_type": "news"
         },
         {
@@ -1217,26 +1237,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-24-what-you-order-is-what-you-get-zahid-says-ab-rauf-to-return-as-cm-if-bn-wins-melak",
-      "category": "malaysia",
-      "headline": "‘What you order is what you get’: Zahid says Ab Rauf to return as CM if BN wins Melaka polls",
-      "summary": "Key points: Datuk Seri Ab Rauf Yusoh will remain Melaka chief minister should Barisan Nasional (BN) and its st...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-24T09:41:21+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/10/24/what-you-order-is-what-you-get-zahid-says-ab-rauf-to-return-as-cm-if-bn-wins-melaka-polls/240389",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
