@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-27T21:57:41+08:00",
+  "generated_at": "2026-10-28T03:17:22+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-10-27-intel-to-buy-quantum-firm-classiq-for-about-2-3-billion-bloomberg-news-reports",
+      "id": "2026-10-28-norway-finland-leaders-hold-frank-and-substantive-talk-with-putin",
       "category": "world",
-      "headline": "Intel to buy quantum firm Classiq for about $2.3 billion, Bloomberg News reports",
-      "summary": "Key points: CNA Latest reports that Intel to buy quantum firm Classiq for about $2.3 billion, Bloomberg News reports.",
+      "headline": "Norway, Finland leaders hold 'frank and substantive' talk with Putin",
+      "summary": "Key points: \"The outcome of this war will have a direct impact on our and the broader European security,\" Finnish President Alexander Stubb said in a joint statement with Norwegian Prime Minister Jonas Gahr Store.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-27T21:46:30+08:00",
+      "published_at": "2026-10-28T03:01:56+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/intel-buy-quantum-firm-classiq-about-23-billion-bloomberg-news-reports-6496851",
+          "url": "https://www.channelnewsasia.com/world/norway-finland-russia-putin-ukraine-war-6497676",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,66 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-28-room-for-jordan-to-diversify-exports-to-malaysia-beyond-fertilisers-study-bernama",
+      "category": "malaysia",
+      "headline": "Room For Jordan To Diversify Exports To Malaysia Beyond Fertilisers - Study - Bernama",
+      "summary": "Key points: Room For Jordan To Diversify Exports To Malaysia Beyond Fertilisers - Study Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-28T00:41:15+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QcU9jRE9ZSFdTUXdFaWZBNmRMbEk2QnotS1hlNzZrY0FFV1VfMngxemhvN3JLNHBpLXBDaERoYk5BQUVCYTlEb2xzVVpMNXZwNWhZTEFtaE5tTXY0elFMRVpR?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-10-27-zetrix-ai-airasia-cimb-sd-guthrie-nestle-malaysia-lpi-capital-dufu-technology-eco-",
+      "category": "malaysia",
+      "headline": "Zetrix AI, AirAsia, CIMB, SD Guthrie, Nestle Malaysia, LPI Capital, Dufu Technology, Eco-Shop, Tenaga Nasional, Matrix Concepts, A",
+      "summary": "Key points: Zetrix AI, AirAsia, CIMB, SD Guthrie, Nestle Malaysia, LPI Capital, Dufu Technology, Eco-Shop, Tenaga Nasional, Matrix Concepts, AME Elite, Ni Hsin, HB Global, Infomina, Bintai Kinden, Paragon Globe The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-10-27T23:13:19+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mU0JwQlhaQlE1aUJ6VjJTaEhDVW1EbmJldFRUaW9fX0ZBRVNFYnJEaWotMDN3djRLTU03cGlubFBsdFZBRTNWOWMtTGFpbEZV?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -108,66 +168,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/10/27/maritime-officer-killed-three-injured-during-pursuit-of-suspected-migrant-boat-off-perlis/240834",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-27-room-for-jordan-to-diversify-exports-to-malaysia-beyond-fertilisers-study-bernama",
-      "category": "malaysia",
-      "headline": "Room For Jordan To Diversify Exports To Malaysia Beyond Fertilisers - Study - Bernama",
-      "summary": "Key points: Room For Jordan To Diversify Exports To Malaysia Beyond Fertilisers - Study Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-27T20:15:48+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aNklKblhudG1ydk96R2VtZnlPQXV4MVh5S05VTWlOTlVCSjhGR0YtcERzZWFlcmJUT21UY2k4VTc0RzFfcDR5VWJPc0ppYU5jSHByRnYzeHBYa3pBU2Juak96VUU?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-27-paragon-globe-gets-shareholders-nod-for-rm398m-johor-land-sale-to-data-centre-firm",
-      "category": "malaysia",
-      "headline": "Paragon Globe gets shareholders’ nod for RM398m Johor land sale to data centre firm DayOne - The Edge Malaysia",
-      "summary": "Key points: Paragon Globe gets shareholders’ nod for RM398m Johor land sale to data centre firm DayOne The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-10-27T20:08:14+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PNGlOMWhzMWxiMUQ4ejRlTUlBTUIzbVZpMDlCczhwbWR1SzZuaHFKQnNRWjBYWWJRcFdNcEpwc2dOQjA4V2N5NzhWekMyZzBj?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
