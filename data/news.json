@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-31T21:17:16+08:00",
+  "generated_at": "2026-11-01T02:09:39+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
+    {
+      "id": "2026-11-01-motogp-confident-qatar-race-can-go-ahead-despite-rider-pushback",
+      "category": "world",
+      "headline": "MotoGP confident Qatar race can go ahead despite rider pushback",
+      "summary": "Key points: CNA Latest reports that MotoGP confident Qatar race can go ahead despite rider pushback.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-01T01:54:38+08:00",
+      "source_links": [
+        {
+          "name": "CNA Latest",
+          "url": "https://www.channelnewsasia.com/sport/motogp-confident-qatar-race-can-go-ahead-despite-rider-pushback-6509881",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X Channel NewsAsia",
+          "url": "https://x.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook Channel NewsAsia",
+          "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
     {
       "id": "2026-10-31-ringgit-expected-to-trade-range-bound-vs-us-dollar-next-week-ahead-of-bnm-s-opr-de",
       "category": "markets_investment",
@@ -107,36 +137,6 @@
         "latest update"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-10-31-manchester-united-captain-fernandes-returns-to-starting-lineup-at-chelsea",
-      "category": "world",
-      "headline": "Manchester United captain Fernandes returns to starting lineup at Chelsea",
-      "summary": "Key points: CNA Latest reports that Manchester United captain Fernandes returns to starting lineup at Chelsea.",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-10-31T20:05:53+08:00",
-      "source_links": [
-        {
-          "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/manchester-united-captain-fernandes-returns-starting-lineup-chelsea-6509501",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X Channel NewsAsia",
-          "url": "https://x.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook Channel NewsAsia",
-          "url": "https://www.facebook.com/ChannelNewsAsia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
