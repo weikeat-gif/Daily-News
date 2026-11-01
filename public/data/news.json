@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-01T23:44:47+08:00",
+  "generated_at": "2026-11-02T04:09:51+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-11-01-sharp-reverses-retirement-and-joins-eighth-tier-afc-rushden",
+      "id": "2026-11-02-trump-heads-to-iowa-kansas-with-senate-control-in-balance",
       "category": "world",
-      "headline": "Sharp reverses retirement and joins eighth-tier AFC Rushden",
-      "summary": "Key points: CNA Latest reports that Sharp reverses retirement and joins eighth-tier AFC Rushden.",
+      "headline": "Trump heads to Iowa, Kansas with Senate control in balance",
+      "summary": "Key points: Democrats and many Republicans have framed the election as a referendum on Trump's policies.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-01T23:30:28+08:00",
+      "published_at": "2026-11-02T03:15:49+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/sharp-reverses-retirement-and-joins-eighth-tier-afc-rushden-6511066",
+          "url": "https://www.channelnewsasia.com/world/trump-heads-iowa-kansas-senate-control-in-balance-6510766",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-02-mpl-malaysia-srg-clinch-sixth-consecutive-title-bernama",
+      "category": "malaysia",
+      "headline": "MPL Malaysia: SRG Clinch Sixth Consecutive Title - Bernama",
+      "summary": "Key points: MPL Malaysia: SRG Clinch Sixth Consecutive Title Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-02T00:25:09+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KdGVSZmtQT0FpR3dQbVFROW9hUGVPcVhrcHZ1MlRSM0k3QTFiX2JFLUpZZzI3TjNnU2xVVGszTmtZV1B6X1FDejBhVmxOMkJQNmxJX2hjbmluYTdYVDk3SmxoTQ?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -288,36 +318,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/11/01/melaka-polls-mcmc-wont-interfere-in-parties-social-media-campaigns-will-only-act-on-complaints/241609",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-01-malaysia-s-global-peace-index-ranking-reflects-security-efforts-saifuddin-nasution",
-      "category": "malaysia",
-      "headline": "Malaysia's Global Peace Index Ranking Reflects Security Efforts - Saifuddin Nasution - Bernama",
-      "summary": "Key points: Malaysia's Global Peace Index Ranking Reflects Security Efforts - Saifuddin Nasution Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-01T17:50:14+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KcklCMDVRbGphRU1jeEdkOTZlTEJUZEJzS01zX3BGTEdDUWxRRzBBSXp6cWQyLUxqYUxKN0JhSzVycVlyMUNvS1F6LTlSZWo1NHVEVUxIWXhEbmVTSGxpcHhYWHQ?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
