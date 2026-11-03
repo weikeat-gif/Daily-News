@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-03T23:48:35+08:00",
+  "generated_at": "2026-11-04T05:28:57+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-11-03-rallying-double-world-champion-rovanpera-returns-to-wrc-in-expanded-toyota-lineup",
+      "id": "2026-11-04-amd-forecasts-quarterly-revenue-above-estimates-as-data-center-growth-accelerates",
       "category": "world",
-      "headline": "Rallying-Double world champion Rovanpera returns to WRC in expanded Toyota lineup",
-      "summary": "Key points: CNA Latest reports that Rallying-Double world champion Rovanpera returns to WRC in expanded Toyota lineup.",
+      "headline": "AMD forecasts quarterly revenue above estimates as data-center growth accelerates",
+      "summary": "Key points: CNA Latest reports that AMD forecasts quarterly revenue above estimates as data-center growth accelerates.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-03T23:08:47+08:00",
+      "published_at": "2026-11-04T05:18:34+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/rallying-double-world-champion-rovanpera-returns-wrc-in-expanded-toyota-lineup-6517496",
+          "url": "https://www.channelnewsasia.com/business/amd-forecasts-quarterly-revenue-above-estimates-data-center-growth-accelerates-6517996",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-04-motogp-2026-success-enhances-malaysia-s-motorsports-reputation-anwar-bernama",
+      "category": "malaysia",
+      "headline": "MotoGP 2026 Success Enhances Malaysia’s Motorsports Reputation - Anwar - Bernama",
+      "summary": "Key points: MotoGP 2026 Success Enhances Malaysia’s Motorsports Reputation - Anwar Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-04T04:15:00+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PMHdqQlladW5kMk1IbUM1dWpTWHZabXg1NGtxLWpLNnlnQkdLaVM2a1ZjUnBqNlM4Z0FSQzZKV01EeTYzaXFiMnFlZ1lEMjdEOU1CNHVTNl9TUQ?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1073,36 +1103,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/11/03/saravanans-rm11m-corruption-trial-set-to-begin-march-2027/241786",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-03-who-calls-for-lifestyle-medicine-to-be-integrated-into-malaysia-s-health-system-be",
-      "category": "malaysia",
-      "headline": "WHO Calls For Lifestyle Medicine To Be Integrated Into Malaysia's Health System - Bernama",
-      "summary": "Key points: WHO Calls For Lifestyle Medicine To Be Integrated Into Malaysia's Health System Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-03T12:27:36+08:00",
-      "source_links": [
-        {
-          "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UQjJmeVh4SFRVOTN2WGh3MXFhbzc3TjVHbWxCampDY1NFWHhGbjh5cEhUMFM4V3ByUFM0T0hHaWxwNVdrUEx5MFF5M1ZVc1pUSW1sMEc3Qko5bldzdGl5UGZfTkctc28?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X BERNAMA",
-          "url": "https://x.com/bernamadotcom",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook BERNAMA",
-          "url": "https://www.facebook.com/BernamaTV",
-          "publisher_type": "social"
         }
       ],
       "topics": [
