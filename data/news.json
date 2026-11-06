@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-06T23:39:11+08:00",
+  "generated_at": "2026-11-07T05:15:35+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-11-06-third-seed-shelton-edges-past-paul-to-reach-paris-last-four",
+      "id": "2026-11-07-trump-names-migration-hardliner-miller-new-chief-of-staff",
       "category": "world",
-      "headline": "Third seed Shelton edges past Paul to reach Paris last four",
-      "summary": "Key points: CNA Latest reports that Third seed Shelton edges past Paul to reach Paris last four.",
+      "headline": "Trump names migration hardliner Miller new chief of staff",
+      "summary": "Key points: Stephen Miller, known for his hardline immigration policies, was described by US President Donald Trump as one of his \"most trusted advisors\".",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-06T23:27:58+08:00",
+      "published_at": "2026-11-07T05:06:43+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/third-seed-shelton-edges-past-paul-reach-paris-last-four-6531851",
+          "url": "https://www.channelnewsasia.com/world/trump-miller-new-chief-staff-migration-us-6532261",
           "publisher_type": "news"
         },
         {
@@ -976,6 +976,36 @@
       "confidence": "reported_unconfirmed"
     },
     {
+      "id": "2026-11-06-itu-pp-26-malaysia-to-share-digital-expertise-dual-5g-network-experience-fahmi-ber",
+      "category": "malaysia",
+      "headline": "ITU PP-26: Malaysia To Share Digital Expertise, Dual 5G Network Experience - Fahmi - Bernama",
+      "summary": "Key points: ITU PP-26: Malaysia To Share Digital Expertise, Dual 5G Network Experience - Fahmi Bernama",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-06T11:27:00+08:00",
+      "source_links": [
+        {
+          "name": "BERNAMA via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSNWNGbEVVME5PSS1vWG5sMUhMeXE2UmhYMzU3ZEthZjA2UmxxcFRnV0pTeG5DS1pYUmF3azd1MmlkWUFtSnBGYkhrSWlVTG5NNFduR0xwSVc2UQ?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X BERNAMA",
+          "url": "https://x.com/bernamadotcom",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook BERNAMA",
+          "url": "https://www.facebook.com/BernamaTV",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
       "id": "2026-11-06-you-all-know-better-rosmah-says-no-knowledge-of-rm50m-fine-payment-to-secure-najib",
       "category": "malaysia",
       "headline": "‘You all know better’: Rosmah says no knowledge of RM50m fine payment to secure Najib’s house arrest",
@@ -1214,26 +1244,6 @@
         "kuala lumpur",
         "anwar",
         "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-man-arrested-for-threatening-cheras-trader-with-knife-in-viral-video",
-      "category": "malaysia",
-      "headline": "Man arrested for threatening Cheras trader with knife in viral video",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 – A 38-year-old man was arrested for allegedly making threats using a knife against a tr...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T09:44:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/man-arrested-for-threatening-cheras-trader-with-knife-in-viral-video/242148",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
