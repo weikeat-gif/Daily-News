@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-11-07T09:35:56+08:00",
+  "generated_at": "2026-11-07T16:19:09+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-11-07-unlicensed-poultry-slaughterhouses-face-closure-demolition-under-selangor-crackdow",
+      "id": "2026-11-07-paraguay-s-president-impeached-over-bank-collapse-that-locked-millions-out-of-thei",
+      "category": "markets_investment",
+      "headline": "Paraguay’s president impeached over bank collapse that locked millions out of their savings",
+      "summary": "Key points: ASUNCION (Paraguay), Nov 7 — Pedro Alliana became president of Paraguay on Friday following the impeachment of his...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-11-07T16:12:07+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/11/07/paraguays-president-impeached-over-bank-collapse-that-locked-millions-out-of-their-savings/242362",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-umno-leaders-lodge-police-reports-dr-akmal-demands-action-on-najib-s-house-arrest-",
       "category": "malaysia",
-      "headline": "Unlicensed poultry slaughterhouses face closure, demolition under Selangor crackdown",
-      "summary": "Key points: SHAH ALAM, Nov 7 — The Selangor State Executive Council has directed all local authorities in the state to take im...",
+      "headline": "Umno leaders lodge police reports, Dr Akmal demands action on Najib’s house arrest delay",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — Several Umno leaders in Johor have lodged a police report over the delay in implementing for...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T09:28:08+08:00",
+      "published_at": "2026-11-07T16:01:47+08:00",
       "source_links": [
         {
           "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/unlicensed-poultry-slaughterhouses-face-closure-demolition-under-selangor-crackdown/242275",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/umno-leaders-lodge-police-reports-dr-akmal-demands-action-on-najibs-house-arrest/242361",
           "publisher_type": "news"
         }
       ],
@@ -24,79 +44,196 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-07-singapore-based-bitdeer-eyes-further-investment-in-malaysia-s-ai-infrastructure-sa",
-      "category": "malaysia",
-      "headline": "Singapore-based Bitdeer eyes further investment in Malaysia’s AI infrastructure, says Anwar",
-      "summary": "Key points: KUALA LUMPUR, Nov 7 — Singapore-headquartered Bitdeer Technologies Group (Bitdeer) has expressed its intention to...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T09:24:08+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/singapore-based-bitdeer-eyes-further-investment-in-malaysias-ai-infrastructure-says-anwar/242274",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "investment"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-07-malaysia-must-speed-up-agricultural-modernisation-to-strengthen-food-security-says",
-      "category": "malaysia",
-      "headline": "Malaysia must speed up agricultural modernisation to strengthen food security, says Mat Sabu",
-      "summary": "Key points: KUALA LUMPUR, Nov 7 — Malaysia must accelerate the modernisation of its agricultural sector and improve production...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T09:20:55+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/malaysia-must-speed-up-agricultural-modernisation-to-strengthen-food-security-says-mat-sabu/242273",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-07-dpm-zahid-malaysia-eyes-stronger-defence-ties-with-turkiye-with-focus-on-technolog",
-      "category": "malaysia",
-      "headline": "DPM Zahid: Malaysia eyes stronger defence ties with Turkiye, with focus on technology transfer",
-      "summary": "Key points: Malaysia views its defence cooperation with Turkiye as a strategic avenue to strengthen its tech...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T09:14:23+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/dpm-zahid-malaysia-eyes-stronger-defence-ties-with-turkiye-with-focus-on-technology-transfer/242272",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-07-china-s-giant-pandas-make-public-debut-at-us-zoo",
+      "id": "2026-11-07-thai-fuel-protest-convoy-heads-for-bangkok-despite-police-ban-on-gatherings-until-",
       "category": "world",
-      "headline": "China's giant pandas make public debut at US zoo",
-      "summary": "Key points: Giant pandas Ping Ping and Fu Shuang will make Zoo Atlanta home for the next 10 years.",
+      "headline": "Thai fuel protest convoy heads for Bangkok despite police ban on gatherings until Nov 20",
+      "summary": "Key points: A convoy of protesters demanding cheaper diesel is rolling towards the Thai capital, even as poli...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-07T09:14:00+08:00",
+      "published_at": "2026-11-07T15:55:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/11/07/thai-fuel-protest-convoy-heads-for-bangkok-despite-police-ban-on-gatherings-until-nov-20/242357",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-grabcar-s-auto-accept-booking-system-breaches-gig-workers-rights-tribunal-rules",
+      "category": "malaysia",
+      "headline": "GrabCar’s auto-accept booking system breaches gig workers’ rights, tribunal rules",
+      "summary": "Key points: The Gig Workers Tribunal (TPG) has ruled on three disputes involving e-hailing drivers and Grab...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T15:48:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/grabcars-auto-accept-booking-system-breaches-gig-workers-rights-tribunal-rules/242360",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-bank-rakyat-blames-third-party-glitch-for-website-outage-says-customer-funds-and-d",
+      "category": "malaysia",
+      "headline": "Bank Rakyat blames third-party glitch for website outage, says customer funds and data safe",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — Bank Rakyat said today that a disruption to its corporate website was caused by a technical...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T15:41:44+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/bank-rakyat-blames-third-party-glitch-for-website-outage-says-customer-funds-and-data-safe/242358",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-penang-pledges-land-titles-for-all-28-tamil-schools-with-five-secured-so-far",
+      "category": "malaysia",
+      "headline": "Penang pledges land titles for all 28 Tamil schools, with five secured so far",
+      "summary": "Key points: GEORGE TOWN, Nov 7 — The Penang State Government is committed to ensuring that all 28 Sekolah Jenis Kebangsaan Tam...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T15:32:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/penang-pledges-land-titles-for-all-28-tamil-schools-with-five-secured-so-far/242354",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-jalaluddin-denies-plot-to-oust-negeri-sembilan-mb-says-no-confidence-vote-never-di",
+      "category": "malaysia",
+      "headline": "Jalaluddin denies plot to oust Negeri Sembilan MB, says no-confidence vote never discussed",
+      "summary": "Key points: Negeri Sembilan Umno chief Datuk Seri Jalaluddin Alias has denied plotting to oust Menteri Besar...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T15:27:47+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/jalaluddin-denies-plot-to-oust-negeri-sembilan-mb-says-no-confidence-vote-never-discussed/242353",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-ecrl-phase-1-completed-on-track-for-dec-12-launch",
+      "category": "malaysia",
+      "headline": "ECRL Phase 1 completed, on track for Dec 12 launch",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — China Communications Construction (ECRL) Sdn Bhd (CCCECRL) has completed and handed over Pha...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T15:17:32+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/ecrl-phase-1-completed-on-track-for-dec-12-launch/242349",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-mardi-to-tighten-safety-procedures-across-malaysia-after-worker-dies-from-bee-stin",
+      "category": "malaysia",
+      "headline": "Mardi to tighten safety procedures across Malaysia after worker dies from bee stings, says D-G",
+      "summary": "Key points: The Malaysian Agricultural Research and Development Institute (Mardi) will tighten its safety stan...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T15:17:27+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/mardi-to-tighten-safety-procedures-across-malaysia-after-worker-dies-from-bee-stings-says-d-g/242350",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-american-girl-aged-seven-shot-dead-near-texas-border-as-mexican-police-face-questi",
+      "category": "world",
+      "headline": "American girl, aged seven, shot dead near Texas border as Mexican police face questions over helicopter fire",
+      "summary": "Key points: MEXICO CITY, Nov 7 — Mexican police shot dead a seven-year-old American girl when they opened fire on her family&r...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-07T15:15:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/11/07/american-girl-aged-seven-shot-dead-near-texas-border-as-mexican-police-face-questions-over-helicopter-fire/242346",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-fomca-s-72-hour-food-stockpiling-advice-not-a-government-directive-says-mat-sabu",
+      "category": "markets_investment",
+      "headline": "Fomca’s 72-hour food stockpiling advice not a government directive, says Mat Sabu",
+      "summary": "Key points: The government has not issued any directive for the public to stock up on food supplies for a 72-h...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-11-07T15:10:46+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/fomcas-72-hour-food-stockpiling-advice-not-a-government-directive-says-mat-sabu/242348",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-11-07-stand-on-either-side-of-escalators-commuters-reluctant-to-ditch-keep-left-habit-in",
+      "category": "world",
+      "headline": "Stand on either side of escalators? Commuters reluctant to ditch 'keep left' habit in SMRT trial",
+      "summary": "Key points: CNA's observations at City Hall MRT station found that commuters who walked up the steps on the right took about 20 seconds to complete the ride, compared with 30 seconds for those who stood still on the left.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-07T15:07:48+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/world/china-panda-us-zoo-atlanta-6532496",
+          "url": "https://www.channelnewsasia.com/singapore/smrt-escalator-stand-both-sides-trial-6532751",
           "publisher_type": "news"
         },
         {
@@ -117,16 +254,16 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-07-malaysia-turkiye-set-us-10b-trade-target-by-2030-following-zahid-erdogan-discussio",
+      "id": "2026-11-07-sarawak-polls-fadillah-dismisses-candidacy-speculation-says-gps-machinery-ready-vi",
       "category": "malaysia",
-      "headline": "Malaysia, Turkiye set US$10b trade target by 2030 following Zahid-Erdogan discussions",
-      "summary": "Key points: Prime Minister Datuk Seri Ahmad Zahid Hamidi paid a courtesy call on Turkiye President Recep Tay...",
+      "headline": "Sarawak polls: Fadillah dismisses candidacy speculation, says GPS machinery ready (VIDEO)",
+      "summary": "Key points: Deputy Prime Minister Datuk Amar Fadillah Yusof has brushed off speculation that he may contest i...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T09:08:16+08:00",
+      "published_at": "2026-11-07T15:04:52+08:00",
       "source_links": [
         {
           "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/malaysia-turkiye-set-us10b-trade-target-by-2030-following-zahid-erdogan-discussions/242271",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/sarawak-polls-fadillah-dismisses-candidacy-speculation-says-gps-machinery-ready-video/242347",
           "publisher_type": "news"
         }
       ],
@@ -137,16 +274,56 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-07-cornell-s-faculty-has-spoken-no-confidence-in-varsity-administration-after-alleged",
+      "id": "2026-11-07-kelantan-tops-list-of-3-045-flood-hotspots-as-ministry-prepares-for-monsoon",
+      "category": "malaysia",
+      "headline": "Kelantan tops list of 3,045 flood hotspots as ministry prepares for monsoon",
+      "summary": "Key points: The Ministry of Energy Transition and Water Transformation (Petra) is enhancing its preparednes...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T14:54:33+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/kelantan-tops-list-of-3045-flood-hotspots-as-ministry-prepares-for-monsoon/242344",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-can-ph-stand-out-from-bn-analysts-weigh-coalition-s-melaka-election-strategy",
+      "category": "malaysia",
+      "headline": "Can PH stand out from BN? Analysts weigh coalition’s Melaka election strategy",
+      "summary": "Key points: The first week of campaigning for the 16th Melaka State Election has been relatively subdued, with...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T14:45:05+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/can-ph-stand-out-from-bn-analysts-weigh-coalitions-melaka-election-strategy/242342",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-meghan-markle-s-father-held-in-florida-over-child-sexual-abuse-materials-with-more",
       "category": "world",
-      "headline": "Cornell’s faculty has spoken: No confidence in varsity administration after alleged gang rape",
-      "summary": "Key points: NEW YORK, Nov 7 — Faculty members at Cornell University on Friday passed a no-confidence resolution against the el...",
+      "headline": "Meghan Markle’s father held in Florida over child sexual abuse materials, with more alleged images traced to his old Philippines h",
+      "summary": "Key points: Thomas Markle, the estranged father of Prince Harry’s wife, Meghan Markle, was arrested in Fl...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-07T09:06:30+08:00",
+      "published_at": "2026-11-07T14:34:39+08:00",
       "source_links": [
         {
           "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/11/07/cornells-faculty-has-spoken-no-confidence-in-varsity-administration-after-alleged-gang-rape/242257",
+          "url": "https://www.malaymail.com/news/world/2026/11/07/meghan-markles-father-held-in-florida-over-child-sexual-abuse-materials-with-more-alleged-images-traced-to-his-old-philippines-home/242340",
           "publisher_type": "news"
         }
       ],
@@ -157,59 +334,16 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-07-malaysia-rises-two-spots-in-good-governance-ranking-anwar-warns-against-complacenc",
+      "id": "2026-11-07-brace-for-downpours-metmalaysia-warns-of-heavy-rain-in-four-states",
       "category": "malaysia",
-      "headline": "Malaysia rises two spots in good governance ranking, Anwar warns against complacency",
-      "summary": "Key points: KUALA LUMPUR, Nov 7 — Malaysia’s rise to 40th place among 133 countries in the Chandler Good Government Inde...",
+      "headline": "Brace for downpours: MetMalaysia warns of heavy rain in four states",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — The Malaysian Meteorological Department (MetMalaysia) has issued a warning of thunderstorms,...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T09:02:39+08:00",
+      "published_at": "2026-11-07T14:32:13+08:00",
       "source_links": [
         {
           "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/malaysia-rises-two-spots-in-good-governance-ranking-anwar-warns-against-complacency/242270",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-07-exodus-at-trump-s-justice-dept-civil-rights-chief-national-security-head-and-flori",
-      "category": "world",
-      "headline": "Exodus at Trump’s Justice Dept: Civil rights chief, national security head and Florida prosecutor resign after midterm drubbing",
-      "summary": "Key points: Several senior US Justice Department officials have resigned, including its civil rights chief...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-07T09:00:54+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/11/07/exodus-at-trumps-justice-dept-civil-rights-chief-national-security-head-and-florida-prosecutor-resign-after-midterm-drubbing/242265",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-07-selangor-freezes-puncak-alam-development-works-orders-faster-flood-mitigation-meas",
-      "category": "malaysia",
-      "headline": "Selangor freezes Puncak Alam development works, orders faster flood mitigation measures",
-      "summary": "Key points: SHAH ALAM, Nov 7 — The Selangor State Executive Council has decided to immediately halt all development works in P...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T08:59:08+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/selangor-freezes-puncak-alam-development-works-orders-faster-flood-mitigation-measures/242269",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/brace-for-downpours-metmalaysia-warns-of-heavy-rain-in-four-states/242341",
           "publisher_type": "news"
         }
       ],
@@ -220,16 +354,16 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-07-najib-s-taman-duta-residence-gazetted-as-prison-house-arrest-deferred-pending-lega",
+      "id": "2026-11-07-latest-kl-linked-drug-bust-sees-hong-kong-customs-find-1kg-of-suspected-cocaine-in",
       "category": "malaysia",
-      "headline": "Najib’s Taman Duta residence gazetted as prison, house arrest deferred pending legal clarification",
-      "summary": "Key points: KUALA LUMPUR, Nov 7 — The residence of former Prime Minister Datuk Seri Najib Razak on Jalan Langgak Duta, Taman D...",
+      "headline": "Latest KL-linked drug bust sees Hong Kong customs find 1kg of suspected cocaine in shoes",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — A 36-year-old Hong Kong man has been arrested after customs officers allegedly found about 1...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T08:54:36+08:00",
+      "published_at": "2026-11-07T14:25:55+08:00",
       "source_links": [
         {
           "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/najibs-taman-duta-residence-gazetted-as-prison-house-arrest-deferred-pending-legal-clarification/242268",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/latest-kl-linked-drug-bust-sees-hong-kong-customs-find-1kg-of-suspected-cocaine-in-shoes/242333",
           "publisher_type": "news"
         }
       ],
@@ -240,96 +374,16 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-07-anwar-open-to-easing-foreign-worker-rules-for-sectors-facing-shortages-warns-again",
+      "id": "2026-11-07-palestine-hopes-to-deepen-partnership-with-malaysia-towards-statehood-pm-s-advisor",
       "category": "malaysia",
-      "headline": "Anwar open to easing foreign worker rules for sectors facing shortages, warns against exploitation",
-      "summary": "Key points: KUALA LUMPUR, Nov 7 — Prime Minister Datuk Seri Anwar Ibrahim said the government is prepared to consider easing f...",
+      "headline": "Palestine Hopes To Deepen Partnership With Malaysia Towards Statehood – PM's Advisor - Bernama",
+      "summary": "Key points: Palestine Hopes To Deepen Partnership With Malaysia Towards Statehood – PM's Advisor Bernama",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T08:45:51+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/anwar-open-to-easing-foreign-worker-rules-for-sectors-facing-shortages-warns-against-exploitation/242266",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-07-deepavali-or-diwali-the-story-behind-the-two-names-of-the-festival-of-lights",
-      "category": "malaysia",
-      "headline": "Deepavali or Diwali? The story behind the two names of the Festival of Lights",
-      "summary": "Key points: KUALA LUMPUR, Nov 7 — As Malaysians prepare to celebrate Deepavali tomorrow, a linguistic debate about the Festiva...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/deepavali-or-diwali-the-story-behind-the-two-names-of-the-festival-of-lights/240240",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-07-if-malaysia-plans-to-roll-out-a-new-long-term-care-insurance-what-lessons-can-be-l",
-      "category": "malaysia",
-      "headline": "If Malaysia plans to roll out a new long-term care insurance, what lessons can be learned from Singapore?",
-      "summary": "Key points: KUALA LUMPUR, Nov 7 — If Malaysia was to introduce its own national insurance for long-term care (especially for o...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/if-malaysia-plans-to-roll-out-a-new-long-term-care-insurance-what-lessons-can-be-learned-from-singapore/241731",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-07-with-temperatures-rising-cop31-confronts-familiar-battles-over-cash-and-carbon",
-      "category": "world",
-      "headline": "With temperatures rising, COP31 confronts familiar battles over cash and carbon",
-      "summary": "Key points: Nearly 200 nations gather for the COP31 summit in Turkey on Monday but tensions over geopolitics, f...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-07T07:00:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/11/07/with-temperatures-rising-cop31-confronts-familiar-battles-over-cash-and-carbon/242187",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-07-malaysia-turkiye-defence-cooperation-goes-beyond-equipment-procurement-ahmad-zahid",
-      "category": "malaysia",
-      "headline": "Malaysia-Turkiye Defence Cooperation Goes Beyond Equipment Procurement - Ahmad Zahid - Bernama",
-      "summary": "Key points: Malaysia-Turkiye Defence Cooperation Goes Beyond Equipment Procurement - Ahmad Zahid Bernama",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T06:44:37+08:00",
+      "published_at": "2026-11-07T14:06:36+08:00",
       "source_links": [
         {
           "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tVXpiUUlkdnZsQ0R5Z3oxSVRBT3ZGbzlscGtoc0xUNTVkcFZGRVpWcXpSVm5tOFJfZ3RveUhlOGVLcFpmYUFFSmJXWU9FTkRycWNiZExBakZCemg2NUNRNXN3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPT0dRMDJieHBOempMVlBWTWk0anVlcV9PZnpKazg2eGh0aEJ4dm1vU2d2MG16el9RRlpQYUxUU0xWSGdYT2hlMlA0SmlKbGtKbFJLeWY3VVl4cTJP?oc=5",
           "publisher_type": "news"
         },
         {
@@ -350,16 +404,585 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-06-global-ai-sell-off-wipes-rm4-46-bil-off-bursa-s-20-largest-tech-stocks-the-edge-ma",
+      "id": "2026-11-07-melaka-pakatan-chairman-questions-bn-s-halved-jobs-target-demands-answers-on-past-",
+      "category": "malaysia",
+      "headline": "Melaka Pakatan chairman questions BN’s halved jobs target, demands answers on past state election pledges",
+      "summary": "Key points: Barisan Nasional (BN) should explain its record in fulfilling promises made in the 2021 Melaka sta...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T13:52:28+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/melaka-pakatan-chairman-questions-bns-halved-jobs-target-demands-answers-on-past-state-election-pledges/242336",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-agc-denies-defying-king-s-pardon-over-najib-s-house-arrest-seeks-clarity-on-jail-t",
+      "category": "malaysia",
+      "headline": "AGC denies defying King’s pardon over Najib’s house arrest, seeks clarity on jail terms",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — The Attorney General’s Chambers (AGC) has rejected allegations that it defied the King...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T13:45:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/agc-denies-defying-kings-pardon-over-najibs-house-arrest/242335",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-six-terengganu-districts-on-flood-alert-as-four-days-of-rain-forecast",
+      "category": "malaysia",
+      "headline": "Six Terengganu districts on flood alert as four days of rain forecast",
+      "summary": "Key points: KUALA TERENGGANU, Nov 7 — Residents in river basin areas in six Terengganu districts have been urged to stay alert...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T13:34:41+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/six-terengganu-districts-on-flood-alert-as-four-days-of-rain-forecast/242334",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-who-benefits-most-from-budi95-government-data-points-to-b40-and-m40-says-amir-hamz",
+      "category": "malaysia",
+      "headline": "Who benefits most from BUDI95? Government data points to B40 and M40, says Amir Hamzah",
+      "summary": "Key points: The B40 and M40 income groups derive greater benefits from the implementation of the BUDI Madan...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T13:25:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/who-benefits-most-from-budi95-government-data-points-to-b40-and-m40-says-amir-hamzah/242332",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "verified"
+    },
+    {
+      "id": "2026-11-07-anwar-subsidy-rationalisation-must-not-come-at-the-expense-of-the-poor",
+      "category": "malaysia",
+      "headline": "Anwar: Subsidy rationalisation must not come at the expense of the poor",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — The implementation of subsidy rationalisation must not under any circumstances compromise th...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T13:18:09+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/anwar-subsidy-rationalisation-must-not-come-at-the-expense-of-the-poor/242330",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-malaysia-must-stay-ahead-of-cyberattacks-not-just-react-to-them-says-anwar",
+      "category": "malaysia",
+      "headline": "Malaysia must stay ahead of cyberattacks, not just react to them, says Anwar",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — The government is strengthening the national cybersecurity readiness by focusing on the capa...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T13:15:18+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/malaysia-must-stay-ahead-of-cyberattacks-not-just-react-to-them-says-anwar/242329",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "anwar",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-washington-puts-a-us-20m-bounty-on-iran-s-nuclear-secrets",
+      "category": "world",
+      "headline": "Washington puts a US$20m bounty on Iran’s nuclear secrets",
+      "summary": "Key points: Washington is offering a US$20 million (RM82 million) reward “and possible relocation&rd...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-07T13:07:59+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/11/07/washington-puts-a-us20m-bounty-on-irans-nuclear-secrets/242321",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-home-minister-employers-account-for-more-than-half-of-malaysia-s-rm91-8m-immigrati",
+      "category": "malaysia",
+      "headline": "Home minister: Employers account for more than half of Malaysia’s RM91.8m immigration compound collections",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — More than half of the RM91.78 million collected in immigration compounds during the first 10...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T13:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/home-minister-employers-account-for-more-than-half-of-malaysias-rm918m-immigration-compound-collections/242326",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-iran-says-its-military-is-stronger-now-than-when-the-war-against-us-israel-began-i",
+      "category": "world",
+      "headline": "Iran says its military is ‘stronger’ now than when the war against US, Israel began in February",
+      "summary": "Key points: Iran’s military is “stronger” and more motivated than it was when the United Sta...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-07T12:58:23+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/11/07/iran-says-its-military-is-stronger-now-than-when-the-war-against-us-israel-began-in-february/242319",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-mass-disobedience-yellow-vests-defy-paris-ban-as-unions-and-students-march-over-th",
+      "category": "world",
+      "headline": "‘Mass disobedience’: Yellow Vests defy Paris ban as unions and students march over the cost of living",
+      "summary": "Key points: French unions and student groups are set to take to the streets for another day of protests on Satu...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-07T12:52:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/11/07/mass-disobedience-yellow-vests-defy-paris-ban-as-unions-and-students-march-over-the-cost-of-living/242320",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-at-least-56-malaysians-jailed-in-southern-thailand-44-for-drug-offences-says-consu",
+      "category": "malaysia",
+      "headline": "At least 56 Malaysians jailed in southern Thailand, 44 for drug offences, says consul-general",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — At least 56 Malaysians are serving prison sentences in southern Thailand, most for drug-rela...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T12:48:52+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/at-least-56-malaysians-jailed-in-southern-thailand-44-for-drug-offences-says-consul-general/242325",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-loud-gunshot-wakes-sabah-villagers-as-suspected-cattle-thieves-flee-with-livestock",
+      "category": "malaysia",
+      "headline": "Loud gunshot wakes Sabah villagers as suspected cattle thieves flee with livestock",
+      "summary": "Key points: Residents of Kampung Kamansi in Bingkor were jolted from their sleep when armed cattle rustlers...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T12:42:34+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/loud-gunshot-wakes-sabah-villagers-as-suspected-cattle-thieves-flee-with-livestock/242324",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-budget-2027-rm1-000-aid-to-help-school-bus-drivers-weather-holiday-income-slump",
+      "category": "malaysia",
+      "headline": "Budget 2027: RM1,000 aid to help school bus drivers weather holiday income slump",
+      "summary": "Key points: JOHOR BAHRU, Nov 7 — The special financial assistance of RM1,000 for school bus drivers, announced in the Budget 2...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T12:36:25+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/budget-2027-rm1000-aid-to-help-school-bus-drivers-weather-holiday-income-slump/242322",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-army-brigadier-general-grab-ceo-anthony-tan-among-19-selangor-state-honours-recipi",
+      "category": "malaysia",
+      "headline": "Army brigadier general, Grab CEO Anthony Tan among 19 Selangor state honours recipients",
+      "summary": "Key points: Commander of the 11th Brigade Brigadier General Datuk Safwan @ Asri Ismail led the list of 19 recip...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T12:31:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/army-brigadier-general-grab-ceo-anthony-tan-among-selangor-state-honours-recipients/242318",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-malaysia-imposes-anti-dumping-duties-of-up-to-35pc-on-flat-rolled-imports-from-chi",
+      "category": "malaysia",
+      "headline": "Malaysia imposes anti-dumping duties of up to 35pc on flat-rolled imports from China, Taiwan, Vietnam",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — The Investment, Trade and Industry Ministry (Miti) has imposed provisional anti-dumping duti...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T12:24:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/malaysia-imposes-anti-dumping-duties-of-up-to-35pc-on-flat-rolled-imports-from-china-taiwan-vietnam/242317",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "malaysia",
+        "kuala lumpur",
+        "investment",
+        "china"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-bukit-aman-over-6-000-police-personnel-deployed-nationwide-to-step-up-deepavali-se",
+      "category": "malaysia",
+      "headline": "Bukit Aman: Over 6,000 police personnel deployed nationwide to step up Deepavali security patrols",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — A total of 6,395 police officers and personnel, supported by 3,466 vehicles and motorcycles,...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T12:07:24+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/bukit-aman-over-6000-police-personnel-deployed-nationwide-to-step-up-deepavali-security-patrols/242314",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-teen-18-killed-and-six-year-old-girl-injured-after-car-crashes-into-barrier-on-plu",
+      "category": "malaysia",
+      "headline": "Teen, 18, killed and six-year-old girl injured after car crashes into barrier on PLUS highway",
+      "summary": "Key points: TANJUNG MALIM, Nov 7 — An 18-year-old woman was killed and a six-year-old girl injured after the car they were tra...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T12:00:47+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/teen-18-killed-and-six-year-old-girl-injured-after-car-crashes-into-barrier-on-plus-highway/242313",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-istana-negara-says-king-s-decree-on-najib-s-house-arrest-is-clear-must-be-respecte",
+      "category": "malaysia",
+      "headline": "Istana Negara says King’s decree on Najib’s house arrest is clear, must be respected",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — Istana Negara said today that His Majesty Sultan Ibrahim’s order allowing former prime...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T11:57:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/istana-negara-says-kings-order-on-najibs-house-arrest-is-clear-must-be-respected/242312",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-cheaper-faster-flashier-chinese-brands-crash-the-european-motorcycle-party",
       "category": "markets_investment",
-      "headline": "Global AI sell-off wipes RM4.46 bil off Bursa’s 20 largest tech stocks - The Edge Malaysia",
-      "summary": "Key points: Global AI sell-off wipes RM4.46 bil off Bursa’s 20 largest tech stocks The Edge Malaysia",
+      "headline": "Cheaper, faster, flashier: Chinese brands crash the European motorcycle party",
+      "summary": "Key points: RHO (Italy), Nov 7 — Just as with electric cars, Chinese motorcycle brands are roaring into European markets, with...",
       "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-11-06T21:28:12+08:00",
+      "published_at": "2026-11-07T11:45:15+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/11/07/cheaper-faster-flashier-chinese-brands-crash-the-european-motorcycle-party/242303",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-fahmi-to-meet-malaysian-diaspora-telecoms-industry-players-in-doha-ahead-of-itu-co",
+      "category": "malaysia",
+      "headline": "Fahmi to meet Malaysian diaspora, telecoms industry players in Doha ahead of ITU conference",
+      "summary": "Key points: Communications Minister Datuk Seri Fahmi Fadzil is scheduled to begin his itinerary today with engag...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T11:44:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/fahmi-to-meet-malaysian-diaspora-telecoms-industry-players-in-doha-ahead-of-itu-conference/242310",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-landslide-forces-full-closure-of-jalan-batu-arang-ijok-near-rawang",
+      "category": "malaysia",
+      "headline": "Landslide forces full closure of Jalan Batu Arang-Ijok near Rawang",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — Jalan Batu Arang-Ijok near the 32nd Mile, in the vicinity of Fruit Valley, Rawang, has been...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T11:39:31+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/landslide-forces-full-closure-of-jalan-batu-arang-ijok-near-rawang/242309",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-anwar-says-pakatan-banking-on-multiracial-appeal-candidate-integrity-in-melaka-pol",
+      "category": "malaysia",
+      "headline": "Anwar says Pakatan banking on multiracial appeal, candidate integrity in Melaka polls",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — Pakatan Harapan (PH) is banking on its multiracial representation and the integrity of its c...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T11:35:36+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/anwar-says-pakatan-banking-on-multiracial-appeal-candidate-integrity-in-melaka-polls/242308",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "kuala lumpur",
+        "anwar",
+        "bank",
+        "war"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-gopax-hits-the-panic-button-south-korean-crypto-trading-halts-as-hackers-claim-bre",
+      "category": "markets_investment",
+      "headline": "GOPAX hits the panic button: South Korean crypto trading halts as hackers claim breach",
+      "summary": "Key points: South Korean cryptocurrency exchange GOPAX said Friday it had suspended withdrawals and trading as...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-11-07T11:33:12+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/11/07/gopax-hits-the-panic-button-south-korean-crypto-trading-halts-as-hackers-claim-breach/242304",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-deepavali-holiday-rush-sees-heavy-traffic-on-kl-karak-plus-highways",
+      "category": "malaysia",
+      "headline": "Deepavali holiday rush sees heavy traffic on KL-Karak, PLUS highways",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — Traffic on several major highways began building up as early as 10am today as people started...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T11:24:53+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/deepavali-holiday-rush-sees-heavy-traffic-on-kl-karak-plus-highways/242307",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-pdrm-names-new-chiefs-for-pahang-sabah-and-sarawak-in-19-officer-reshuffle",
+      "category": "malaysia",
+      "headline": "PDRM names new chiefs for Pahang, Sabah and Sarawak in 19-officer reshuffle",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — The Royal Malaysia Police (PDRM) today announced the transfer of 19 senior officers to sever...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T11:19:33+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/pdrm-names-new-chiefs-for-pahang-sabah-and-sarawak-in-19-officer-reshuffle/242306",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-bersatu-pas-tensions-simmer-as-muhyiddin-eyes-melaka-clean-sweep",
+      "category": "malaysia",
+      "headline": "Bersatu-PAS tensions simmer as Muhyiddin eyes Melaka clean sweep",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — Parti Pribumi Bersatu Malaysia president Tan Sri Muhyiddin Yassin has acknowledged that unre...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T11:15:14+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/bersatu-pas-tensions-simmer-as-muhyiddin-eyes-melaka-clean-sweep/242305",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-flood-evacuees-rise-to-1-404-across-selangor-and-perak-this-morning",
+      "category": "malaysia",
+      "headline": "Flood evacuees rise to 1,404 across Selangor and Perak this morning",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — The number of flood victims in Selangor and Perak continued to rise this morning, with 1,404...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T11:07:02+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/flood-evacuees-rise-to-1404-across-selangor-and-perak-this-morning/242302",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-as-of-today-i-m-still-mb-ismail-lasim-sidesteps-questions-over-negri-sembilan-lead",
+      "category": "malaysia",
+      "headline": "‘As of today, I’m still MB’: Ismail Lasim sidesteps questions over Negri Sembilan leadership",
+      "summary": "Key points: Negri Sembilan Menteri Besar Datuk Ismail Lasim has refused to be drawn on speculation that he c...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T11:02:53+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/as-of-today-im-still-mb-ismail-lasim-sidesteps-questions-over-negri-sembilan-leadership/242301",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-sks-group-and-mb-world-acquire-hotel-and-serviced-apartments-above-capital-city-ma",
+      "category": "malaysia",
+      "headline": "SKS Group and MB World acquire hotel and serviced apartments above Capital City Mall in Johor for RM50m - The Edge Malaysia",
+      "summary": "Key points: SKS Group and MB World acquire hotel and serviced apartments above Capital City Mall in Johor for RM50m The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T10:56:13+08:00",
       "source_links": [
         {
           "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53a0RIYVVqTUZacXZKNzRLaU16ZVcyRTl1Z083SEs5WVM3ZzEwdm1HMjd0RXJSZkVwaEg4UUhHNkNFUElPUGl2dVcwU2k1TXdv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96LWpiLTF1b0R2X3pLR21SaDBCLXFocDVJYXNTSVl5UlM5R3ZxTkh0N2t3T3NhNERLelBUOGgxdWFOMDgxZ3M2T2JTdnVXeFVv?oc=5",
           "publisher_type": "news"
         },
         {
@@ -376,20 +999,160 @@
       "topics": [
         "latest update"
       ],
-      "importance": 4,
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-06-netanyahu-s-trump-gamble-unravels-as-israel-faces-a-shifting-united-states",
+      "id": "2026-11-07-woman-arrested-after-possible-driver-swap-precedes-plus-crash-that-killed-retired-",
+      "category": "malaysia",
+      "headline": "Woman arrested after possible driver swap precedes PLUS crash that killed retired cop, wife near Kuala Muda",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — A 36-year-old woman has been arrested after a retired policeman and his wife were killed whe...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T10:53:29+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/woman-arrested-after-driver-swap-precedes-plus-crash-that-killed-retired-cop-wife-near-kuala-muda/242300",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-palestinian-pm-s-adviser-calls-for-deeper-malaysia-cooperation-in-development-dipl",
+      "category": "malaysia",
+      "headline": "Palestinian PM’s adviser calls for deeper Malaysia cooperation in development, diplomacy",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — Palestine hopes to deepen cooperation with Malaysia through concrete projects and programmes...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T10:45:20+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/palestinian-pms-adviser-calls-for-deeper-malaysia-cooperation-in-development-diplomacy/242299",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-saifullizan-ishak-named-new-sarawak-police-chief-zailanni-amit-appointed-deputy",
+      "category": "malaysia",
+      "headline": "Saifullizan Ishak named new Sarawak police chief, Zailanni Amit appointed deputy",
+      "summary": "Key points: DCP Saifullizan Ishak has been promoted to Commissioner of Police (CP) and appointed Sarawak&rsqu...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T10:41:18+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/saifullizan-ishak-named-new-sarawak-police-chief-zailanni-amit-appointed-deputy/242298",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-negeri-sembilan-mb-expects-7-000-visitors-at-deepavali-open-house-on-nov-14",
+      "category": "malaysia",
+      "headline": "Negeri Sembilan MB expects 7,000 visitors at Deepavali Open House on Nov 14",
+      "summary": "Key points: About 7,000 visitors are expected to attend the Negeri Sembilan-level Deepavali Open House at th...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T10:37:52+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/negeri-sembilan-mb-expects-7000-visitors-at-deepavali-open-house-on-nov-14/242297",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-hr-ministry-ramanan-s-appeal-seeks-legal-clarity-not-an-end-to-nube-mcba-negotiati",
+      "category": "malaysia",
+      "headline": "HR Ministry: Ramanan’s appeal seeks legal clarity, not an end to NUBE-MCBA negotiations",
+      "summary": "Key points: The continuation of Human Resources Minister Datuk Seri R.",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T10:32:53+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/hr-ministry-ramanans-appeal-seeks-legal-clarity-not-an-end-to-nube-mcba-negotiations/242296",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-fahmi-malaysia-eyes-shift-in-internet-coverage-measurements-to-include-key-economi",
+      "category": "malaysia",
+      "headline": "Fahmi: Malaysia eyes shift in internet coverage measurements to include key economic areas",
+      "summary": "Key points: Malaysia intends to propose at the International Telecommunication Union (ITU) level that internet c...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T10:27:50+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/fahmi-malaysia-eyes-shift-in-internet-coverage-measurements-to-include-key-economic-areas/242290",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-ltat-launches-five-year-anti-corruption-plan-to-safeguard-military-retirement-fund",
+      "category": "malaysia",
+      "headline": "LTAT launches five-year anti-corruption plan to safeguard military retirement funds",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — The Armed Forces Fund Board (LTAT) yesterday launched its Ethics, Transparency, Integrity an...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-07T10:23:17+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/ltat-launches-five-year-anti-corruption-plan-to-safeguard-military-retirement-funds/242289",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-07-cornell-gang-rape-accuser-faces-doxxing-threats-and-swatting-after-going-public-he",
       "category": "world",
-      "headline": "Netanyahu’s Trump gamble unravels as Israel faces a shifting United States",
-      "summary": "Key points: Prime Minister Benjamin Netanyahu’s brash campaign posters are still up on Israeli public...",
+      "headline": "Cornell gang rape accuser faces doxxing, threats and swatting after going public, her lawyer says",
+      "summary": "Key points: NEW YORK, Nov 7 — An allegation of gang rape at the elite Cornell University horrified Americans.But when the alle...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-06T21:00:00+08:00",
+      "published_at": "2026-11-07T10:22:32+08:00",
       "source_links": [
         {
           "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/11/06/netanyahus-trump-gamble-unravels-as-israel-faces-a-shifting-united-states/242178",
+          "url": "https://www.malaymail.com/news/world/2026/11/07/cornell-gang-rape-accuser-faces-doxxing-threats-and-swatting-after-going-public-her-lawyer-says/242262",
           "publisher_type": "news"
         }
       ],
@@ -400,16 +1163,16 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-06-health-ministry-fills-11-969-posts-this-year-remaining-positions-to-be-filled-by-2",
+      "id": "2026-11-07-boy-11-drowns-after-falling-into-river-while-fishing-with-friends-in-subang-perdan",
       "category": "malaysia",
-      "headline": "Health Ministry fills 11,969 posts this year, remaining positions to be filled by 2027",
-      "summary": "Key points: The Ministry of Health (MOH) has completed filling 11,969 of the 18,640 positions approved for...",
+      "headline": "Boy, 11, drowns after falling into river while fishing with friends in Subang Perdana",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — A group of children’s joyful fishing outing in a river near Desa Subang Perantau 2, Su...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T20:34:24+08:00",
+      "published_at": "2026-11-07T10:19:28+08:00",
       "source_links": [
         {
           "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/health-ministry-fills-11969-posts-this-year-remaining-positions-to-be-filled-by-2027/242254",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/boy-11-drowns-after-falling-into-river-while-fishing-with-friends-in-subang-perdana/242288",
           "publisher_type": "news"
         }
       ],
@@ -420,16 +1183,16 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-06-ramanan-rm10-000-one-off-aid-for-families-of-all-54-malaysian-flood-victims-in-nep",
+      "id": "2026-11-07-malaysia-austria-seek-closer-ties-ahead-of-65-years-of-diplomatic-relations",
       "category": "malaysia",
-      "headline": "Ramanan: RM10,000 one-off aid for families of all 54 Malaysian flood victims in Nepal-Tibet",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — All families of the 54 Malaysian victims of the Nepal-Tibet flood tragedy on August 26 will...",
+      "headline": "Malaysia, Austria seek closer ties ahead of 65 years of diplomatic relations",
+      "summary": "Key points: KUALA LUMPUR, Nov 7 — Austria and Malaysia are committed to further strengthening bilateral relations in various f...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T20:32:08+08:00",
+      "published_at": "2026-11-07T10:16:25+08:00",
       "source_links": [
         {
           "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/ramanan-rm10000-one-off-aid-for-families-of-all-54-malaysian-flood-victims-in-nepal-tibet/242253",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/malaysia-austria-seek-closer-ties-ahead-of-65-years-of-diplomatic-relations/242287",
           "publisher_type": "news"
         }
       ],
@@ -440,56 +1203,16 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-06-najib-returns-to-kajang-prison-after-agc-calls-for-house-arrest-deferment",
-      "category": "malaysia",
-      "headline": "Najib returns to Kajang Prison after AGC calls for house arrest deferment",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — A vehicle believed to be carrying former prime minister Datuk Seri Najib Razak returned to K...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T20:24:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/najib-returns-to-kajang-prison-after-agc-calls-for-house-arrest-deferment/242251",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-melaka-polls-bn-perikatan-pledge-rm30b-investments-free-water-and-no-quit-rent-hik",
-      "category": "malaysia",
-      "headline": "Melaka polls: BN, Perikatan pledge RM30b investments, free water and no quit rent hike in joint manifesto",
-      "summary": "Key points: Barisan Nasional (BN) and Perikatan Nasional (PN) today launched a joint manifesto for the 16th Me...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T20:12:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/melaka-polls-bn-perikatan-pledge-rm30b-investments-free-water-and-no-quit-rent-hike-in-joint-manifesto/242249",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-uk-police-expect-more-women-to-come-forward-after-russell-brand-conviction",
+      "id": "2026-11-07-texas-biggest-city-reverses-course-on-ice-and-the-agency-hits-back",
       "category": "world",
-      "headline": "UK police expect more women to come forward after Russell Brand conviction",
-      "summary": "Key points: The chief of London’s Metropolitan Police said Friday “many more” women might co...",
+      "headline": "Texas’ biggest city reverses course on ICE, and the agency hits back",
+      "summary": "Key points: The mayor of Houston, Texas announced Friday that the city’s police department will limit i...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-06T20:02:24+08:00",
+      "published_at": "2026-11-07T10:15:51+08:00",
       "source_links": [
         {
           "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/11/06/uk-police-expect-more-women-to-come-forward-after-russell-brand-conviction/242250",
+          "url": "https://www.malaymail.com/news/world/2026/11/07/texas-biggest-city-reverses-course-on-ice-and-the-agency-hits-back/242261",
           "publisher_type": "news"
         }
       ],
@@ -500,748 +1223,16 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-06-bleat-the-rush-hour-blues-tokyo-commuters-fall-for-grass-munching-goats-nagi-and-p",
-      "category": "world",
-      "headline": "Bleat the rush-hour blues: Tokyo commuters fall for grass-munching goats Nagi and Pokke",
-      "summary": "Key points: Two white goats deployed by rail staff in central Tokyo to munch overgrown grass have become social...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-06T19:53:44+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/11/06/bleat-the-rush-hour-blues-tokyo-commuters-fall-for-grass-munching-goats-nagi-and-pokke/242247",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-negeri-sembilan-warns-heavy-vehicle-drivers-to-check-blind-spots-as-deepavali-traf",
+      "id": "2026-11-07-one-dead-six-injured-in-proton-ertiga-honda-civic-collision-in-kluang",
       "category": "malaysia",
-      "headline": "Negeri Sembilan warns heavy vehicle drivers to check blind spots as Deepavali traffic builds",
-      "summary": "Key points: Drivers of heavy vehicles using highways in Negeri Sembilan are reminded to be more mindful of b...",
+      "headline": "One dead, six injured in Proton Ertiga–Honda Civic collision in Kluang",
+      "summary": "Key points: An elderly man was killed while six others sustained minor injuries in a collision involving a Pro...",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T19:42:37+08:00",
+      "published_at": "2026-11-07T10:11:38+08:00",
       "source_links": [
         {
           "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/negeri-sembilan-warns-heavy-vehicle-drivers-to-check-blind-spots-as-deepavali-traffic-builds/242248",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-terminal-bersepadu-selatan-expects-175-000-passengers-over-deepavali-travel-period",
-      "category": "malaysia",
-      "headline": "Terminal Bersepadu Selatan expects 175,000 passengers over Deepavali travel period, up 20pc",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — Terminal Bersepadu Selatan (TBS) is expected to receive approximately 175,000 passengers thr...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T19:32:08+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/terminal-bersepadu-selatan-expects-175000-passengers-over-deepavali-travel-period-up-20pc/242246",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-six-macc-strategic-communications-officers-receive-iprm-accreditation",
-      "category": "malaysia",
-      "headline": "Six MACC strategic communications officers receive IPRM accreditation",
-      "summary": "Key points: Six officers from the Malaysian Anti-Corruption Commission’s (MACC) Strategic Communicati...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T19:28:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/six-macc-strategic-communications-officers-receive-iprm-accreditation/242245",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-bursa-sounds-alarm-over-zetrix-ai-s-dividend-non-payment-financial-position",
-      "category": "markets_investment",
-      "headline": "Bursa sounds alarm over Zetrix AI’s dividend non-payment, financial position",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — Bursa Malaysia has directed Zetrix AI Bhd to resolve the non-payment of its 2025 final divid...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-11-06T19:27:44+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/11/06/bursa-sounds-alarm-over-zetrix-ais-dividend-non-payment-financial-position/242244",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-bright-light-seen-in-malaysian-airspace-linked-to-nasa-satellite-re-entry-no-debri",
-      "category": "malaysia",
-      "headline": "Bright light seen in Malaysian airspace linked to Nasa satellite re-entry, no debris found, says Mosti",
-      "summary": "Key points: The Ministry of Science, Technology and Innovation (Mosti), through the Space Authority Divisio...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T19:18:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/bright-light-seen-in-malaysian-airspace-linked-to-nasa-satellite-re-entry-no-debris-found-says-mosti/242242",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-agc-says-najib-s-house-arrest-should-be-temporarily-postponed-pending-legal-clarif",
-      "category": "malaysia",
-      "headline": "AGC says Najib’s house arrest should be temporarily postponed pending legal clarification",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — The Attorney General’s Chambers (AGC) says the implementation of Datuk Seri Najib Raza...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T18:53:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/agc-says-najibs-house-arrest-should-be-temporarily-postponed-pending-legal-clarification/242241",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-ringgit-closes-lower-amid-global-market-jitters-and-semiconductor-sell-off",
-      "category": "markets_investment",
-      "headline": "Ringgit closes lower amid global market jitters and semiconductor sell-off",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — The ringgit closed lower against the US dollar on Friday, weighed down by a broad risk-off s...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-11-06T18:48:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/11/06/ringgit-closes-lower-amid-global-market-jitters-and-semiconductor-sell-off/242239",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-najib-taken-for-scheduled-dental-examination-after-leaving-kajang-prison-anthony-l",
-      "category": "malaysia",
-      "headline": "Najib taken for scheduled dental examination after leaving Kajang Prison, Anthony Loke says",
-      "summary": "Key points: Former prime minister Datuk Seri Najib Razak has yet to return home after leaving Kajang Prison...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T18:44:44+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/najib-taken-for-scheduled-dental-examination-after-leaving-kajang-prison-anthony-loke-says/242240",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-penang-committed-to-sustainable-well-regulated-pig-farming-says-state-exco",
-      "category": "malaysia",
-      "headline": "Penang committed to sustainable, well-regulated pig farming, says state exco",
-      "summary": "Key points: TASEK GELUGOR, Nov 6 — The Penang state government is committed to ensuring that the pig farming industry in the s...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T18:19:48+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/penang-committed-to-sustainable-well-regulated-pig-farming-says-state-exco/242238",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-financially-vulnerable-malaysians-targeted-for-recruitment-as-drug-mules-police-sa",
-      "category": "malaysia",
-      "headline": "Financially vulnerable Malaysians targeted for recruitment as drug mules, police say",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — Individuals with financial difficulties, especially those from Sarawak and Pahang, have been...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T18:15:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/financially-vulnerable-malaysians-targeted-for-recruitment-as-drug-mules-police-say/242235",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-bursa-tumbles-as-global-headwinds-overshadow-malaysia-s-growth-prospects",
-      "category": "markets_investment",
-      "headline": "Bursa tumbles as global headwinds overshadow Malaysia’s growth prospects",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — Bursa Malaysia ended the week lower amid broad-based selling, tracking weaker regional marke...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-11-06T18:07:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/11/06/bursa-tumbles-as-global-headwinds-overshadow-malaysias-growth-prospects/242234",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-malaysia-declares-69-items-national-heritage-from-mi-kolok-to-dewan-rakyat-mace",
-      "category": "malaysia",
-      "headline": "Malaysia declares 69 items National Heritage, from ‘mi kolok’ to Dewan Rakyat mace",
-      "summary": "Key points: A total of 69 heritage items have been recognised as National Heritage 2026, including uthappam...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T18:01:05+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/malaysia-declares-69-items-national-heritage-from-mi-kolok-to-dewan-rakyat-mace/242233",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-opr-stays-at-2-75pc-as-bank-negara-sees-no-need-to-tighten-monetary-policy-says-go",
-      "category": "malaysia",
-      "headline": "OPR stays at 2.75pc as Bank Negara sees no need to tighten monetary policy, says governor",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — Bank Negara Malaysia’s (BNM) decision to maintain the Overnight Policy Rate (OPR) at 2...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T17:55:07+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/opr-stays-at-275pc-as-bank-negara-sees-no-need-to-tighten-monetary-policy-says-governor/242232",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "bnm",
-        "bank negara"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-transport-minister-anthony-loke-resigns-as-najib-returns-home-to-begin-house-arres",
-      "category": "malaysia",
-      "headline": "Transport Minister Anthony Loke resigns as Najib returns home to begin house arrest",
-      "summary": "Key points: Transport Minister Anthony Loke Siew Fook has announced his resignation after former prime mini...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T17:36:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/transport-minister-anthony-loke-resigns-as-najib-returns-home-to-begin-house-arrest/242230",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-zahid-reminds-loke-of-pledge-to-resign-from-cabinet-post-if-najib-is-released-for-",
-      "category": "malaysia",
-      "headline": "Zahid reminds Loke of pledge to resign from Cabinet post if Najib is released for house arrest today",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — Deputy Prime Minister and Umno president Datuk Seri Ahmad Zahid Hamidi has called on Transpo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T17:22:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/zahid-reminds-loke-of-pledge-to-resign-from-cabinet-post-if-najib-is-released-today/242227",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-bnm-tightens-cybersecurity-safeguards-for-financial-institutions-amid-rising-globa",
-      "category": "markets_investment",
-      "headline": "BNM tightens cybersecurity safeguards for financial institutions amid rising global threats",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — Bank Negara Malaysia (BNM) has put in place regulatory requirements for financial inst...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-11-06T17:04:15+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/11/06/bnm-tightens-cybersecurity-safeguards-for-financial-institutions-amid-rising-global-threats/242226",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "bnm",
-        "bank negara"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-metmalaysia-forecasts-continuous-rain-in-kelantan-terengganu-from-sunday-to-nov-11",
-      "category": "malaysia",
-      "headline": "MetMalaysia forecasts continuous rain in Kelantan, Terengganu from Sunday to Nov 11",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — Continuous rain is expected in several parts of Kelantan and Terengganu from Sund...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T16:40:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/metmalaysia-forecasts-continuous-rain-in-kelantan-terengganu-from-sunday-to-nov-11/242222",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-japan-to-launch-cyber-rescue-team-as-wave-of-hacking-incidents-hits-businesses",
-      "category": "world",
-      "headline": "Japan to launch ‘cyber rescue team’ as wave of hacking incidents hits businesses",
-      "summary": "Key points: Japan will announce the launch of a “cyber rescue team” today in response to a su...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-06T16:36:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/11/06/japan-to-launch-cyber-rescue-team-as-wave-of-hacking-incidents-hits-businesses/242221",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-pm-disagrees-with-umno-s-rm50m-fine-payment-for-najib-but-respects-legal-process",
-      "category": "malaysia",
-      "headline": "PM disagrees with Umno’s RM50m fine payment for Najib, but respects legal process",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — Prime Minister Datuk Seri Anwar Ibrahim has expressed disagreement with Umno’s decisio...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T16:23:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/pm-disagrees-with-umnos-rm50m-fine-payment-for-najib-but-respects-legal-process/242217",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-anwar-says-malaysia-assessing-impact-of-us-midterm-election-results-including-tari",
-      "category": "malaysia",
-      "headline": "Anwar says Malaysia assessing impact of US midterm election results, including tariffs",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — The government is examining the short and medium-term impacts across various aspects following p...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T16:21:41+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/anwar-says-malaysia-assessing-impact-of-us-midterm-election-results-including-tariffs/242220",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-cabinet-approves-transfer-of-scheduled-waste-management-powers-to-sarawak-under-ma",
-      "category": "malaysia",
-      "headline": "Cabinet approves transfer of scheduled waste management powers to Sarawak under MA63",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — The Cabinet has agreed to a memorandum on amendments to the Borneo States (Legislative...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T15:34:04+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/cabinet-approves-transfer-of-scheduled-waste-management-powers-to-sarawak-under-ma63/242210",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-delhi-struggles-to-breathe-as-smog-forces-international-cricket-elsewhere",
-      "category": "world",
-      "headline": "Delhi struggles to breathe as smog forces international cricket elsewhere",
-      "summary": "Key points: NEW DELHI, Nov 6 — India’s cricket board has moved an international match scheduled for December out of New...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-06T15:27:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/11/06/delhi-struggles-to-breathe-as-smog-forces-international-cricket-elsewhere/242208",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-najib-exits-kajang-prison-to-serve-out-src-sentence-under-house-arrest",
-      "category": "malaysia",
-      "headline": "Najib exits Kajang Prison to serve out SRC sentence under house arrest",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — Malaysia’s former prime minister Datuk Seri Najib Razak left prison on Friday after pa...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T15:10:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/home-not-free-najib-exits-kajang-prison-to-serve-out-sentence-under-house-arrest/242205",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-teo-nie-ching-urges-govt-agencies-to-conduct-cybersecurity-audits-amid-rising-hack",
-      "category": "malaysia",
-      "headline": "Teo Nie Ching urges govt agencies to conduct cybersecurity audits amid rising hacking threats",
-      "summary": "Key points: KUALA TERENGGANU, Nov 6 — All government agencies must conduct cybersecurity audits to identify vulnerabilit...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T14:36:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/teo-nie-ching-urges-govt-agencies-to-conduct-cybersecurity-audits-amid-rising-hacking-threats/242200",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-selangor-to-review-approved-projects-tighten-flood-mitigation-requirements-in-high",
-      "category": "malaysia",
-      "headline": "Selangor to review approved projects, tighten flood mitigation requirements in high-risk areas",
-      "summary": "Key points: KUALA SELANGOR, Nov 6 — The Selangor state government will order a review of previously approved devel...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T14:24:14+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/selangor-to-review-approved-projects-tighten-flood-mitigation-requirements-in-high-risk-areas/242198",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-negeri-sembilan-customs-seizes-rm2-56m-in-cigarettes-liquor-and-smuggled-goods",
-      "category": "malaysia",
-      "headline": "Negeri Sembilan Customs seizes RM2.56m in cigarettes, liquor and smuggled goods",
-      "summary": "Key points: The Negeri Sembilan branch of the Royal Malaysian Customs Department crippled smuggling ac...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T14:20:37+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/negeri-sembilan-customs-seizes-rm256m-in-cigarettes-liquor-and-smuggled-goods/242197",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-high-court-orders-najib-s-house-arrest-after-umno-settles-rm50m-fine-payment",
-      "category": "malaysia",
-      "headline": "High Court orders Najib’s house arrest after Umno settles RM50m fine payment",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — The High Court has issued a house arrest order for Datuk Seri Najib Razak after his RM50 mil...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T14:14:50+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/high-court-orders-najibs-house-arrest-after-umno-settles-rm50m-fine-payment/242194",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-johor-domestic-trade-ministry-logs-2-373-offences-rm11-6m-in-seizures-in-price-con",
-      "category": "malaysia",
-      "headline": "Johor Domestic Trade Ministry logs 2,373 offences, RM11.6m in seizures in price control crackdown",
-      "summary": "Key points: JOHOR BAHRU, Nov 6 — The Johor Domestic Trade and Cost of Living Ministry (KPDN) has recorded 2,373 offences, with...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T14:00:38+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/johor-domestic-trade-ministry-logs-2373-offences-rm116m-in-seizures-in-price-control-crackdown/242191",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-bondi-beach-shooting-claims-16th-victim-as-elderly-woman-dies-from-injuries",
-      "category": "world",
-      "headline": "Bondi Beach shooting claims 16th victim as elderly woman dies from injuries",
-      "summary": "Key points: An elderly woman wounded in last year’s mass shooting at Bondi Beach has died fr...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-06T13:38:28+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/11/06/bondi-beach-shooting-claims-16th-victim-as-elderly-woman-dies-from-injuries/242188",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-payment-completed-umno-settles-najib-s-rm50m-fine-paving-way-for-house-arrest",
-      "category": "malaysia",
-      "headline": "‘Payment completed’: Umno settles Najib’s RM50m fine, paving way for house arrest",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — Umno has completed all payment processes to the Kuala Lumpur High Court for the RM50 million...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T13:22:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/payment-completed-umno-completes-najibs-rm50m-fine-payment-shuts-solidarity-fund-says-asyraf-wajdi/242185",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-metmalaysia-thunderstorms-heavy-rain-forecast-for-six-states-and-putrajaya-until-2",
-      "category": "malaysia",
-      "headline": "MetMalaysia: Thunderstorms, heavy rain forecast for six states and Putrajaya until 2pm",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — The Malaysian Meteorological Department (MetMalaysia) has issued a thunderstorm warning for...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T13:07:22+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/metmalaysia-thunderstorms-heavy-rain-forecast-for-selangor-johor-sarawak-and-three-other-states-until-2pm/242182",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "putrajaya",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-najib-s-lawyer-special-officer-enter-kl-court-complex-as-rm50m-fine-payment-specul",
-      "category": "malaysia",
-      "headline": "Najib’s lawyer, special officer enter KL Court Complex as RM50m fine payment speculation mounts",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — A member of Datuk Seri Najib Razak’s legal team arrived at the Kuala Lumpur Court Comp...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T12:53:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/najibs-lawyer-special-officer-enter-kl-courts-complex-as-rm50m-fine-payment-speculation-mounts/242179",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-police-cordon-off-najib-s-jalan-langgak-duta-residence-amid-speculation-of-possibl",
-      "category": "malaysia",
-      "headline": "Police cordon off Najib’s Jalan Langgak Duta residence amid speculation of possible return",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — Police have tightened security at the entrance to Datuk Seri Najib Razak’s residence i...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T12:28:30+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/police-cordon-off-najibs-jalan-langgak-duta-residence-amid-speculation-of-possible-return/242175",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-legal-disputes-cast-doubt-on-year-end-petronas-sarawak-settlement",
-      "category": "malaysia",
-      "headline": "Legal disputes cast doubt on year-end Petronas-Sarawak settlement",
-      "summary": "Key points: KUALA LUMPUR, Nov 6 — A year-end settlement between Sarawak and Petronas is not possible despite Sarawak Premier T...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T12:22:54+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/legal-disputes-cast-doubt-on-year-end-petronas-sarawak-settlement/242177",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-seoul-tokyo-lead-asian-market-bloodbath-as-ai-backlash-and-us-political-uncertaint",
-      "category": "markets_investment",
-      "headline": "Seoul, Tokyo lead Asian market bloodbath as AI backlash and US political uncertainty rattle investors",
-      "summary": "Key points: HONG KONG, Nov 6 — Asian tech firms suffered a bloodbath today as investors tracked a collapse on Wall...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-11-06T12:19:21+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/11/06/seoul-tokyo-lead-asian-market-bloodbath-as-ai-backlash-and-us-political-uncertainty-rattle-investors/242176",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-06-three-more-held-over-fatal-machete-attack-in-teluk-intan",
-      "category": "malaysia",
-      "headline": "Three more held over fatal machete attack in Teluk Intan",
-      "summary": "Key points: Three more suspects have been arrested to assist in investigations into the death of a man who was b...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-06T12:09:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/06/three-more-held-over-fatal-machete-attack-in-teluk-intan/242173",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/one-dead-six-injured-in-proton-ertigahonda-civic-collision-in-kluang/242286",
           "publisher_type": "news"
         }
       ],
