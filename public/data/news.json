@@ -1,19 +1,59 @@
 {
-  "generated_at": "2026-11-08T03:52:26+08:00",
+  "generated_at": "2026-11-08T07:24:37+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-11-08-sao-paulo-qualifying-delayed-as-heavy-rain-hits-interlagos",
+      "id": "2026-11-08-eat-mingle-celebrate-five-deepavali-open-houses-from-brickfields-to-ipoh-for-all-m",
+      "category": "malaysia",
+      "headline": "Eat, mingle, celebrate: Five Deepavali open houses from Brickfields to Ipoh for all Malaysians",
+      "summary": "Key points: KUALA LUMPUR, Nov 8 — If colours make up one half of Deepavali, food makes up the other.",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-08T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/08/eat-mingle-celebrate-five-deepavali-open-houses-from-brickfields-to-ipoh-for-all-malaysians/242181",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-08-why-the-ai-stock-sell-off-could-matter-far-beyond-wall-street",
+      "category": "markets_investment",
+      "headline": "Why the AI stock sell-off could matter far beyond Wall Street",
+      "summary": "Key points: “Correction” is not the word investors want to hear, but the stampede out of AI an...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-11-08T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/11/08/why-the-ai-stock-sell-off-could-matter-far-beyond-wall-street/242323",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-08-russell-rages-after-aborted-lap-in-fight-for-pole",
       "category": "world",
-      "headline": "Sao Paulo qualifying delayed as heavy rain hits Interlagos",
-      "summary": "Key points: CNA Latest reports that Sao Paulo qualifying delayed as heavy rain hits Interlagos.",
+      "headline": "Russell rages after aborted lap in fight for pole",
+      "summary": "Key points: CNA Latest reports that Russell rages after aborted lap in fight for pole.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-08T03:27:22+08:00",
+      "published_at": "2026-11-08T06:57:56+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/sao-paulo-qualifying-delayed-heavy-rain-hits-interlagos-6533421",
+          "url": "https://www.channelnewsasia.com/sport/russell-rages-after-aborted-lap-in-fight-pole-6533601",
           "publisher_type": "news"
         },
         {
@@ -1190,46 +1230,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/11/07/loud-gunshot-wakes-sabah-villagers-as-suspected-cattle-thieves-flee-with-livestock/242324",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-07-budget-2027-rm1-000-aid-to-help-school-bus-drivers-weather-holiday-income-slump",
-      "category": "malaysia",
-      "headline": "Budget 2027: RM1,000 aid to help school bus drivers weather holiday income slump",
-      "summary": "Key points: JOHOR BAHRU, Nov 7 — The special financial assistance of RM1,000 for school bus drivers, announced in the Budget 2...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T12:36:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/budget-2027-rm1000-aid-to-help-school-bus-drivers-weather-holiday-income-slump/242322",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-07-army-brigadier-general-grab-ceo-anthony-tan-among-19-selangor-state-honours-recipi",
-      "category": "malaysia",
-      "headline": "Army brigadier general, Grab CEO Anthony Tan among 19 Selangor state honours recipients",
-      "summary": "Key points: Commander of the 11th Brigade Brigadier General Datuk Safwan @ Asri Ismail led the list of 19 recip...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-07T12:31:24+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/07/army-brigadier-general-grab-ceo-anthony-tan-among-selangor-state-honours-recipients/242318",
           "publisher_type": "news"
         }
       ],
