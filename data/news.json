@@ -1,19 +1,99 @@
 {
-  "generated_at": "2026-11-14T01:29:45+08:00",
+  "generated_at": "2026-11-14T07:14:48+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-11-14-pochettino-wants-to-end-tenure-as-us-coach-on-high-note",
+      "id": "2026-11-14-melaka-polls-become-test-of-najib-house-arrest-row-with-ge16-battle-lines-emerging",
+      "category": "malaysia",
+      "headline": "Melaka polls become test of Najib house arrest row, with GE16 battle lines emerging",
+      "summary": "Key points: KUALA LUMPUR, Nov 14 — Melaka voters head to the polls today for a state election that began as a contest over dev...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-14T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/14/melaka-polls-become-test-of-najib-house-arrest-row-with-ge16-battle-lines-emerging/243064",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-14-designing-the-money-part-of-malaysia-s-long-term-care-system-economists-share-what",
+      "category": "malaysia",
+      "headline": "Designing the money part of Malaysia’s long-term care system: Economists share what to look out for",
+      "summary": "Key points: KUALA LUMPUR, Nov 14 — It may be “tricky” for Malaysia to figure out who or what will be paying for th...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-14T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/14/designing-the-money-part-of-malaysias-long-term-care-system-economists-share-what-to-look-out-for/242715",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-14-sweet-looking-bomb-explodes-in-indian-man-s-mouth-killing-him-in-madhya-pradesh",
       "category": "world",
-      "headline": "Pochettino wants to end tenure as US coach on high note",
-      "summary": "Key points: CNA Latest reports that Pochettino wants to end tenure as US coach on high note.",
+      "headline": "Sweet-looking bomb explodes in Indian man’s mouth, killing him in Madhya Pradesh",
+      "summary": "Key points: NEW DELHI, Nov 14 — An Indian man died after a crude bomb disguised as a traditional sweet exploded in his mo...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-14T01:14:31+08:00",
+      "published_at": "2026-11-14T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/11/14/sweet-looking-bomb-explodes-in-indian-mans-mouth-killing-him-in-madhya-pradesh/243154",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-14-china-s-630-million-weight-problem-first-glp-1-pill-gets-the-green-light",
+      "category": "world",
+      "headline": "China’s 630 million weight problem: First GLP-1 pill gets the green light",
+      "summary": "Key points: China has approved its first orally administered GLP-1 weight-loss drug, permitting Eli Lilly to...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-14T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/11/14/chinas-630-million-weight-problem-first-glp-1-pill-gets-the-green-light/243155",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-14-how-to-keep-your-anger-in-check-3-tips-from-experts",
+      "category": "world",
+      "headline": "How to keep your anger in check: 3 tips from experts",
+      "summary": "Key points: From adjusting your expectations of others to rehearsing calmer responses, psychologists explain how small changes can help prevent heated exchanges.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-14T06:53:24+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/pochettino-wants-end-tenure-us-coach-high-note-6550301",
+          "url": "https://www.channelnewsasia.com/wellness/tips-manage-anger-experts-psychologists-6542021",
           "publisher_type": "news"
         },
         {
@@ -1148,89 +1228,6 @@
       ],
       "topics": [
         "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-13-melaka-polls-ocr-va-system-won-t-affect-voting-secrecy-or-time-taken-to-vote-says-",
-      "category": "malaysia",
-      "headline": "Melaka polls: OCR-VA system won’t affect voting secrecy or time taken to vote, says EC",
-      "summary": "Key points: The use of the Optical Character Recognition-Voters Attendance (OCR-VA) system has no direct impac...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-13T13:24:56+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/13/melaka-polls-ocr-va-system-wont-affect-voting-secrecy-or-time-taken-to-vote-says-ec/243088",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-13-no-talks-with-govt-on-malaysia-airlines-taking-over-airasia-s-local-routes-says-ma",
-      "category": "malaysia",
-      "headline": "No talks with govt on Malaysia Airlines taking over AirAsia’s local routes, says MAG",
-      "summary": "Key points: KUALA LUMPUR, Nov 13 — Malaysia Aviation Group (MAG) has not held any official discussions with the government on...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-13T13:19:45+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/11/13/no-talks-with-govt-on-malaysia-airlines-taking-over-airasias-local-routes-says-mag/243087",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-13-japan-pm-takaichi-heads-to-china-for-first-visit-amid-deeply-strained-ties",
-      "category": "world",
-      "headline": "Japan PM Takaichi heads to China for first visit amid deeply strained ties",
-      "summary": "Key points: Japan said today that Prime Minister Sanae Takaichi would visit China next week for the first time...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-13T13:14:59+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail World",
-          "url": "https://www.malaymail.com/news/world/2026/11/13/japan-pm-takaichi-heads-to-china-for-first-visit-amid-deeply-strained-ties/243086",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-13-gobind-malaysia-jumps-seven-places-to-27th-in-imd-world-digital-and-ai-ranking-boo",
-      "category": "malaysia",
-      "headline": "Gobind: Malaysia jumps seven places to 27th in IMD World Digital and AI Ranking, boosting push towards AI nation by 2030",
-      "summary": "Key points: Malaysia has climbed seven places to 27th from 34th in the IMD World Digital and AI Ranking 20...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-13T13:06:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/13/gobind-malaysia-jumps-seven-places-to-27th-in-imd-world-digital-and-ai-ranking-boosting-push-towards-ai-nation-by-2030/243085",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "putrajaya",
-        "world",
-        "war"
       ],
       "importance": 3,
       "confidence": "reported_unconfirmed"
