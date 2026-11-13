@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-13T04:38:30+08:00",
+  "generated_at": "2026-11-13T09:40:02+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-11-13-jensen-huang-steps-down-the-hands-on-kingmaker-behind-the-ai-boom",
+      "id": "2026-11-13-chinese-ai-satellite-maker-adaspace-set-to-open-lower-in-hong-kong-debut",
       "category": "world",
-      "headline": "Jensen Huang steps down: the hands-on kingmaker behind the AI boom",
-      "summary": "Key points: CNA Latest reports that Jensen Huang steps down: the hands-on kingmaker behind the AI boom.",
+      "headline": "Chinese AI satellite maker Adaspace set to open lower in Hong Kong debut",
+      "summary": "Key points: CNA Latest reports that Chinese AI satellite maker Adaspace set to open lower in Hong Kong debut.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-13T04:22:33+08:00",
+      "published_at": "2026-11-13T09:30:09+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/jensen-huang-steps-down-hands-kingmaker-behind-ai-boom-6547451",
+          "url": "https://www.channelnewsasia.com/business/chinese-ai-satellite-maker-adaspace-set-open-lower-in-hong-kong-debut-6548141",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,206 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-13-el-nino-mostly-to-blame-for-indonesia-s-wildfires-researchers-say",
+      "category": "world",
+      "headline": "El Nino mostly to blame for Indonesia’s wildfires, researchers say",
+      "summary": "Key points: Wildfires that consumed vast swathes of Indonesia this year were driven largely by a strong El N...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-13T09:26:29+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/11/13/el-nino-mostly-to-blame-for-indonesias-wildfires-researchers-say/243042",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-13-trump-calls-for-apple-s-cook-to-replace-huang-at-nvidia",
+      "category": "markets_investment",
+      "headline": "Trump calls for Apple’s Cook to replace Huang at Nvidia",
+      "summary": "Key points: US President Donald Trump said yesterday that former Apple CEO Tim Cook should replace Jensen...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-11-13T09:22:32+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/11/13/trump-calls-for-apples-cook-to-replace-huang-at-nvidia/243040",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-13-hajiji-says-sabah-welcomes-tech-investors-but-warns-big-projects-must-protect-wate",
+      "category": "malaysia",
+      "headline": "Hajiji says Sabah welcomes tech investors, but warns big projects must protect water and power supplies",
+      "summary": "Key points: KOTA KINABALU, Nov 13 — The Sabah government is open to credible investments in the technology sector, including t...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-13T09:19:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/13/hajiji-says-sabah-welcomes-tech-investors-but-warns-big-projects-must-protect-water-and-power-supplies/243038",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-13-zahid-says-second-phase-of-refugee-registration-programme-could-roll-out-soon-for-",
+      "category": "malaysia",
+      "headline": "Zahid says second phase of refugee registration programme could roll out soon for UNHCR cardholders",
+      "summary": "Key points: KUALA LUMPUR, Nov 13 — The government is expected to launch the second phase of the Refugee Registration Document...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-13T09:11:26+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/13/zahid-says-second-phase-of-refugee-registration-programme-could-roll-out-soon-for-unhcr-cardholders/243035",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-13-jensen-huang-resigns-as-nvidia-ceo-after-affair-revelations-ending-33-years-at-hel",
+      "category": "markets_investment",
+      "headline": "Jensen Huang resigns as Nvidia CEO after affair revelations, ending 33 years at helm",
+      "summary": "Key points: SAN FRANCISCO (US), Nov 12 — Jensen Huang, the leather-jacketed architect of the artificial intelligence boom, res...",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-11-13T09:07:13+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Money",
+          "url": "https://www.malaymail.com/news/money/2026/11/13/jensen-huang-resigns-as-nvidia-ceo-after-affair-revelations-ending-33-years-at-helm/243032",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-13-nacsa-on-amber-alert-but-fahmi-says-no-worrying-cyber-incidents-confirmed-so-far",
+      "category": "malaysia",
+      "headline": "Nacsa on amber alert, but Fahmi says no worrying cyber incidents confirmed so far",
+      "summary": "Key points: Communications Minister Datuk Seri Fahmi Fadzil said that based on daily reports received from th...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-13T09:00:27+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/13/nacsa-on-amber-alert-but-fahmi-says-no-worrying-cyber-incidents-confirmed-so-far/243034",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-13-anwar-wants-another-sit-down-with-loke-before-deciding-on-transport-minister-s-res",
+      "category": "malaysia",
+      "headline": "Anwar wants another sit-down with Loke before deciding on Transport Minister’s resignation",
+      "summary": "Key points: Prime Minister Datuk Seri Anwar Ibrahim wants to hold further discussions with Anthony Loke over...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-13T08:55:05+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/13/anwar-wants-another-sit-down-with-loke-before-deciding-on-transport-ministers-resignation/243033",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-13-pm-anwar-hits-back-at-claims-he-defied-king-over-najib-s-house-arrest-controversy",
+      "category": "malaysia",
+      "headline": "PM Anwar hits back at claims he defied King over Najib’s house arrest controversy",
+      "summary": "Key points: Prime Minister Datuk Seri Anwar Ibrahim has denied allegations that he or the government had acte...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-13T08:48:08+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/13/pm-anwar-hits-back-at-claims-he-defied-king-over-najibs-house-arrest-controversy/243031",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-13-mediasas-what-malaysians-need-to-know-about-the-new-basic-medical-insurance-plan",
+      "category": "malaysia",
+      "headline": "MediAsas: What Malaysians need to know about the new basic medical insurance plan",
+      "summary": "Key points: KUALA LUMPUR, Nov 13 — Malaysians struggling with rising medical insurance premiums may have a more affordabl...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-13T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/13/mediasas-what-malaysians-need-to-know-about-the-new-basic-medical-insurance-plan/242126",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-13-can-an-ageing-malaysia-take-inspiration-from-super-aged-japan-s-ltc-insurance",
+      "category": "malaysia",
+      "headline": "Can an ageing Malaysia take inspiration from super-aged Japan’s LTC insurance?",
+      "summary": "Key points: KUALA LUMPUR, Nov 13 — It is very likely that a significant proportion of Malaysians will need long-term care as M...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-13T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/13/can-an-ageing-malaysia-take-inspiration-from-super-aged-japans-ltc-insurance/242209",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -1007,212 +1207,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/11/12/doctors-reattach-hand-of-policeman-hurt-in-kepong-attack/242971",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-12-heavy-rain-to-lash-parts-of-kedah-penang-perak-pahang-johor-sarawak-and-sabah-this",
-      "category": "malaysia",
-      "headline": "Heavy rain to lash parts of Kedah, Penang, Perak, Pahang, Johor, Sarawak and Sabah this afternoon",
-      "summary": "Key points: KUALA LUMPUR, Nov 12 — The Malaysian Meteorological Department (MetMalaysia) has placed swathes of seven states on...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-12T15:24:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/12/heavy-rain-to-lash-parts-of-kedah-penang-perak-pahang-johor-sarawak-and-sabah-this-afternoon/242969",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-12-another-headache-for-nvidia-as-china-s-defence-linked-university-buys-its-advanced",
-      "category": "world",
-      "headline": "Another headache for Nvidia as China’s defence-linked university buys its advanced AI chips",
-      "summary": "Key points: A Chinese university with close ties to the country’s defence bodies recently bought advan...",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-12T14:56:53+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/11/12/another-headache-for-nvidia-as-chinas-defence-linked-university-buys-its-advanced-ai-chips/242948",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-12-anwar-confirms-economic-talks-with-taiwan-postponed-says-trade-ties-remain-strong-",
-      "category": "malaysia",
-      "headline": "Anwar confirms economic talks with Taiwan postponed, says trade ties remain strong despite friction over One-China remarks",
-      "summary": "Key points: KUALA LUMPUR, Nov 12 — Prime Minister Datuk Seri Anwar Ibrahim told Parliament today that investments and trade fr...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-12T14:52:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/12/anwar-confirms-economic-talks-with-taiwan-postponed-says-trade-ties-remain-strong-despite-friction-over-one-china-remarks/242962",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "kuala lumpur",
-        "anwar",
-        "investment",
-        "china"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-12-malaysia-to-make-data-centre-operators-disclose-power-use-gpu-imports-under-new-la",
-      "category": "malaysia",
-      "headline": "Malaysia to make data centre operators disclose power use, GPU imports under new law, says Johari Ghani",
-      "summary": "Key points: KUALA LUMPUR, Nov 12 — The requirement to disclose data centre operations information, including electricity usage...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-12T14:51:01+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/12/malaysia-to-make-data-centre-operators-disclose-power-use-gpu-imports-under-new-law-says-johari-ghani/242961",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-12-family-insiders-or-a-rival-ceo-meet-the-nvidia-contenders-tipped-to-succeed-jensen",
-      "category": "markets_investment",
-      "headline": "Family, insiders or a rival CEO? Meet the Nvidia contenders tipped to succeed Jensen Huang",
-      "summary": "Key points: LOS ANGELES, Nov 12 — Chip giant Nvidia’s board was reportedly meeting Wednesday to discuss the future of co...",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-11-12T14:47:40+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Money",
-          "url": "https://www.malaymail.com/news/money/2026/11/12/family-insiders-or-a-rival-ceo-meet-the-nvidia-contenders-tipped-to-succeed-jensen-huang/242947",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-12-malaysia-to-launch-carbon-capture-utilisation-and-storage-roadmap-by-end-november-",
-      "category": "malaysia",
-      "headline": "Malaysia to launch carbon capture, utilisation and storage roadmap by end-November, says Akmal Nasrullah",
-      "summary": "Key points: KUALA LUMPUR, Nov 12 — The government is expected to launch the Carbon Capture, Utilisation and Storage (CCUS) Roa...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-12T14:27:10+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/12/malaysia-to-launch-carbon-capture-utilisation-and-storage-roadmap-by-end-november-says-akmal-nasrullah/242959",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-12-gobind-tells-umno-bn-to-resign-if-they-lack-confidence-in-anwar-s-leadership",
-      "category": "malaysia",
-      "headline": "Gobind tells Umno, BN to resign if they lack confidence in Anwar’s leadership",
-      "summary": "Key points: Digital Minister Gobind Singh Deo today said parties unhappy with the unity government’s le...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-12T14:21:09+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/12/gobind-tells-umno-bn-to-resign-if-they-lack-confidence-in-anwars-leadership/242956",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-12-anwar-rejects-gst-calls-says-tax-would-burden-all-malaysians-including-low-income-",
-      "category": "malaysia",
-      "headline": "Anwar rejects GST calls, says tax would burden all Malaysians, including low-income earners",
-      "summary": "Key points: KUALA LUMPUR, Nov 12 — Prime Minister Datuk Seri Anwar Ibrahim said those advocating the reintroduction of the Goo...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-12T14:20:30+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/12/anwar-rejects-gst-calls-says-tax-would-burden-all-malaysians-including-low-income-earners/242958",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "malaysia",
-        "kuala lumpur",
-        "anwar",
-        "war"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-12-dpm-fadillah-urges-malaysia-to-tighten-battery-safety-standards-as-energy-storage-",
-      "category": "malaysia",
-      "headline": "DPM Fadillah urges Malaysia to tighten battery safety standards as energy storage use expands",
-      "summary": "Key points: Malaysia needs to strengthen safety standards and certification for battery energy storage systems...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-12T14:16:34+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/12/dpm-fadillah-urges-malaysia-to-tighten-battery-safety-standards-as-energy-storage-use-expands/242957",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-12-gobind-leaves-it-to-anwar-to-decide-anthony-loke-s-replacement",
-      "category": "malaysia",
-      "headline": "Gobind leaves it to Anwar to decide Anthony Loke’s replacement",
-      "summary": "Key points: Digital Minister Gobind Singh Deo today said the decision on who should replace Anthony Loke as t...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-12T14:10:18+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/12/gobind-leaves-it-to-anwar-to-decide-anthony-lokes-replacement/242954",
           "publisher_type": "news"
         }
       ],
