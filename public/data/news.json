@@ -1,19 +1,99 @@
 {
-  "generated_at": "2026-11-15T05:58:03+08:00",
+  "generated_at": "2026-11-15T09:39:25+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-11-15-spacex-s-starship-aces-first-return-to-texas",
+      "id": "2026-11-15-anwar-congratulates-bn-on-melaka-win-urges-focus-on-people-s-welfare",
+      "category": "malaysia",
+      "headline": "Anwar congratulates BN on Melaka win, urges focus on people’s welfare",
+      "summary": "Key points: KUALA LUMPUR, Nov 15 — Prime Minister Datuk Seri Anwar Ibrahim has congratulated Barisan Nasional (BN) on the mand...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-15T09:26:03+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/15/anwar-congratulates-bn-on-melaka-win-urges-focus-on-peoples-welfare/243304",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-15-microsoft-announces-service-restored-global-outage-over",
       "category": "world",
-      "headline": "SpaceX's Starship aces first return to Texas",
-      "summary": "Key points: CNA Latest reports that SpaceX's Starship aces first return to Texas.",
+      "headline": "Microsoft announces service ‘restored,’ global outage over",
+      "summary": "Key points: Tech giant Microsoft said yesterday it has “restored service” to customers, effec...",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-15T05:42:38+08:00",
+      "published_at": "2026-11-15T09:20:48+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/11/15/microsoft-announces-service-restored-global-outage-over/243305",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-15-at-34-kerk-becomes-melaka-s-youngest-winner-as-ab-rauf-65-prevails",
+      "category": "malaysia",
+      "headline": "At 34, Kerk becomes Melaka’s youngest winner as Ab Rauf, 65, prevails",
+      "summary": "Key points: KUALA LUMPUR, Nov 15 — Pakatan Harapan (PH) candidate Kerk Chee Yee, 34, emerged as the youngest winner in the 16t...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-15T09:08:38+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/15/at-34-kerk-becomes-melakas-youngest-winner-as-ab-rauf-65-prevails/243303",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-15-health-ministry-reassures-patients-after-cyber-breach-targets-file-sharing-platfor",
+      "category": "malaysia",
+      "headline": "Health Ministry reassures patients after cyber breach targets file-sharing platform",
+      "summary": "Key points: KUALA LUMPUR, Nov 15 — All major operational systems, as well as the Ministry of Health’s (MOH) healthcare a...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-15T08:52:59+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/15/health-ministry-reassures-patients-after-cyber-breach-targets-file-sharing-platform/243301",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-15-filipino-singer-carmelle-wins-inaugural-eurovision-asia-song-contest-in-bangkok",
+      "category": "world",
+      "headline": "Filipino singer Carmelle wins inaugural Eurovision Asia Song Contest in Bangkok",
+      "summary": "Key points: The 19-year-old singer made history with her empowering dance-pop anthem Sobra-Sobra, beating 10 other acts to claim the top prize at the contest’s first Asian edition on Saturday (Nov 14).",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-15T07:51:31+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/spacexs-starship-aces-first-return-texas-6552211",
+          "url": "https://www.channelnewsasia.com/entertainment/eurovision-asia-song-contest-6552346",
           "publisher_type": "news"
         },
         {
@@ -25,6 +105,66 @@
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
           "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-15-lethal-autonomous-weapons-why-the-un-is-scrambling-to-regulate-killer-robots",
+      "category": "world",
+      "headline": "Lethal autonomous weapons: Why the UN is scrambling to regulate ‘killer robots’",
+      "summary": "Key points: Lethal autonomous weapons powered by artificial intelligence are set to revolutionise warfare but...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-15T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/11/15/lethal-autonomous-weapons-why-the-un-is-scrambling-to-regulate-killer-robots/243249",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-15-melaka-fallout-three-key-takeaways-from-bn-pn-s-commanding-win",
+      "category": "malaysia",
+      "headline": "Melaka fallout: Three key takeaways from BN-PN’s commanding win",
+      "summary": "Key points: KUALA LUMPUR, Nov 15 — Barisan Nasional (BN) and Perikatan Nasional (PN) captured 24 of Melaka’s 28 seats in...",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-15T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail Malaysia",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/15/three-key-takeaways-from-bn-pns-commanding-melaka-victory/243299",
+          "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-15-will-a-un-genocide-verdict-stop-asean-from-welcoming-myanmar-back",
+      "category": "world",
+      "headline": "Will a UN genocide verdict stop Asean from welcoming Myanmar back?",
+      "summary": "Key points: Myanmar faces a pivotal week as neighbouring nations weigh the future of post-coup relations, whi...",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-15T07:00:00+08:00",
+      "source_links": [
+        {
+          "name": "Malay Mail World",
+          "url": "https://www.malaymail.com/news/world/2026/11/15/will-a-un-genocide-verdict-stop-asean-from-welcoming-myanmar-back/243251",
+          "publisher_type": "news"
         }
       ],
       "topics": [
@@ -65,6 +205,36 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/11/14/zahid-confirms-ab-rauf-as-melaka-cm-after-bn-pn-supermajority-win/243294",
           "publisher_type": "news"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-14-ph-routed-in-melaka-retains-just-four-seats-the-edge-malaysia",
+      "category": "malaysia",
+      "headline": "PH routed in Melaka, retains just four seats - The Edge Malaysia",
+      "summary": "Key points: PH routed in Melaka, retains just four seats The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-14T21:44:08+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IY0NWZmRhYXJ4ZTNYWDRBRHE4WlVkS0IwdldvcjhHS243bmloZ21ra3kxa2E1bHZSTUxOb3NQd2ZzdW51cFlXcEJwUjJjcHZE?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
         }
       ],
       "topics": [
@@ -966,36 +1136,6 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-14-nvidia-said-to-approach-arm-ceo-haas-as-employees-seek-jensen-huang-s-return-the-e",
-      "category": "malaysia",
-      "headline": "Nvidia said to approach Arm CEO Haas as employees seek Jensen Huang's return - The Edge Malaysia",
-      "summary": "Key points: Nvidia said to approach Arm CEO Haas as employees seek Jensen Huang's return The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-14T13:12:10+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iSG9uNV9QUlN1STN3NnhYcEZkOXBxeXVidThmLU9vVFZfZnRtRHlyS2poWnFpN00weWhmRGFaYmt0bE1MaU1fOHlyc29KenBj?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
       "id": "2026-11-14-melaka-turnout-hits-40-32pc-by-noon-serkam-leads-the-way",
       "category": "malaysia",
       "headline": "Melaka turnout hits 40.32pc by noon, Serkam leads the way",
@@ -1046,146 +1186,6 @@
         {
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/11/14/mcmc-to-expand-internet-user-experience-data-collection-initiative-nationwide/243231",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-14-oppression-must-not-be-justified-fadhlina-hits-back-at-hadi-s-remarks",
-      "category": "malaysia",
-      "headline": "‘Oppression must not be justified’: Fadhlina hits back at Hadi’s remarks",
-      "summary": "Key points: KUALA LUMPUR, Nov 14 — Justifying the oppression perpetrated by a particular leadership based on religious sentime...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-14T12:30:32+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/14/oppression-must-not-be-justified-fadhlina-hits-back-at-hadis-remarks/243229",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-14-melaka-polls-police-to-step-up-security-at-hotspots-to-maintain-public-order",
-      "category": "malaysia",
-      "headline": "Melaka polls: Police to step up security at hotspots to maintain public order",
-      "summary": "Key points: Melaka police will step up security at several locations identified as hotspots, including Seri B...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-14T12:24:11+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/14/melaka-polls-police-to-step-up-security-at-hotspots-to-maintain-public-order/243228",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-14-could-barely-sleep-couple-who-have-voted-in-eight-state-elections-arrive-early-for",
-      "category": "malaysia",
-      "headline": "‘Could barely sleep’: Couple who have voted in eight state elections arrive early for ninth Melaka polls",
-      "summary": "Key points: ALOR GAJAH, Nov 14 — Not wanting to miss an early start to polling day, married couple Lew Chee Phin and Tan Siw C...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-14T12:11:17+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/14/could-barely-sleep-couple-who-have-voted-in-eight-state-elections-arrive-early-for-ninth-melaka-polls/243227",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-14-no-snoozing-gen-z-melaka-first-time-voter-spends-rm700-to-fly-home",
-      "category": "malaysia",
-      "headline": "No snoozing, Gen Z! Melaka first-time voter spends RM700 to fly home",
-      "summary": "Key points: A first-time voter flew all the way from Sarawak to Melaka, spending RM700 on return tickets just...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-14T12:07:29+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/14/no-snoozing-gen-z-melaka-first-time-voter-spends-rm700-to-fly-home/243226",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-14-jalur-gemilang-on-his-wheelchair-70-year-old-defies-hip-injury-to-cast-ballot-in-m",
-      "category": "malaysia",
-      "headline": "Jalur Gemilang on his wheelchair: 70-year-old defies hip injury to cast ballot in Melaka",
-      "summary": "Key points: A hip injury that left him unable to stand did little to dampen the determination of a 70-year-ol...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-14T12:05:56+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/14/jalur-gemilang-on-his-wheelchair-70-year-old-defies-hip-injury-to-cast-ballot-in-melaka/243225",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-14-twin-sisters-with-dwarfism-cast-their-vote-hope-new-melaka-govt-prioritises-pwd-we",
-      "category": "malaysia",
-      "headline": "Twin sisters with dwarfism cast their vote, hope new Melaka govt prioritises PwD welfare",
-      "summary": "Key points: Physical disabilities did not deter a 63-year-old pair of twin sisters with dwarfism from turning...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-14T11:59:25+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/14/twin-sisters-with-dwarfism-cast-their-vote-hope-new-melaka-govt-prioritises-pwd-welfare/243224",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-14-melaka-polls-serkam-leads-turnout-as-34-28pc-vote-by-11-30am",
-      "category": "malaysia",
-      "headline": "Melaka polls: Serkam leads turnout as 34.28pc vote by 11.30am",
-      "summary": "Key points: More than three in every 10 ordinary voters in the Melaka state election had voted by 11.30am tod...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-14T11:49:06+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/14/melaka-polls-serkam-leads-turnout-as-3428pc-vote-by-1130am/243223",
           "publisher_type": "news"
         }
       ],
