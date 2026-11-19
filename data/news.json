@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-19T09:49:53+08:00",
+  "generated_at": "2026-11-19T17:53:20+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-11-19-arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents",
+      "id": "2026-11-19-5-changes-for-australia-as-they-take-on-wales",
       "category": "world",
-      "headline": "Arizona says it is investigating OpenAI, other firms over possible rogue agents",
-      "summary": "Key points: CNA Latest reports that Arizona says it is investigating OpenAI, other firms over possible rogue agents.",
+      "headline": "5 changes for Australia as they take on Wales",
+      "summary": "Key points: CNA Latest reports that 5 changes for Australia as they take on Wales.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-19T09:36:31+08:00",
+      "published_at": "2026-11-19T17:28:26+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/arizona-says-it-investigating-openai-other-firms-over-possible-rogue-agents-6564291",
+          "url": "https://www.channelnewsasia.com/sport/5-changes-australia-they-take-wales-6565516",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-19-zetrix-ai-says-it-will-only-pay-rm2-mil-dividend-to-macquarie-if-court-recognises-",
+      "category": "malaysia",
+      "headline": "Zetrix AI says it will only pay RM2 mil dividend to Macquarie if court recognises its entitlement - The Edge Malaysia",
+      "summary": "Key points: Zetrix AI says it will only pay RM2 mil dividend to Macquarie if court recognises its entitlement The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-19T13:55:08+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TRm1KZElNMHZIQy1vRnViMlhpWUVrbXdpYkZGcmd2Rm5tZVFxS2I3U1lKZm5tZmUtWlZMc045Q05NMGpTOGpWQ3FwM2hYd3gz?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -115,36 +145,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/11/18/peoplelogys-leaders-conference-rallies-corporate-malaysia-to-put-people-first-in-ai-push-as-ex-hrd-corp-chief-warns-against-cutting-training/243815",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-18-inari-amertron-hong-leong-industries-guan-chong-kossan-uem-sunrise-hume-cement-spo",
-      "category": "malaysia",
-      "headline": "Inari Amertron, Hong Leong Industries, Guan Chong, Kossan, UEM Sunrise, Hume Cement, Sports Toto, Dutch Lady, VSTECs, TSH Resource",
-      "summary": "Key points: Inari Amertron, Hong Leong Industries, Guan Chong, Kossan, UEM Sunrise, Hume Cement, Sports Toto, Dutch Lady, VSTECs, TSH Resources, Bintulu Port, PMCK, Chin Hin, Northern Solar, United Malacca The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-18T22:55:35+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmdFdWa05EWjVjejUxZFJxZkt5dkwwLVZLYXNJZkp3Q1MyQzhOLWNrM2hOTjdSTkROSjBrOUN5R0d3b2lIOThULTgxREsySkEx?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
