@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-20T09:02:00+08:00",
+  "generated_at": "2026-11-20T17:40:25+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-11-20-analysis-boj-s-ambiguity-on-rate-hike-path-could-tempt-yen-bears",
-      "category": "markets_investment",
-      "headline": "Analysis:BOJ's ambiguity on rate hike path could tempt yen bears",
-      "summary": "Key points: CNA Latest reports that Analysis:BOJ's ambiguity on rate hike path could tempt yen bears.",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-11-20T08:47:19+08:00",
+      "id": "2026-11-20-ecb-s-lagarde-cyber-threat-boosted-by-ai-is-my-top-worry",
+      "category": "world",
+      "headline": "ECB's Lagarde: cyber threat boosted by AI is my top worry",
+      "summary": "Key points: CNA Latest reports that ECB's Lagarde: cyber threat boosted by AI is my top worry.",
+      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
+      "published_at": "2026-11-20T17:30:25+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/business/analysisbojs-ambiguity-rate-hike-path-could-tempt-yen-bears-6567736",
+          "url": "https://www.channelnewsasia.com/business/ecbs-lagarde-cyber-threat-boosted-ai-my-top-worry-6568936",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-20-malaysia-klci-now-at-15-month-lows-tech-stocks-resume-descent-the-edge-malaysia",
+      "category": "malaysia",
+      "headline": "Malaysia KLCI now at 15-month lows, tech stocks resume descent - The Edge Malaysia",
+      "summary": "Key points: Malaysia KLCI now at 15-month lows, tech stocks resume descent The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-20T09:50:23+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0ZVJlWXRWdUU4ZF9uNWtjSEpvZmNLZmRvdDMxZkNva0dDWmdjenNvV3pxWFJzei1iaVB0VWtxNGVva2hmcVlQRjNjRDVfaHNo?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -74,16 +104,16 @@
       "confidence": "reported_unconfirmed"
     },
     {
-      "id": "2026-11-20-malaysia-draws-rm9-2-bln-in-indicative-investment-proposals-from-china-anwar-berna",
+      "id": "2026-11-20-bursa-malaysia-slightly-lower-at-midday-amid-choppy-regional-markets-bernama",
       "category": "malaysia",
-      "headline": "Malaysia Draws RM9.2 Bln In Indicative Investment Proposals From China - Anwar - Bernama",
-      "summary": "Key points: Malaysia Draws RM9.2 Bln In Indicative Investment Proposals From China - Anwar Bernama",
+      "headline": "Bursa Malaysia Slightly Lower At Midday Amid Choppy Regional Markets - bernama",
+      "summary": "Key points: Bursa Malaysia Slightly Lower At Midday Amid Choppy Regional Markets bernama",
       "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-20T02:12:07+08:00",
+      "published_at": "2026-11-20T04:24:11+08:00",
       "source_links": [
         {
           "name": "BERNAMA via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44d3FWQ2p6MGFwT2FpLUdHRUJYZnBmT3l4b1NNekE4aVAyMFY0bl9ic0hvc0d0M0NFblNic0wxTWVTZjlJckdRRUNIR2hMTkgycVFtMzU3Q2V5Zw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxMG9vN3I5R2dIckpTTDBsTTFObjNmMTYzN0FQYzZLYk5VelRvTU9XbVVLdGUtNlBsMmIzRTExdHN0ejNOa0FzZEtUaEtzRFRxR3d4aFJ3QmFYMnFQelRtald4TQ?oc=5",
           "publisher_type": "news"
         },
         {
@@ -99,41 +129,11 @@
       ],
       "topics": [
         "malaysia",
-        "anwar",
-        "investment",
-        "china"
+        "bursa",
+        "market",
+        "markets"
       ],
       "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-20-zetrix-ai-petronas-gas-sunway-healthcare-sunway-construction-celcomdigi-malayan-ce",
-      "category": "markets_investment",
-      "headline": "Zetrix AI, PETRONAS Gas, Sunway Healthcare, Sunway Construction, CelcomDigi, Malayan Cement, Magnum, YTL Corp, YTL Power, Tropican",
-      "summary": "Key points: Zetrix AI, PETRONAS Gas, Sunway Healthcare, Sunway Construction, CelcomDigi, Malayan Cement, Magnum, YTL Corp, YTL Power, Tropicana, Hap Seng, Guan Chong, Big Caring, Signature Alliance The Edge Malaysia",
-      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
-      "published_at": "2026-11-20T00:30:02+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZbjBvY0ZMaVZ4OWI1LWZtWmNfamhoclVIMnRrZGpMeGQ5QzdXSUozZlpRSmRacGYwTEZVSU1GTC1DLXY2N3E0MmhYUDBFWkhk?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 4,
       "confidence": "reported_unconfirmed"
     },
     {
