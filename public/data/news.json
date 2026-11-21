@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-21T08:37:05+08:00",
+  "generated_at": "2026-11-21T15:58:41+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-11-21-grand-theft-auto-vi-sets-record-with-us-3-79-billion-in-first-day-retail-sales-roc",
-      "category": "world",
-      "headline": "Grand Theft Auto VI sets record with US$3.79 billion in first-day retail sales, Rockstar Games reports",
-      "summary": "Key points: It is the first new GTA game in 13 years,",
-      "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-21T08:23:59+08:00",
+      "id": "2026-11-21-indonesia-fines-and-sanctions-firms-for-stock-manipulation-disclosure-failures",
+      "category": "markets_investment",
+      "headline": "Indonesia fines and sanctions firms for stock manipulation, disclosure failures",
+      "summary": "Key points: This comes amid efforts by Indonesia to strengthen enforcement, bolster market integrity and protect investors.",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-11-21T14:59:43+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/entertainment/gta-6-first-day-sales-6570891",
+          "url": "https://www.channelnewsasia.com/asia/indonesia-financial-services-authority-ojk-capital-market-violations-6571336",
           "publisher_type": "news"
         },
         {
@@ -31,6 +31,36 @@
         "latest update"
       ],
       "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-21-new-us-policy-risk-a-dampener-on-malaysia-s-ai-ambitions-the-edge-malaysia",
+      "category": "malaysia",
+      "headline": "New US policy risk a dampener on Malaysia’s AI ambitions - The Edge Malaysia",
+      "summary": "Key points: New US policy risk a dampener on Malaysia’s AI ambitions The Edge Malaysia",
+      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
+      "published_at": "2026-11-21T08:45:03+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UWWYzR3dUUHcybF9aNTM1VkhCUWliaGhPYkxnb2R1QnJqNVdBenNJZDVoc0RnZnRHZlhqMU1pazZrTWFmZm5ITEM5bkk1b0NZ?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 3,
       "confidence": "reported_unconfirmed"
     },
     {
@@ -608,36 +638,6 @@
           "name": "Malay Mail Malaysia",
           "url": "https://www.malaymail.com/news/malaysia/2026/11/20/putrajayas-plan-for-rohingya-refugees-train-10000-in-skills-resettle-them-in-turkiye/244081",
           "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-20-ytl-data-centre-used-to-provide-alibaba-remote-access-to-nvidia-chips-nyt-report-a",
-      "category": "malaysia",
-      "headline": "YTL data centre used to provide Alibaba remote access to Nvidia chips, NYT report alleges; analysts remain bullish on YTL Power af",
-      "summary": "Key points: YTL data centre used to provide Alibaba remote access to Nvidia chips, NYT report alleges; analysts remain bullish on YTL Power after being told by management it is not under investigation The Edge Malaysia",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-20T15:33:04+08:00",
-      "source_links": [
-        {
-          "name": "The Edge Malaysia via Google News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16b1NicWNBYjBXdFdiRW9kMG1NeDZSNkxFb1Etd2VfZzJ3QzNndEEzUWRNNUdMbGx2QU1mdWdleHBzTk9Na3NLOGtLUnBZM2tz?oc=5",
-          "publisher_type": "news"
-        },
-        {
-          "name": "X The Edge Malaysia",
-          "url": "https://x.com/theedgemalaysia",
-          "publisher_type": "social"
-        },
-        {
-          "name": "Facebook The Edge Malaysia",
-          "url": "https://www.facebook.com/theedgemalaysia",
-          "publisher_type": "social"
         }
       ],
       "topics": [
