@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-23T02:13:03+08:00",
+  "generated_at": "2026-11-23T07:58:48+08:00",
   "timezone": "Asia/Kuala_Lumpur",
   "refresh_interval_hours": 4,
   "stories": [
     {
-      "id": "2026-11-23-hull-s-jakirovic-hails-team-effort-after-first-win-since-august",
+      "id": "2026-11-23-atletico-boss-simeone-surpasses-aragones-with-record-345th-laliga-win",
       "category": "world",
-      "headline": "Hull's Jakirovic hails team effort after first win since August",
-      "summary": "Key points: CNA Latest reports that Hull's Jakirovic hails team effort after first win since August.",
+      "headline": "Atletico boss Simeone surpasses Aragones with record 345th LaLiga win",
+      "summary": "Key points: CNA Latest reports that Atletico boss Simeone surpasses Aragones with record 345th LaLiga win.",
       "why_it_matters": "This is a global or regional development that may affect risk appetite, trade, energy, technology or geopolitics.",
-      "published_at": "2026-11-23T01:31:44+08:00",
+      "published_at": "2026-11-23T07:25:51+08:00",
       "source_links": [
         {
           "name": "CNA Latest",
-          "url": "https://www.channelnewsasia.com/sport/hulls-jakirovic-hails-team-effort-after-first-win-august-6573191",
+          "url": "https://www.channelnewsasia.com/sport/atletico-boss-simeone-surpasses-aragones-record-345th-laliga-win-6573471",
           "publisher_type": "news"
         },
         {
@@ -24,6 +24,36 @@
         {
           "name": "Facebook Channel NewsAsia",
           "url": "https://www.facebook.com/ChannelNewsAsia",
+          "publisher_type": "social"
+        }
+      ],
+      "topics": [
+        "latest update"
+      ],
+      "importance": 4,
+      "confidence": "reported_unconfirmed"
+    },
+    {
+      "id": "2026-11-22-malaysia-s-inflation-seen-rising-marginally-to-2-0-in-2027-apex-securities-the-edg",
+      "category": "markets_investment",
+      "headline": "Malaysia's inflation seen rising marginally to 2.0% in 2027 — Apex Securities - The Edge Malaysia",
+      "summary": "Key points: Malaysia's inflation seen rising marginally to 2.0% in 2027 — Apex Securities The Edge Malaysia",
+      "why_it_matters": "This can influence markets, currency, rates, corporate earnings or investor positioning.",
+      "published_at": "2026-11-22T10:12:43+08:00",
+      "source_links": [
+        {
+          "name": "The Edge Malaysia via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jMmd0dGhYcEZfWGJ6UkhQWXNLM3FEUmpHSHlTZzBFdW1kazhZNnF6V1dWMTFUYU9SY3N3R0FBelNPWkwzc0xULW1KeVZXNjkw?oc=5",
+          "publisher_type": "news"
+        },
+        {
+          "name": "X The Edge Malaysia",
+          "url": "https://x.com/theedgemalaysia",
+          "publisher_type": "social"
+        },
+        {
+          "name": "Facebook The Edge Malaysia",
+          "url": "https://www.facebook.com/theedgemalaysia",
           "publisher_type": "social"
         }
       ],
@@ -1200,26 +1230,6 @@
         "latest update"
       ],
       "importance": 4,
-      "confidence": "reported_unconfirmed"
-    },
-    {
-      "id": "2026-11-20-man-who-posed-as-selangor-royal-aide-gets-27-more-months-jail-two-strokes-of-cane-",
-      "category": "malaysia",
-      "headline": "Man who posed as Selangor royal aide gets 27 more months’ jail, two strokes of cane for vehicle scam",
-      "summary": "Key points: SHAH ALAM, Nov 20 — A man who impersonated an Aide-de-Camp (ADC) to the Raja Muda of Selangor and had been sentenced to...",
-      "why_it_matters": "This is a Malaysia-focused development that can affect policy, public services, business conditions or local sentiment.",
-      "published_at": "2026-11-20T18:05:00+08:00",
-      "source_links": [
-        {
-          "name": "Malay Mail Malaysia",
-          "url": "https://www.malaymail.com/news/malaysia/2026/11/20/man-who-posed-as-selangor-royal-aide-gets-27-more-months-jail-two-strokes-of-cane-for-vehicle-scam/244122",
-          "publisher_type": "news"
-        }
-      ],
-      "topics": [
-        "latest update"
-      ],
-      "importance": 3,
       "confidence": "reported_unconfirmed"
     }
   ]
